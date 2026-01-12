@@ -1,0 +1,43 @@
+{{ define "main" }}
+<div class="trips-list">
+  <h1>All Trips</h1>
+
+  <div class="trips-grid">
+    {{ range .Pages }}
+      <article class="trip-card">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+        {{ with .Params.start_date }}
+          <div class="trip-dates">
+            {{ dateFormat "January 2006" . }}
+            {{ with $.Params.end_date }}
+              - {{ dateFormat "January 2006" . }}
+            {{ end }}
+          </div>
+        {{ end }}
+
+        {{ with .Params.countries }}
+          <div class="trip-countries">
+            {{ range . }}
+              <span class="country-tag">{{ . }}</span>
+            {{ end }}
+          </div>
+        {{ end }}
+
+        {{ with .Params.stats }}
+          <div class="trip-stats">
+            {{ with .entries }}{{ . }} entries{{ end }}
+            {{ with .photos }} • {{ . }} photos{{ end }}
+          </div>
+        {{ end }}
+
+        {{ with .Summary }}
+          <p>{{ . }}</p>
+        {{ end }}
+
+        <a href="{{ .Permalink }}" class="read-more">View Trip →</a>
+      </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

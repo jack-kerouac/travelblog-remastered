@@ -1,0 +1,172 @@
+---
+title: "Chaos Canyon"
+date: 2013-09-01T00:00:00
+draft: false
+location:
+  - "North America"
+  - "United States"
+  - "Colorado"
+  - "Rocky Mountains"
+trip_slug: "climbing-western-usa-2013"
+original_url: "https://www.travelblog.org/north-america/united-states/colorado/rocky-mountains/blog-804993"
+images:
+  - filename: "7701197-upper-chaos-canyon-0.jpg"
+    title: "Upper Chaos Canyon"
+    description: "V2 Highball"
+  - filename: "7689013-weg-zu-unserem-wildcampingplatz-0.jpg"
+    title: "Weg zu unserem Wildcampingplatz"
+    description: "im National Forest"
+  - filename: "7689003-hamburglar-v8-in-wild-basin-0.jpg"
+    title: "Hamburglar (V8) in Wild Basin"
+    description: "noch nicht geklettert"
+  - filename: "7689012-wir-kochen-meist-nachts-0.jpg"
+    title: "wir kochen meist nachts"
+    description: "weil wir zu lange beim Bouldern sind"
+  - filename: "7728533-wasser-sterilisieren-auf-dem-weg-zum-chaos-canyon-0.jpg"
+    title: "Wasser sterilisieren auf dem Weg zum Chaos Canyon"
+  - filename: "7688993-frieder-in-melissas-neu-entdecktem-boulder-0.jpg"
+    title: "Frieder in Melissas neu entdecktem Boulder"
+  - filename: "7688995-peter-in-seinem-neu-entdeckten-boulder-0.jpg"
+    title: "Peter in seinem neu entdeckten Boulder"
+  - filename: "7688997-melissa-zieht-hart-0.jpg"
+    title: "Melissa zieht hart"
+  - filename: "7688998-frieder-baut-sich-ein-sog-kneepad-0.jpg"
+    title: "Frieder baut sich ein sog. Kneepad"
+    description: "damit kann man sein Knie in einen Felsvorsprung einklemmen, ohne dass die Haut größeren Schaden nimmt"
+  - filename: "7688999-frieder-in-riddles-of-the-dark-v10--upper-chaos-canyon-0.jpg"
+    title: "Frieder in Riddles of the Dark (v10), Upper Chaos Canyon"
+    description: "zusammen mit Tommy Caldwell erarbeitet"
+  - filename: "7689000-schl-sselzug-von-skipper-d-v8-0.jpg"
+    title: "Schlüsselzug von Skipper D (V8)"
+  - filename: "7728535-neuer-versuch-am-n-chsten-tag-im-upper-chaos-canyon-0.jpg"
+    title: "neuer Versuch am nächsten Tag im Upper Chaos Canyon"
+  - filename: "7728534-ausstieg-von-skipper-d-geschafft-0.jpg"
+    title: "Ausstieg von Skipper D, geschafft!"
+  - filename: "7701198-wir-chillen-unter--skipper-d-0.jpg"
+    title: "wir chillen unter \"Skipper D\""
+  - filename: "7689001-fred-und-die-pads-0.jpg"
+    title: "Fred und die Pads"
+  - filename: "7689002-peter-in-el-jorge-right-v8-0.jpg"
+    title: "Peter in El Jorge Right (V8)"
+  - filename: "7689004-privy-toilet-in-wild-basin-0.jpg"
+    title: "Privy toilet in Wild Basin"
+    description: "recht minimalistisch"
+  - filename: "7689006-st-ckchenschlacht-0.jpg"
+    title: "Stöckchenschlacht"
+  - filename: "7689007-peter-gut-drauf-0.jpg"
+    title: "Peter gut drauf"
+  - filename: "7689010-tommy-s-arete-v7--lower-chaos-canyon-0.jpg"
+    title: "Tommy's Arete (V7), Lower Chaos Canyon"
+  - filename: "7689008-lake-haiyaha-0.jpg"
+    title: "Lake Haiyaha"
+  - filename: "7689009-der-long-s-peak-im-letzten-licht-des-tages-0.jpg"
+    title: "der Long's Peak im letzten Licht des Tages"
+  - filename: "7728539-abschied-von-melissa-0.jpg"
+    title: "Abschied von Melissa"
+  - filename: "7689011-der-lange-weg-vom-chaos-canyon-zur-ck-0.jpg"
+    title: "der lange Weg vom Chaos Canyon zurück"
+    description: "mit dem Hallett's Peak im Hintergrund"
+  - filename: "7701200-abendstimmung-am-longs-peak-0.jpg"
+    title: "Abendstimmung am Longs Peak"
+  - filename: "7728536-v5-in-moraine-park-0.jpg"
+    title: "v5 in Moraine Park"
+  - filename: "7728537-frieders-fu--zuerst-boulder-0.jpg"
+    title: "Frieders Fuß-zuerst-Boulder"
+  - filename: "7728538-und-zur-ck-0.jpg"
+    title: "und zurück"
+  - filename: "7728540-barbecue-0.jpg"
+    title: "Barbecue!"
+  - filename: "7701201-rehe-auf-unserem-campingplatz-0.jpg"
+    title: "Rehe auf unserem Campingplatz"
+  - filename: "7728530-kochen-bei-regen-0.jpg"
+    title: "Kochen bei Regen"
+  - filename: "7728531-burger-0.jpg"
+    title: "Burger!"
+  - filename: "7728532-eines-der-vielen-gewitter-im-rmnp-0.jpg"
+    title: "eines der vielen Gewitter im RMNP"
+  - filename: "7701202-fr-hst-ck-nachts-um-2-uhr-0.jpg"
+    title: "Frühstück nachts um 2 Uhr"
+  - filename: "7701204-ca-um-5-uhr-an-der-keyhole-route-zum-long-s-peak-0.jpg"
+    title: "ca. um 5 Uhr an der Keyhole Route zum Long's Peak"
+  - filename: "7701205-frieder-christoph-chrissi-und-piet-vor-dem-keyhole-0.jpg"
+    title: "Frieder, Christoph, Chrissi und Piet vor dem Keyhole"
+  - filename: "7701207-die-sonne-geht-auf-im-rmnp-0.jpg"
+    title: "Die Sonne geht auf im RMNP"
+  - filename: "7701208-frieder-auf-ausschau-0.jpg"
+    title: "Frieder auf Ausschau"
+  - filename: "7701210-on-top-0.jpg"
+    title: "on top!"
+  - filename: "7701211-feldtoiletten-am-campingplatz-0.jpg"
+    title: "Feldtoiletten am Campingplatz"
+    description: "am Fuße des Keyholes"
+  - filename: "7701213-christoph-boulder--the-kind--v5-0.jpg"
+    title: "Christoph boulder \"The Kind\" (V5)"
+  - filename: "7701214-guten-morgen-0.jpg"
+    title: "Guten Morgen!"
+  - filename: "7701215-frieder-bei-seinem-letzten-abschlag-0.jpg"
+    title: "Frieder bei seinem letzten Abschlag"
+  - filename: "7701217-wir-versuchen-frieders-zeug-aus-unserem-rauszupacken-0.jpg"
+    title: "wir versuchen Frieders Zeug aus unserem rauszupacken"
+  - filename: "7701218-ein-letztes-spiel-bohnanza-mit-frieder-0.jpg"
+    title: "ein letztes Spiel Bohnanza mit Frieder"
+  - filename: "7701219-am-flughafen-0.jpg"
+    title: "am Flughafen"
+    description: "Goodbye Frieder!"
+  - filename: "7701220-abends-im-dark-horse-0.jpg"
+    title: "Abends im Dark Horse"
+  - filename: "7701221-chrissi-und-piet-0.jpg"
+    title: "Chrissi und Piet"
+  - filename: "7728541-auf-den-zweiten-flatiron-0.jpg"
+    title: "auf den zweiten Flatiron"
+  - filename: "7728542-boulder-unter-uns-0.jpg"
+    title: "Boulder unter uns"
+  - filename: "7728543-no-shooting-auf-unserem-campground-0.jpg"
+    title: "No Shooting auf unserem Campground!"
+  - filename: "7728545-tausche-neu-gegen-alt-bei-rei-0.jpg"
+    title: "tausche neu gegen alt, bei REI"
+    description: "auch: \"Return and Exchange Inc.\""
+  - filename: "7728546-briefk-sten-0.jpg"
+    title: "Briefkästen"
+  - filename: "7728548-endo-valley-0.jpg"
+    title: "Endo Valley"
+  - filename: "7728547-endo-valley--the-portal-0.jpg"
+    title: "Endo Valley - The Portal"
+  - filename: "7728549-boulder-in-endo-valley-0.jpg"
+    title: "Boulder in Endo Valley"
+    description: "v6?"
+  - filename: "7728550-oh-nooo-0.jpg"
+    title: "oh nooo"
+  - filename: "7728551-ruff-0.jpg"
+    title: "ruff"
+  - filename: "7728552-longhorn-sheep-0.jpg"
+    title: "Longhorn sheep"
+  - filename: "7728553-und-nochmal-auf-der-trail-ridge-road-0.jpg"
+    title: "Und nochmal auf der Trail Ridge Road"
+---
+
+Zurück in unserem Basecamp Boulder übernachteten wir wieder eine Nacht bei Kurt und Kyrill und quälten uns am nächsten morgen um sechs Uhr aus dem Bett um bem [REI Garage Sale](http://www.rei.com/promotions/garage-sale) Schnäppchen abzustauben. Darunter für mich ein Zwei-Mann-Zelt und eine Daunenjacke für meinen Bruder Christoph. Dieser hat nämlich einen Job gefunden und als direkt nächsten Schritt einen Flug nach Denver gebucht um uns zuvor noch zu besuchen.   
+  
+Die nächsten Boulder-Tage verbrachten wir in einem südlichen Sektor des Rocky Mountain National Parks namens "Wild Basin". Die Boulderprobleme hier sind so neu, dass sie in unserem Kletterführer gar nicht auftauchen und wir nur über Mund-zu-Mund-Propaganda davon erfahren haben. Der Zustieg gestaltet sich hier auch recht flach und mit 25 Minuten recht kurz. Mit "Mini Dagger" gelang mir hier auch eine v7, wenngleich eher eine einfache.   
+  
+Am nächsten Tag saß ich allerdings beim Zahnarzt Dr. Kauk in Estes Park auf dem Stuhl, Zahnwurzelentzündung. Zum vierten (!) Mal habe ich es geschafft in einem Urlaub Zahnschmerzen zu bekommen. Amoxicillin löst das Problem.   
+  
+Am Abend darauf holen Piet und ich einen etwas übernächtigten aber sehr gut gelaunten Christoph in Denver am Flughafen ab. Er stößt zur zur Horde. [And the wulfpack grew by one](https://www&/#46;youtube&%!;\(MISSING\)com/watch?v=YgTssbfJu3Y). Nun waren wir also zu fünft.   
+  
+Die Tage darauf lief es beim Bouldern fantastisch. Mein längeres Project an kleinen Leisten namens "Potatoe Chip" (v7) im Lower Chaos Canyon fiel, ebenso wie "Tommy's Arete" (v7). Letzteres Boulderproblem war eines der ersten im Rocky Mountain NP und von Tommy Caldwell, Boulderer und Big-Wall-Kletterer erstbegangen. Tommy hat als erster und einziger Mann der Welt bisher geschafft, die 1000m-Tour "The Nose" am El Capitan im Yosemite frei zu klettern. Eben jenen trafen wir einige Tage später im Upper Chaos Canyon, wo er auf einmal mit einem Riesen-Crashpad auf dem Rücken da stand und mit Frieder zusammen sein Projekt versucht hat. Super entspannt, witzig und leicht hyperaktiv, ohne jegliche Star-Allüren gab er uns sogar noch eine Führung durch seine Lieblingsboulder im Upper Chaos Canyon. Einige Tage später unterhielten wir uns beim Rückweg vom Upper Chaos Canyon mit [Paul Robinson](http://en.wikipedia.org/wiki/Paul_Robinson_\(climber\)) und dem zwölfjährigen Superstar [Ashima Shiraishi](http://en.wikipedia.org/wiki/Ashima_Shiraishi) , die an diesem Tag "The Automator" (v13) kletterte. Die Stadt Boulder und der nahe RMNP sind ein Hot-Spot für harte Kletterer und die, die es werden wollen.   
+  
+Einige Tage später kletterte ich eine recht schwere v5 im Sektor "Moraine Park", die mir beim ersten Mal nicht gelang und vor allem "Skipper D" im Upper Chaos. Dieser lange, vom verrückten [  
+">Dave Graham](https://www.travelblog.org/admin/blog/%3Cdiv%20class='youtube%20boxed%20text-center'%3E%3Ciframe%20class=) erstbegangene, mit v8 / 7b+ bewertete Boulder durch ein 45° Dach hält als Schlüsselzug einen weiten Schnapper auf einen Zangengriff mit einem rechten Heelhook bereit.   
+  
+Leider machte uns das Wetter hier im Rocky Mountain National Park zu schaffen. Der einsetzende Monsun sorgt für tägliche Gewitter und Regenschauer, wenngleich nie besonders lang. Einen der eher unvergesslichen Abstiege aus dem Upper Chaos Canyon legten wir im tosenden Gewitter zurück. Wir verliefen uns, waren bis auf die Haut nass, aber nach zwei Stunden und einer kurzen Fahrt saßen wir dann doch in Estes Park bei Dominos Pizza und wärmten uns wieder auf.   
+  
+Am 27.8. verließ uns Melissa und Chrissi, die Freundin von Piet bereicherte uns. Das Pärchen zog ins Zweimann-Zelt und Christoph, Frieder und ich waren "just the boys" im großen Zelt.   
+  
+Einige Tage später rafften wir uns auf und standen Nachts um zwei Uhr auf um die lange Wanderung auf den Long's Peak, höchster Gipfel im RMNP in Angriff zu nehmen. Nach dreieinhalb Stunden trafen wir morgens um halb sieben bei wunderbarem rotem Sonnenaufgang auf das Boulderfield das zum markanten "Keyhole" führt. Von dort aus waren es noch einmal zwei Stunden eher Kraxeln als Wandern auf den 4300m hohen Gipfel. Von dort aus hat man einen 360°-Rundblick mit Schnappatmung. Nach einer Stunde Pause mit etwas lätschigen Sandwiches, Müsliriegeln, Äpfeln und Schokolade ging es wieder runter. Doch obwohl wir so früh dran waren holte uns um halb zwei eine halbe Stunde vor dem Auto das tägliche Gewitter ein. Trotz völliger Erschöpfung nach 11 Stunden auf den Füßen und einer schlaflosen Nacht zuvor schleppten wir uns ins Aquatic Center unter die heiße, wiederbelebende Dusche und zum Domino's Pizza für ein Festmahl.   
+  
+Dann verliess uns Frieder. Sein Rückflug geht am 2.9. eineinhalb Monate vor unserem und wir sind wieder zu viert. Es war eine super Zeit mit ihm. Wir haben uns sehr gut kennengelernt und gut verstanden. Mit seiner umkomplizierten und toleranten Art ist er ein Reisepartner wie man ihn sich nicht besser wünschen kann. Seine Brille ging in der dritten Woche unserer Reise kaputt, aber er hat darin nie ein so großes Problem gesehen, als dass er sie hätte reparieren lassen. Für ihn ist Minimalismus im persönlichen Besitztum eines der höchsten Ziele. Zwischenmenschliche Probleme werden fair ausdiskutiert und wenn er einmal mehr als die anderen spült ist das kein Problem. Er lebt tendenziell in den Tag hinein und lässt Dinge auf sich zukommen anstatt alles durchzuplanen. Seine Begeisterung fürs Bouldern ist von uns anderen unerreicht und er kann super motivieren. Seine tausend Spitznamen (Fredbär, Ranger Fred, Fredilicious, Friederus) gab er sich meist selbst. Sein Platz im Auto hinten links ist die "Fred-Cave" und wenn man Dinge im Auto verloren hat standen die Chancen gut, dass sie in der ordnungs-aversen Fred-Cave wiedergefunden wurden.   
+  
+Sein letzter Abend am Wildcampingplatz der Forest Access Road bot uns dann noch ein eher unerfreuliches Spektakel in Form eines aggressiven Nachbarn mit Torett-Syndrom. Wir waren ihm etwas zu lange zu laut und er beschimpfte uns abends aus seinem Zelt und morgens in aller Fruehe lautstark und super aggressiv in unserem Zelt. "I will talk bad to you now and you will enjoy it", "Fuck off, assholes", "Go where you came from, you're not welcome here", "Fuck you", ... Wohlgemerkt, ohne dass wir eine Silbe erwidert haetten. Er war gar nicht mehr zu bremsen. Wir haben den Armen wohl sehr geaergert.   
+  
+Nach einer Vier-Seillaengen-Trad-Tour im Eldorado State Park bei Boulder und einem guten Abend in der Burger-Bar Dark Horse trennten Piet und Chrissi sich von Christoph und mir fuer einige Tage. Christoph und ich bestiegen in dieser Zeit den zweiten Flatiron, einen der markanten Berge ueber Boulder und tranken oben ein Bier. Wir boulderten am Graham Boulder im Boulder Canyon oberhalb von Boulder (boulder boulder boulder boulder). Einen total verregneten Tag sassen wir in einer Hoehle in Wild Basin im RMNP mit unseren Kindles aus. Als weiteres Gebiet schauten wir uns noch Endo Valley im RMNP an, bevor wir Chrissi und Piet in Boulder einige Tage spaeter wieder trafen. Wir verbrachten einige Tage rund um Boulder und am 11.9. wird uns Christoph schon wieder verlassen.   
+  
+Aber vorwaerts, auf gehts mit Piet und Chrissi fuer zwei Wochen Sportklettern in Wyoming. Wild Iris, Tensleep Canyon und Yellowstone NP stehen auf dem Programm!

@@ -1,0 +1,61 @@
+{{ define "main" }}
+<div class="list-page">
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+      <p class="description">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <div class="posts-list">
+    {{ range .Pages }}
+      <article class="post-summary">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div class="post-meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+          {{ with .Params.location }}
+            <span class="location">📍 {{ delimit . " > " }}</span>
+          {{ end }}
+          {{ with .Params.trip }}
+            {{ with $.Site.GetPage (printf "/trips/%s" .) }}
+              <span class="trip-link">
+                🗺️ <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </span>
+            {{ end }}
+          {{ end }}
+        </div>
+
+        {{ with .Params.countries }}
+          <div class="post-countries">
+            {{ range . }}
+              <span class="country-tag">{{ . }}</span>
+            {{ end }}
+          </div>
+        {{ end }}
+
+        {{ with .Summary }}
+          <div class="post-summary-text">
+            {{ . }}
+          </div>
+        {{ end }}
+
+        <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+      </article>
+    {{ end }}
+  </div>
+
+  {{ if or .Paginator.HasPrev .Paginator.HasNext }}
+    <nav class="pagination">
+      {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="prev">← Newer</a>
+      {{ end }}
+      <span class="page-number">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+      {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="next">Older →</a>
+      {{ end }}
+    </nav>
+  {{ end }}
+</div>
+{{ end }}
