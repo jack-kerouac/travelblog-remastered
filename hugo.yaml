@@ -1,0 +1,29 @@
+baseURL: 'https://example.com/'
+languageCode: 'en-us'
+title: 'My Travel Blog'
+
+params:
+  author: 'Florian R.'
+  description: 'Travel adventures around the world'
+
+taxonomies:
+  tag: 'tags'
+  category: 'categories'
+  trip: 'trips'
+
+menu:
+  main:
+    - name: 'Home'
+      url: '/'
+      weight: 1
+    - name: 'All Posts'
+      url: '/posts/'
+      weight: 2
+    - name: 'Trips'
+      url: '/trips/'
+      weight: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

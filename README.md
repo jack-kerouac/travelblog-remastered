@@ -32,7 +32,7 @@ The site will be built to `public/` directory.
 
 ## Customization
 
-- Edit `hugo.toml` to change site settings
+- Edit `hugo.yaml` to change site settings
 - Modify templates in `layouts/`
 - Add custom CSS to `static/css/style.css`
 - Choose a Hugo theme or create your own
