@@ -1,6 +1,5 @@
 ---
 title: "Burma, Thailand 2009"
-type: trips
 start_date: 2009-04-24T00:00:00
 end_date: 2009-06-22T00:00:00
 countries:

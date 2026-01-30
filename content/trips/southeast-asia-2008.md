@@ -1,6 +1,5 @@
 ---
 title: "Asia 2008"
-type: trips
 start_date: 2008-05-19T00:00:00
 end_date: 2008-09-08T00:00:00
 countries:

@@ -1,7 +1,5 @@
 ---
 title: "All Trips"
-type: trips
-layout: list
 ---
 
 # My Travels
