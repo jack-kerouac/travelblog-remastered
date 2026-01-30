@@ -1,0 +1,46 @@
+{{ define "main" }}
+<article>
+    <h2>{{ .Title }}</h2>
+
+    <div class="trip-meta">
+        {{ if .Params.start_date }}
+        <p><strong>Dates:</strong> {{ time.Format "January 2, 2006" .Params.start_date }} - {{ time.Format "January 2, 2006" .Params.end_date }}</p>
+        {{ end }}
+
+        {{ if .Params.countries }}
+        <p><strong>Countries:</strong> {{ delimit .Params.countries ", " }}</p>
+        {{ end }}
+
+        {{ if .Params.continents }}
+        <p><strong>Continents:</strong> {{ delimit .Params.continents ", " }}</p>
+        {{ end }}
+
+        {{ if .Params.stats }}
+        <p><strong>Stats:</strong>
+            {{ .Params.stats.entries }} entries,
+            {{ .Params.stats.words }} words,
+            {{ .Params.stats.photos }} photos
+        </p>
+        {{ end }}
+    </div>
+
+    {{ .Content }}
+
+    {{ if .Params.posts }}
+    <h3>Blog Posts</h3>
+    <ul class="post-list">
+        {{ range .Params.posts }}
+        {{ $post := $.Site.GetPage . }}
+        {{ if $post }}
+        <li>
+            <a href="{{ $post.RelPermalink }}">{{ $post.Title }}</a>
+            <span class="date">{{ $post.Date.Format "January 2, 2006" }}</span>
+        </li>
+        {{ end }}
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    <p><a href="{{ "trips/" | relURL }}">← Back to all trips</a></p>
+</article>
+{{ end }}

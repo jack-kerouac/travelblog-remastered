@@ -1,0 +1,22 @@
+baseURL: https://jack-kerouac.github.io/travelblog-remastered/
+title: Travel Blog Remastered
+languageCode: en-us
+
+# Disable taxonomies (tags, categories) - we don't need them
+disableKinds:
+  - taxonomy
+  - term
+
+# Permalink structure
+permalinks:
+  posts: /posts/:sections[1:]/:contentbasename/
+  trips: /trips/:contentbasename/
+
+# Output formats
+outputs:
+  home:
+    - HTML
+  section:
+    - HTML
+  page:
+    - HTML

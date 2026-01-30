@@ -1,0 +1,50 @@
+{{ define "main" }}
+<article class="post">
+    <h2>{{ .Title }}</h2>
+
+    <div class="post-meta">
+        <p><strong>Date:</strong> {{ .Date.Format "January 2, 2006" }}</p>
+
+        {{ if .Params.location }}
+        <p><strong>Location:</strong> {{ delimit .Params.location " > " }}</p>
+        {{ end }}
+
+        {{ if .Params.original_url }}
+        <p><a href="{{ .Params.original_url }}" target="_blank" rel="noopener">View original post</a></p>
+        {{ end }}
+    </div>
+
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+
+    {{ if .Params.images }}
+    <section class="images">
+        <h3>Photos</h3>
+        <div class="image-gallery">
+            {{ range .Params.images }}
+            <figure>
+                <img src="{{ printf "images/%s/%s" $.Params.trip_slug .filename | relURL }}"
+                     alt="{{ .title }}"
+                     loading="lazy">
+                <figcaption>
+                    <strong>{{ .title }}</strong>
+                    {{ if .description }}
+                    <br>{{ .description }}
+                    {{ end }}
+                </figcaption>
+            </figure>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+
+    {{ $tripSlug := .Params.trip_slug }}
+    {{ if $tripSlug }}
+    {{ $tripPage := $.Site.GetPage (printf "/trips/%s" $tripSlug) }}
+    {{ if $tripPage }}
+    <p><a href="{{ $tripPage.RelPermalink }}">← Back to {{ $tripPage.Title }}</a></p>
+    {{ end }}
+    {{ end }}
+</article>
+{{ end }}
