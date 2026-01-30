@@ -7,6 +7,7 @@ location:
   - "Philippines"
   - "Surigao City"
 trip_slug: "southeast-asia-2008"
+entry_slug: "herzlicher-empfang-in-surigao-city"
 original_url: "https://www.travelblog.org/asia/philippines/surigao-city/blog-309204"
 images:
   - filename: "2677010-der-strand-von-ipil-0.jpg"

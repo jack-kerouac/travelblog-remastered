@@ -8,6 +8,7 @@ location:
   - "West"
   - "Vientiane"
 trip_slug: "southeast-asia-2006"
+entry_slug: "laos-100-jahre-unterschied-zu-thailand"
 original_url: "https://www.travelblog.org/asia/laos/west/vientiane/blog-80319"
 images:
   - filename: "492703-fabian-im-nachtzug-0.jpg"

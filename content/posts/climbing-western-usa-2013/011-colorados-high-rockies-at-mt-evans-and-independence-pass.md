@@ -8,6 +8,7 @@ location:
   - "Colorado"
   - "Aspen"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "colorado-s-high-rockies-at-mt-evans-and-independence-pass"
 original_url: "https://www.travelblog.org/north-america/united-states/colorado/aspen/blog-803235"
 images:
   - filename: "7677714-oben-am-independence-pass-0.jpg"

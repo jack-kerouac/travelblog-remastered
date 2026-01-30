@@ -8,6 +8,7 @@ location:
   - "Wyoming"
   - "Yellowstone National Park"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "back-in-the-us-glacier-and-yellowstone-national-park"
 original_url: "https://www.travelblog.org/north-america/united-states/wyoming/yellowstone-national-park/blog-796372"
 images:
   - filename: "7618075-wilder-b-ffel-im-yellowstone-national-park-0.jpg"

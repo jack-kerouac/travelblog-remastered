@@ -8,6 +8,7 @@ location:
   - "Utah"
   - "Price"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "bouldering-in-joe-s-valley"
 original_url: "https://www.travelblog.org/north-america/united-states/utah/price/blog-780207"
 images:
   - filename: "7477716-frieder-im-bereich--new-joes-0.jpg"

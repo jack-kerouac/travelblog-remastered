@@ -8,6 +8,7 @@ location:
   - "Arequipa"
   - "Arequipa"
 trip_slug: "south-america-2012"
+entry_slug: "climbing-el-misti"
 original_url: "https://www.travelblog.org/south-america/peru/arequipa/arequipa/blog-747202"
 images:
   - filename: "7191178-el-misti--the-old-man-0.jpg"

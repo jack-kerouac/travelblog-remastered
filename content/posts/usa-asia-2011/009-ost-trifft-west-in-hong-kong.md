@@ -6,6 +6,7 @@ location:
   - "Asia"
   - "Hong Kong"
 trip_slug: "usa-asia-2011"
+entry_slug: "ost-trifft-west-in-hong-kong"
 original_url: "https://www.travelblog.org/asia/hong-kong/blog-611917"
 images:
   - filename: "6117750-mit_der_star_ferry_ueber_den_victoria_harbor_nach_hong_kong_island-0.jpg"

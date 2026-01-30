@@ -8,6 +8,7 @@ location:
   - "Cusco"
   - "Machu Picchu"
 trip_slug: "south-america-2012"
+entry_slug: "the-lost-city-of-the-incas"
 original_url: "https://www.travelblog.org/south-america/peru/cusco/machu-picchu/blog-747193"
 images:
   - filename: "7191094-wenn-ich-hier-koenig-gewesen-waere-0.jpg"

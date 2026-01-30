@@ -8,6 +8,7 @@ location:
   - "British Columbia"
   - "Squamish"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "squamish-bouldering"
 original_url: "https://www.travelblog.org/north-america/canada/british-columbia/squamish/blog-793834"
 images:
   - filename: "7596978-minor-thread--v6-vor-dem-schl-sselzug-0.jpg"

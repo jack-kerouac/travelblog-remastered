@@ -8,6 +8,7 @@ location:
   - "North"
   - "Muang Sing"
 trip_slug: "southeast-asia-2008"
+entry_slug: "the-problem-of-o"
 original_url: "https://www.travelblog.org/asia/laos/north/muang-sing/blog-295259"
 images:
   - filename: "2527168-basi--um-die-hausgeister-gutmuetig-zu-stimmen-0.jpg"

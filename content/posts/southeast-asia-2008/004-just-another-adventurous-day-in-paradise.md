@@ -8,6 +8,7 @@ location:
   - "South-West Thailand"
   - "Railay"
 trip_slug: "southeast-asia-2008"
+entry_slug: "just-another-adventurous-day-in-paradise"
 original_url: "https://www.travelblog.org/asia/thailand/south-west-thailand/railay/blog-289162"
 images:
   - filename: "2460950-long-boats-am-strand-von-ton-sai-0.jpg"

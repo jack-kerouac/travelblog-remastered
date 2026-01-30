@@ -9,6 +9,7 @@ location:
   - "Quảng Nam"
   - "Hoi An"
 trip_slug: "southeast-asia-2006"
+entry_slug: "ein-zwischenstop-in-hoi-an"
 original_url: "https://www.travelblog.org/asia/vietnam/south-central-coast/quang-nam/hoi-an/blog-84294"
 images:
   - filename: "522807-mit-raedern-durch-die-altstadt-0.jpg"

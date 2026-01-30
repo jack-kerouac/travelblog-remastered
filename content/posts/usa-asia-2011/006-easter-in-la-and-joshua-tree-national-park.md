@@ -8,6 +8,7 @@ location:
   - "California"
   - "Joshua Tree National Park"
 trip_slug: "usa-asia-2011"
+entry_slug: "easter-in-la-and-joshua-tree-national-park"
 original_url: "https://www.travelblog.org/north-america/united-states/california/joshua-tree-national-park/blog-610070"
 images:
   - filename: "6094536-joshua_tree_national_park-0.jpg"

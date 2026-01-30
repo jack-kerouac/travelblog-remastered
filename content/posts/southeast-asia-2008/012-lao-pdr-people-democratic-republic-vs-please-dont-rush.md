@@ -8,6 +8,7 @@ location:
   - "West"
   - "Vientiane"
 trip_slug: "southeast-asia-2008"
+entry_slug: "lao-pdr-people-democratic-republic-vs-please-don-t-rush"
 original_url: "https://www.travelblog.org/asia/laos/west/vientiane/blog-301328"
 images:
   - filename: "2591315-vientiane--nichts-fuer-traeumer-1.jpg"

@@ -8,6 +8,7 @@ location:
   - "West"
   - "Vang Vieng"
 trip_slug: "southeast-asia-2006"
+entry_slug: "vientiane-und-vang-vieng-in-the-middle-of-nowhere"
 original_url: "https://www.travelblog.org/asia/laos/west/vang-vieng/blog-80724"
 images:
   - filename: "496008-kartenspielen-im-syri-1-0.jpg"

@@ -8,6 +8,7 @@ location:
   - "Colorado"
   - "Boulder"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "back-in-boulder"
 original_url: "https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-777656"
 images:
   - filename: "7439665-boulder-im-hintergrund-0.jpg"

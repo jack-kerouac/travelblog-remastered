@@ -8,6 +8,7 @@ location:
   - "Cebu"
   - "Cebu City"
 trip_slug: "southeast-asia-2008"
+entry_slug: "cebu-kopfsprung-ins-chaos"
 original_url: "https://www.travelblog.org/asia/philippines/cebu/cebu-city/blog-305351"
 images:
   - filename: "2634820-der-jeepney--oeffentliches-verkehrsmittel-nummer-1-0.jpg"

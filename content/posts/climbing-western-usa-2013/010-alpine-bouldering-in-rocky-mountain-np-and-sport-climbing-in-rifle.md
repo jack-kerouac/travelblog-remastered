@@ -8,6 +8,7 @@ location:
   - "Colorado"
   - "Rocky Mountains"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "alpine-bouldering-in-rocky-mountain-np-and-sport-climbing-in-rifle"
 original_url: "https://www.travelblog.org/north-america/united-states/colorado/rocky-mountains/blog-801070"
 images:
   - filename: "7650734-moraine-park-rocky-mountain-national-park-0.jpg"

@@ -8,6 +8,7 @@ location:
   - "Surigao"
   - "Siargao"
 trip_slug: "southeast-asia-2008"
+entry_slug: "meine-woche-mit-den-fischern"
 original_url: "https://www.travelblog.org/asia/philippines/surigao/siargao/blog-309275"
 images:
   - filename: "2678029-starfishes-on-naked-island-0.jpg"

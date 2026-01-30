@@ -8,6 +8,7 @@ location:
   - "Guangxi"
   - "Yangshuo"
 trip_slug: "usa-asia-2011"
+entry_slug: "climbing-china-s-limestone-cliffs-in-yangshuo"
 original_url: "https://www.travelblog.org/asia/china/guangxi/yangshuo/blog-617259"
 images:
   - filename: "6184074-50m_freihaengende_abseilerei-0.jpg"

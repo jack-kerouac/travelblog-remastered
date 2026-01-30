@@ -8,6 +8,7 @@ location:
   - "Central Thailand"
   - "Bangkok"
 trip_slug: "southeast-asia-2006"
+entry_slug: "der-versuch-eines-fazits"
 original_url: "https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-88102"
 images:
   - filename: "556474-home-sweet-home-0.jpg"

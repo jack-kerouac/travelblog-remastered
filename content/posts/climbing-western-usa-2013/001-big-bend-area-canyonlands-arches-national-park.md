@@ -9,6 +9,7 @@ location:
   - "Canyonlands National Park"
   - "Island in the Sky"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "big-bend-area-canyonlands-arches-national-park"
 original_url: "https://www.travelblog.org/north-america/united-states/utah/canyonlands-national-park/island-in-the-sky/blog-778622"
 images:
   - filename: "7452851-circus-tricks--big-bend-area-moab-0.jpg"

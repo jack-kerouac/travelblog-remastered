@@ -8,6 +8,7 @@ location:
   - "Yangon Region"
   - "Yangon"
 trip_slug: "southeast-asia-2009"
+entry_slug: "rangun"
 original_url: "https://www.travelblog.org/asia/burma/yangon-region/yangon/blog-402497"
 images:
   - filename: "3857324-shwedagon-pagoda-0.jpg"
