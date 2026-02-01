@@ -1,0 +1,8 @@
+baseURL: https://jack-kerouac.github.io/travelblog-remastered/
+languageCode: en-us
+title: Travel Blog
+disableKinds:
+  - taxonomy
+  - term
+  - RSS
+  - sitemap
