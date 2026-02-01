@@ -2,18 +2,9 @@
 <div class="container">
     <h1>{{ .Site.Title }}</h1>
 
-    <div class="trips-list">
-        {{ $tripsSection := .Site.GetPage "/trips" }}
-        {{ range $tripsSection.Pages }}
-        <article class="trip-card">
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <p class="trip-dates">
-                {{ (time .Params.start_date).Format "January 2006" }} - {{ (time .Params.end_date).Format "January 2006" }}
-            </p>
-            <p class="trip-countries">{{ delimit .Params.countries ", " }}</p>
-            <p class="trip-stats">{{ .Params.stats.entries }} entries • {{ .Params.stats.photos }} photos</p>
-        </article>
-        {{ end }}
+    <div class="welcome">
+        <p>Welcome to my travel blog, documenting journeys across Southeast Asia, South America, and the USA from 2006 to 2013.</p>
+        <p><a href="{{ (.Site.GetPage "/trips").RelPermalink }}">View all trips →</a></p>
     </div>
 </div>
 {{ end }}
