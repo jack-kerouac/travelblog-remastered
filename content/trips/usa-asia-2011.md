@@ -1,5 +1,5 @@
 ---
-title: "Asia 2011"
+title: "USA, Asia 2011"
 start_date: 2011-03-10T00:00:00
 end_date: 2011-06-15T00:00:00
 countries:

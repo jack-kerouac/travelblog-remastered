@@ -1,5 +1,5 @@
 ---
-title: "Bolivia, Peru 2012"
+title: "South America 2012"
 start_date: 2012-09-28T00:00:00
 end_date: 2012-10-07T00:00:00
 countries:

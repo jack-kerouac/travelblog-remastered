@@ -1,5 +1,5 @@
 ---
-title: "Canada, United States 2013"
+title: "Climbing in Western USA"
 start_date: 2013-03-24T00:00:00
 end_date: 2013-10-16T00:00:00
 countries:
