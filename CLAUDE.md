@@ -36,6 +36,7 @@ location:
   - "Region"
   - "City/Location"
 trip_slug: "south-america-2012"  # Must match directory name
+entry_slug: "post-slug"  # Used for image paths: static/images/{trip_slug}/{entry_slug}/
 original_url: "https://www.travelblog.org/..."
 images:
   - filename: "image-name.jpg"
@@ -72,18 +73,46 @@ posts:
 
 ## Development Notes
 
-### Static Site Generator
+### Static Site Generator - Hugo
 
-This project was initially set up for Hugo but the Hugo configuration, layouts, and CSS were removed (see commit 1d2adff). The content is currently in Hugo-compatible format with:
-- Markdown files with YAML front matter
-- `public/` directory in `.gitignore` (Hugo's default output directory)
-- Standard Hugo content structure
+This project uses Hugo to generate a static site deployed to GitHub Pages at:
+**https://jack-kerouac.github.io/travelblog-remastered/**
 
-If working with Hugo again, you'll need to recreate the configuration file and layouts.
+#### Hugo Configuration
+
+- **Config file**: `hugo.yaml` - minimal YAML configuration with baseURL and disabled features (taxonomy, RSS, sitemap)
+- **Layouts**: `layouts/` directory contains:
+  - `_default/baseof.html` - Base HTML template
+  - `index.html` - Homepage showing all trips
+  - `trips/list.html` - Trips list page (same as homepage)
+  - `trips/single.html` - Individual trip detail page with blog entry listings
+  - `posts/single.html` - Blog entry page with content and photo grid
+  - `posts/list.html` - Posts list page
+- **CSS**: `static/css/style.css` - Minimal styling with responsive photo grid
+
+#### Site Structure
+
+- **Homepage (/)**: Lists all trips with title, date range, countries, and stats
+- **Trip pages (/trips/{trip_slug})**: Shows trip info and lists blog entries
+- **Blog entries (/posts/{trip_slug}/{entry_slug})**: Displays post content, location, link to original entry, and photo grid
+
+#### Deployment
+
+Automated via GitHub Actions (`.github/workflows/deploy.yml`):
+- Triggers on push to `main` branch
+- Builds site with Hugo
+- Deploys to GitHub Pages
+
+#### Image Paths
+
+Images are organized as: `static/images/{trip_slug}/{entry_slug}/{filename}`
+- The `entry_slug` parameter in post frontmatter is used to construct image paths
+- Hugo templates use `relURL` filter for proper baseURL handling
 
 ### Content Consistency
 
-- **Trip slugs must be consistent**: The `trip_slug` field in front matter must exactly match the directory name in `content/posts/` and `static/images/`
+- **Trip slugs must be consistent**: The `trip_slug` field in front matter must exactly match the directory name in `content/posts/` and the parent directory in `static/images/`
+- **Entry slugs must match image directories**: The `entry_slug` field must match the subdirectory name in `static/images/{trip_slug}/{entry_slug}/`
 - **Post numbering**: Posts within each trip are numbered sequentially starting from `000`
-- **Image paths**: Images referenced in post front matter should exist in `static/images/{trip_slug}/`
+- **Image paths**: Images referenced in post front matter should exist in `static/images/{trip_slug}/{entry_slug}/`
 - **Languages**: Content is mixed German and English
