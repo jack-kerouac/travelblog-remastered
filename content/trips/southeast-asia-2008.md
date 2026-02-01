@@ -1,5 +1,6 @@
 ---
 title: "Southeast Asia 2008"
+description: "Thailand, Rock Climbing in Krabi Laos, Traveling through the North Philippines, Living with the Fishers"
 start_date: 2008-05-19T00:00:00
 end_date: 2008-09-08T00:00:00
 countries:

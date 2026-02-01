@@ -3,6 +3,9 @@
     <p class="back-link"><a href="{{ (.Site.GetPage "/trips").RelPermalink }}">← Back to all trips</a></p>
 
     <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="trip-description">{{ . }}</p>
+    {{ end }}
     <p class="trip-dates">
         {{ (time .Params.start_date).Format "January 2006" }} - {{ (time .Params.end_date).Format "January 2006" }}
     </p>

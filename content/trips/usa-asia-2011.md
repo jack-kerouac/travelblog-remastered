@@ -1,5 +1,6 @@
 ---
 title: "USA, Asia 2011"
+description: "Colorado, Utah, Wyoming, South Dakota in the US, Hong Kong, China"
 start_date: 2011-03-10T00:00:00
 end_date: 2011-06-15T00:00:00
 countries:
