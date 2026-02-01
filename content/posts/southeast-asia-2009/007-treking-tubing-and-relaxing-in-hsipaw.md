@@ -8,7 +8,7 @@ location:
   - "Mandalay Region"
   - "Hsipaw"
 trip_slug: "southeast-asia-2009"
-entry_slug: "treking-tubing-and-relaxing-in-hsipaw"
+entry_slug: "007-treking-tubing-and-relaxing-in-hsipaw"
 original_url: "https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-409758"
 images:
   - filename: "3946226-free-falling-0.jpg"

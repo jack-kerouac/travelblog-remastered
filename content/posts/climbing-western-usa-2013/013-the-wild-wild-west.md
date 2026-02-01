@@ -8,7 +8,7 @@ location:
   - "Wyoming"
   - "Yellowstone National Park"
 trip_slug: "climbing-western-usa-2013"
-entry_slug: "the-wild-wild-west"
+entry_slug: "013-the-wild-wild-west"
 original_url: "https://www.travelblog.org/north-america/united-states/wyoming/yellowstone-national-park/blog-809009"
 images:
   - filename: "7728586-grand-prismatic-spring-0.jpg"

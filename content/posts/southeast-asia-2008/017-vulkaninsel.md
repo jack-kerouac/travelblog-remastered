@@ -8,7 +8,7 @@ location:
   - "Mindanao"
   - "Camiguin"
 trip_slug: "southeast-asia-2008"
-entry_slug: "vulkaninsel"
+entry_slug: "017-vulkaninsel"
 original_url: "https://www.travelblog.org/asia/philippines/mindanao/camiguin/blog-314163"
 images:
   - filename: "2736118-ein-hoch-auf-camiguin-0.jpg"

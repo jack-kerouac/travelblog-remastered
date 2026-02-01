@@ -8,7 +8,7 @@ location:
   - "North"
   - "Muang Ngoi Neua"
 trip_slug: "southeast-asia-2008"
-entry_slug: "backpackers-haven"
+entry_slug: "010-backpackers-haven"
 original_url: "https://www.travelblog.org/asia/laos/north/muang-ngoi-neua/blog-298255"
 images:
   - filename: "2557381-die-landschaft-auf-dem-weg-zu-einer-hoehle-1.jpg"

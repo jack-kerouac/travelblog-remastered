@@ -8,7 +8,7 @@ location:
   - "North-West Thailand"
   - "Chiang Mai"
 trip_slug: "southeast-asia-2008"
-entry_slug: "mit-dem-motorcycle-unterwegs"
+entry_slug: "005-mit-dem-motorcycle-unterwegs"
 original_url: "https://www.travelblog.org/asia/thailand/north-west-thailand/chiang-mai/blog-291113"
 images:
   - filename: "2482983-mae-ya-waterfall-0.jpg"

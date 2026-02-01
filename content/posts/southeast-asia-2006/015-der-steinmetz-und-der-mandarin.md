@@ -8,7 +8,7 @@ location:
   - "Central Highlands"
   - "Kon Tum"
 trip_slug: "southeast-asia-2006"
-entry_slug: "der-steinmetz-und-der-mandarin"
+entry_slug: "015-der-steinmetz-und-der-mandarin"
 original_url: "https://www.travelblog.org/asia/vietnam/central-highlands/kontum/blog-84721"
 images:
   - filename: "531293-on-the-road-to-the-south-0.jpg"

@@ -8,7 +8,7 @@ location:
   - "Central Thailand"
   - "Bangkok"
 trip_slug: "southeast-asia-2009"
-entry_slug: "root-canal-treatment-in-bangkok"
+entry_slug: "000-root-canal-treatment-in-bangkok"
 original_url: "https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-393546"
 images:
   - filename: "3739000-der-eingangsbereich-des-thonglor-dental-centers-0.jpg"

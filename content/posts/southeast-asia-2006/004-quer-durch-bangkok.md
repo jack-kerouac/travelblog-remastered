@@ -6,7 +6,7 @@ location:
   - "Asia"
   - "Thailand"
 trip_slug: "southeast-asia-2006"
-entry_slug: "quer-durch-bangkok"
+entry_slug: "004-quer-durch-bangkok"
 original_url: "https://www.travelblog.org/asia/thailand/blog-79883"
 ---
 

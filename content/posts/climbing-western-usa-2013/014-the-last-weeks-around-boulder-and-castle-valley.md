@@ -8,7 +8,7 @@ location:
   - "Colorado"
   - "Boulder"
 trip_slug: "climbing-western-usa-2013"
-entry_slug: "the-last-weeks-around-boulder-and-castle-valley"
+entry_slug: "014-the-last-weeks-around-boulder-and-castle-valley"
 original_url: "https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-812217"
 images:
   - filename: "7756181-castleton-tower-0.jpg"

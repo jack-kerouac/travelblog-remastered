@@ -8,7 +8,7 @@ location:
   - "North"
   - "Angkor"
 trip_slug: "southeast-asia-2006"
-entry_slug: "klettern-in-den-groessten-sakralbauten-der-erde"
+entry_slug: "020-klettern-in-den-groessten-sakralbauten-der-erde"
 original_url: "https://www.travelblog.org/asia/cambodia/north/angkor/blog-87984"
 images:
   - filename: "552713-bayon-0.jpg"

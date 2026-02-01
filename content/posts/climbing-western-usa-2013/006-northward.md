@@ -8,7 +8,7 @@ location:
   - "British Columbia"
   - "Vancouver"
 trip_slug: "climbing-western-usa-2013"
-entry_slug: "northward"
+entry_slug: "006-northward"
 original_url: "https://www.travelblog.org/north-america/canada/british-columbia/vancouver/blog-790806"
 images:
   - filename: "7561083-tuolomne-meadows-0.jpg"

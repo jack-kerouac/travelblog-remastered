@@ -9,7 +9,7 @@ location:
   - "Dak Lak"
   - "Buon Ma Thuot"
 trip_slug: "southeast-asia-2006"
-entry_slug: "yuk-don-national-park-ein-reinfall"
+entry_slug: "016-yuk-don-national-park-ein-reinfall"
 original_url: "https://www.travelblog.org/asia/vietnam/central-highlands/dak-lak/buon-ma-thuot/blog-85288"
 images:
   - filename: "531354-elvis-lebt-0.jpg"

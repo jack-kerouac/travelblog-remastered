@@ -7,7 +7,7 @@ location:
   - "United States"
   - "Utah"
 trip_slug: "usa-asia-2011"
-entry_slug: "rifle-canyonlands-bryce-zion"
+entry_slug: "004-rifle-canyonlands-bryce-zion"
 original_url: "https://www.travelblog.org/north-america/united-states/utah/blog-607109"
 images:
   - filename: "6062296-fruehstueck_mit_ausblick-0.jpg"

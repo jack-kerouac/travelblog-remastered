@@ -8,7 +8,7 @@ location:
   - "South-West Thailand"
   - "Krabi"
 trip_slug: "southeast-asia-2008"
-entry_slug: "ton-sai-die-zweite"
+entry_slug: "003-ton-sai-die-zweite"
 original_url: "https://www.travelblog.org/asia/thailand/south-west-thailand/krabi/blog-281744"
 images:
   - filename: "2379430-die-felskette-rund-um-railey-beach-und-ton-sai-0.jpg"

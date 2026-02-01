@@ -8,7 +8,7 @@ location:
   - "West"
   - "Luang Prabang"
 trip_slug: "southeast-asia-2008"
-entry_slug: "stadt-der-moenche"
+entry_slug: "011-stadt-der-moenche"
 original_url: "https://www.travelblog.org/asia/laos/west/luang-prabang/blog-299934"
 images:
   - filename: "2575263-moenche-stehen-zum-almosensammeln-an-0.jpg"

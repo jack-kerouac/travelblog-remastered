@@ -8,7 +8,7 @@ location:
   - "South-West Thailand"
   - "Railay"
 trip_slug: "southeast-asia-2009"
-entry_slug: "my-month-in-ton-sai"
+entry_slug: "002-my-month-in-ton-sai"
 original_url: "https://www.travelblog.org/asia/thailand/south-west-thailand/railay/blog-400495"
 images:
   - filename: "3835504-neverland-0.jpg"

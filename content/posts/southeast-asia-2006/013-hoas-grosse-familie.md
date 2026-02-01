@@ -8,7 +8,7 @@ location:
   - "South Central Coast"
   - "Da Nang"
 trip_slug: "southeast-asia-2006"
-entry_slug: "hoas-grosse-familie"
+entry_slug: "013-hoas-grosse-familie"
 original_url: "https://www.travelblog.org/asia/vietnam/south-central-coast/da-nang/blog-84291"
 images:
   - filename: "522717-chill-out-am-strand-0.jpg"

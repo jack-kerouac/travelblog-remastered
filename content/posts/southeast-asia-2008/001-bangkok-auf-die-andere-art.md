@@ -8,7 +8,7 @@ location:
   - "Central Thailand"
   - "Bangkok"
 trip_slug: "southeast-asia-2008"
-entry_slug: "bangkok-auf-die-andere-art"
+entry_slug: "001-bangkok-auf-die-andere-art"
 original_url: "https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-279600"
 images:
   - filename: "2354727-vekehr-in-bangkok-0.jpg"

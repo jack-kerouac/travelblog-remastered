@@ -8,7 +8,7 @@ location:
   - "North"
   - "Luang Namtha"
 trip_slug: "southeast-asia-2008"
-entry_slug: "border-crossing-to-laos-huay-xai-and-around-luang-nam-tha"
+entry_slug: "006-border-crossing-to-laos-huay-xai-and-around-luang-nam-tha"
 original_url: "https://www.travelblog.org/asia/laos/north/luang-namtha/blog-295244"
 images:
   - filename: "2527033-mein-bus-von-chiang-rai-an-die-grenze-0.jpg"

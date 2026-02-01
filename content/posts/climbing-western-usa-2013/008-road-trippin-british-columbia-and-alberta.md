@@ -8,7 +8,7 @@ location:
   - "Alberta"
   - "Banff National Park"
 trip_slug: "climbing-western-usa-2013"
-entry_slug: "road-trippin-british-columbia-and-alberta"
+entry_slug: "008-road-trippin-british-columbia-and-alberta"
 original_url: "https://www.travelblog.org/north-america/canada/alberta/banff-national-park/blog-796366"
 images:
   - filename: "7618184-morraine-lake-banff-national-park-0.jpg"

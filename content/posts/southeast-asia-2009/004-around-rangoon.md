@@ -8,7 +8,7 @@ location:
   - "Yangon Region"
   - "Yangon"
 trip_slug: "southeast-asia-2009"
-entry_slug: "around-rangoon"
+entry_slug: "004-around-rangoon"
 original_url: "https://www.travelblog.org/asia/burma/yangon-region/yangon/blog-405103"
 images:
   - filename: "3889380-neugierige-kids-im-dorf-0.jpg"

@@ -9,7 +9,7 @@ location:
   - "Yosemite National Park"
   - "Yosemite Valley"
 trip_slug: "climbing-western-usa-2013"
-entry_slug: "the-valley"
+entry_slug: "005-the-valley"
 original_url: "https://www.travelblog.org/north-america/united-states/california/yosemite-national-park/yosemite-valley/blog-787323"
 images:
   - filename: "7555972-yosemite-valley-0.jpg"

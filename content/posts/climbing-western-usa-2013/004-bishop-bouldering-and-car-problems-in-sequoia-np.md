@@ -8,7 +8,7 @@ location:
   - "California"
   - "Sequoia National Park"
 trip_slug: "climbing-western-usa-2013"
-entry_slug: "bishop-bouldering-and-car-problems-in-sequoia-np"
+entry_slug: "004-bishop-bouldering-and-car-problems-in-sequoia-np"
 original_url: "https://www.travelblog.org/north-america/united-states/california/sequoia-national-park/blog-784240"
 images:
   - filename: "7498077-die-murmeln-des-buttermilk-counties-0.jpg"

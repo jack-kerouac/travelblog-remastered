@@ -8,7 +8,7 @@ location:
   - "Red River Delta"
   - "Hanoi"
 trip_slug: "southeast-asia-2006"
-entry_slug: "sight-seeing-tour-mit-fabian-dem-kulturbanausen"
+entry_slug: "012-sight-seeing-tour-mit-fabian-dem-kulturbanausen"
 original_url: "https://www.travelblog.org/asia/vietnam/red-river-delta/hanoi/blog-83168"
 images:
   - filename: "514053-die-schlachtstrasse-0.jpg"

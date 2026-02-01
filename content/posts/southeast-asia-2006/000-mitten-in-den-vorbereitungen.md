@@ -8,7 +8,7 @@ location:
   - "Bavaria"
   - "Günzburg"
 trip_slug: "southeast-asia-2006"
-entry_slug: "mitten-in-den-vorbereitungen"
+entry_slug: "000-mitten-in-den-vorbereitungen"
 original_url: "https://www.travelblog.org/europe/germany/bavaria/g-nzburg/blog-71215"
 ---
 

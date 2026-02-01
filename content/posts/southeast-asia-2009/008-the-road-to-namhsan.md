@@ -8,7 +8,7 @@ location:
   - "Mandalay Region"
   - "Hsipaw"
 trip_slug: "southeast-asia-2009"
-entry_slug: "the-road-to-namhsan"
+entry_slug: "008-the-road-to-namhsan"
 original_url: "https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-410042"
 images:
   - filename: "3948798-the-road-to-namhsan-0.jpg"

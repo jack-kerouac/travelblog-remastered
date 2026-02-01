@@ -8,7 +8,7 @@ location:
   - "Western Thailand"
   - "Sangkhlaburi"
 trip_slug: "southeast-asia-2008"
-entry_slug: "die-bruecke-am-kwai-und-der-drei-pagoden-pass"
+entry_slug: "013-die-bruecke-am-kwai-und-der-drei-pagoden-pass"
 original_url: "https://www.travelblog.org/asia/thailand/western-thailand/sangkhlaburi/blog-303533"
 images:
   - filename: "2615250-die-bruecke-am-kwai-0.jpg"

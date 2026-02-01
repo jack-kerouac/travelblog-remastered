@@ -8,7 +8,7 @@ location:
   - "Colorado"
   - "Boulder"
 trip_slug: "usa-asia-2011"
-entry_slug: "25-square-miles-surrounded-by-reality"
+entry_slug: "001-25-square-miles-surrounded-by-reality"
 original_url: "https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-591549"
 images:
   - filename: "6011887-der_blick_vom_boulder_canyon_auf_boulder_in_die_great_plains_im_osten-0.jpg"

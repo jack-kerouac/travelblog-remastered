@@ -8,7 +8,7 @@ location:
   - "North"
   - "Luang Namtha"
 trip_slug: "southeast-asia-2008"
-entry_slug: "khmu-akha-und-little-houses"
+entry_slug: "008-khmu-akha-und-little-houses"
 original_url: "https://www.travelblog.org/asia/laos/north/luang-namtha/blog-295275"
 images:
   - filename: "2527353-angetreten-zum-appell-0.jpg"

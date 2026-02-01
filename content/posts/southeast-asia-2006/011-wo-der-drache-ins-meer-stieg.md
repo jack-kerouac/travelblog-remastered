@@ -9,7 +9,7 @@ location:
   - "Quang Ninh"
   - "Halong Bay"
 trip_slug: "southeast-asia-2006"
-entry_slug: "wo-der-drache-ins-meer-stieg"
+entry_slug: "011-wo-der-drache-ins-meer-stieg"
 original_url: "https://www.travelblog.org/asia/vietnam/northeast/quang-ninh/halong-bay/blog-82980"
 images:
   - filename: "512951-eines-der-vielen-verwinkelten-gaesschen-in-hanoi-0.jpg"
