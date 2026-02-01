@@ -5,15 +5,18 @@
     <h1>All Trips</h1>
 
     <div class="trips-list">
-        {{ range .Pages }}
-        <article class="trip-card">
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <p class="trip-dates">
-                {{ (time .Params.start_date).Format "January 2006" }} - {{ (time .Params.end_date).Format "January 2006" }}
-            </p>
-            <p class="trip-countries">{{ delimit .Params.countries ", " }}</p>
-            <p class="trip-stats">{{ .Params.stats.entries }} entries • {{ .Params.stats.photos }} photos</p>
-        </article>
+        {{ range .Params.trips }}
+            {{ $trip := $.Site.GetPage . }}
+            {{ with $trip }}
+            <article class="trip-card">
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <p class="trip-dates">
+                    {{ (time .Params.start_date).Format "January 2006" }} - {{ (time .Params.end_date).Format "January 2006" }}
+                </p>
+                <p class="trip-countries">{{ delimit .Params.countries ", " }}</p>
+                <p class="trip-stats">{{ .Params.stats.entries }} entries • {{ .Params.stats.photos }} photos</p>
+            </article>
+            {{ end }}
         {{ end }}
     </div>
 </div>
