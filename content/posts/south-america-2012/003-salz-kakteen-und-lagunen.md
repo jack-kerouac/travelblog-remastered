@@ -8,6 +8,7 @@ location:
   - "Potosí Department"
   - "Salar de Uyuni"
 trip_slug: "south-america-2012"
+entry_slug: "003-salz-kakteen-und-lagunen"
 original_url: "https://www.travelblog.org/south-america/bolivia/potosi-department/salar-de-uyuni/blog-750037"
 images:
   - filename: "7215223-allein-in-den-auslaeufern-der-atacama-wueste-0.jpg"

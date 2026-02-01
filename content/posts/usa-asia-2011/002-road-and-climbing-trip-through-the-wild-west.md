@@ -6,6 +6,7 @@ location:
   - "North America"
   - "United States"
 trip_slug: "usa-asia-2011"
+entry_slug: "002-road-and-climbing-trip-through-the-wild-west"
 original_url: "https://www.travelblog.org/north-america/united-states/blog-591562"
 images:
   - filename: "6012638-castleton_tower-_utah-0.jpg"

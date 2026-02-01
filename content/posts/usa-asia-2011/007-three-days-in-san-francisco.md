@@ -8,6 +8,7 @@ location:
   - "California"
   - "San Francisco"
 trip_slug: "usa-asia-2011"
+entry_slug: "007-three-days-in-san-francisco"
 original_url: "https://www.travelblog.org/north-america/united-states/california/san-francisco/blog-610072"
 images:
   - filename: "6097989-transamerica_pyramid-0.jpg"

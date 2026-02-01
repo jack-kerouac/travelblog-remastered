@@ -8,6 +8,7 @@ location:
   - "Utah"
   - "Zion National Park"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "interstate-12-utah-s-national-parks-and-the-red-rocks"
 original_url: "https://www.travelblog.org/north-america/united-states/utah/zion-national-park/blog-783041"
 images:
   - filename: "7486490-grand-staircase--escalante-national-monument-0.jpg"

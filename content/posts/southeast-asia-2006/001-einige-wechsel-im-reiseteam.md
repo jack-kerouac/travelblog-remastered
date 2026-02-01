@@ -8,6 +8,7 @@ location:
   - "Bavaria"
   - "Günzburg"
 trip_slug: "southeast-asia-2006"
+entry_slug: "001-einige-wechsel-im-reiseteam"
 original_url: "https://www.travelblog.org/europe/germany/bavaria/g-nzburg/blog-77732"
 ---
 

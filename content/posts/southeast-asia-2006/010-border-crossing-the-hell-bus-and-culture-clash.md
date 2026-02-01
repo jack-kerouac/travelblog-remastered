@@ -8,6 +8,7 @@ location:
   - "Red River Delta"
   - "Hanoi"
 trip_slug: "southeast-asia-2006"
+entry_slug: "010-border-crossing-the-hell-bus-and-culture-clash"
 original_url: "https://www.travelblog.org/asia/vietnam/red-river-delta/hanoi/blog-82492"
 images:
   - filename: "509043-mister-liberty-0.jpg"

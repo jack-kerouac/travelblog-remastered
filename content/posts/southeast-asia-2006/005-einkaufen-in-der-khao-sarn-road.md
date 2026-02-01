@@ -8,6 +8,7 @@ location:
   - "Central Thailand"
   - "Bangkok"
 trip_slug: "southeast-asia-2006"
+entry_slug: "005-einkaufen-in-der-khao-sarn-road"
 original_url: "https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-79884"
 images:
   - filename: "489651-thai-boxen-im-lumphini-stadion-0.jpg"

@@ -8,6 +8,7 @@ location:
   - "West"
   - "Vang Vieng"
 trip_slug: "southeast-asia-2006"
+entry_slug: "008-ein-naturparadies-und-ein-crazy-ort"
 original_url: "https://www.travelblog.org/asia/laos/west/vang-vieng/blog-81007"
 images:
   - filename: "498014-chillen-bei-friends-und-laobeer-0.jpg"

@@ -8,6 +8,7 @@ location:
   - "Bavaria"
   - "Günzburg"
 trip_slug: "southeast-asia-2006"
+entry_slug: "002-unsere-reiseroute-als-google-map"
 original_url: "https://www.travelblog.org/europe/germany/bavaria/g-nzburg/blog-78050"
 ---
 

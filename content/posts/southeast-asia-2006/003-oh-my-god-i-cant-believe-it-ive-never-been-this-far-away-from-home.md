@@ -8,6 +8,7 @@ location:
   - "Central Thailand"
   - "Bangkok"
 trip_slug: "southeast-asia-2006"
+entry_slug: "oh-my-god-i-can-t-believe-it-i-ve-never-been-this-far-away-from-home"
 original_url: "https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-79660"
 images:
   - filename: "487768-und-los-0.jpg"

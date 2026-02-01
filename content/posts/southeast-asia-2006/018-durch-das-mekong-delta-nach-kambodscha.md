@@ -7,6 +7,7 @@ location:
   - "Vietnam"
   - "Mekong River Delta"
 trip_slug: "southeast-asia-2006"
+entry_slug: "018-durch-das-mekong-delta-nach-kambodscha"
 original_url: "https://www.travelblog.org/asia/vietnam/mekong-river-delta/blog-86372"
 images:
   - filename: "540288-eine-stadt-am-im-fluss-0.jpg"

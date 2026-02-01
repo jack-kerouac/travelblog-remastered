@@ -8,6 +8,7 @@ location:
   - "La Paz Department"
   - "Isla del Sol"
 trip_slug: "south-america-2012"
+entry_slug: "002-isla-del-sol-und-der-titicacasee"
 original_url: "https://www.travelblog.org/south-america/bolivia/la-paz-department/isla-del-sol/blog-750031"
 images:
   - filename: "7215190-titicacasee-0.jpg"

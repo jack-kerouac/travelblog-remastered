@@ -8,6 +8,7 @@ location:
   - "West"
   - "Nong Khiaw"
 trip_slug: "southeast-asia-2008"
+entry_slug: "009-the-hammock-and-the-cave"
 original_url: "https://www.travelblog.org/asia/laos/west/nong-khiaw/blog-298248"
 images:
   - filename: "2557321-the-war-cave-0.jpg"

@@ -8,6 +8,7 @@ location:
   - "Guizhou"
   - "Anshun"
 trip_slug: "usa-asia-2011"
+entry_slug: "jaw-dropping-caves-and-miao-minority-at-getu-the-destination-of-the-petzl-roctrip-2011"
 original_url: "https://www.travelblog.org/asia/china/guizhou/anshun/blog-620458"
 images:
   - filename: "6218098-chuanshang_dong_-_-cave_over_the_bed-0.jpg"

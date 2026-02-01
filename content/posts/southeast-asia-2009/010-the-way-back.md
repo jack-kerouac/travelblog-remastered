@@ -8,6 +8,7 @@ location:
   - "Central Thailand"
   - "Bangkok"
 trip_slug: "southeast-asia-2009"
+entry_slug: "010-the-way-back"
 original_url: "https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-411038"
 images:
   - filename: "3956020-der-bus-von-hsipaw-nach-mandalay-0.jpg"

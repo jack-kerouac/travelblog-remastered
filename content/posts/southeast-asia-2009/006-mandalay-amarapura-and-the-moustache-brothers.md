@@ -8,6 +8,7 @@ location:
   - "Mandalay Region"
   - "Mandalay"
 trip_slug: "southeast-asia-2009"
+entry_slug: "006-mandalay-amarapura-and-the-moustache-brothers"
 original_url: "https://www.travelblog.org/asia/burma/mandalay-region/mandalay/blog-409381"
 images:
   - filename: "3943686-fuenf-junge-novizen-0.jpg"

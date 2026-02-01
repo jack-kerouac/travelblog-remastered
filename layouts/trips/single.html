@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="container">
+    <p class="back-link"><a href="{{ .Site.Home.RelPermalink }}">← Back to all trips</a></p>
+
+    <h1>{{ .Title }}</h1>
+    <p class="trip-dates">
+        {{ (time .Params.start_date).Format "January 2006" }} - {{ (time .Params.end_date).Format "January 2006" }}
+    </p>
+    <p class="trip-countries">{{ delimit .Params.countries ", " }}</p>
+
+    <div class="posts-list">
+        {{ range .Params.posts }}
+            {{ $post := $.Site.GetPage . }}
+            {{ with $post }}
+            <article class="post-card">
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
+                {{ $locLen := len .Params.location }}
+                {{ if ge $locLen 2 }}
+                <p class="post-location">
+                    {{ index .Params.location (sub $locLen 1) }}, {{ index .Params.location (sub $locLen 2) }}
+                </p>
+                {{ end }}
+                {{ with .Params.images }}
+                <p class="post-photos">{{ len . }} photos</p>
+                {{ end }}
+            </article>
+            {{ end }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}

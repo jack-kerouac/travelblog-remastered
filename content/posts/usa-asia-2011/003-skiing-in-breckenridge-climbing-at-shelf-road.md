@@ -8,6 +8,7 @@ location:
   - "Colorado"
   - "Boulder"
 trip_slug: "usa-asia-2011"
+entry_slug: "003-skiing-in-breckenridge-climbing-at-shelf-road"
 original_url: "https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-593961"
 images:
   - filename: "6032533-skifahren_in_breckenridge-0.jpg"

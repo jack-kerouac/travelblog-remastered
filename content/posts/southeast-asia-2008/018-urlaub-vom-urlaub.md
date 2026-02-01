@@ -7,6 +7,7 @@ location:
   - "Italy"
   - "Tuscany"
 trip_slug: "southeast-asia-2008"
+entry_slug: "018-urlaub-vom-urlaub"
 original_url: "https://www.travelblog.org/europe/italy/tuscany/blog-321222"
 images:
   - filename: "2815070-allee-nach-bolgheri-0.jpg"

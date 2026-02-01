@@ -8,6 +8,7 @@ location:
   - "Nevada"
   - "Las Vegas"
 trip_slug: "usa-asia-2011"
+entry_slug: "005-red-rocks-climbing-and-fabulous-las-vegas"
 original_url: "https://www.travelblog.org/north-america/united-states/nevada/las-vegas/blog-607142"
 images:
   - filename: "6062913-die_red_rocks-_einige_meilen_vor_las_vegas-0.jpg"

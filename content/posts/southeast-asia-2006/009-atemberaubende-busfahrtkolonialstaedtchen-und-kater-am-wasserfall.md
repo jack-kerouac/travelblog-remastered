@@ -8,6 +8,7 @@ location:
   - "West"
   - "Luang Prabang"
 trip_slug: "southeast-asia-2006"
+entry_slug: "atemberaubende-busfahrt-kolonialstaedtchen-und-kater-am-wasserfall"
 original_url: "https://www.travelblog.org/asia/laos/west/luang-prabang/blog-81646"
 images:
   - filename: "502534-atemberaubende-landschaft-0.jpg"

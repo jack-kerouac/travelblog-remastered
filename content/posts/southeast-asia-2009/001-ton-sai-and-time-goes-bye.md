@@ -8,6 +8,7 @@ location:
   - "South-West Thailand"
   - "Railay"
 trip_slug: "southeast-asia-2009"
+entry_slug: "001-ton-sai-and-time-goes-bye"
 original_url: "https://www.travelblog.org/asia/thailand/south-west-thailand/railay/blog-395334"
 images:
   - filename: "3766903-where-it-s-so-white-as-snow-0.jpg"

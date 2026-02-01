@@ -8,6 +8,7 @@ location:
   - "Mandalay Region"
   - "Hsipaw"
 trip_slug: "southeast-asia-2009"
+entry_slug: "009-around-namhsan"
 original_url: "https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-411027"
 images:
   - filename: "3955943-begeisterte-kids-in-namhsan-0.jpg"

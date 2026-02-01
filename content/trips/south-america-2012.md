@@ -1,6 +1,5 @@
 ---
 title: "Bolivia, Peru 2012"
-type: trips
 start_date: 2012-09-28T00:00:00
 end_date: 2012-10-07T00:00:00
 countries:

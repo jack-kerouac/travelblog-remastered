@@ -116,5 +116,9 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/webstorm
 
-
+# Hugo
 public/
+.hugo_build.lock
+
+# Claude Code
+.claude/

@@ -8,6 +8,7 @@ location:
   - "Mandalay Region"
   - "Bagan"
 trip_slug: "southeast-asia-2009"
+entry_slug: "005-pagoda-hopping-in-bagan"
 original_url: "https://www.travelblog.org/asia/burma/mandalay-region/bagan/blog-405131"
 images:
   - filename: "3889604-pagodas-of-bagan-0.jpg"

@@ -8,6 +8,7 @@ location:
   - "California"
   - "Bishop"
 trip_slug: "usa-asia-2011"
+entry_slug: "008-bouldering-in-bishop-more-of-los-angeles"
 original_url: "https://www.travelblog.org/north-america/united-states/california/bishop/blog-610074"
 images:
   - filename: "6094572-unser_wunderbarer_campingplatz_-the_pit-0.jpg"

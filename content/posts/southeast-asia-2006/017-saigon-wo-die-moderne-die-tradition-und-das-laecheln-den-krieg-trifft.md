@@ -8,6 +8,7 @@ location:
   - "Southeast"
   - "Ho Chi Minh City"
 trip_slug: "southeast-asia-2006"
+entry_slug: "017-saigon-wo-die-moderne-die-tradition-und-das-laecheln-den-krieg-trifft"
 original_url: "https://www.travelblog.org/asia/vietnam/southeast/ho-chi-minh-city/blog-85588"
 images:
   - filename: "533449-reunification-square-0.jpg"

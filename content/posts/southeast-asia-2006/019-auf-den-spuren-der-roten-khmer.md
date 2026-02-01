@@ -8,6 +8,7 @@ location:
   - "South"
   - "Phnom Penh"
 trip_slug: "southeast-asia-2006"
+entry_slug: "019-auf-den-spuren-der-roten-khmer"
 original_url: "https://www.travelblog.org/asia/cambodia/south/phnom-penh/blog-86661"
 images:
   - filename: "542308-von-der-roten-khmer-massakrierte-kambodschaner-0.jpg"

@@ -8,6 +8,7 @@ location:
   - "Bavaria"
   - "Günzburg"
 trip_slug: "southeast-asia-2008"
+entry_slug: "000-auf-ein-neues"
 original_url: "https://www.travelblog.org/europe/germany/bavaria/g-nzburg/blog-277964"
 images:
   - filename: "2335740-s-dostasien-2008-0.jpg"

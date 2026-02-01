@@ -8,6 +8,7 @@ location:
   - "South-West Thailand"
   - "Krabi"
 trip_slug: "southeast-asia-2008"
+entry_slug: "002-ton-sai-a-place-to-be"
 original_url: "https://www.travelblog.org/asia/thailand/south-west-thailand/krabi/blog-280660"
 images:
   - filename: "2367058-the-way-to-ton-sai-0.jpg"

@@ -8,6 +8,7 @@ location:
   - "Colorado"
   - "Rocky Mountains"
 trip_slug: "climbing-western-usa-2013"
+entry_slug: "012-chaos-canyon"
 original_url: "https://www.travelblog.org/north-america/united-states/colorado/rocky-mountains/blog-804993"
 images:
   - filename: "7701197-upper-chaos-canyon-0.jpg"

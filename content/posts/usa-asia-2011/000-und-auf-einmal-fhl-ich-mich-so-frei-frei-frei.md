@@ -8,6 +8,7 @@ location:
   - "Bavaria"
   - "Munich"
 trip_slug: "usa-asia-2011"
+entry_slug: "und-auf-einmal-fuhl-ich-mich-so-frei-frei-frei"
 original_url: "https://www.travelblog.org/europe/germany/bavaria/munich/blog-585073"
 ---
 
