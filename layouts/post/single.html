@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="container">
+    {{ with .Parent }}
+    <p class="back-link"><a href="{{ .RelPermalink }}">← Back to {{ .Title }}</a></p>
+    {{ end }}
+
+    <article class="post">
+        <h1>{{ .Title }}</h1>
+        <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
+        <p class="post-location">{{ delimit .Params.location " » " }}</p>
+        {{ with .Params.original_url }}
+        <p class="post-original"><a href="{{ . }}" target="_blank" rel="noopener">View original entry</a></p>
+        {{ end }}
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+
+        {{ if .Params.images }}
+        <div class="photo-grid">
+            {{ range .Params.images }}
+            {{ $imgData := . }}
+            {{ $img := $.Resources.Get .filename }}
+            {{ with $img }}
+            <figure>
+                <img src="{{ .RelPermalink }}" alt="{{ $imgData.title }}" width="{{ .Width }}" height="{{ .Height }}">
+                <figcaption>
+                    <strong>{{ $imgData.title }}</strong>
+                    {{ with $imgData.description }}
+                    <p>{{ . }}</p>
+                    {{ end }}
+                </figcaption>
+            </figure>
+            {{ end }}
+            {{ end }}
+        </div>
+        {{ end }}
+    </article>
+</div>
+{{ end }}

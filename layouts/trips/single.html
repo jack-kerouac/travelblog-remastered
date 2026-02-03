@@ -12,9 +12,7 @@
     <p class="trip-countries">{{ delimit .Params.countries ", " }}</p>
 
     <div class="posts-list">
-        {{ range .Params.posts }}
-            {{ $post := $.Site.GetPage . }}
-            {{ with $post }}
+        {{ range .Pages.Reverse }}
             <article class="post-card">
                 <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                 <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
@@ -28,7 +26,6 @@
                 <p class="post-photos">{{ len . }} photos</p>
                 {{ end }}
             </article>
-            {{ end }}
         {{ end }}
     </div>
 </div>
