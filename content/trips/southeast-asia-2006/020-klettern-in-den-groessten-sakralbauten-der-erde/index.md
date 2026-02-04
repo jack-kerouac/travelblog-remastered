@@ -1,6 +1,6 @@
 ---
 title: Klettern in den groessten Sakralbauten der Erde
-date: '2006-09-09 00:00:00'
+date: '2006-09-09'
 draft: false
 location:
 - Asia

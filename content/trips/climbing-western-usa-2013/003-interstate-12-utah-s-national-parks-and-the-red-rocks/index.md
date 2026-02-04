@@ -1,6 +1,6 @@
 ---
 title: Interstate 12, Utah's National Parks, and the Red Rocks
-date: '2013-04-23 00:00:00'
+date: '2013-04-23'
 draft: false
 location:
 - North America

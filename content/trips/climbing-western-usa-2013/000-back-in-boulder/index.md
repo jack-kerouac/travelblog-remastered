@@ -1,6 +1,6 @@
 ---
 title: Back in Boulder
-date: '2013-03-24 00:00:00'
+date: '2013-03-24'
 draft: false
 location:
 - North America

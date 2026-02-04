@@ -1,6 +1,6 @@
 ---
 title: Squamish Bouldering
-date: '2013-06-29 00:00:00'
+date: '2013-06-29'
 draft: false
 location:
 - North America

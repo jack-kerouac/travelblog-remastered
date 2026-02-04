@@ -1,6 +1,6 @@
 ---
 title: border crossing, the hell bus and culture clash
-date: '2006-08-17 00:00:00'
+date: '2006-08-17'
 draft: false
 location:
 - Asia

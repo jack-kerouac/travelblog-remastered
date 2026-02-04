@@ -1,6 +1,6 @@
 ---
 title: Around Namhsan
-date: '2009-06-14 00:00:00'
+date: '2009-06-14'
 draft: false
 location:
 - Asia

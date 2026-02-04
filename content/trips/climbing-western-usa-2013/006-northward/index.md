@@ -1,6 +1,6 @@
 ---
 title: Northward!
-date: '2013-06-11 00:00:00'
+date: '2013-06-11'
 draft: false
 location:
 - North America

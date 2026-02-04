@@ -1,6 +1,6 @@
 ---
 title: Khmu, Akha und "Little Houses"
-date: '2008-07-04 00:00:00'
+date: '2008-07-04'
 draft: false
 location:
 - Asia

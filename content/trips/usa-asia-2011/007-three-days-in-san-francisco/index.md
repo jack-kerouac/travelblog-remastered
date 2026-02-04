@@ -1,6 +1,6 @@
 ---
 title: Three days in San Francisco
-date: '2011-05-01 00:00:00'
+date: '2011-05-01'
 draft: false
 location:
 - North America

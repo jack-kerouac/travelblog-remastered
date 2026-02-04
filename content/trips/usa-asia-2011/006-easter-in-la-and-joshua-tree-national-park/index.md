@@ -1,6 +1,6 @@
 ---
 title: Easter in LA and Joshua Tree National Park
-date: '2011-04-27 00:00:00'
+date: '2011-04-27'
 draft: false
 location:
 - North America

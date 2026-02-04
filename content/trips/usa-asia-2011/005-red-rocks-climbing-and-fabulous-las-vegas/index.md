@@ -1,6 +1,6 @@
 ---
 title: Red Rocks climbing and fabulous Las Vegas
-date: '2011-04-23 00:00:00'
+date: '2011-04-23'
 draft: false
 location:
 - North America

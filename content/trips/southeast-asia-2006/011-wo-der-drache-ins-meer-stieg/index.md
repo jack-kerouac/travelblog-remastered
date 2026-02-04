@@ -1,6 +1,6 @@
 ---
 title: wo der Drache ins Meer stieg
-date: '2006-08-19 00:00:00'
+date: '2006-08-19'
 draft: false
 location:
 - Asia

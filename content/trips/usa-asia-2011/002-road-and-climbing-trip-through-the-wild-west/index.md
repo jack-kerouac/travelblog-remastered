@@ -1,6 +1,6 @@
 ---
 title: Road and climbing trip through the Wild West
-date: '2011-04-03 00:00:00'
+date: '2011-04-03'
 draft: false
 location:
 - North America

@@ -1,6 +1,6 @@
 ---
 title: ein Zwischenstop in Hoi An
-date: '2006-08-25 00:00:00'
+date: '2006-08-25'
 draft: false
 location:
 - Asia

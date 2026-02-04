@@ -1,6 +1,6 @@
 ---
 title: Stadt der Moenche
-date: '2008-07-15 00:00:00'
+date: '2008-07-15'
 draft: false
 location:
 - Asia

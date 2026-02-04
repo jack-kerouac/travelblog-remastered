@@ -1,6 +1,6 @@
 ---
 title: Treking, Tubing, and Relaxing in Hsipaw
-date: '2009-06-10 00:00:00'
+date: '2009-06-10'
 draft: false
 location:
 - Asia

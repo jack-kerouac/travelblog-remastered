@@ -1,6 +1,6 @@
 ---
 title: My month in Ton Sai
-date: '2009-05-20 00:00:00'
+date: '2009-05-20'
 draft: false
 location:
 - Asia

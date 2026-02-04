@@ -1,6 +1,6 @@
 ---
 title: Climbing China's limestone cliffs in Yangshuo
-date: '2011-06-06 00:00:00'
+date: '2011-06-06'
 draft: false
 location:
 - Asia

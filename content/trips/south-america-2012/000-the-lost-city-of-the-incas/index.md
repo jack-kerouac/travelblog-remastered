@@ -1,6 +1,6 @@
 ---
 title: The Lost City of the Incas
-date: '2012-09-28 00:00:00'
+date: '2012-09-28'
 draft: false
 location:
 - South America

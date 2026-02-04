@@ -1,6 +1,6 @@
 ---
 title: Der Versuch eines Fazits
-date: '2006-09-11 00:00:00'
+date: '2006-09-11'
 draft: false
 location:
 - Asia

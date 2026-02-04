@@ -1,6 +1,6 @@
 ---
 title: Urlaub vom Urlaub
-date: '2008-09-08 00:00:00'
+date: '2008-09-08'
 draft: false
 location:
 - Europe

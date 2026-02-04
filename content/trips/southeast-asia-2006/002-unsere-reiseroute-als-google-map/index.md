@@ -1,6 +1,6 @@
 ---
 title: unsere Reiseroute als Google map
-date: '2006-07-28 00:00:00'
+date: '2006-07-28'
 draft: false
 location:
 - Europe

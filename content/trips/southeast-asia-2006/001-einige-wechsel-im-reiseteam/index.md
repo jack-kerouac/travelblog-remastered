@@ -1,6 +1,6 @@
 ---
 title: Einige Wechsel im Reiseteam
-date: '2006-07-27 00:00:00'
+date: '2006-07-27'
 draft: false
 location:
 - Europe

@@ -1,6 +1,6 @@
 ---
 title: Hoas grosse Familie
-date: '2006-08-24 00:00:00'
+date: '2006-08-24'
 draft: false
 location:
 - Asia

@@ -1,6 +1,6 @@
 ---
 title: Vientiane und Vang Vieng - in the middle of nowhere
-date: '2006-08-09 00:00:00'
+date: '2006-08-09'
 draft: false
 location:
 - Asia

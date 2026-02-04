@@ -1,6 +1,6 @@
 ---
 title: Big Bend Area, Canyonlands & Arches National Park
-date: '2013-03-29 00:00:00'
+date: '2013-03-29'
 draft: false
 location:
 - North America

@@ -1,6 +1,6 @@
 ---
 title: Saigon - wo die Moderne die Tradition und das Laecheln den Krieg trifft
-date: '2006-08-31 00:00:00'
+date: '2006-08-31'
 draft: false
 location:
 - Asia

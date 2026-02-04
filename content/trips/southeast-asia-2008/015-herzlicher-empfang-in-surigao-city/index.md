@@ -1,6 +1,6 @@
 ---
 title: Herzlicher Empfang in Surigao City
-date: '2008-08-07 00:00:00'
+date: '2008-08-07'
 draft: false
 location:
 - Asia

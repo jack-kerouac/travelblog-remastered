@@ -1,6 +1,6 @@
 ---
 title: Oh my god I can't believe it, I've never been this far away from home...
-date: '2006-08-04 00:00:00'
+date: '2006-08-04'
 draft: false
 location:
 - Asia

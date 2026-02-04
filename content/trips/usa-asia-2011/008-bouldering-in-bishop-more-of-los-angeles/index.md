@@ -1,6 +1,6 @@
 ---
 title: Bouldering in Bishop & more of Los Angeles
-date: '2011-05-05 00:00:00'
+date: '2011-05-05'
 draft: false
 location:
 - North America

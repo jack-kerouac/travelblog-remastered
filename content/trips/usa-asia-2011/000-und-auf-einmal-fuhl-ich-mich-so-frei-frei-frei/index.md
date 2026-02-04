@@ -1,6 +1,6 @@
 ---
 title: Und auf einmal fühl ich mich so frei, frei, frei.
-date: '2011-03-10 00:00:00'
+date: '2011-03-10'
 draft: false
 location:
 - Europe

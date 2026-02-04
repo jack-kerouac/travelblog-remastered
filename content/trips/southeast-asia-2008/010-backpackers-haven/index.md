@@ -1,6 +1,6 @@
 ---
 title: backpackers haven?
-date: '2008-07-11 00:00:00'
+date: '2008-07-11'
 draft: false
 location:
 - Asia

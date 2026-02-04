@@ -1,6 +1,6 @@
 ---
 title: Laos - 100 Jahre Unterschied zu Thailand
-date: '2006-08-07 00:00:00'
+date: '2006-08-07'
 draft: false
 location:
 - Asia

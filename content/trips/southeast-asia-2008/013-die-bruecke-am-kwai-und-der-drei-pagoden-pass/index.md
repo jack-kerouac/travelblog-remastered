@@ -1,6 +1,6 @@
 ---
 title: Die Bruecke am Kwai und der Drei-Pagoden-Pass
-date: '2008-07-23 00:00:00'
+date: '2008-07-23'
 draft: false
 location:
 - Asia

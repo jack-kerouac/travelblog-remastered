@@ -1,6 +1,6 @@
 ---
 title: Bishop bouldering and car problems in Sequoia NP
-date: '2013-05-02 00:00:00'
+date: '2013-05-02'
 draft: false
 location:
 - North America

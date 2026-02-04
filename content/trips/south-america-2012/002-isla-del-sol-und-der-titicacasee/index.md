@@ -1,6 +1,6 @@
 ---
 title: Isla del Sol und der Titicacasee
-date: '2012-10-03 00:00:00'
+date: '2012-10-03'
 draft: false
 location:
 - South America

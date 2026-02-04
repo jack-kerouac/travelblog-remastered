@@ -1,6 +1,6 @@
 ---
 title: Alpine bouldering in Rocky Mountain NP and sport climbing in Rifle
-date: '2013-08-03 00:00:00'
+date: '2013-08-03'
 draft: false
 location:
 - North America

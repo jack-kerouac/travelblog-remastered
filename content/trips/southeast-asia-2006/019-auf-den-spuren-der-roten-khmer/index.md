@@ -1,6 +1,6 @@
 ---
 title: Auf den Spuren der Roten Khmer
-date: '2006-09-05 00:00:00'
+date: '2006-09-05'
 draft: false
 location:
 - Asia

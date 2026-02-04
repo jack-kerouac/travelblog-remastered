@@ -1,6 +1,6 @@
 ---
 title: atemberaubende Busfahrt,Kolonialstaedtchen und Kater am Wasserfall
-date: '2006-08-13 00:00:00'
+date: '2006-08-13'
 draft: false
 location:
 - Asia
