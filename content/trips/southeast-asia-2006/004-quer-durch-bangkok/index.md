@@ -1,6 +1,6 @@
 ---
 title: quer durch Bangkok
-date: 2006-08-05 00:00:00
+date: '2006-08-05 00:00:00'
 draft: false
 location:
 - Asia

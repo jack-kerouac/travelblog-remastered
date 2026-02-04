@@ -1,6 +1,6 @@
 ---
 title: Rifle, Canyonlands, Bryce, Zion
-date: 2011-04-23 00:00:00
+date: '2011-04-23 00:00:00'
 draft: false
 location:
 - North America

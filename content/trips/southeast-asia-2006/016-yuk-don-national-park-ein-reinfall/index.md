@@ -1,6 +1,6 @@
 ---
 title: Yuk Don National Park - ein Reinfall
-date: 2006-08-29 00:00:00
+date: '2006-08-29 00:00:00'
 draft: false
 location:
 - Asia

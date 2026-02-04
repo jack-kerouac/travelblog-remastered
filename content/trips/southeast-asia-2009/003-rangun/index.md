@@ -1,6 +1,6 @@
 ---
 title: Rangun
-date: 2009-05-27 00:00:00
+date: '2009-05-27 00:00:00'
 draft: false
 location:
 - Asia

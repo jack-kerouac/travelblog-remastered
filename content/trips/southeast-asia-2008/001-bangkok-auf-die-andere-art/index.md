@@ -1,6 +1,6 @@
 ---
 title: Bangkok auf die andere Art
-date: 2008-05-24 00:00:00
+date: '2008-05-24 00:00:00'
 draft: false
 location:
 - Asia

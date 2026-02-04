@@ -1,6 +1,6 @@
 ---
 title: The Wild, Wild West
-date: 2013-09-25 00:00:00
+date: '2013-09-25 00:00:00'
 draft: false
 location:
 - North America

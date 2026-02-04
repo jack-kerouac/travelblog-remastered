@@ -1,6 +1,6 @@
 ---
 title: Einkaufen in der Khao Sarn Road
-date: 2006-08-05 00:00:00
+date: '2006-08-05 00:00:00'
 draft: false
 location:
 - Asia

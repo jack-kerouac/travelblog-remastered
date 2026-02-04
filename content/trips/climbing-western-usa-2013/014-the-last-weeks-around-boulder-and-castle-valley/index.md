@@ -1,6 +1,6 @@
 ---
 title: 'The last weeks: Around Boulder and Castle Valley'
-date: 2013-10-16 00:00:00
+date: '2013-10-16 00:00:00'
 draft: false
 location:
 - North America

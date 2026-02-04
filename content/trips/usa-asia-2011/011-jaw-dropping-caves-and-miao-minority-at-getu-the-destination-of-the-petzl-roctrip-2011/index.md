@@ -1,6 +1,6 @@
 ---
 title: Jaw-dropping caves and Miao minority at Gétû, the destination of the Petzl Roctrip 2011
-date: 2011-06-15 00:00:00
+date: '2011-06-15 00:00:00'
 draft: false
 location:
 - Asia

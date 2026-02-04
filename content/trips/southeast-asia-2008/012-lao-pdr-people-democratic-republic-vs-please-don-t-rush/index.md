@@ -1,6 +1,6 @@
 ---
 title: Lao PDR (People Democratic Republic vs. "Please Don't Rush")
-date: 2008-07-18 00:00:00
+date: '2008-07-18 00:00:00'
 draft: false
 location:
 - Asia

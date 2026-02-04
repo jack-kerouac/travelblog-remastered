@@ -1,6 +1,6 @@
 ---
 title: Root Canal Treatment in Bangkok
-date: 2009-04-24 00:00:00
+date: '2009-04-24 00:00:00'
 draft: false
 location:
 - Asia

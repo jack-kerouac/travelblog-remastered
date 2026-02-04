@@ -1,6 +1,6 @@
 ---
 title: Ost trifft West in Hong Kong
-date: 2011-05-11 00:00:00
+date: '2011-05-11 00:00:00'
 draft: false
 location:
 - Asia

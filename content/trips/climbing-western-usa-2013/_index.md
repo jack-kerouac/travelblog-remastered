@@ -1,8 +1,8 @@
 ---
 title: Climbing in Western USA
 description: Road and climbing trip through Western USA with Peter and Frieder.
-start_date: 2013-03-24 00:00:00
-end_date: 2013-10-16 00:00:00
+start_date: '2013-03-24 00:00:00'
+end_date: '2013-10-16 00:00:00'
 countries:
 - Canada
 - United States

@@ -1,6 +1,6 @@
 ---
 title: Colorado's High Rockies at Mt. Evans and Independence Pass
-date: 2013-08-20 00:00:00
+date: '2013-08-20 00:00:00'
 draft: false
 location:
 - North America

@@ -1,6 +1,6 @@
 ---
 title: Skiing in Breckenridge, climbing at Shelf Road
-date: 2011-04-12 00:00:00
+date: '2011-04-12 00:00:00'
 draft: false
 location:
 - North America

@@ -1,6 +1,6 @@
 ---
 title: '...mitten in den Vorbereitungen'
-date: 2006-07-03 00:00:00
+date: '2006-07-03 00:00:00'
 draft: false
 location:
 - Europe

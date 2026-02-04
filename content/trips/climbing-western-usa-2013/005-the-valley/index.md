@@ -1,6 +1,6 @@
 ---
 title: The Valley
-date: 2013-05-22 00:00:00
+date: '2013-05-22 00:00:00'
 draft: false
 location:
 - North America

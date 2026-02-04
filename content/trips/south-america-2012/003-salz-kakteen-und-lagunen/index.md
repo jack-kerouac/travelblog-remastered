@@ -1,6 +1,6 @@
 ---
 title: Salz, Kakteen und Lagunen
-date: 2012-10-07 00:00:00
+date: '2012-10-07 00:00:00'
 draft: false
 location:
 - South America

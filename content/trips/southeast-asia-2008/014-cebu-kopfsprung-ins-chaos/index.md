@@ -1,6 +1,6 @@
 ---
 title: Cebu - Kopfsprung ins Chaos
-date: 2008-07-28 00:00:00
+date: '2008-07-28 00:00:00'
 draft: false
 location:
 - Asia

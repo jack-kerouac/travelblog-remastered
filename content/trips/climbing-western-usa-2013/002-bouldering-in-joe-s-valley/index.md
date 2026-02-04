@@ -1,6 +1,6 @@
 ---
 title: Bouldering in Joe's Valley
-date: 2013-04-19 00:00:00
+date: '2013-04-19 00:00:00'
 draft: false
 location:
 - North America

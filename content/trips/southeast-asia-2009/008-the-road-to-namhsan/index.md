@@ -1,6 +1,6 @@
 ---
 title: The Road to Namhsan
-date: 2009-06-12 00:00:00
+date: '2009-06-12 00:00:00'
 draft: false
 location:
 - Asia

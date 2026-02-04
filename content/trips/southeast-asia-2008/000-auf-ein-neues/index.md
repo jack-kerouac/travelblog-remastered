@@ -1,6 +1,6 @@
 ---
 title: Auf ein Neues
-date: 2008-05-19 00:00:00
+date: '2008-05-19 00:00:00'
 draft: false
 location:
 - Europe

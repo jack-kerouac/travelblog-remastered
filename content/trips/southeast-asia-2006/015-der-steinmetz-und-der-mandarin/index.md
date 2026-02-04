@@ -1,6 +1,6 @@
 ---
 title: Der Steinmetz und der Mandarin
-date: 2006-08-27 00:00:00
+date: '2006-08-27 00:00:00'
 draft: false
 location:
 - Asia

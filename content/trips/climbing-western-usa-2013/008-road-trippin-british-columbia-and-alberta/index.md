@@ -1,6 +1,6 @@
 ---
 title: Road trippin' British Columbia and Alberta
-date: 2013-07-06 00:00:00
+date: '2013-07-06 00:00:00'
 draft: false
 location:
 - North America

@@ -1,6 +1,6 @@
 ---
 title: Around Rangoon
-date: 2009-05-31 00:00:00
+date: '2009-05-31 00:00:00'
 draft: false
 location:
 - Asia

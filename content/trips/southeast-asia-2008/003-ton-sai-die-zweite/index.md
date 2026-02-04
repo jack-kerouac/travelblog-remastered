@@ -1,6 +1,6 @@
 ---
 title: Ton Sai - die Zweite
-date: 2008-05-30 00:00:00
+date: '2008-05-30 00:00:00'
 draft: false
 location:
 - Asia

@@ -1,6 +1,6 @@
 ---
 title: Ton Sai - and time goes bye...
-date: 2009-05-01 00:00:00
+date: '2009-05-01 00:00:00'
 draft: false
 location:
 - Asia

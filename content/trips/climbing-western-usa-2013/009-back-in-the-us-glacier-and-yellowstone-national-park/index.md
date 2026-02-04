@@ -1,6 +1,6 @@
 ---
 title: Back in the US! Glacier and Yellowstone National Park
-date: 2013-07-10 00:00:00
+date: '2013-07-10 00:00:00'
 draft: false
 location:
 - North America

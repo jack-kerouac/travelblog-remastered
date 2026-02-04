@@ -1,6 +1,6 @@
 ---
 title: ein Naturparadies und ein crazy Ort
-date: 2006-08-10 00:00:00
+date: '2006-08-10 00:00:00'
 draft: false
 location:
 - Asia

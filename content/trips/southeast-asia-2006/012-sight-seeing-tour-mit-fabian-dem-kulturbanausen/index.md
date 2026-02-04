@@ -1,6 +1,6 @@
 ---
 title: Sight-Seeing-Tour mit Fabian, dem Kulturbanausen
-date: 2006-08-20 00:00:00
+date: '2006-08-20 00:00:00'
 draft: false
 location:
 - Asia

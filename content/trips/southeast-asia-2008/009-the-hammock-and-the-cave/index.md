@@ -1,6 +1,6 @@
 ---
 title: The hammock and the cave
-date: 2008-07-11 00:00:00
+date: '2008-07-11 00:00:00'
 draft: false
 location:
 - Asia

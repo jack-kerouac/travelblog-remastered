@@ -1,6 +1,6 @@
 ---
 title: Climbing "El Misti"
-date: 2012-10-01 00:00:00
+date: '2012-10-01 00:00:00'
 draft: false
 location:
 - South America

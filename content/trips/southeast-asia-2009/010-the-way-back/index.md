@@ -1,6 +1,6 @@
 ---
 title: The way back
-date: 2009-06-22 00:00:00
+date: '2009-06-22 00:00:00'
 draft: false
 location:
 - Asia

@@ -1,6 +1,6 @@
 ---
 title: Just another adventurous day in paradise...
-date: 2008-06-19 00:00:00
+date: '2008-06-19 00:00:00'
 draft: false
 location:
 - Asia
