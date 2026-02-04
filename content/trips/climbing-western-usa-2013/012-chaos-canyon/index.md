@@ -31,8 +31,7 @@ images:
   title: Melissa zieht hart
 - filename: 7688998-frieder-baut-sich-ein-sog-kneepad-0.jpg
   title: Frieder baut sich ein sog. Kneepad
-  description: damit kann man sein Knie in einen Felsvorsprung einklemmen, ohne dass
-    die Haut größeren Schaden nimmt
+  description: damit kann man sein Knie in einen Felsvorsprung einklemmen, ohne dass die Haut größeren Schaden nimmt
 - filename: 7688999-frieder-in-riddles-of-the-dark-v10--upper-chaos-canyon-0.jpg
   title: Frieder in Riddles of the Dark (v10), Upper Chaos Canyon
   description: zusammen mit Tommy Caldwell erarbeitet

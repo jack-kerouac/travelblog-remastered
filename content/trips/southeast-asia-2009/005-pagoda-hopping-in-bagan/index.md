@@ -25,13 +25,10 @@ images:
   title: Hier wird das getrocknete Palmoel gerieben
 - filename: 3938836-die-landschaft-0.jpg
   title: Die Landschaft...
-  description: '...hier sieht aus wie in einer Oase in der Wueste. Sehr sandiger Boden,
-    trocken und ueberall Palmen.'
+  description: '...hier sieht aus wie in einer Oase in der Wueste. Sehr sandiger Boden, trocken und ueberall Palmen.'
 - filename: 3938837-mount-popa-0.jpg
   title: Mount Popa
-  description: Unser Tagesausflug am Nachmittag, nachdem wir uns am morgen von der
-    aufreibenden Busfahrt erholt haben. Ein Kloster auf einem Felsen, der mitten in
-    der Landschaft aufragt.
+  description: Unser Tagesausflug am Nachmittag, nachdem wir uns am morgen von der aufreibenden Busfahrt erholt haben. Ein Kloster auf einem Felsen, der mitten in der Landschaft aufragt.
 - filename: 3938840-und-der-fluch-von-mount-popa-0.jpg
   title: 'und der Fluch von Mount Popa:'
   description: ueberall Affen
@@ -63,8 +60,7 @@ images:
   title: auf einer einsamen Pagode bei Sonnenuntergang
 - filename: 3938911-naja-fast-0.jpg
   title: naja, fast...
-  description: Einsam bis auf den netten Menschen, der - oh Wunder! - "Painter" ist
-    und mir seine "Paintings" verkaufen will.
+  description: Einsam bis auf den netten Menschen, der - oh Wunder! - "Painter" ist und mir seine "Paintings" verkaufen will.
 - filename: 3938912-busfahrt-nach-mandalay-0.jpg
   title: Busfahrt nach Mandalay
   description: Sie bauen die Strasse fuer uns :)

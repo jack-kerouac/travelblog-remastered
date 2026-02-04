@@ -23,12 +23,10 @@ images:
   title: Und nochmal der Campus
 - filename: 6011893-wenn_man_zum_fahrradfahren_zu_faul_ist-0.jpg
   title: Wenn man zum Fahrradfahren zu faul ist...
-  description: '...oder der Reifen platzt, dann stellt man das Rad einfach in den
-    Fahrradstaender vom Bus.'
+  description: '...oder der Reifen platzt, dann stellt man das Rad einfach in den Fahrradstaender vom Bus.'
 - filename: 6011895-die_bear_creak_appartments-0.jpg
   title: Die Bear Creak Appartments
-  description: Man beachte das Festungsaehnliche Gebaeude im Hintergrund. Auch das
-    sind Studentenwohnungen
+  description: Man beachte das Festungsaehnliche Gebaeude im Hintergrund. Auch das sind Studentenwohnungen
 - filename: 6011896-miniroecke_und_schnee_am_st-_patricks_day-0.jpg
   title: Miniroecke und Schnee am St. Patricks Day
 - filename: 6011894-einer_der_vielen_hippie-shops-0.jpg

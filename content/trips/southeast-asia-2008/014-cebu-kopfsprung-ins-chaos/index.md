@@ -16,14 +16,12 @@ images:
   description: von den Spaniern nach der Landung Magellans gebaut
 - filename: 2634825-kids-an-der-hafenmauer-0.jpg
   title: Kids an der Hafenmauer
-  description: die amerikanische Kultur hat hier starken Einfluss. Die Kids kennen
-    alle Rapper von East- und Westcoast :)
+  description: die amerikanische Kultur hat hier starken Einfluss. Die Kids kennen alle Rapper von East- und Westcoast :)
 - filename: 2634826-slum-im-hafenviertel-0.jpg
   title: Slum im Hafenviertel
 - filename: 2634827-so-begruessen-mich-die-philippinen-0.jpg
   title: So begruessen mich die Philippinen
-  description: So begruessen mich die Philippinen auf der Bruecke zwischen dem Flughafen
-    auf der Insel Mactan und Cebu City
+  description: So begruessen mich die Philippinen auf der Bruecke zwischen dem Flughafen auf der Insel Mactan und Cebu City
 - filename: 2634828-immigration-office-0.jpg
   title: Immigration Office
   description: eine buerokratische Tortur
@@ -60,8 +58,7 @@ images:
   description: Die Legion der Hafenarbeiter wartet auf die Faehre
 - filename: 2634843-und-die-kids-schwimmen-rund-um-die-faehre-0.jpg
   title: und die Kids schwimmen rund um die Faehre
-  description: und die Kids schwimmen rund um die Faehre in Deutschland undenkbar,
-    wie gefaehrlich! :)
+  description: und die Kids schwimmen rund um die Faehre in Deutschland undenkbar, wie gefaehrlich! :)
 type: post
 ---
 

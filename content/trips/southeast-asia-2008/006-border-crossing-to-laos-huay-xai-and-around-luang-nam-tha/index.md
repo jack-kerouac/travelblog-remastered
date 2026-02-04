@@ -22,9 +22,7 @@ images:
   description: '...in einem schoenen Restaurant am Ufer des Nuam Tha'
 - filename: 2527039-was-man-hier-ueberall-am-strassenrand-trifft-0.jpg
   title: was man hier ueberall am Strassenrand trifft
-  description: was man hier ueberall am Strassenrand trifft Hier ein Bueffel. Sie
-    haben leider keine Hemmungen einem vor das Motorrad zu laufen. Ich glaube, sie
-    wuerden gewinnen,
+  description: was man hier ueberall am Strassenrand trifft Hier ein Bueffel. Sie haben leider keine Hemmungen einem vor das Motorrad zu laufen. Ich glaube, sie wuerden gewinnen,
 - filename: 2527043-ueberwaeltigender-blick-0.jpg
   title: ueberwaeltigender Blick
   description: von einem Huegel ueber Luang Nam Tha und die Reisfelder

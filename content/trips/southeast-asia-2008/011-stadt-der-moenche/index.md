@@ -14,8 +14,7 @@ images:
   description: Moenche stehen zum Almosensammeln an
 - filename: 2575264-der-nightmarket-0.jpg
   title: Der Nightmarket
-  description: vornehmlich gibt es Stoffe, Tuecher, Bettbezuege, Lampenschirme, Schmuck,
-    Holzschnitzereien und Kleider zu kaufen. Alles handgenaeht, aus der Umgebung.
+  description: vornehmlich gibt es Stoffe, Tuecher, Bettbezuege, Lampenschirme, Schmuck, Holzschnitzereien und Kleider zu kaufen. Alles handgenaeht, aus der Umgebung.
 - filename: 2575265-wat-xieng-thong-0.jpg
   title: Wat Xieng Thong
   description: der bekannteste Tempel in Luang Prabang
@@ -25,8 +24,7 @@ images:
   title: Moenche beim Abendgebet
 - filename: 2575268-so-werden-die-touren-ausgeschrieben-0.jpg
   title: So werden die Touren ausgeschrieben...
-  description: So werden die Touren ausgeschrieben... ...die man in den Travel Agencies
-    buchen kann. Die ganze Hauptstrasse wimmelt nur so von solchen Schildern.
+  description: So werden die Touren ausgeschrieben... ...die man in den Travel Agencies buchen kann. Die ganze Hauptstrasse wimmelt nur so von solchen Schildern.
 - filename: 2575269-einer-der-vielen-reizvollen-laeden-0.jpg
   title: Einer der vielen reizvollen Laeden
   description: Einer der vielen reizvollen Laeden
@@ -46,14 +44,12 @@ images:
   description: eine ganze Reihe Moenche wartet
 - filename: 2575278-die-stimmung-ist-sehr-ruhig-0.jpg
   title: die Stimmung ist sehr ruhig
-  description: die Stimmung ist sehr ruhig wenn auch die Moenche sehr an die Touris
-    gewoehnt sind und pflichtschuldig in die Kameras laecheln
+  description: die Stimmung ist sehr ruhig wenn auch die Moenche sehr an die Touris gewoehnt sind und pflichtschuldig in die Kameras laecheln
 - filename: 2575279-monk-sombath-und-ich-0.jpg
   title: Monk Sombath und ich
 - filename: 2575280-phu-si-0.jpg
   title: Phu Si
-  description: Phu Si die Luang Prabang ueberragende Stuppa. Hervorragend zur Orientierung
-    geeignet.
+  description: Phu Si die Luang Prabang ueberragende Stuppa. Hervorragend zur Orientierung geeignet.
 - filename: 2575281-blick-von-phu-si-auf-den-mekong-0.jpg
   title: Blick von Phu Si auf den Mekong
   description: Blick von Phu Si auf den Mekong

@@ -53,12 +53,10 @@ images:
   description: gemeinsamer Rad- und Kuhweg
 - filename: 512990-moped-carrier-0.jpg
   title: Moped-Carrier
-  description: 'auf Mopeds wird alles moegliche und vor allem unmoegliche transportiert:
-    tote Kuh am Stueck, fuenf lebende Ferkel, eine drei Meter hohe Palme, ...'
+  description: 'auf Mopeds wird alles moegliche und vor allem unmoegliche transportiert: tote Kuh am Stueck, fuenf lebende Ferkel, eine drei Meter hohe Palme, ...'
 - filename: 512994-normaler-verkehr-in-hanoi-0.jpg
   title: normaler Verkehr in Hanoi
-  description: 2.000.000 Mopeds vs. 20.000 Autos (300% teurer als in 'schland), Busse,
-    etc.
+  description: 2.000.000 Mopeds vs. 20.000 Autos (300% teurer als in 'schland), Busse, etc.
 type: post
 ---
 

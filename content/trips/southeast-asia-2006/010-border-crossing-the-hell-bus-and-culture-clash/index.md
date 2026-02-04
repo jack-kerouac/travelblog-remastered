@@ -20,29 +20,24 @@ images:
   description: viele ausgehoehlte Felsen und eine tolle Aussicht.
 - filename: 509046-mines-advisory-group-0.jpg
   title: Mines Advisory Group
-  description: diese Markierung zeigt eine entscharfte UXO (Unexploded Ordnance) an.
-    Man sah sie zu hunderten.
+  description: diese Markierung zeigt eine entscharfte UXO (Unexploded Ordnance) an. Man sah sie zu hunderten.
 - filename: 509047-welch-ausblick-auf-laos-0.jpg
   title: welch Ausblick auf Laos...
 - filename: 509048-und-absolute-stille-1.jpg
   title: '...und absolute Stille'
-  description: bis auf das Zirpen der Grillen. Kein menschliches Geraeusch weit und
-    breit. Im Hintergrund, Bruno, unsere Reisebekanntschaft.
+  description: bis auf das Zirpen der Grillen. Kein menschliches Geraeusch weit und breit. Im Hintergrund, Bruno, unsere Reisebekanntschaft.
 - filename: 509049-eines-unserer-baeder-0.jpg
   title: eines unserer Baeder
-  description: und nicht unbedingt das schlechteste, das wir hatten. Man gewoehnt
-    sich daran.
+  description: und nicht unbedingt das schlechteste, das wir hatten. Man gewoehnt sich daran.
 - filename: 509050-auf-staatenfreiem-boden-0.jpg
   title: auf staatenfreiem Boden
   description: Im Hintergrund, die vietnamesische Grenze.
 - filename: 509051-the-hell-bus-0.jpg
   title: the hell bus
-  description: so ungefaehr sah die Strasse nach Vinh aus. Achja, unser Busfahrer
-    unterlegt gerade die Reifen mit Steinen.
+  description: so ungefaehr sah die Strasse nach Vinh aus. Achja, unser Busfahrer unterlegt gerade die Reifen mit Steinen.
 - filename: 509052-zwei-total-verrueckte-maedels-0.jpg
   title: zwei total verrueckte Maedels
-  description: zwei total verrueckte Maedels an der Busstation in Vinh. Wir ziemlich
-    am Ende, mit unseren schoenen Ponchos im stroemenden Monsun.
+  description: zwei total verrueckte Maedels an der Busstation in Vinh. Wir ziemlich am Ende, mit unseren schoenen Ponchos im stroemenden Monsun.
 - filename: 509053-chillen-im-nobelcafe-0.jpg
   title: chillen im Nobelcafe
   description: am zentralen See mitten in Hanoi

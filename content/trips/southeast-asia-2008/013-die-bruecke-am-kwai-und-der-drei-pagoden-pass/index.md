@@ -24,8 +24,7 @@ images:
   description: John, der schottische Dachdecker Und ein Polizist im Nighttrain
 - filename: 2615256-schwimmende-haeuser-auf-dem-kwai-1.jpg
   title: schwimmende Haeuser auf dem Kwai
-  description: schwimmende Haeuser auf dem Kwai manche Restaurants haben einen eigenen
-    Antrieb und schippern, sobald genuegend Gaeste da sind den Fluss entlang
+  description: schwimmende Haeuser auf dem Kwai manche Restaurants haben einen eigenen Antrieb und schippern, sobald genuegend Gaeste da sind den Fluss entlang
 - filename: 2615257-ich-hoffe-die-thais-meinen-das-nicht-ernst-0.jpg
   title: Ich hoffe, die Thais meinen das nicht ernst... :)
   description: Ich hoffe, die Thais meinen das nicht ernst... :)
@@ -34,9 +33,7 @@ images:
   description: hier sind die Opfer des "Death Railway" begraben
 - filename: 2615260-24-jahre-alt-0.jpg
   title: 24 Jahre alt
-  description: die Japaner sehen Kriegsgefangene als unwuerdig an, da sie nicht bis
-    zum Tode gekaempft haben, was in Japan im Zweiten Weltkrieg das Kriegerethos war.
-    Dementsprechend wurden die Gefangenen behandelt.
+  description: die Japaner sehen Kriegsgefangene als unwuerdig an, da sie nicht bis zum Tode gekaempft haben, was in Japan im Zweiten Weltkrieg das Kriegerethos war. Dementsprechend wurden die Gefangenen behandelt.
 - filename: 2615261-die-bruecke-am-kwai-die-zweite-0.jpg
   title: Die Bruecke am Kwai, die zweite
   description: Die Bruecke am Kwai, die zweite
@@ -54,8 +51,7 @@ images:
   description: Das ist die Grenze zu Burma :) kein Spass!
 - filename: 2615269-deal-0.jpg
   title: Deal?
-  description: Hiermit beginnt eine Aera der deutsch-birmesischen Zusammenarbeit.
-    :))
+  description: Hiermit beginnt eine Aera der deutsch-birmesischen Zusammenarbeit. :))
 - filename: 2615272-regen-im-anmarsch-0.jpg
   title: Regen im Anmarsch
 - filename: 2615274-schwimmende-haeuser-bei-sangkhlaburi-1.jpg
@@ -63,8 +59,7 @@ images:
   description: schwimmende Haeuser bei Sangkhlaburi im Hintergrund die Holzbruecke
 - filename: 2615276-begruendeterweise-0.jpg
   title: begruendeterweise...
-  description: '...duerfen keine Motorcycles oder anderes schweres Gefaehrt auf die
-    Bruecke'
+  description: '...duerfen keine Motorcycles oder anderes schweres Gefaehrt auf die Bruecke'
 - filename: 2615278-tempel-indischer-abstammung-0.jpg
   title: Tempel, indischer Abstammung
   description: Tempel, indischer Abstammung

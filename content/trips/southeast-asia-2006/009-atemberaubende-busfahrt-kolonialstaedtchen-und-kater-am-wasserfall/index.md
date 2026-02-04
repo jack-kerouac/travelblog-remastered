@@ -14,33 +14,27 @@ images:
   description: Kann leider auf Fotos nicht wirklich wiedergegeben werden.
 - filename: 502535-schmuse-vip-bus-0.jpg
   title: Schmuse-VIP-Bus
-  description: Mit lauter knutschenden Paerchen, denen die Landschaft im wahrsten
-    Sinne des Wortes die Sprache verschlagen hat.
+  description: Mit lauter knutschenden Paerchen, denen die Landschaft im wahrsten Sinne des Wortes die Sprache verschlagen hat.
 - filename: 502537-erdrutsch-0.jpg
   title: Erdrutsch
   description: direkt am Strassenrand
 - filename: 502538-restaurant-an-der-mekong-uferpromenade-0.jpg
   title: Restaurant an der Mekong-Uferpromenade
-  description: Restaurant an der Mekong-Uferpromenade und wir warten aufs Essen und
-    wissen noch nicht, was uns bevor steht.
+  description: Restaurant an der Mekong-Uferpromenade und wir warten aufs Essen und wissen noch nicht, was uns bevor steht.
 - filename: 502539-sonnenuntergang-am-mekong-0.jpg
   title: Sonnenuntergang am Mekong
 - filename: 502541-christoph-ist-happy-0.jpg
   title: Christoph ist happy
-  description: So schauts aus, wenn man sich very spicy bestellt und noch nie im Leben
-    zuvor so scharf gegessen hat (Kribbeln in den Fingern, Schweissausbruch und Gesichtszuckungen,
-    Laehmung der Lippen und Traenenausbruch)
+  description: So schauts aus, wenn man sich very spicy bestellt und noch nie im Leben zuvor so scharf gegessen hat (Kribbeln in den Fingern, Schweissausbruch und Gesichtszuckungen, Laehmung der Lippen und Traenenausbruch)
 - filename: 502543-seitengasse-in-luang-prabang-0.jpg
   title: Seitengasse in Luang Prabang
   description: Seitengasse in Luang Prabang eine der vielen malerischen
 - filename: 502544-kids-am-anderen-mekongufer-0.jpg
   title: Kids am anderen Mekongufer...
-  description: Kids am anderen Mekongufer... ...wagen erste Gehversuche mit Fabians
-    Digitalkamera
+  description: Kids am anderen Mekongufer... ...wagen erste Gehversuche mit Fabians Digitalkamera
 - filename: 502545-eine-landschaft-fuer-goetter-0.jpg
   title: Eine Landschaft fuer Goetter
-  description: Eine Landschaft fuer Goetter Luang Prabang, in einem Hochtal in Nordlaos,
-    von oben.
+  description: Eine Landschaft fuer Goetter Luang Prabang, in einem Hochtal in Nordlaos, von oben.
 - filename: 502546-sonnenuntergang-auf-dem-phu-si-tempel-0.jpg
   title: Sonnenuntergang auf dem Phu Si Tempel
   description: Sonnenuntergang auf dem Phu Si Tempel goldig
@@ -58,8 +52,7 @@ images:
   description: Posterqualitaet, mehr faellt uns nicht ein
 - filename: 502555-die-wohl-verdienten-fruehlingsrollen-0.jpg
   title: die wohl verdienten Fruehlingsrollen
-  description: die wohl verdienten Fruehlingsrollen eines der besten Essen meines
-    Lebens
+  description: die wohl verdienten Fruehlingsrollen eines der besten Essen meines Lebens
 type: post
 ---
 

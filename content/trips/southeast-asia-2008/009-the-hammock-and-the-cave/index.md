@@ -26,8 +26,7 @@ images:
   description: und das sieht man von der Bruecke aus
 - filename: 2557343-die-laos-und-das-englisch-0.jpg
   title: die Laos und das Englisch...
-  description: die Laos und das Englisch... Furchtbar. Es gibt kein Strassenschild
-    und keine Speisekarte auf der kein Schreibfehler waere.
+  description: die Laos und das Englisch... Furchtbar. Es gibt kein Strassenschild und keine Speisekarte auf der kein Schreibfehler waere.
 - filename: 2557344-schreibtisch-des-lokalen-oberhaupts-0.jpg
   title: Schreibtisch des lokalen Oberhaupts
   description: Schreibtisch des lokalen Oberhaupts

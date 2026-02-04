@@ -11,12 +11,10 @@ original_url: https://www.travelblog.org/asia/laos/west/vientiane/blog-301328
 images:
 - filename: 2591315-vientiane--nichts-fuer-traeumer-1.jpg
   title: Vientiane - Nichts fuer Traeumer :)
-  description: Vientiane - Nichts fuer Traeumer :) Da gewinnt der gaengige Spruch
-    "Lao PDR - Please Don't Rush" gleich eine ganz neue Bedeutung...
+  description: Vientiane - Nichts fuer Traeumer :) Da gewinnt der gaengige Spruch "Lao PDR - Please Don't Rush" gleich eine ganz neue Bedeutung...
 - filename: 2591317-dani-vor-der-selfmade-suppe-0.jpg
   title: Dani vor der Selfmade-Suppe
-  description: Dani vor der Selfmade-Suppe Verschiedene Zutaten, wie Nudeln, Gemuese
-    und Fleisch werden in den gluehend heissen Suppentopf geworfen
+  description: Dani vor der Selfmade-Suppe Verschiedene Zutaten, wie Nudeln, Gemuese und Fleisch werden in den gluehend heissen Suppentopf geworfen
 - filename: 2591318-zum-abendessen-grashopper-0.jpg
   title: 'Zum Abendessen: grashopper'
 - filename: 2591319-und-weitere-gute-sachen-0.jpg
@@ -41,22 +39,17 @@ images:
   description: vor allem bekannt fuer Silber- und Goldschmiede
 - filename: 2591333-wat-sisaket-0.jpg
   title: Wat Sisaket
-  description: Wat Sisaket kleine Buddhas finden sich in den Nieschen. Im ganzen Tempel
-    gibts ueber 8600 Buddha-Figuren
+  description: Wat Sisaket kleine Buddhas finden sich in den Nieschen. Im ganzen Tempel gibts ueber 8600 Buddha-Figuren
 - filename: 2591334-und-danach-gabs-eine-kleine-staerkung-von-den-moenchen-0.jpg
   title: und danach gabs eine kleine Staerkung von den Moenchen
 - filename: 2591341-eines-der-besten-essen-seit-sehr-langer-zeit-0.jpg
   title: eines der besten Essen seit sehr langer Zeit
-  description: eines der besten Essen seit sehr langer Zeit im Full Moon Cafe in Vientiane.
-    Ausserdem gibt es einen Katalog mit gefuehlt 23 Millionen Alben zur Auswahl. Man
-    kann sich fuer ca. 75 Dollar-Cent pro Album eine beliebige Menge an Musik auf
-    seinen iPod kopieren oder auf DVD brennen lassen.
+  description: eines der besten Essen seit sehr langer Zeit im Full Moon Cafe in Vientiane. Ausserdem gibt es einen Katalog mit gefuehlt 23 Millionen Alben zur Auswahl. Man kann sich fuer ca. 75 Dollar-Cent pro Album eine beliebige Menge an Musik auf seinen iPod kopieren oder auf DVD brennen lassen.
 - filename: 2591342-mein-25-dollar-guesthouse-0.jpg
   title: Mein 25-Dollar-Guesthouse
 - filename: 2591343-marianne-0.jpg
   title: Marianne...
-  description: '...und im Hintergrund ihr momentaner Untermieter, ein absolut witziger
-    Hollaender'
+  description: '...und im Hintergrund ihr momentaner Untermieter, ein absolut witziger Hollaender'
 - filename: 2591345-der-uebelste-kaefer-den-ich-je-gesehen-habe-0.jpg
   title: Der uebelste Kaefer, den ich je gesehen habe
   description: Der uebelste Kaefer, den ich je gesehen habe

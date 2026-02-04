@@ -22,8 +22,7 @@ images:
   description: Moechtegern-Vietnamesinnen :)
 - filename: 540295-alles-leben-spielt-sich-hier-auf-dem-fluss-ab-0.jpg
   title: alles Leben spielt sich hier auf dem Fluss ab
-  description: alles Leben spielt sich hier auf dem Fluss ab Kids koennen schon von
-    klein auf schwimmen
+  description: alles Leben spielt sich hier auf dem Fluss ab Kids koennen schon von klein auf schwimmen
 - filename: 540296-kokos-kaugummi-0.jpg
   title: Kokos-Kaugummi
   description: klebt wie Patex...
@@ -35,8 +34,7 @@ images:
   description: spartanisches Leben am Mekong
 - filename: 540303-mittagessen-auf-einer-mekong-insel-0.jpg
   title: Mittagessen auf einer Mekong-Insel
-  description: Mittagessen auf einer Mekong-Insel Sam, ein franzoesisches Paerchen,
-    ich und Lisa
+  description: Mittagessen auf einer Mekong-Insel Sam, ein franzoesisches Paerchen, ich und Lisa
 - filename: 540305-chilling-in-a-hamock-0.jpg
   title: chilling in a hamock
 - filename: 540307-manche-transportschiffe-sind-dem-untergang-wirklich-nahe-0.jpg

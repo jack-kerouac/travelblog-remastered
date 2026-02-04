@@ -26,20 +26,16 @@ images:
   description: insane...
 - filename: 6184119-the_egg-0.jpg
   title: '"The Egg"'
-  description: ein beliebter Felsen mit Touren in den Schwierigkeitsgraden 5+ bis
-    7c
+  description: ein beliebter Felsen mit Touren in den Schwierigkeitsgraden 5+ bis 7c
 - filename: 6184106-hot_pot-0.jpg
   title: Hot Pot
-  description: mit Marcello (El Salvador), Stina (Daenemark), Sophie (UK), Morgan
-    (US), Duncan (Australien)
+  description: mit Marcello (El Salvador), Stina (Daenemark), Sophie (UK), Morgan (US), Duncan (Australien)
 - filename: 6184107-beer_pong_in_der_mojo_bar-0.jpg
   title: Beer Pong in der Mojo Bar
-  description: Man versucht Tischtennisbaelle in die mit Bier gefuellten Becher der
-    anderen zu werfen. Duncan und Stina
+  description: Man versucht Tischtennisbaelle in die mit Bier gefuellten Becher der anderen zu werfen. Duncan und Stina
 - filename: 6184118-the_white_mountain-0.jpg
   title: The White Mountain
-  description: 200m lang harte Routen bis 9a+. Hier klettert nur die Elite, zum Beispiel
-    Chris Sharma und A Bon, bester Kletterer Asiens.
+  description: 200m lang harte Routen bis 9a+. Hier klettert nur die Elite, zum Beispiel Chris Sharma und A Bon, bester Kletterer Asiens.
 - filename: 6184120-schoen_ists_hier_halt_schon-0.jpg
   title: schoen ists hier halt schon...
 - filename: 6184121-the_top_of_-low_mountain-0.jpg
@@ -63,22 +59,18 @@ images:
   title: und nebenzu uebten wir Barhocker-Bouldern
 - filename: 6184265-singularity-_7a-_in_lei_pi_shan-0.jpg
   title: Singularity, 7a+ in Lei Pi Shan
-  description: Coco sichert mich in der 30-Meter Route mit einer kleingriffen, ueberhaengenden
-    Crux.
+  description: Coco sichert mich in der 30-Meter Route mit einer kleingriffen, ueberhaengenden Crux.
 - filename: 6184266-marc_und_ich-0.jpg
   title: Marc und ich
-  description: Marc studiert in Guilin, kommt aus Barcelona und ist ein ueberaus amuesanter
-    Vogel
+  description: Marc studiert in Guilin, kommt aus Barcelona und ist ein ueberaus amuesanter Vogel
 - filename: 6184267-ein_kleiner_teich_mitten_in_yangshuo-0.jpg
   title: Ein kleiner Teich mitten in Yangshuo
 - filename: 6184268-chinese_buritos-0.jpg
   title: Chinese Buritos
-  description: mit Ei, Salat, Wuerstchen, Gewuerzen. Unser taegliches Mittagessen
-    an den Felsen
+  description: mit Ei, Salat, Wuerstchen, Gewuerzen. Unser taegliches Mittagessen an den Felsen
 - filename: 6184270-ruben_und_coco_in_einer_7b-0.jpg
   title: Ruben und Coco in einer 7b
-  description: Beide sind verzweifelt, wir haben erst am Abend erfahren, dass der
-    Schluesselgriff ausgebrochen ist.
+  description: Beide sind verzweifelt, wir haben erst am Abend erfahren, dass der Schluesselgriff ausgebrochen ist.
 - filename: 6184271-sonnenuntergang_ueber_yangshuo-0.jpg
   title: Sonnenuntergang ueber Yangshuo
 - filename: 6184272-tim_und_seine_bar_98-0.jpg
@@ -98,8 +90,7 @@ images:
   title: Coco, Alex, Georgio und Mathias chillen
 - filename: 6184320-gemuesebuffet_fuer_90_cent-0.jpg
   title: Gemuesebuffet fuer 90 Cent
-  description: Man sucht sich aus, was man will, dann wird alles zusammen in einem
-    Wok angebraten und dazu gibts dann Reis.
+  description: Man sucht sich aus, was man will, dann wird alles zusammen in einem Wok angebraten und dazu gibts dann Reis.
 - filename: 6184321-mathias-_coco-_marc-_alex-_georgio_und_ich-0.jpg
   title: Mathias, Coco, Marc, Alex, Georgio und ich
   description: nach einem guten Klettertag auf Moon Hill

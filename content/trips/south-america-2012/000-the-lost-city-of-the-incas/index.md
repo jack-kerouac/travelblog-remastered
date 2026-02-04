@@ -11,8 +11,7 @@ original_url: https://www.travelblog.org/south-america/peru/cusco/machu-picchu/b
 images:
 - filename: 7191094-wenn-ich-hier-koenig-gewesen-waere-0.jpg
   title: Wenn ich hier Koenig gewesen waere...
-  description: '...und ich haette mir sowas bauen lassen, waere ich ganz schoen psyched
-    gewesen (Wie Christoph korrekt bemerkte).'
+  description: '...und ich haette mir sowas bauen lassen, waere ich ganz schoen psyched gewesen (Wie Christoph korrekt bemerkte).'
 - filename: 7191067-nachtbus-von-lima-nach-cusco-0.jpg
   title: Nachtbus von Lima nach Cusco
   description: 20h Business Class travelling

@@ -23,8 +23,7 @@ images:
   description: keine Ahnung, warum unser Bootsfuehrer so verzweifelt ausschaut :)
 - filename: 2557393-unser-guide-vor-der-ersten-stufe-des-wasserfalls-0.jpg
   title: unser Guide vor der ersten Stufe des Wasserfalls
-  description: unser Guide vor der ersten Stufe des Wasserfalls ohne den Jungen haetten
-    wir den Weg nie gefunden
+  description: unser Guide vor der ersten Stufe des Wasserfalls ohne den Jungen haetten wir den Weg nie gefunden
 - filename: 2557396-nochmal-ein-wenig-wasserfallstimmung-0.jpg
   title: nochmal ein wenig Wasserfallstimmung :)
   description: nochmal ein wenig Wasserfallstimmung :)
@@ -33,9 +32,7 @@ images:
   description: '... schaut die Landschaft gleich noch viel schoener aus'
 - filename: 2557400-vollkommen-ueberfuelltes-boot-0.jpg
   title: vollkommen ueberfuelltes Boot
-  description: vollkommen ueberfuelltes Boot zurueck nach Nong Khiaw. Ich kann mir
-    nicht vorstellen, dass das erlaubt war. Wobei es bei nur 50 geschriebenen Gesetzen
-    wohl auch nicht verboten war :)
+  description: vollkommen ueberfuelltes Boot zurueck nach Nong Khiaw. Ich kann mir nicht vorstellen, dass das erlaubt war. Wobei es bei nur 50 geschriebenen Gesetzen wohl auch nicht verboten war :)
 - filename: 2557402-mein-fruehstuec-in-luang-prabang-0.jpg
   title: mein Fruehstuec in Luang Prabang
   description: mein Fruehstuec in Luang Prabang

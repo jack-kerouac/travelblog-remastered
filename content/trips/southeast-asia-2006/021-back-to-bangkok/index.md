@@ -29,8 +29,7 @@ images:
   description: welch unerwarteter und erfreulicher Luxus
 - filename: 552818-downtown-bangkok-0.jpg
   title: Downtown Bangkok
-  description: die Kluft zwischen arm und reich befindet sich ungefaehr in der Mitte
-    des Fotos
+  description: die Kluft zwischen arm und reich befindet sich ungefaehr in der Mitte des Fotos
 type: post
 ---
 

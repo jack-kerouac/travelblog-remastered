@@ -16,21 +16,16 @@ images:
   title: 6c Start in die Route "I not speak England"
 - filename: 2460952-vor-einem-felsen-bei-phra-nangh-beach-0.jpg
   title: vor einem Felsen bei Phra Nangh Beach
-  description: vor einem Felsen bei Phra Nangh Beach das Bild ist vor allem zum neidisch
-    machen :)
+  description: vor einem Felsen bei Phra Nangh Beach das Bild ist vor allem zum neidisch machen :)
 - filename: 2460962-the-gun-show-0.jpg
   title: The Gun Show :)
   description: wie Marko zu sagen pflegte
 - filename: 2460963-die-lagune-0.jpg
   title: Die Lagune
-  description: ein sehr schweisstreibender und glitschiger Weg hinauf, ueber den Huegel
-    und dann wieder auf Meeresniveau hinab. Nur bei Flut sieht die Lagune so aus.
-    Nahezu keine Touristen (vor allem nicht aus Railey und Phra Nang :) wagen den
-    Aufstieg.
+  description: ein sehr schweisstreibender und glitschiger Weg hinauf, ueber den Huegel und dann wieder auf Meeresniveau hinab. Nur bei Flut sieht die Lagune so aus. Nahezu keine Touristen (vor allem nicht aus Railey und Phra Nang :) wagen den Aufstieg.
 - filename: 2460964-abseiling-von-der-fledermaushoehle-ueber-railey-beach-0.jpg
   title: Abseiling von der Fledermaushoehle ueber Railey Beach
-  description: Direkt ueber meinem Kopf der Huegel, ueber den man von Railey (rechts)
-    nach Ton Sai (links) steigen kann.
+  description: Direkt ueber meinem Kopf der Huegel, ueber den man von Railey (rechts) nach Ton Sai (links) steigen kann.
 - filename: 2460971-big-wave-pitch-3-1.jpg
   title: Big Wave, Pitch 3
 - filename: 2460989-chris-und-ich-am-ende-von--big-wave-0.jpg
@@ -62,8 +57,7 @@ images:
   title: Leicht fertig am letzten Anker der "Humanality"
 - filename: 2461096-meine-schuhe-sind-fertig-0.jpg
   title: meine Schuhe sind fertig
-  description: Deswegen habe ich sie auch ner Kletterschule fuers Deep Water Soloing
-    geschenkt.
+  description: Deswegen habe ich sie auch ner Kletterschule fuers Deep Water Soloing geschenkt.
 - filename: 2461019-roland-ein-super-schweizer-kletterer-0.jpg
   title: Roland, ein super schweizer Kletterer
   description: Roland, ein super schweizer Kletterer und sehr cooler Typ ;-)

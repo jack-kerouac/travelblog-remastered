@@ -29,9 +29,7 @@ images:
   title: Auf dem hoechsten Berg in der Umgebung von Namhsan
 - filename: 3955962-mitten-in-den-wolken-0.jpg
   title: mitten in den Wolken
-  description: 'dahinter: Ruby Land. Hier werden Edelsteine gewonnen. Zutritt fuer
-    Touris strengstens verboten. Bis vor 10 Jahren wurde hier Opium im grossen Stil
-    angebaut.'
+  description: 'dahinter: Ruby Land. Hier werden Edelsteine gewonnen. Zutritt fuer Touris strengstens verboten. Bis vor 10 Jahren wurde hier Opium im grossen Stil angebaut.'
 - filename: 3955963-was-fuer-ein-ausblick-0.jpg
   title: Was fuer ein Ausblick...
 - filename: 3955964-mittagessen-im-kloster-auf-dem-gipfel-0.jpg
@@ -46,8 +44,7 @@ images:
   title: Die Strassenverhaeltnisse sind furchtbar
 - filename: 3955970-nach-einem-platzregen-stecken-wir-tief-im-matsch-0.jpg
   title: Nach einem Platzregen stecken wir tief im Matsch
-  description: Die Locals nennen das Fahren auf solchen Strassen "kraulen". Die Fuesse
-    kraulen durch den Matsch und so haelt man grob die Balance.
+  description: Die Locals nennen das Fahren auf solchen Strassen "kraulen". Die Fuesse kraulen durch den Matsch und so haelt man grob die Balance.
 - filename: 3955971-der-junge-rupft-eine-tote-maus-0.jpg
   title: Der Junge rupft eine tote Maus...
 - filename: 3955972-leicht-schuechteren-maedels-0.jpg
@@ -56,14 +53,12 @@ images:
   title: Er wollte auch ein Foto...
 - filename: 3955975-der-dorfvorsteher-0.jpg
   title: Der Dorfvorsteher
-  description: Zusammen mit ihm, seiner Familie und Shandi sitze ich ums Feuer im
-    Haus.
+  description: Zusammen mit ihm, seiner Familie und Shandi sitze ich ums Feuer im Haus.
 - filename: 3955976-seine-tochter-0.jpg
   title: seine Tochter
 - filename: 3955978-und-abendessen-0.jpg
   title: Und Abendessen
-  description: Die Finger formen einen Reisball, den man dann in die verschiedenen
-    Gerichte auf dem Tisch dipt. Ich bevorzuge einen Loeffel.
+  description: Die Finger formen einen Reisball, den man dann in die verschiedenen Gerichte auf dem Tisch dipt. Ich bevorzuge einen Loeffel.
 - filename: 3955979-shandi-und-mein-bett-0.jpg
   title: Shandi und mein Bett
 - filename: 3955980-die-grannys-0.jpg

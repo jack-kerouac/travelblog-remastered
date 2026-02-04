@@ -20,16 +20,13 @@ images:
   description: Eine sehr beeindruckende Persoenlichkeit
 - filename: 531300-ein-rong-haus-0.jpg
   title: ein Rong Haus
-  description: ein Rong Haus Dorfzentrum und Versammlungshalle. Nur mit Hilfe von
-    Bambus und Rattanschnueren gebaut.
+  description: ein Rong Haus Dorfzentrum und Versammlungshalle. Nur mit Hilfe von Bambus und Rattanschnueren gebaut.
 - filename: 531296-sam-und-vier-lustige-entwicklungshelfer-0.jpg
   title: Sam und vier lustige Entwicklungshelfer
-  description: Sam und vier lustige Entwicklungshelfer die uns am Abend in Kon Tum
-    zum Essen eingeladen haben
+  description: Sam und vier lustige Entwicklungshelfer die uns am Abend in Kon Tum zum Essen eingeladen haben
 - filename: 531301-ein-typisches-haus-der-gehobenen-klasse-0.jpg
   title: ein typisches Haus der gehobenen Klasse
-  description: ein typisches Haus der gehobenen Klasse immerhin ist es gemauert! :)
-    Auf Stelzen wegen der Feuchtigkeit, Ungeziefer und groesseren Tieren
+  description: ein typisches Haus der gehobenen Klasse immerhin ist es gemauert! :) Auf Stelzen wegen der Feuchtigkeit, Ungeziefer und groesseren Tieren
 - filename: 531303-das-hinterland-von-kon-tum-0.jpg
   title: Das Hinterland von Kon Tum
   description: kein Tourist weit und breit
@@ -38,12 +35,10 @@ images:
   description: die dann im Tauschhandel verauessert werden
 - filename: 531305-ein-paar-stifte-und-ballons-fuer-die-kids-0.jpg
   title: Ein paar Stifte und Ballons fuer die Kids
-  description: Ein paar Stifte und Ballons fuer die Kids Damit waren wir endgueltig
-    die groesste Attraktion seit Wochen in diesem Dorf :).
+  description: Ein paar Stifte und Ballons fuer die Kids Damit waren wir endgueltig die groesste Attraktion seit Wochen in diesem Dorf :).
 - filename: 531307-geschwisterliebe-0.jpg
   title: Geschwisterliebe
-  description: Schon in jungen Jahren passen die Kinder auf ihre kleinen Geschwister
-    auf
+  description: Schon in jungen Jahren passen die Kinder auf ihre kleinen Geschwister auf
 type: post
 ---
 

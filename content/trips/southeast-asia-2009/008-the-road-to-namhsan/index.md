@@ -29,8 +29,7 @@ images:
   title: Geplatzter Leifen
 - filename: 3948814-ein-lotterieverkaeufer-0.jpg
   title: ein Lotterieverkaeufer
-  description: wartet am Rande der Strasse, mitten im Nirgendwo. Es vergeht teilweise
-    eine Stunde bis man von einem Dorf entlang der Strasse ins naechste kommt.
+  description: wartet am Rande der Strasse, mitten im Nirgendwo. Es vergeht teilweise eine Stunde bis man von einem Dorf entlang der Strasse ins naechste kommt.
 - filename: 3948816-der-regen-hinter-mir-ist-ein-ansporn-0.jpg
   title: Der Regen hinter mir ist ein Ansporn
 - filename: 3948817-doerfer-auf-den-huegelgipfeln-0.jpg

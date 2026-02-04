@@ -11,8 +11,7 @@ original_url: https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-
 images:
 - filename: 3946226-free-falling-0.jpg
   title: Free Falling
-  description: '"Wenn Gott gewollt hätte, dass Menschen fliegen, hätte er ihnen Flügel
-    verliehen." :)'
+  description: '"Wenn Gott gewollt hätte, dass Menschen fliegen, hätte er ihnen Flügel verliehen." :)'
 - filename: 3946227-trekking-through-the-fields-0.jpg
   title: Trekking through the fields
 - filename: 3946228-das-fussbaldfeld-muss-man-sich-hier-mit-kuehen-teilen-1.jpg
@@ -28,9 +27,7 @@ images:
   description: unser taeglich Brot
 - filename: 3946248-smoking-the-cheroots-0.jpg
   title: Smoking the Cheroots
-  description: die traditionelle Zigarre Myanmars, nur aus natuerlichen Zutaten, gerollt
-    in getrockneten Blaettern, der Filter ist aus Pflanzenfasern. Schmeckt aber sehr
-    gewoehnungsbeduerftig.
+  description: die traditionelle Zigarre Myanmars, nur aus natuerlichen Zutaten, gerollt in getrockneten Blaettern, der Filter ist aus Pflanzenfasern. Schmeckt aber sehr gewoehnungsbeduerftig.
 - filename: 3946250-nils-0.jpg
   title: Nils
   description: 21 Jahre, Kanada, Vancouver Island, studiert 3D-Animation und Modellierung
@@ -42,8 +39,7 @@ images:
   description: Alter unbekannt, aus Holland
 - filename: 3946256-uebliche-banknote-0.jpg
   title: uebliche Banknote
-  description: mit Ausnahme der 1000 Kyat-Note schauen alle so fertig aus. Die Regierung
-    schafft es nicht mal, das Bargeld in Schuss zu halten.
+  description: mit Ausnahme der 1000 Kyat-Note schauen alle so fertig aus. Die Regierung schafft es nicht mal, das Bargeld in Schuss zu halten.
 - filename: 3946258-unser-recht-ueberschaubarer-raum-0.jpg
   title: unser recht ueberschaubarer Raum
   description: in Mr. Charles Guesthouse

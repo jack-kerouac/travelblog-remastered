@@ -41,12 +41,10 @@ images:
   description: man fuehlt sich ein bisschen wie Tarzan nur, wo ist Jane?
 - filename: 531351-2-cm-ameise-0.jpg
   title: 2 cm Ameise
-  description: 2 cm Ameise Die beissen sich in der Haut fest und es ist nicht einfach
-    die wieder loszuwerden
+  description: 2 cm Ameise Die beissen sich in der Haut fest und es ist nicht einfach die wieder loszuwerden
 - filename: 531353-colonel-hathi-und-winnifred-0.jpg
   title: Colonel Hathi und Winnifred :)
-  description: Colonel Hathi und Winnifred :) Leider nix Elephantenreiten. Aber das
-    ist doch eh langweilig. *Schoenred*. Hehe
+  description: Colonel Hathi und Winnifred :) Leider nix Elephantenreiten. Aber das ist doch eh langweilig. *Schoenred*. Hehe
 type: post
 ---
 

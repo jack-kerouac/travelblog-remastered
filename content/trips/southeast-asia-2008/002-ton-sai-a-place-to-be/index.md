@@ -14,8 +14,7 @@ images:
   description: nur mit em Long Boat
 - filename: 2367060-deep-water-solo-0.jpg
   title: Deep water Solo
-  description: zum ersten und garantiert nicht letzten Mal. Ich hatte selten so viel
-    Spass
+  description: zum ersten und garantiert nicht letzten Mal. Ich hatte selten so viel Spass
 - filename: 2367111-auf-dem-dws-trip-0.jpg
   title: auf dem DWS trip
   description: der Strand...

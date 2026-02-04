@@ -51,8 +51,7 @@ images:
   description: wahnsinns Farben, von Mineralien und Bakterien
 - filename: 7618086-old-faithful-geyser-0.jpg
   title: Old Faithful Geyser
-  description: seinen Namen verdankt er der Tatsache, dass sich der Zeitpunkt wann
-    er Wasser speit recht genau berechnen lässt.
+  description: seinen Namen verdankt er der Tatsache, dass sich der Zeitpunkt wann er Wasser speit recht genau berechnen lässt.
 type: post
 ---
 

@@ -49,8 +49,7 @@ images:
   description: etwas verschuechtertes Maedchen beim Holztragen
 - filename: 2527423-unser-trupp-beim-verlassen-des-dorfs-0.jpg
   title: Unser Trupp beim Verlassen des Dorfs
-  description: Unser Trupp beim Verlassen des Dorfs Dani, Marianne, Dou und ich, einige
-    Guides und zwei Maedels aus Kanada, die separat mit ihrem Guide ins Dorf kamen
+  description: Unser Trupp beim Verlassen des Dorfs Dani, Marianne, Dou und ich, einige Guides und zwei Maedels aus Kanada, die separat mit ihrem Guide ins Dorf kamen
 type: post
 ---
 

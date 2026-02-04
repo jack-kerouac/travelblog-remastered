@@ -1,6 +1,5 @@
 ---
-title: Jaw-dropping caves and Miao minority at Gétû, the destination of the Petzl
-  Roctrip 2011
+title: Jaw-dropping caves and Miao minority at Gétû, the destination of the Petzl Roctrip 2011
 date: 2011-06-15 00:00:00
 draft: false
 location:
@@ -12,8 +11,7 @@ original_url: https://www.travelblog.org/asia/china/guizhou/anshun/blog-620458
 images:
 - filename: 6218098-chuanshang_dong_-_-cave_over_the_bed-0.jpg
   title: Chuanshang dong - "Cave over the bed"
-  description: 20 sweaty minutes to climb the stairs to this cave. 150m long, 70m
-    high, about 100 m wide
+  description: 20 sweaty minutes to climb the stairs to this cave. 150m long, 70m high, about 100 m wide
 - filename: 6218099-yanzi_dong_-_swallow_cave-0.jpg
   title: Yanzi dong - Swallow cave
   description: From inside the grotto on its back towards the ferry pier
@@ -21,8 +19,7 @@ images:
   title: old woman, still smiling
 - filename: 6218101-the_caves-0.jpg
   title: The caves
-  description: from the ferry. In fall, there is a ray of light through Chuanshang
-    cave onto the river in the morning.
+  description: from the ferry. In fall, there is a ray of light through Chuanshang cave onto the river in the morning.
 - filename: 6218102-yanzi_cave-0.jpg
   title: Yanzi cave
   description: with lots of swallows flying over the fisherman
@@ -41,8 +38,7 @@ images:
   description: hard to access, surrounded by rock cliffs. Tempting.
 - filename: 6218112-welcome_to_pandorra-0.jpg
   title: Welcome to Pandorra.
-  description: behind Chuanshang cave there is this funnel of green, with the grotto
-    to Yanzi cave at its lowest point
+  description: behind Chuanshang cave there is this funnel of green, with the grotto to Yanzi cave at its lowest point
 - filename: 6218113-the_pathway_through_the_cave-0.jpg
   title: the pathway through the cave
   description: built eight years ago
@@ -51,8 +47,7 @@ images:
   description: and thus its own specifc set of tropical plants and creatures
 - filename: 6218115-the_grotto-0.jpg
   title: the grotto
-  description: the Gétû river is entering through Yanzi cave on the right and submerging
-    deeper into the hill into the cave on the left
+  description: the Gétû river is entering through Yanzi cave on the right and submerging deeper into the hill into the cave on the left
 - filename: 6218116-abseiling_into_the_grotto-0.jpg
   title: abseiling into the grotto
 - filename: 6218117-where_is_coco-_part_1-0.jpg
@@ -104,8 +99,7 @@ images:
   description: the owner of the GH was keen to learn about ascending a rope
 - filename: 6218152-a_funeral_ceremony-0.jpg
   title: a funeral ceremony
-  description: lasting for four days, with lots of firework, card playing, eating,
-    and rice wine
+  description: lasting for four days, with lots of firework, card playing, eating, and rice wine
 - filename: 6218153-coco-_checking_out_the_chicken_legs-0.jpg
   title: Coco, checking out the chicken legs
   description: yummy

@@ -19,17 +19,14 @@ images:
   title: Und noch eins aus dem Maha Bandoola Garden
 - filename: 3956027-the-triumphant-elite-of-the-future-0.jpg
   title: '"The triumphant elite of the future"'
-  description: Propaganda am Eingang zur Militaerakademie in Pyin U Lwin. Fotos von
-    Militaereinrichtungen sind verboten. Deswegen ist das Foto hinter vorgehaltener
-    Hand etwas schief geworden.
+  description: Propaganda am Eingang zur Militaerakademie in Pyin U Lwin. Fotos von Militaereinrichtungen sind verboten. Deswegen ist das Foto hinter vorgehaltener Hand etwas schief geworden.
 - filename: 3956029-zurueck-in-der-englischklasse-0.jpg
   title: Zurueck in der Englischklasse
 - filename: 3956030-der-leicht-verrueckte-lehrer-sein-sohn-und-ich-0.jpg
   title: Der leicht verrueckte Lehrer, sein Sohn und ich
 - filename: 3956031-letztes-abendessen-in-myanmar-0.jpg
   title: Letztes Abendessen in Myanmar
-  description: Im Monsoon Restaurant in Yangon. Sehr lecker, aber deutlich teurer
-    als das Essen der letzten Wochen.
+  description: Im Monsoon Restaurant in Yangon. Sehr lecker, aber deutlich teurer als das Essen der letzten Wochen.
 - filename: 3956033-mein-ganzes-gepaeck-und-ich-am-flughafen-0.jpg
   title: Mein ganzes Gepaeck und ich am Flughafen
 - filename: 3956034-der-flughafen-der-hauptstadt-ist-sehr-ueberschaubar-0.jpg

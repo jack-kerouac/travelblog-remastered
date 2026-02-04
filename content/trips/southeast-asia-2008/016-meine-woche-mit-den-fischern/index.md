@@ -19,12 +19,10 @@ images:
   title: Palmen, Palmen, Palmen
 - filename: 2678032-diese-fische-wuerde-man-daheim-im-aquarium-finden-0.jpg
   title: diese Fische wuerde man daheim im Aquarium finden
-  description: diese Fische wuerde man daheim im Aquarium finden hier landen sie auf
-    dem Teller
+  description: diese Fische wuerde man daheim im Aquarium finden hier landen sie auf dem Teller
 - filename: 2678033-unser-faehre-von-surigao-nach-siargao-island-0.jpg
   title: unser Faehre von Surigao nach Siargao Island
-  description: unser Faehre von Surigao nach Siargao Island eine halbe Stunde spaeter
-    hoffnungslos Ueberladen
+  description: unser Faehre von Surigao nach Siargao Island eine halbe Stunde spaeter hoffnungslos Ueberladen
 - filename: 2678034-idyllische-fahrt-durch-eine-vielzahl-von-inseln-0.jpg
   title: idyllische Fahrt durch eine Vielzahl von Inseln
   description: idyllische Fahrt durch eine Vielzahl von Inseln
@@ -55,22 +53,16 @@ images:
   description: leider war das Wetter an diesem Tag recht regnerisch
 - filename: 2678045-abends-einige-runden-billard-0.jpg
   title: Abends, einige Runden Billard
-  description: Abends, einige Runden Billard Jojo und Boy spielen eindeutig besser
-    Billard...
+  description: Abends, einige Runden Billard Jojo und Boy spielen eindeutig besser Billard...
 - filename: 2678046-zu-besuch-in-der-high-school-in-gl-0.jpg
   title: zu Besuch in der High School in GL
-  description: zu Besuch in der High School in GL am Abschlusstag des Nutrition Month.
-    Die Kinder haben von daheim mitgebrachte Fruechte auf einem Stand aufgebaut und
-    verkauft.
+  description: zu Besuch in der High School in GL am Abschlusstag des Nutrition Month. Die Kinder haben von daheim mitgebrachte Fruechte auf einem Stand aufgebaut und verkauft.
 - filename: 2678048-ein-mobile-classroom-fuer-den-pc-unterricht-0.jpg
   title: ein mobile classroom fuer den PC-Unterricht
-  description: ein mobile classroom fuer den PC-Unterricht ausgestattet mit Laptops
-    auf der hoehe der Zeit und Beamer
+  description: ein mobile classroom fuer den PC-Unterricht ausgestattet mit Laptops auf der hoehe der Zeit und Beamer
 - filename: 2678049-ein-weiteres-nahrungsmittel-hier-0.jpg
   title: ein weiteres Nahrungsmittel hier
-  description: 'ein weiteres Nahrungsmittel hier chicken, bzw. hier zu sehen: einer
-    der vielen angebundenen Haehne. Sie sind sehr aggressiv und wuerden aufeinander
-    losgehen'
+  description: 'ein weiteres Nahrungsmittel hier chicken, bzw. hier zu sehen: einer der vielen angebundenen Haehne. Sie sind sehr aggressiv und wuerden aufeinander losgehen'
 - filename: 2678050-und-allgegenwaertig-horden-von-kindern-0.jpg
   title: 'und allgegenwaertig: Horden von Kindern'
   description: 'und allgegenwaertig: Horden von Kindern'
@@ -92,9 +84,7 @@ images:
   description: Jojo und ich am Pebble Beach
 - filename: 2678092-volksport-nummer-eins-basketball-0.jpg
   title: 'Volksport Nummer eins: Basketball'
-  description: 'Volksport Nummer eins: Basketball Ich war der erste Foreigner, der
-    ein Spiel mit ihnen in Daku gespielt hat. Ich habe mich etwas blamiert. Mein letztes
-    Basketballspiel ist 6 Jahre her.'
+  description: 'Volksport Nummer eins: Basketball Ich war der erste Foreigner, der ein Spiel mit ihnen in Daku gespielt hat. Ich habe mich etwas blamiert. Mein letztes Basketballspiel ist 6 Jahre her.'
 - filename: 2678093-ich-vor-guyam-0.jpg
   title: Ich vor Guyam
   description: Ich vor Guyam
@@ -114,15 +104,13 @@ images:
   title: Anker ueber Bord!
 - filename: 2678099-die-kids-schwimmen-rund-um-unser-boot-0.jpg
   title: die Kids schwimmen rund um unser Boot
-  description: die Kids schwimmen rund um unser Boot und warten auf ein "Hello" von
-    mir :)
+  description: die Kids schwimmen rund um unser Boot und warten auf ein "Hello" von mir :)
 - filename: 2678100-ein-fischer-mit-seinem-fang-auf-dem-kopf-0.jpg
   title: Ein Fischer mit seinem Fang auf dem Kopf
   description: Ein Fischer mit seinem Fang auf dem Kopf
 - filename: 2678102-wir-am-strand-0.jpg
   title: wir am Strand
-  description: 'wir am Strand vrnl.: ich, Jojo, Jelia und Boy. Die anderen kannte
-    ich nicht'
+  description: 'wir am Strand vrnl.: ich, Jojo, Jelia und Boy. Die anderen kannte ich nicht'
 - filename: 2678103-der-strand-von-janosa-island-0.jpg
   title: der Strand von Janosa Island
   description: der Strand von Janosa Island
@@ -134,8 +122,7 @@ images:
   description: auf dem Weg von GL zu Cloud 9,
 - filename: 2678106-einer-der-besten-orte-der-welt-zum-surfen-0.jpg
   title: einer der besten Orte der Welt zum Surfen
-  description: einer der besten Orte der Welt zum Surfen Saison ist im Oktober, November
-    und Dezember
+  description: einer der besten Orte der Welt zum Surfen Saison ist im Oktober, November und Dezember
 - filename: 2678108-boy-kann-surfen-0.jpg
   title: Boy kann surfen
 - filename: 2678119-jojo-mit-einem-seestern-0.jpg
@@ -150,8 +137,7 @@ images:
   description: Mango, Nudeln, Fisch, Hummer... ...und der allgegenwaertige Reis
 - filename: 2678162-suesser-reis-fisch-eine-spezielle-krabbenart-0.jpg
   title: suesser Reis, Fisch, eine spezielle Krabbenart
-  description: suesser Reis, Fisch, eine spezielle Krabbenart Reis, und deutscher
-    Leberkaes von Pater Castro :)
+  description: suesser Reis, Fisch, eine spezielle Krabbenart Reis, und deutscher Leberkaes von Pater Castro :)
 - filename: 2678165-suessen-reis-0.jpg
   title: suessen Reis
   description: gibt es auch in dieser Darreichungsform, mit Bananenblaettern umwickelt
@@ -162,21 +148,16 @@ images:
   description: die Kids hier sind ziemlich fit
 - filename: 2678169-doch-auch-die-muessen-arbeiten-0.jpg
   title: doch auch die muessen arbeiten
-  description: doch auch die muessen arbeiten hier zerschlaegt ein Junge Krabenhaeuser
-    um das Fleisch als Koeder zu benutzen
+  description: doch auch die muessen arbeiten hier zerschlaegt ein Junge Krabenhaeuser um das Fleisch als Koeder zu benutzen
 - filename: 2678170-magpopongko-beach-0.jpg
   title: Magpopongko Beach
-  description: bei Ebbe. Der Fels im Hintergrund sieht aus wie ein Kopf der aufs Meer
-    schaut
+  description: bei Ebbe. Der Fels im Hintergrund sieht aus wie ein Kopf der aufs Meer schaut
 - filename: 2678171-climbing-the-palm-0.jpg
   title: climbing the palm
   description: das ist etwas anders als rock climbing :)
 - filename: 2678172-die-frischen-kokosnuesse-0.jpg
   title: die frischen Kokosnuesse...
-  description: die frischen Kokosnuesse... ...werden dann mit einer Machete aufgehackt
-    und das Fruchtwasser getrunken. Danach wird sie gespalten und das Fruchtfleisch
-    kann mit einem Stueck zum Loeffel geformten Schalte herausgeschabt und gegessen
-    werden.
+  description: die frischen Kokosnuesse... ...werden dann mit einer Machete aufgehackt und das Fruchtwasser getrunken. Danach wird sie gespalten und das Fruchtfleisch kann mit einem Stueck zum Loeffel geformten Schalte herausgeschabt und gegessen werden.
 - filename: 2678173-jelia-und-ich-0.jpg
   title: Jelia und ich
   description: Jelia und ich
@@ -184,17 +165,13 @@ images:
   title: Jojo, ich und Boy
 - filename: 2678175-unser-waschzimmer-badezimmer-und-teil-der-kueche-0.jpg
   title: unser Waschzimmer, Badezimmer und Teil der Kueche
-  description: unser Waschzimmer, Badezimmer und Teil der Kueche im Elternhaus von
-    Tirso auf GL
+  description: unser Waschzimmer, Badezimmer und Teil der Kueche im Elternhaus von Tirso auf GL
 - filename: 2678177-pfannkuchenkochen-am-letzten-abend-0.jpg
   title: Pfannkuchenkochen am letzten Abend
-  description: Pfannkuchenkochen am letzten Abend es hat sich schnell herausgestellt,
-    dass die Jungs das mit den hiessigen Kochinstrumenten besser koennen und sie haben
-    mein Pfannkuchenkochen vor dem Scheitern bewahrt :)
+  description: Pfannkuchenkochen am letzten Abend es hat sich schnell herausgestellt, dass die Jungs das mit den hiessigen Kochinstrumenten besser koennen und sie haben mein Pfannkuchenkochen vor dem Scheitern bewahrt :)
 - filename: 2678178-doch-alles-geht-einmal-zu-ende-0.jpg
   title: doch alles geht einmal zu Ende...
-  description: doch alles geht einmal zu Ende... ...und somit auch meine Zeit auf
-    Daku.
+  description: doch alles geht einmal zu Ende... ...und somit auch meine Zeit auf Daku.
 type: post
 ---
 

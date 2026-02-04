@@ -14,8 +14,7 @@ images:
   description: von unserem Balkon aus
 - filename: 514055-der-besitzer-des-darling-guesthouse-0.jpg
   title: der Besitzer des Darling Guesthouse
-  description: der Besitzer des Darling Guesthouse ein riesen Schlitzohr, aber verdammt
-    lustig.
+  description: der Besitzer des Darling Guesthouse ein riesen Schlitzohr, aber verdammt lustig.
 - filename: 514057-little-hanoi-0.jpg
   title: Little Hanoi
   description: unser "Stammlokal" zum Sandwich futtern
@@ -24,19 +23,16 @@ images:
   description: ein Erlebnis fuer sich
 - filename: 514064-wasserpuppentheater-0.jpg
   title: Wasserpuppentheater
-  description: Leider verstehen wir ueberhaupt nix und pennen fast ein. Totaler Muell
-    :) Natuerlich gefaellts Fabian.
+  description: Leider verstehen wir ueberhaupt nix und pennen fast ein. Totaler Muell :) Natuerlich gefaellts Fabian.
 - filename: 514067-army-museum-0.jpg
   title: Army Museum
   description: Army Museum Den ungluecklichen Besitzern halfen diese Helme wohl nichts.
 - filename: 514069-iroquoise-helikopter-0.jpg
   title: Iroquoise-Helikopter
-  description: mit dem wurden im Vietnamkrieg die Verletzten ausgeflogen. Siehe "Apocalypse
-    Now"
+  description: mit dem wurden im Vietnamkrieg die Verletzten ausgeflogen. Siehe "Apocalypse Now"
 - filename: 514070-die-reste-eines-amerikanischen-bombers-0.jpg
   title: die Reste eines amerikanischen Bombers
-  description: die Reste eines amerikanischen Bombers Der wurde mit Handfeuerwaffen
-    abgeschossen.
+  description: die Reste eines amerikanischen Bombers Der wurde mit Handfeuerwaffen abgeschossen.
 - filename: 514071-von-den-russen-gesponsorter-tank-0.jpg
   title: von den Russen gesponsorter Tank
   description: von den Russen gesponsorter Tank
@@ -51,8 +47,7 @@ images:
   description: kulinarischer Hoehepunkt in Hanoi Fabians Essen im KOTO
 - filename: 514083-zwei-philosophen-im-temple-of-literature-0.jpg
   title: zwei Philosophen im Temple of Literature
-  description: zwei Philosophen im Temple of Literature der ersten grossen Bildungsstaette
-    in Vietnam
+  description: zwei Philosophen im Temple of Literature der ersten grossen Bildungsstaette in Vietnam
 type: post
 ---
 

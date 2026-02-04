@@ -54,8 +54,7 @@ images:
   title: Frieder, The Chef
 - filename: 7650753-beta-transfer-0.jpg
   title: Beta-Transfer
-  description: 'Beta: Infos zu einer Kletterroute (Ruhepositionen, Griffarten, Klipp-Positionen,
-    Körperhaltungen, Sequenzen, ...)'
+  description: 'Beta: Infos zu einer Kletterroute (Ruhepositionen, Griffarten, Klipp-Positionen, Körperhaltungen, Sequenzen, ...)'
 - filename: 7650755-geburtstagsbier-0.jpg
   title: Geburtstagsbier
   description: PBR (Pabst Blue Rippon)

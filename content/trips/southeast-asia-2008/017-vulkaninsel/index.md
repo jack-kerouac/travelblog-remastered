@@ -13,12 +13,10 @@ images:
   title: Ein Hoch auf Camiguin
 - filename: 2736119-bei-sonnenuntergang-auf-mantique-island-0.jpg
   title: Bei Sonnenuntergang auf Mantique Island
-  description: 'Bei Sonnenuntergang auf Mantique Island vlnr.: unknown :), moi, Nick,
-    Rosalie'
+  description: 'Bei Sonnenuntergang auf Mantique Island vlnr.: unknown :), moi, Nick, Rosalie'
 - filename: 2736120-tuwasan-waterfall-1.jpg
   title: Tuwasan Waterfall
-  description: nur durch einen halbstuendigen Trek ueber einen Dschungelpfad zu erreichen.
-    Komplett untouristisch.
+  description: nur durch einen halbstuendigen Trek ueber einen Dschungelpfad zu erreichen. Komplett untouristisch.
 - filename: 2736121-enigmata-guesthouse--eagles-nest-0.jpg
   title: Enigmata Guesthouse - Eagles Nest
   description: Enigmata Guesthouse - Eagles Nest
@@ -41,8 +39,7 @@ images:
   description: im Hintergrund, White Island
 - filename: 2736129-die-ruinen-einer-kirche-der-spanier-0.jpg
   title: Die Ruinen einer Kirche der Spanier
-  description: Die Ruinen einer Kirche der Spanier von einem Ausbruch eines Vulkans
-    im 18. Jahrhundert zerstoert.
+  description: Die Ruinen einer Kirche der Spanier von einem Ausbruch eines Vulkans im 18. Jahrhundert zerstoert.
 - filename: 2736131-blick-vom--old-volcano-0.jpg
   title: Blick vom "Old Volcano"
   description: Blick vom "Old Volcano" ueber die Kuestenebene.
@@ -51,8 +48,7 @@ images:
   description: Meine Unterkunft in Enigmata
 - filename: 2736134-die-rezeption-im-enigmata-0.jpg
   title: Die Rezeption im Enigmata
-  description: Bei all den Traumfaengern kommt kein boeser Traum zur Rezeptionistin
-    durch :)
+  description: Bei all den Traumfaengern kommt kein boeser Traum zur Rezeptionistin durch :)
 - filename: 2736136-hier-hat-sich-jemand-viel-zeit-genommen-0.jpg
   title: Hier hat sich jemand viel Zeit genommen
   description: Hier hat sich jemand viel Zeit genommen
@@ -61,8 +57,7 @@ images:
   description: Von Blumen verhangenes Logo des Enigmata
 - filename: 2736140-das-treehouse-0.jpg
   title: Das Treehouse...
-  description: '...und im Vordergrund Plastiken, die Enzyme des Koerpers symbolisieren
-    sollen.'
+  description: '...und im Vordergrund Plastiken, die Enzyme des Koerpers symbolisieren sollen.'
 - filename: 2736141-spirituelles-labyrinth-0.jpg
   title: spirituelles Labyrinth :)
 - filename: 2736142-ich-im-ausguck-des-eagles--nest-0.jpg
@@ -73,12 +68,10 @@ images:
   description: Reisfelder, Palmen und Mantique Island
 - filename: 2736164-und-nochmal-mantique-island-0.jpg
   title: Und nochmal Mantique Island...
-  description: Und nochmal Mantique Island... ... diesmal mit Bananenstauden im Vordergrund
-    :)
+  description: Und nochmal Mantique Island... ... diesmal mit Bananenstauden im Vordergrund :)
 - filename: 2736167-meine-neugier-fuehrt-mich-manchmal-auf-so-ziemliche-abwege-0.jpg
   title: Meine Neugier fuehrt mich manchmal auf so ziemliche Abwege :)
-  description: Meine Neugier fuehrt mich manchmal auf so ziemliche Abwege :) man sieht
-    hier die gespuerten 45 Grad Neigung des "Weges" leider nicht.
+  description: Meine Neugier fuehrt mich manchmal auf so ziemliche Abwege :) man sieht hier die gespuerten 45 Grad Neigung des "Weges" leider nicht.
 - filename: 2736171-wie-man-sich-hier-auf-zwei-quadratmetern-widerspricht-0.jpg
   title: '...wie man sich hier auf zwei Quadratmetern widerspricht :)'
 - filename: 2736174-ohne-kommentar-0.jpg
@@ -94,8 +87,7 @@ images:
   title: coconut milk
 - filename: 2736188-wir-essen-in-der-fishfarm-0.jpg
   title: Wir essen in der Fishfarm
-  description: gerade fischt er meinen Hummer aus dem Wasser und dann ab damit auf
-    den Grill.
+  description: gerade fischt er meinen Hummer aus dem Wasser und dann ab damit auf den Grill.
 - filename: 2736190-und-inmitten-der-fischbecken-isst-man-0.jpg
   title: Und inmitten der Fischbecken isst man
   description: Und inmitten der Fischbecken isst man
@@ -113,9 +105,7 @@ images:
   description: Das Wasser ist kristallklar... ...und hier etwa drei Meter tief.
 - filename: 2736199-ein-wunderbarer-sonnenuntergang-ueber-camiguin-1.jpg
   title: Ein wunderbarer Sonnenuntergang ueber Camiguin
-  description: Ein wunderbarer Sonnenuntergang ueber Camiguin Das letzte Bild meiner
-    Reise, zumindest hier im Blog. Alles weitere dann in der Heimat bei einer netten
-    Diashow. Bis dann!
+  description: Ein wunderbarer Sonnenuntergang ueber Camiguin Das letzte Bild meiner Reise, zumindest hier im Blog. Alles weitere dann in der Heimat bei einer netten Diashow. Bis dann!
 type: post
 ---
 

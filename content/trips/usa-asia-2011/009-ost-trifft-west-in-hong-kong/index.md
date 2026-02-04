@@ -9,8 +9,7 @@ original_url: https://www.travelblog.org/asia/hong-kong/blog-611917
 images:
 - filename: 6117750-mit_der_star_ferry_ueber_den_victoria_harbor_nach_hong_kong_island-0.jpg
   title: Mit der Star Ferry ueber den Victoria Harbor nach Hong Kong Island
-  description: der Wolkenkratzer ist das International Finance Center Two, 415m, 2003
-    gebaut.
+  description: der Wolkenkratzer ist das International Finance Center Two, 415m, 2003 gebaut.
 - filename: 6117748-typisches_wohnsilo-0.jpg
   title: Typisches Wohnsilo...
   description: '...im am dichtesten besiedelten Gebiet der Erde: Mon Kok, Hong Kong.'
@@ -18,8 +17,7 @@ images:
   title: Bauarbeiten im Hafen
 - filename: 6117741-the_mirador_mansions_-_mein_wertes_guesthouse-0.jpg
   title: The Mirador Mansions - Mein wertes Guesthouse
-  description: Ein altes Apartmenthochhaus, in dem jetzt dubiose Guesthouses, Hotels,
-    Laeden und was weiss ich was noch alles untergebracht sind.
+  description: Ein altes Apartmenthochhaus, in dem jetzt dubiose Guesthouses, Hotels, Laeden und was weiss ich was noch alles untergebracht sind.
 - filename: 6117742-kowloon_park-0.jpg
   title: Kowloon Park
 - filename: 6117743-international_commerce_centre-0.jpg
@@ -41,8 +39,7 @@ images:
   title: Der Victoria Harbor
 - filename: 6117753-slope_management-0.jpg
   title: Slope management
-  description: Sie haben Angst, dass ihnen eines Tages die Berge rundum auf den Kopf
-    rutschen.
+  description: Sie haben Angst, dass ihnen eines Tages die Berge rundum auf den Kopf rutschen.
 - filename: 6117754-blumenstand_in_einem_markt-0.jpg
   title: Blumenstand in einem Markt
 - filename: 6117755-zwei_metzger_bei_der_arbeit-0.jpg
@@ -54,8 +51,7 @@ images:
   title: mehr Wohnsilos in Hong Kong, Wan Chai
 - filename: 6117758-sonntagsbeschaeftigung-0.jpg
   title: Sonntagsbeschaeftigung
-  description: sich mit Kartons ein Haus bauen und dann den ganzen Tag drin sitzen
-    und plappern.
+  description: sich mit Kartons ein Haus bauen und dann den ganzen Tag drin sitzen und plappern.
 - filename: 6117759-die_hervorragende_metro-0.jpg
   title: Die hervorragende Metro
   description: bestes oeffentliches Nahverkehrssystem ever.

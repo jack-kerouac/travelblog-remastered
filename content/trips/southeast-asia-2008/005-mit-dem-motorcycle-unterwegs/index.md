@@ -36,12 +36,10 @@ images:
   description: Blick vom Doi Suthep Tempel
 - filename: 2483026-danach-ab--into-the-wild-0.jpg
   title: danach ab "into the wild"
-  description: danach ab "into the wild" die Huegellandschaft um Chiang Mai ist schon
-    beeindruckend
+  description: danach ab "into the wild" die Huegellandschaft um Chiang Mai ist schon beeindruckend
 - filename: 2483030-betanken-meines-gefaehrts-0.jpg
   title: Betanken meines Gefaehrts
-  description: Das benoetigte Benzin konnte ich nur aus der Farbe der Reste im Tank
-    identifizieren :)
+  description: Das benoetigte Benzin konnte ich nur aus der Farbe der Reste im Tank identifizieren :)
 - filename: 2483031-blick-flussabwaerts-0.jpg
   title: Blick flussabwaerts
 - filename: 2483032-nochmal-ein-wasserfall-0.jpg

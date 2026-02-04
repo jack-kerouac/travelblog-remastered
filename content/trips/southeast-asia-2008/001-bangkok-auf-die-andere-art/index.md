@@ -56,8 +56,7 @@ images:
   title: Krawatten auf dem Markt
 - filename: 2354764-es-gibt-nichts-0.jpg
   title: Es gibt nichts...
-  description: '...was man auf dem Markt nicht kaufen kann. Sogar Haski-Welpen gibts.
-    Irre...'
+  description: '...was man auf dem Markt nicht kaufen kann. Sogar Haski-Welpen gibts. Irre...'
 type: post
 ---
 

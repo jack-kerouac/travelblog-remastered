@@ -13,8 +13,7 @@ images:
   title: Reunification Square
 - filename: 533453-vor-dem-reunification-palace-0.jpg
   title: vor dem Reunification Palace
-  description: vor dem Reunification Palace Man beachte mein geiles Ho Chi Minh Shirt
-    :)
+  description: vor dem Reunification Palace Man beachte mein geiles Ho Chi Minh Shirt :)
 - filename: 533455-kautschukplantage-0.jpg
   title: Kautschukplantage
   description: Auf dem Weg zu den Cu Chi Tunnels
@@ -23,12 +22,10 @@ images:
   description: vollgestopfter Laden auf dem Markt
 - filename: 533459-ein-ganz-gewoehnlicher-strassenrand-0.jpg
   title: ein ganz gewoehnlicher Strassenrand
-  description: ein ganz gewoehnlicher Strassenrand mit dem Umweltbewusstsein ist es
-    hier einfach noch nicht so weit her.
+  description: ein ganz gewoehnlicher Strassenrand mit dem Umweltbewusstsein ist es hier einfach noch nicht so weit her.
 - filename: 533462-aus-diesem-loch-tauchten-mal-vietcong-auf-0.jpg
   title: aus diesem Loch tauchten mal Vietcong auf
-  description: aus diesem Loch tauchten mal Vietcong auf und nicht wie hier eine absolut
-    unmoegliche Chinesin
+  description: aus diesem Loch tauchten mal Vietcong auf und nicht wie hier eine absolut unmoegliche Chinesin
 - filename: 533464-schuetzengraben-mit-eingang-zu-einem-tunnel-0.jpg
   title: Schuetzengraben mit Eingang zu einem Tunnel
   description: Schuetzengraben mit Eingang zu einem Tunnel
@@ -43,12 +40,10 @@ images:
   description: wie aus der mittelalterlichen Folterkammer. Na dann gute Nacht...
 - filename: 533473-b-52-bombenkrater-0.jpg
   title: B-52 Bombenkrater
-  description: einer der vielen rund um Cu Chi, des meistbombardiertesten Gebietes
-    der Erde
+  description: einer der vielen rund um Cu Chi, des meistbombardiertesten Gebietes der Erde
 - filename: 533475-dann-doch-lieber-nuechtern-bleiben-0.jpg
   title: '...dann doch lieber nuechtern bleiben :)'
-  description: '...dann doch lieber nuechtern bleiben :) Schlange frisst Skorpion.
-    Die Vietnamesen fahren da voll drauf ab.'
+  description: '...dann doch lieber nuechtern bleiben :) Schlange frisst Skorpion. Die Vietnamesen fahren da voll drauf ab.'
 - filename: 533476-jaaa-die-chillen-0.jpg
   title: jaaa, die chillen!
 - filename: 533480-das-moderne-saigon-0.jpg

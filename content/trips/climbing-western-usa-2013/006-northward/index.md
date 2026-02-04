@@ -45,16 +45,14 @@ images:
   title: alte Schneefelder
 - filename: 7561074-zweieinhalb-seilschaften-on-top-0.jpg
   title: zweieinhalb Seilschaften on top
-  description: 'wir teilen uns die drei Quadrameter auf der Spitze vlnr: Quentin,
-    Frieder, meine Wenigkeit, Peter, Dave'
+  description: 'wir teilen uns die drei Quadrameter auf der Spitze vlnr: Quentin, Frieder, meine Wenigkeit, Peter, Dave'
 - filename: 7561076-tenaya-lake-beach-0.jpg
   title: Tenaya Lake Beach
 - filename: 7561091-frieder-und-dave-am-hacky-sack-spielen-0.jpg
   title: Frieder und Dave am Hacky Sack spielen
 - filename: 7561093-gear-sortieren-0.jpg
   title: Gear sortieren
-  description: man bewundere den riesen Haufen Kletterschuhe im Vordergrund. Jeder
-    von uns hat ca. vier Paar.
+  description: man bewundere den riesen Haufen Kletterschuhe im Vordergrund. Jeder von uns hat ca. vier Paar.
 - filename: 7561095-on-the-road-with-junk-food-0.jpg
   title: on the road with junk food
 - filename: 7561101-smith-rock-state-park-oregon-0.jpg

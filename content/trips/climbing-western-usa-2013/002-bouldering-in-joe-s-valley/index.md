@@ -31,8 +31,7 @@ images:
   title: Right Fork boudering area
 - filename: 7477720-maxipad-v5-0.jpg
   title: Maxipad, v5
-  description: bei dem Sprung auf den Griff mit links habe ich mir meine Bauchmuskelzerrung
-    geholt. Damn
+  description: bei dem Sprung auf den Griff mit links habe ich mir meine Bauchmuskelzerrung geholt. Damn
 - filename: 7477721-ich-halte-bierdosen-die-anderen-griffe-0.jpg
   title: Ich halte Bierdosen, die anderen Griffe
   description: nichts los mehr mit Bouldern

@@ -19,15 +19,13 @@ images:
   description: typische Pagode, nach khmer'scher Bauart
 - filename: 542319-wir-chillen-0.jpg
   title: wir chillen...
-  description: 'v.l.n.r.: Deutsche, deren Name mir schon wieder entfallen ist, Sam,
-    Tony, Paul, meine Wenigkeit, Via und Nina (beide aus Muenchen)'
+  description: 'v.l.n.r.: Deutsche, deren Name mir schon wieder entfallen ist, Sam, Tony, Paul, meine Wenigkeit, Via und Nina (beide aus Muenchen)'
 - filename: 542321-anschlagtafel-im-tuol-sleng-museum-0.jpg
   title: Anschlagtafel im Tuol Sleng Museum
   description: Anschlagtafel im Tuol Sleng Museum
 - filename: 542324-portraits-der-inhaftierten-0.jpg
   title: Portraits der Inhaftierten
-  description: Wie auch im dritten Reich wurde hier penibel ueber alle Inhaftierten
-    Buch gefuehrt
+  description: Wie auch im dritten Reich wurde hier penibel ueber alle Inhaftierten Buch gefuehrt
 - filename: 542328-eine-schule-wird-zum-foltergefaegnis-0.jpg
   title: eine Schule wird zum Foltergefaegnis
   description: eine Schule wird zum Foltergefaegnis
@@ -36,8 +34,7 @@ images:
   description: dabei schaut es eigentlich sehr friedlich aus
 - filename: 542333-das-voelkermord-mahnmal-auf-den-killing-fields-2.jpg
   title: das Voelkermord-Mahnmal auf den Killing Fields
-  description: das Voelkermord-Mahnmal auf den Killing Fields man beachte die Abertausende
-    aufgeschichtete Schaedel hinter dem Glas
+  description: das Voelkermord-Mahnmal auf den Killing Fields man beachte die Abertausende aufgeschichtete Schaedel hinter dem Glas
 - filename: 542336-mass-grave-of-450-victims-0.jpg
   title: mass grave of 450 victims
 - filename: 542339-killing-tree-0.jpg
@@ -59,8 +56,7 @@ images:
   description: doch irgendwie schauen sie nett aus
 - filename: 542363-der-mobb-erwartet-uns-0.jpg
   title: der Mobb erwartet uns :)
-  description: Sowas habe ich noch nie erlebt. Irgendwie lustig, aber nach 2 Minuten
-    wirds anstrengend.
+  description: Sowas habe ich noch nie erlebt. Irgendwie lustig, aber nach 2 Minuten wirds anstrengend.
 type: post
 ---
 

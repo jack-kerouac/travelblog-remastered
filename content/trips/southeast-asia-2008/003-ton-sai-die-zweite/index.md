@@ -17,13 +17,10 @@ images:
   description: in der "One More Bar"-Bar. Davon gibts insgesamt drei :-)
 - filename: 2379432-blick-von-ton-sai-nach-railey-west-0.jpg
   title: Blick von Ton Sai nach Railey West
-  description: Blick von Ton Sai nach Railey West im Vordergrund Ton Sai, im Hintergrund
-    Railey West Beach und die Felsenkette, die die Bucht abschliesst, sodass sie nur
-    per Boot zu erreichen ist.
+  description: Blick von Ton Sai nach Railey West im Vordergrund Ton Sai, im Hintergrund Railey West Beach und die Felsenkette, die die Bucht abschliesst, sodass sie nur per Boot zu erreichen ist.
 - filename: 2379435-das-fruehstuck-der-champions-0.jpg
   title: Das Fruehstuck der Champions :)
-  description: Das Fruehstuck der Champions :) Muesli mit Ananas, Mango, Melone und
-    Joghurt. 1,30 Euro
+  description: Das Fruehstuck der Champions :) Muesli mit Ananas, Mango, Melone und Joghurt. 1,30 Euro
 - filename: 2379437-loid-auf-der-slackline-0.jpg
   title: Loid auf der Slackline
   description: ueberragender Gleichgewichtssinn erforderlich
@@ -44,12 +41,10 @@ images:
   description: Joe, Delf und Michael am Fels USA, Deutschland und Tschechien
 - filename: 2379455-route-vom-grad-7-durch-ein-dach-0.jpg
   title: Route vom Grad 7 durch ein Dach
-  description: Route vom Grad 7 durch ein Dach 4 Meter ueberm Wasser. Soweit wie Robert
-    (Schweiz) hier haengt kam ich auch. Weiter nicht... :)
+  description: Route vom Grad 7 durch ein Dach 4 Meter ueberm Wasser. Soweit wie Robert (Schweiz) hier haengt kam ich auch. Weiter nicht... :)
 - filename: 2379461-zurueck-zum-boot-0.jpg
   title: Zurueck zum Boot.
-  description: Dabei waren 18 Mann, zwei Longboats und ein Kajak. Nach dem ersten
-    Fall ins Wasser klettert man mit nassen Schuhen
+  description: Dabei waren 18 Mann, zwei Longboats und ein Kajak. Nach dem ersten Fall ins Wasser klettert man mit nassen Schuhen
 - filename: 2379462-danach-grillen-auf-dem-strand-einer-kleinen-insel-0.jpg
   title: Danach Grillen auf dem Strand einer kleinen Insel
   description: Danach Grillen auf dem Strand einer kleinen Insel
@@ -58,16 +53,13 @@ images:
   description: Bei Flut sieht man vom Strand nicht mehr sehr viel.
 - filename: 2379470-meine-haende-nach-dem-dws-0.jpg
   title: meine Haende nach dem DWS
-  description: direkt vom Meer an den Fels zu steigen ist nicht einfach. Extrem ueberhaengend
-    und er Fels messerschaft, wie man an meinen Haenden sieht :)
+  description: direkt vom Meer an den Fels zu steigen ist nicht einfach. Extrem ueberhaengend und er Fels messerschaft, wie man an meinen Haenden sieht :)
 - filename: 2379472-sam-und-olivier-nach-dem-fischen-0.jpg
   title: Sam und Olivier nach dem Fischen
-  description: Sam und Olivier nach dem Fischen immerhin, ein essbarer Fisch hing
-    dran...
+  description: Sam und Olivier nach dem Fischen immerhin, ein essbarer Fisch hing dran...
 - filename: 2379476-die-tour-heisst--missing-snow-0.jpg
   title: die Tour heisst "Missing Snow"
-  description: die Tour heisst "Missing Snow" franzoesischer Grad 6b+. Noch hab ichs
-    nicht geschafft. Mein Projekt :)
+  description: die Tour heisst "Missing Snow" franzoesischer Grad 6b+. Noch hab ichs nicht geschafft. Mein Projekt :)
 - filename: 2379478-dreimal-gefallen-0.jpg
   title: dreimal gefallen
   description: morgen das naechste Mal :)
@@ -82,8 +74,7 @@ images:
   description: vom Fuss der Tour!
 - filename: 2379491-meine-neue-tasche-0.jpg
   title: Meine neue Tasche
-  description: von der liebenswuerdigen Dame im Hintergrund selbst genaeht. Ausserdem
-    hat sie die Naehte auf Wunsch noch verstaerkt.
+  description: von der liebenswuerdigen Dame im Hintergrund selbst genaeht. Ausserdem hat sie die Naehte auf Wunsch noch verstaerkt.
 type: post
 ---
 

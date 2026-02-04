@@ -39,8 +39,7 @@ images:
   title: Die Kids im Dorf und ich
 - filename: 3889580-besuch-bei-den-toepfern-0.jpg
   title: Besuch bei den Toepfern
-  description: Die eine Frau dreht die Toepferscheibe mit dem Fuss an, die andere
-    formt den Ton
+  description: Die eine Frau dreht die Toepferscheibe mit dem Fuss an, die andere formt den Ton
 - filename: 3889581-die-indische-neujahrs-prozession-0.jpg
   title: Die indische Neujahrs-Prozession
 - filename: 3889603-affen-im-park-ausserhalb-von-yangon-0.jpg

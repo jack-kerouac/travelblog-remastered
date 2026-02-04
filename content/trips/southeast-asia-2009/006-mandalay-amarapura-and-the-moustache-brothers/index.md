@@ -31,16 +31,14 @@ images:
   description: besuchte die Moustache Brothers
 - filename: 3943735-swimming-pool-in-mandalay-0.jpg
   title: Swimming Pool in Mandalay
-  description: reichlich Chlor, doch irgendwie roch er immer noch unangenehm. Aber
-    immerhin, eine Abkuehlung
+  description: reichlich Chlor, doch irgendwie roch er immer noch unangenehm. Aber immerhin, eine Abkuehlung
 - filename: 3943736-auf-dem-gipfel-des-mandalay-hill-0.jpg
   title: Auf dem Gipfel des Mandalay Hill
 - filename: 3943737-und-auf-dem-dach-auf-dem-gipfel-des-mandalay-hill-0.jpg
   title: und auf dem Dach auf dem Gipfel des Mandalay Hill
 - filename: 3943738-die-rum-station-in-mandalay-0.jpg
   title: die Rum Station in Mandalay
-  description: 'Rum-Tankstelle. Rechts sitzt Josh aus Australien, leicht ignorant,
-    Wortwahl aggressiv, aber im Ganzen sehr witzig: "That''s fucking stupid"'
+  description: 'Rum-Tankstelle. Rechts sitzt Josh aus Australien, leicht ignorant, Wortwahl aggressiv, aber im Ganzen sehr witzig: "That''s fucking stupid"'
 - filename: 3943739-und-auf-der-dachterasse-des-royal-guesthouses-gings-weiter-0.jpg
   title: und auf der Dachterasse des Royal Guesthouses gings weiter
   description: Nils, wie immer mit Gitarre und Mundharmonika als Alleinunterhalter
@@ -49,18 +47,15 @@ images:
   description: auch die Moenche :)
 - filename: 3943741-recht-trauriger-eisverkaeufer-in-sagaing-0.jpg
   title: recht trauriger Eisverkaeufer in Sagaing
-  description: Er macht ein ziemlich langes Gesicht :). Die Eiswaffeln schauen aber
-    auch nicht so lecker aus...
+  description: Er macht ein ziemlich langes Gesicht :). Die Eiswaffeln schauen aber auch nicht so lecker aus...
 - filename: 3943742-the-teaching-of-buddha-0.jpg
   title: The teaching of Buddha
 - filename: 3943743-unser--luxury-vehicle-0.jpg
   title: unser "Luxury Vehicle"
-  description: durch den verrosteten Boden spritzt einem das Waser bis auf die Knie,
-    wenn der Karren durch eine Wasserpfuetze rumpelt.
+  description: durch den verrosteten Boden spritzt einem das Waser bis auf die Knie, wenn der Karren durch eine Wasserpfuetze rumpelt.
 - filename: 3943744-und-dann-gab-das--auto--natuerlich-den-geist-auf-0.jpg
   title: und dann gab das "Auto" natuerlich den Geist auf
-  description: mitten im stroemenden Monsunregen. Unser Fahrer versucht unter der
-    Plane die Karre zu reparieren.
+  description: mitten im stroemenden Monsunregen. Unser Fahrer versucht unter der Plane die Karre zu reparieren.
 - filename: 3943745-tee-im-teashop-0.jpg
   title: Tee im Teashop
 - filename: 3943746-die-locals-sind-beim-schach-unschlagbar-0.jpg
@@ -71,9 +66,7 @@ images:
   title: ein Teil der Bruecke in der Totale
 - filename: 3943750-und-auch-hier-bettelnde-kinder-0.jpg
   title: 'Und auch hier: bettelnde Kinder'
-  description: wie so oft an den Touristenattraktionen in Myanmar. Sie sind aber nicht
-    sehr hartnaeckig und durch ein kurzes Gespraech kommen sie schnell auf andere
-    Gedanken.
+  description: wie so oft an den Touristenattraktionen in Myanmar. Sie sind aber nicht sehr hartnaeckig und durch ein kurzes Gespraech kommen sie schnell auf andere Gedanken.
 - filename: 3943751-morgens-in-der-busstation-in-mandalay-0.jpg
   title: Morgens in der Busstation in Mandalay
   description: Gute Stimmung :)
@@ -82,9 +75,7 @@ images:
   description: Rum-Cola. Cheers.
 - filename: 3943819-sitze-auch-im-gang-im-bus-0.jpg
   title: Sitze auch im Gang im Bus
-  description: darunter, Saecke voll Reis, Zement, ... Unterwegs wurden wir zweimal
-    angehalten, Maenner mit langen Eisenstaeben stachen in die Saecke, auf der Suche
-    nach Heroin.
+  description: darunter, Saecke voll Reis, Zement, ... Unterwegs wurden wir zweimal angehalten, Maenner mit langen Eisenstaeben stachen in die Saecke, auf der Suche nach Heroin.
 type: post
 ---
 

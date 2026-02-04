@@ -12,8 +12,7 @@ images:
   description: Da wollten wir hoch. Beim Wollen ist es geblieben.
 - filename: 6012639-unser_equipment-_trad-_here_we_come-0.jpg
   title: Unser Equipment, Trad, here we come :)
-  description: Mehr al zwei volle Racks an Friends, Nuts, Tricams, Expressen, Schrauber,
-    Schlingen, Gurte, Helme, Schuhe
+  description: Mehr al zwei volle Racks an Friends, Nuts, Tricams, Expressen, Schrauber, Schlingen, Gurte, Helme, Schuhe
 - filename: 6012640-skigebiete_mit_klingenden_namen-0.jpg
   title: Skigebiete mit klingenden Namen
   description: Vail, Breckenridge, Keystone
@@ -158,14 +157,12 @@ images:
   title: Rein in den "Death Canyon"
 - filename: 6012706-ohne_wolken_mit_sicherheit_noch_beeindruckender-0.jpg
   title: Ohne Wolken mit Sicherheit noch beeindruckender
-  description: Alle Zufahrtsstrassen in den Yellowstone National Park waren ungeraeumt.
-    Somit kein Durchkommen fuer unseren "Little Panzer".
+  description: Alle Zufahrtsstrassen in den Yellowstone National Park waren ungeraeumt. Somit kein Durchkommen fuer unseren "Little Panzer".
 - filename: 6012707-auf_den_strassen_wyomings_bleibt_viel_zeit_fuer_quatsch-0.jpg
   title: Auf den Strassen Wyomings bleibt viel Zeit fuer Quatsch
 - filename: 6012708-so_faehrt_man_in_wyoming-0.jpg
   title: So faehrt man in Wyoming :)
-  description: Dank Tempomat und meilenweit gerader Strasse. 500.000 Einwohner auf
-    den neuntgroessten Staat der US and A.
+  description: Dank Tempomat und meilenweit gerader Strasse. 500.000 Einwohner auf den neuntgroessten Staat der US and A.
 - filename: 6012709-schneewaende-0.jpg
   title: Schneewaende
   description: Wir haetten Eiskletterzeug mitbringen sollen.
@@ -184,8 +181,7 @@ images:
   title: Feuerholz besorgen.
 - filename: 6012716-achtung_vor_den_baeren-0.jpg
   title: Achtung vor den Baeren.
-  description: Die brechen angeblich auch fuer eine Zahnpasta das Auto auf. Aber wir
-    waren wohl zu frueh, sie waren noch im Winterschlaf.
+  description: Die brechen angeblich auch fuer eine Zahnpasta das Auto auf. Aber wir waren wohl zu frueh, sie waren noch im Winterschlaf.
 - filename: 6012717-face_dancer-0.jpg
   title: Face Dancer
 - filename: 6012718-cheers_to_jambit-0.jpg
@@ -243,10 +239,7 @@ images:
   description: von Lava geformt
 - filename: 6012756-unsere_route-0.jpg
   title: Unsere Route
-  description: an der linken Seite auf die schraeg liegende Saeule, von da aus auf
-    den Absatz der Saeule rechts, nochmal eine Saeule weiter rechts hoch, Im Kamin
-    hoch, 10 Meter nach rechts queren, dann einen Pfad ueber das Geroellfeld hoch
-    und eine letzte Seillaenge rechts oben.
+  description: an der linken Seite auf die schraeg liegende Saeule, von da aus auf den Absatz der Saeule rechts, nochmal eine Saeule weiter rechts hoch, Im Kamin hoch, 10 Meter nach rechts queren, dann einen Pfad ueber das Geroellfeld hoch und eine letzte Seillaenge rechts oben.
 - filename: 6012757-piet_prepares-0.jpg
   title: Piet prepares
 - filename: 6012758-piet_nach_der_spannenden-_dritten_seillaenge-0.jpg

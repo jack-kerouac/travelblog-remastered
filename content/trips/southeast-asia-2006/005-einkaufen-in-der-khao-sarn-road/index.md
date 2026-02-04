@@ -25,12 +25,10 @@ images:
   description: '...dass der auch gross und stark wird!'
 - filename: 489657-unser-lieber-taxifahrer-0.jpg
   title: unser lieber Taxifahrer
-  description: mit einem Wortschatz von ungefaehr 10 Vokabeln. Good, not good, money,
-    company.
+  description: mit einem Wortschatz von ungefaehr 10 Vokabeln. Good, not good, money, company.
 - filename: 489658-essen-in-einem-innenhof-in-der-khao-sarn-road-0.jpg
   title: Essen in einem Innenhof in der Khao Sarn Road
-  description: Essen in einem Innenhof in der Khao Sarn Road Fabians Tofu-Scheiss.
-    Schaut aber nicht so schlecht aus.
+  description: Essen in einem Innenhof in der Khao Sarn Road Fabians Tofu-Scheiss. Schaut aber nicht so schlecht aus.
 type: post
 ---
 

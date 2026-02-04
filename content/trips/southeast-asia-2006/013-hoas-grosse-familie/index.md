@@ -29,15 +29,13 @@ images:
   description: ziemlich begeistert von dem Gitarrenspiel
 - filename: 522728-dinner-0.jpg
   title: Dinner
-  description: 'links: Michael (Heidelberg), Samantha (England), Lea (Kanada) rechts:
-    Pete (England)'
+  description: 'links: Michael (Heidelberg), Samantha (England), Lea (Kanada) rechts: Pete (England)'
 - filename: 522730-die-schluchtis-0.jpg
   title: die Schluchtis
   description: Yvonne ('Schland), Kristof und David (Oesterreich)
 - filename: 522732-happy-days-at-hoa-s-place-0.jpg
   title: Happy Days at Hoa's Place
-  description: Happy Days at Hoa's Place ein Gedicht von zwei Australiern aus dem
-    Jahr 2000
+  description: Happy Days at Hoa's Place ein Gedicht von zwei Australiern aus dem Jahr 2000
 - filename: 522734-die-zweite-seite-0.jpg
   title: '...die zweite Seite'
 - filename: 522736-drei-kids-an-der-strasse-0.jpg

@@ -41,8 +41,7 @@ images:
   description: ziemlich abgekaempft...
 - filename: 552748-bayon-0.jpg
   title: Bayon
-  description: sieht aus der Entfernung aus wie ein Schutthaufen, tatsaechlich ist
-    es ein Labyrinth aus Gaengen, Stufen und Etagen
+  description: sieht aus der Entfernung aus wie ein Schutthaufen, tatsaechlich ist es ein Labyrinth aus Gaengen, Stufen und Etagen
 - filename: 552749-angkor-wat-0.jpg
   title: Angkor Wat
   description: das Bild kennt man...
@@ -53,8 +52,7 @@ images:
   description: Indiana Jones laesst gruessen
 - filename: 552761-zehn-jahre-alt-0.jpg
   title: Zehn Jahre alt
-  description: und traegt schon zum Familieneinkommen bei. Meisst erfolgreicher als
-    ihre Eltern zusammen.
+  description: und traegt schon zum Familieneinkommen bei. Meisst erfolgreicher als ihre Eltern zusammen.
 - filename: 552764-kristof-und-ich-morgens-um-sechs-0.jpg
   title: Kristof und ich, morgens um sechs
   description: Kristof und ich, morgens um sechs im Halbschlaf
@@ -63,8 +61,7 @@ images:
   description: der Hauptturm im Morgenlicht 55 m ueber dem Grund
 - filename: 552771-ein-sanftmuetiger-dickhaeuter-0.jpg
   title: ein sanftmuetiger Dickhaeuter
-  description: ein sanftmuetiger Dickhaeuter der zu einem Wucherpreis koreanische
-    Touristen rumtraegt
+  description: ein sanftmuetiger Dickhaeuter der zu einem Wucherpreis koreanische Touristen rumtraegt
 - filename: 552773-was-will-er-mir-sagen-0.jpg
   title: was will er mir sagen?
 - filename: 552774-lisa-and-me-0.jpg

@@ -21,8 +21,7 @@ images:
   title: Rest Days...
 - filename: 3835510-marina-und-dominik-0.jpg
   title: Marina und Dominik
-  description: Dominik, ein Original. Franzose, leicht fertig, aber extrem relaxed
-    and sympathisch
+  description: Dominik, ein Original. Franzose, leicht fertig, aber extrem relaxed and sympathisch
 - filename: 3835511-der-trail-nach-railey-0.jpg
   title: Der Trail nach Railey
 - filename: 3835515-thaiwand-wall-0.jpg
@@ -30,19 +29,13 @@ images:
   description: und Jon, ich und Marina
 - filename: 3835517-matu-hilft-beim-slacklinen-0.jpg
   title: Matu hilft beim Slacklinen
-  description: Mountain Guide aus Argentinien, sehr entspannter Mensch, nicht gerade
-    sehr gespraechig, die euphorischste Aeusserung ist "nice one", wenn er eine Route
-    toll fand. Hat die Eigenschaft, zu verschwinden und aufzutauchen wie ein Geist.
+  description: Mountain Guide aus Argentinien, sehr entspannter Mensch, nicht gerade sehr gespraechig, die euphorischste Aeusserung ist "nice one", wenn er eine Route toll fand. Hat die Eigenschaft, zu verschwinden und aufzutauchen wie ein Geist.
 - filename: 3835519-no-comment-1.jpg
   title: no comment
-  description: Marina, Ergotherapeutin aus der Steiermark, auf Weltreise, eine der
-    ersten, die ich kennen gelernt habe
+  description: Marina, Ergotherapeutin aus der Steiermark, auf Weltreise, eine der ersten, die ich kennen gelernt habe
 - filename: 3835521-jon-mit-fire-staff-1.jpg
   title: Jon mit Fire Staff
-  description: es sieht bei ihm extrem elegant und dyanmisch aus... Jon, Gletscherfuehrer
-    aus Neuseeland, hat sein Politik-, Philosophie- und Soziologiestudium hingeworfen
-    und sich dem Outdoorsport zugewendet. Fuehrt dumme, Schnapstrinkende Touris ueber
-    den Franz-Joseph-Gletscher. Eher introvertiert, aber sehr sympathisch.
+  description: es sieht bei ihm extrem elegant und dyanmisch aus... Jon, Gletscherfuehrer aus Neuseeland, hat sein Politik-, Philosophie- und Soziologiestudium hingeworfen und sich dem Outdoorsport zugewendet. Fuehrt dumme, Schnapstrinkende Touris ueber den Franz-Joseph-Gletscher. Eher introvertiert, aber sehr sympathisch.
 - filename: 3835523-klettern-am-strand-0.jpg
   title: Klettern am Strand
   description: Die Route heisst Beauty and the Beast.
@@ -62,12 +55,10 @@ images:
   title: Welcome to paradise
 - filename: 3835548-marina-john-nina-und-matu-1.jpg
   title: Marina, John, Nina und Matu
-  description: Nina, habe sie auf dem Boot nach Ton Sai kennengelernt, aeusserst strebsame
-    Kletterin :).
+  description: Nina, habe sie auf dem Boot nach Ton Sai kennengelernt, aeusserst strebsame Kletterin :).
 - filename: 3835552-andaman-cup-0.jpg
   title: Andaman Cup
-  description: ausgetragen auf einem geneigten, unebenen Feld, einer hat mit Kletterschuhen
-    Fussball gespielt, gewonnen hat das Team der Chillout Bar.
+  description: ausgetragen auf einem geneigten, unebenen Feld, einer hat mit Kletterschuhen Fussball gespielt, gewonnen hat das Team der Chillout Bar.
 - filename: 3835554-contemplating-in-silence-0.jpg
   title: contemplating in silence
 - filename: 3835555-redpointing--missing-snow-1.jpg
@@ -86,23 +77,19 @@ images:
   title: Longboats
 - filename: 3835564-moses-0.jpg
   title: Moses
-  description: aka Dominik. Nachdem er sich ne ueble Entzuendung am Fuss geholt hat,
-    ist er am Stock gegangen. Und sah mit seinem wallenden, blonden Haar und ohne
-    T-Shirt aus wie Moses. Oder Jesus.
+  description: aka Dominik. Nachdem er sich ne ueble Entzuendung am Fuss geholt hat, ist er am Stock gegangen. Und sah mit seinem wallenden, blonden Haar und ohne T-Shirt aus wie Moses. Oder Jesus.
 - filename: 3835566-jon-und-ich-am-vierten-anker-0.jpg
   title: Jon und ich am vierten Anker
 - filename: 3835567-hinter-mir-ton-sai-0.jpg
   title: Hinter mir Ton Sai
 - filename: 3835568-rael-0.jpg
   title: Rael
-  description: '"english is not my speciality". Extrem lieber Kerl, klettert wie ein
-    Baer, hat aber erstaunlich wenig Ahnung von Seiltechnik.'
+  description: '"english is not my speciality". Extrem lieber Kerl, klettert wie ein Baer, hat aber erstaunlich wenig Ahnung von Seiltechnik.'
 - filename: 3835569-full-moon-0.jpg
   title: Full Moon
 - filename: 3835571-christel-0.jpg
   title: Christel
-  description: aus Frankreich, wurde einige Tage zuvor recht tragisch von ihrem Freund
-    verlassen, schuechtern und unglaublich nett
+  description: aus Frankreich, wurde einige Tage zuvor recht tragisch von ihrem Freund verlassen, schuechtern und unglaublich nett
 - filename: 3835572-rael-0.jpg
   title: Rael...
   description: ohne Worte
@@ -125,8 +112,7 @@ images:
   description: at "Pappas and Mamas"
 - filename: 3835630-luek-and-jim-0.jpg
   title: Luek and Jim
-  description: Luek, aus Holland, extrem witziger Kasper Jim aus Manchester, trockener,
-    englischer Humor, wir haben uns Stunden ueber seinen Dialekt amuesiert...
+  description: Luek, aus Holland, extrem witziger Kasper Jim aus Manchester, trockener, englischer Humor, wir haben uns Stunden ueber seinen Dialekt amuesiert...
 - filename: 3835582-munis--held-der-slackline-0.jpg
   title: Munis - Held der Slackline
   description: und der Small World Bar
@@ -150,8 +136,7 @@ images:
   title: Die Plage...
 - filename: 3835615-und-deren-ende-0.jpg
   title: '...und deren Ende'
-  description: Ich habe noch nie so einen fetten Frosch gesehen. Er hat nicht aufgehoert
-    zu fressen.
+  description: Ich habe noch nie so einen fetten Frosch gesehen. Er hat nicht aufgehoert zu fressen.
 - filename: 3835616-goodbye-ton-sai-0.jpg
   title: Goodbye Ton Sai
   description: See you in a year, or year or so...

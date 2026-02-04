@@ -103,8 +103,7 @@ images:
   title: Yosemite Falls und Torpedo Beer
 - filename: 7556003-nochmal-der-el-cap-0.jpg
   title: nochmal der El Cap
-  description: von der letzten Seillänge von "Central Pillar of Frenzy", am Cathedral
-    Rock gegenüber
+  description: von der letzten Seillänge von "Central Pillar of Frenzy", am Cathedral Rock gegenüber
 type: post
 ---
 

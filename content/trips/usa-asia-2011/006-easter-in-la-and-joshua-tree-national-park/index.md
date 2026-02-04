@@ -13,8 +13,7 @@ images:
   title: Joshua Tree National Park
 - filename: 6094537-toni-_rylan_und_chris-0.jpg
   title: Toni, Rylan und Chris
-  description: meine werten Gastgeber in Foutain Valley, Orange County, auf ihrer
-    Terasse
+  description: meine werten Gastgeber in Foutain Valley, Orange County, auf ihrer Terasse
 - filename: 6094538-guns_and_roller_skates-0.jpg
   title: Guns and roller skates
   description: Werbeteil der Lokalzeitung

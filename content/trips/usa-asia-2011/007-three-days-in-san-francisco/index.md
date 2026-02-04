@@ -19,8 +19,7 @@ images:
   title: und das obligatorische Cable Car
 - filename: 6097993-jack_kerouac_beat_generation_museum-0.jpg
   title: Jack Kerouac Beat Generation Museum
-  description: das verdankt er wohl posthum der Tatsache, dass drei seiner vier im
-    Buch "On the Road" beschriebenen Trips in San Francisco endeten.
+  description: das verdankt er wohl posthum der Tatsache, dass drei seiner vier im Buch "On the Road" beschriebenen Trips in San Francisco endeten.
 - filename: 6097994-chinatown-0.jpg
   title: Chinatown
   description: Das macht Lust auf China.

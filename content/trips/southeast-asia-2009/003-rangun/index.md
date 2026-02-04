@@ -16,11 +16,7 @@ images:
   title: Taegliche Szene auf Ranguns Strassen
 - filename: 3857327-fortune-teller-0.jpg
   title: Fortune Teller
-  description: Sie sagte mir natuerlich eine goldene Zukunft voraus. Ich werde bis
-    2010 heiraten, 2 Kinder haben, soll nach Maedels Ausschau halten, die an einem
-    Donnerstag, keinesfalls allerdings an einem Mittwoch geboren sind, werde die naechsten
-    Jahre Glueck im Job haben, und soll die naechsten Monate auf meine Gesundheit,
-    besonders meinen Magen aufpassen. :)
+  description: Sie sagte mir natuerlich eine goldene Zukunft voraus. Ich werde bis 2010 heiraten, 2 Kinder haben, soll nach Maedels Ausschau halten, die an einem Donnerstag, keinesfalls allerdings an einem Mittwoch geboren sind, werde die naechsten Jahre Glueck im Job haben, und soll die naechsten Monate auf meine Gesundheit, besonders meinen Magen aufpassen. :)
 - filename: 3857328-der-gegenwert-von-300-dollar-in-kyat-0.jpg
   title: Der Gegenwert von 300 Dollar in Kyat
   description: 1000 Kyat (ca. ein Dollar) ist die groesste Banknote
@@ -28,15 +24,13 @@ images:
   title: Eingang zum Okinawa Guesthouse
 - filename: 3857331-eine-normale-strasse-in-rangun-0.jpg
   title: Eine normale Strasse in Rangun
-  description: die Haeuser sind gar nicht mal so alt, doch die Farbe wurde zu sehr
-    mit Wasser verduennt...
+  description: die Haeuser sind gar nicht mal so alt, doch die Farbe wurde zu sehr mit Wasser verduennt...
 - filename: 3857332-reclining-buddha-0.jpg
   title: Reclining Buddha
   description: Die Glasaugen sehen sehr real aus
 - filename: 3857334-kloster-hinter-dem-reclining-buddha-0.jpg
   title: Kloster hinter dem Reclining Buddha
-  description: In dessen Umgebung standen 60 Monasteries. Hier hatten die Proteste
-    2007 ihren Ursprung.
+  description: In dessen Umgebung standen 60 Monasteries. Hier hatten die Proteste 2007 ihren Ursprung.
 - filename: 3857336-buddha-und-manu-0.jpg
   title: Buddha und ManU
   description: Fussball ist hier unglaublich populaer
@@ -47,8 +41,7 @@ images:
   description: Sie essen immer zuerst, die Reste werden dann von anderen gegessen.
 - filename: 3857343-grossmarkt-0.jpg
   title: Grossmarkt
-  description: wo alles moegliche Organische an andere Maerkte und grosse Restaurants
-    verkauft wird
+  description: wo alles moegliche Organische an andere Maerkte und grosse Restaurants verkauft wird
 - filename: 3857345-cheerful-0.jpg
   title: Cheerful
 - filename: 3857346-die-weltlichen-vergnuegungen-0.jpg

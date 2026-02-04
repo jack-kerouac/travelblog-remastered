@@ -11,8 +11,7 @@ original_url: https://www.travelblog.org/north-america/canada/british-columbia/s
 images:
 - filename: 7596978-minor-thread--v6-vor-dem-schl-sselzug-0.jpg
   title: '"Minor Thread", v6, vor dem Schlüsselzug'
-  description: Sechs Tage lang bin ich zu diesem Felsbock gepilgert bis ich die Züge
-    aneinander reihen konnte.
+  description: Sechs Tage lang bin ich zu diesem Felsbock gepilgert bis ich die Züge aneinander reihen konnte.
 - filename: 7596979-und-nach-dem-schl-sselzug-0.jpg
   title: und nach dem Schlüsselzug
 - filename: 7588644-minor-threat-in-der-totalen-0.jpg
@@ -70,8 +69,7 @@ images:
   description: nur Frieder trinkt Tee. Der Freak :)
 - filename: 7596986-pb-j-0.jpg
   title: PB&J
-  description: Peanut Butter and Jell (Erdnussbutter und Marmelade auf ungetoastetem
-    Toastbrot), unser Standardsnack
+  description: Peanut Butter and Jell (Erdnussbutter und Marmelade auf ungetoastetem Toastbrot), unser Standardsnack
 - filename: 7596991-frieder-in-v5-1.jpg
   title: Frieder in v5
   description: North Wall Boulders
@@ -100,8 +98,7 @@ images:
   title: Downtown Whistler
 - filename: 7597004-peak-to-peak-gondola-0.jpg
   title: Peak to Peak Gondola
-  description: Die längste freihängende Gondel der Welt, verbindet Whistler Mountain
-    und Blackcomb Mountain
+  description: Die längste freihängende Gondel der Welt, verbindet Whistler Mountain und Blackcomb Mountain
 type: post
 ---
 

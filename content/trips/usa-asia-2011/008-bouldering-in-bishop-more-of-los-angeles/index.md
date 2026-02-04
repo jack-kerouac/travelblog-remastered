@@ -16,8 +16,7 @@ images:
   description: Hier ist das Spaceship One zuhause
 - filename: 6094566-flugzeugfriedhof-0.jpg
   title: Flugzeugfriedhof
-  description: bzw. werden hier die alten Flugzeuge neu lakiert und an Billigfluglinien
-    weiterverkauft
+  description: bzw. werden hier die alten Flugzeuge neu lakiert und an Billigfluglinien weiterverkauft
 - filename: 6094567-death_valley_sprint-0.jpg
   title: Death Valley Sprint
 - filename: 6094568-crashpads_sind_die_besseren_campingstuehle-0.jpg

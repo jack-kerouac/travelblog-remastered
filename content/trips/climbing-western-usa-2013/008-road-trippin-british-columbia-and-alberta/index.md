@@ -36,8 +36,7 @@ images:
   title: Und auf einen Sprung in den Gletscherbach
 - filename: 7618174-lake-agnes-0.jpg
   title: Lake Agnes
-  description: Da war Frieder aber allein, da er nicht mit uns Klettern konnte. Er
-    hatte Schulter.
+  description: Da war Frieder aber allein, da er nicht mit uns Klettern konnte. Er hatte Schulter.
 - filename: 7618175-die-berge-rund-um-lake-louise-0.jpg
   title: Die Berge rund um Lake Louise
 - filename: 7618177-5-12b-0.jpg
