@@ -105,6 +105,29 @@ figcaption strong {
     color: #333;
 }
 
+/* Low-res ribbon indicator */
+figure[data-low-res] {
+    position: relative;
+    overflow: hidden;
+}
+
+figure[data-low-res]::after {
+    content: "low-res";
+    position: absolute;
+    top: 20px;
+    right: -25px;
+    background-color: rgba(255, 140, 0, 0.9);
+    color: white;
+    padding: 5px 30px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transform: rotate(45deg);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    z-index: 10;
+}
+
 @media (max-width: 768px) {
     .photo-grid {
         grid-template-columns: 1fr;

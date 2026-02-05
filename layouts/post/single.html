@@ -19,7 +19,11 @@
         {{ with .Resources.ByType "image" }}
         <div class="photo-grid">
             {{ range . }}
-            <figure>
+            {{ $longerEdge := .Width }}
+            {{ if gt .Height .Width }}
+                {{ $longerEdge = .Height }}
+            {{ end }}
+            <figure{{ if le $longerEdge 800 }} data-low-res="true"{{ end }}>
                 <img src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
                 <figcaption>
                     <strong>{{ .Title }}</strong>
