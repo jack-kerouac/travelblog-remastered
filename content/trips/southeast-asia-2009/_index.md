@@ -1,8 +1,8 @@
 ---
 title: Southeast Asia 2009
 description: Ein Monat klettern in Ton Sai, ein Monat mit dem Rucksack durch Myanmar.
-start_date: '2009-04-24 00:00:00'
-end_date: '2009-06-22 00:00:00'
+start_date: '2009-04-24'
+end_date: '2009-06-22'
 countries:
 - Burma
 - Thailand
