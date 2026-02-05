@@ -22,7 +22,7 @@
                     {{ index .Params.location (sub $locLen 1) }}, {{ index .Params.location (sub $locLen 2) }}
                 </p>
                 {{ end }}
-                {{ with .Params.images }}
+                {{ with .Resources.ByType "image" }}
                 <p class="post-photos">{{ len . }} photos</p>
                 {{ end }}
             </article>

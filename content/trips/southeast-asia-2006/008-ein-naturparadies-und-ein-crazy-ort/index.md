@@ -8,37 +8,45 @@ location:
 - West
 - Vang Vieng
 original_url: https://www.travelblog.org/asia/laos/west/vang-vieng/blog-81007
-images:
-- filename: 498014-chillen-bei-friends-und-laobeer-0.jpg
+resources:
+- src: 498014-chillen-bei-friends-und-laobeer-0.jpg
   title: chillen bei Friends und Laobeer
-  description: chillen bei Friends und Laobeer Das Friends-Phaenomen hier in Vang Vieng ist echt grausam...
-- filename: 498017-bescherung-0.jpg
+  params:
+    description: chillen bei Friends und Laobeer Das Friends-Phaenomen hier in Vang Vieng ist echt grausam...
+- src: 498017-bescherung-0.jpg
   title: Bescherung...
-  description: 'Wir haben den Kids Stifte und Lineale geschenkt. Danach gingen sie uns aber ziemlich auf die Nerven: Pen, Pen, Pen?'
-- filename: 498021-unser-kletterspielplatz-0.jpg
+  params:
+    description: 'Wir haben den Kids Stifte und Lineale geschenkt. Danach gingen sie uns aber ziemlich auf die Nerven: Pen, Pen, Pen?'
+- src: 498021-unser-kletterspielplatz-0.jpg
   title: unser Kletterspielplatz
-  description: in der Spalte zwischen den Bergen sind wir halb hoch.
-- filename: 498024-christoph-beim-bambusstoecke-saegen-0.jpg
+  params:
+    description: in der Spalte zwischen den Bergen sind wir halb hoch.
+- src: 498024-christoph-beim-bambusstoecke-saegen-0.jpg
   title: Christoph beim Bambusstoecke saegen
-  description: Christoph beim Bambusstoecke saegen Man beachte die Hose. Und das war vor dem Aufstieg!
-- filename: 498027-on-the-way-to-the-top-0.jpg
+  params:
+    description: Christoph beim Bambusstoecke saegen Man beachte die Hose. Und das war vor dem Aufstieg!
+- src: 498027-on-the-way-to-the-top-0.jpg
   title: on the way to the top...
-  description: '...and on the top of sweeeezing.'
-- filename: 498029-und-ein-tolles-panorama-0.jpg
+  params:
+    description: '...and on the top of sweeeezing.'
+- src: 498029-und-ein-tolles-panorama-0.jpg
   title: '...und ein tolles Panorama'
-- filename: 498036-ein-sprung-ins-kuehle-nass-0.jpg
+- src: 498036-ein-sprung-ins-kuehle-nass-0.jpg
   title: ein Sprung ins kuehle Nass
-  description: aus 7 m Hoehe in die Lagune
-- filename: 498038-und-nochmal-0.jpg
+  params:
+    description: aus 7 m Hoehe in die Lagune
+- src: 498038-und-nochmal-0.jpg
   title: '...und nochmal...'
-- filename: 498041-chillen-aufm-baum-0.jpg
+- src: 498041-chillen-aufm-baum-0.jpg
   title: chillen aufm Baum
-- filename: 498045-flo-beim-rueckwaertssalto-0.jpg
+- src: 498045-flo-beim-rueckwaertssalto-0.jpg
   title: Flo beim Rueckwaertssalto
-  description: mit Eierlandung
-- filename: 498050-essen-im-restaurant--happy-0.jpg
+  params:
+    description: mit Eierlandung
+- src: 498050-essen-im-restaurant--happy-0.jpg
   title: Essen im Restaurant "Happy"
-  description: Essen im Restaurant "Happy" mit anschliessendem Angebot eines Free Joint, den wir natuerlich - aufgrund guter Erziehung - nicht angenommen haben, Waltraud, Emmi!
+  params:
+    description: Essen im Restaurant "Happy" mit anschliessendem Angebot eines Free Joint, den wir natuerlich - aufgrund guter Erziehung - nicht angenommen haben, Waltraud, Emmi!
 type: post
 ---
 

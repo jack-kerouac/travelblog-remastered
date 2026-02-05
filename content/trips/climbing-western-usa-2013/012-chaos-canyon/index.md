@@ -8,138 +8,150 @@ location:
 - Colorado
 - Rocky Mountains
 original_url: https://www.travelblog.org/north-america/united-states/colorado/rocky-mountains/blog-804993
-images:
-- filename: 7701197-upper-chaos-canyon-0.jpg
+resources:
+- src: 7701197-upper-chaos-canyon-0.jpg
   title: Upper Chaos Canyon
-  description: V2 Highball
-- filename: 7689013-weg-zu-unserem-wildcampingplatz-0.jpg
+  params:
+    description: V2 Highball
+- src: 7689013-weg-zu-unserem-wildcampingplatz-0.jpg
   title: Weg zu unserem Wildcampingplatz
-  description: im National Forest
-- filename: 7689003-hamburglar-v8-in-wild-basin-0.jpg
+  params:
+    description: im National Forest
+- src: 7689003-hamburglar-v8-in-wild-basin-0.jpg
   title: Hamburglar (V8) in Wild Basin
-  description: noch nicht geklettert
-- filename: 7689012-wir-kochen-meist-nachts-0.jpg
+  params:
+    description: noch nicht geklettert
+- src: 7689012-wir-kochen-meist-nachts-0.jpg
   title: wir kochen meist nachts
-  description: weil wir zu lange beim Bouldern sind
-- filename: 7728533-wasser-sterilisieren-auf-dem-weg-zum-chaos-canyon-0.jpg
+  params:
+    description: weil wir zu lange beim Bouldern sind
+- src: 7728533-wasser-sterilisieren-auf-dem-weg-zum-chaos-canyon-0.jpg
   title: Wasser sterilisieren auf dem Weg zum Chaos Canyon
-- filename: 7688993-frieder-in-melissas-neu-entdecktem-boulder-0.jpg
+- src: 7688993-frieder-in-melissas-neu-entdecktem-boulder-0.jpg
   title: Frieder in Melissas neu entdecktem Boulder
-- filename: 7688995-peter-in-seinem-neu-entdeckten-boulder-0.jpg
+- src: 7688995-peter-in-seinem-neu-entdeckten-boulder-0.jpg
   title: Peter in seinem neu entdeckten Boulder
-- filename: 7688997-melissa-zieht-hart-0.jpg
+- src: 7688997-melissa-zieht-hart-0.jpg
   title: Melissa zieht hart
-- filename: 7688998-frieder-baut-sich-ein-sog-kneepad-0.jpg
+- src: 7688998-frieder-baut-sich-ein-sog-kneepad-0.jpg
   title: Frieder baut sich ein sog. Kneepad
-  description: damit kann man sein Knie in einen Felsvorsprung einklemmen, ohne dass die Haut größeren Schaden nimmt
-- filename: 7688999-frieder-in-riddles-of-the-dark-v10--upper-chaos-canyon-0.jpg
+  params:
+    description: damit kann man sein Knie in einen Felsvorsprung einklemmen, ohne dass die Haut größeren Schaden nimmt
+- src: 7688999-frieder-in-riddles-of-the-dark-v10--upper-chaos-canyon-0.jpg
   title: Frieder in Riddles of the Dark (v10), Upper Chaos Canyon
-  description: zusammen mit Tommy Caldwell erarbeitet
-- filename: 7689000-schl-sselzug-von-skipper-d-v8-0.jpg
+  params:
+    description: zusammen mit Tommy Caldwell erarbeitet
+- src: 7689000-schl-sselzug-von-skipper-d-v8-0.jpg
   title: Schlüsselzug von Skipper D (V8)
-- filename: 7728535-neuer-versuch-am-n-chsten-tag-im-upper-chaos-canyon-0.jpg
+- src: 7728535-neuer-versuch-am-n-chsten-tag-im-upper-chaos-canyon-0.jpg
   title: neuer Versuch am nächsten Tag im Upper Chaos Canyon
-- filename: 7728534-ausstieg-von-skipper-d-geschafft-0.jpg
+- src: 7728534-ausstieg-von-skipper-d-geschafft-0.jpg
   title: Ausstieg von Skipper D, geschafft!
-- filename: 7701198-wir-chillen-unter--skipper-d-0.jpg
+- src: 7701198-wir-chillen-unter--skipper-d-0.jpg
   title: wir chillen unter "Skipper D"
-- filename: 7689001-fred-und-die-pads-0.jpg
+- src: 7689001-fred-und-die-pads-0.jpg
   title: Fred und die Pads
-- filename: 7689002-peter-in-el-jorge-right-v8-0.jpg
+- src: 7689002-peter-in-el-jorge-right-v8-0.jpg
   title: Peter in El Jorge Right (V8)
-- filename: 7689004-privy-toilet-in-wild-basin-0.jpg
+- src: 7689004-privy-toilet-in-wild-basin-0.jpg
   title: Privy toilet in Wild Basin
-  description: recht minimalistisch
-- filename: 7689006-st-ckchenschlacht-0.jpg
+  params:
+    description: recht minimalistisch
+- src: 7689006-st-ckchenschlacht-0.jpg
   title: Stöckchenschlacht
-- filename: 7689007-peter-gut-drauf-0.jpg
+- src: 7689007-peter-gut-drauf-0.jpg
   title: Peter gut drauf
-- filename: 7689010-tommy-s-arete-v7--lower-chaos-canyon-0.jpg
+- src: 7689010-tommy-s-arete-v7--lower-chaos-canyon-0.jpg
   title: Tommy's Arete (V7), Lower Chaos Canyon
-- filename: 7689008-lake-haiyaha-0.jpg
+- src: 7689008-lake-haiyaha-0.jpg
   title: Lake Haiyaha
-- filename: 7689009-der-long-s-peak-im-letzten-licht-des-tages-0.jpg
+- src: 7689009-der-long-s-peak-im-letzten-licht-des-tages-0.jpg
   title: der Long's Peak im letzten Licht des Tages
-- filename: 7728539-abschied-von-melissa-0.jpg
+- src: 7728539-abschied-von-melissa-0.jpg
   title: Abschied von Melissa
-- filename: 7689011-der-lange-weg-vom-chaos-canyon-zur-ck-0.jpg
+- src: 7689011-der-lange-weg-vom-chaos-canyon-zur-ck-0.jpg
   title: der lange Weg vom Chaos Canyon zurück
-  description: mit dem Hallett's Peak im Hintergrund
-- filename: 7701200-abendstimmung-am-longs-peak-0.jpg
+  params:
+    description: mit dem Hallett's Peak im Hintergrund
+- src: 7701200-abendstimmung-am-longs-peak-0.jpg
   title: Abendstimmung am Longs Peak
-- filename: 7728536-v5-in-moraine-park-0.jpg
+- src: 7728536-v5-in-moraine-park-0.jpg
   title: v5 in Moraine Park
-- filename: 7728537-frieders-fu--zuerst-boulder-0.jpg
+- src: 7728537-frieders-fu--zuerst-boulder-0.jpg
   title: Frieders Fuß-zuerst-Boulder
-- filename: 7728538-und-zur-ck-0.jpg
+- src: 7728538-und-zur-ck-0.jpg
   title: und zurück
-- filename: 7728540-barbecue-0.jpg
+- src: 7728540-barbecue-0.jpg
   title: Barbecue!
-- filename: 7701201-rehe-auf-unserem-campingplatz-0.jpg
+- src: 7701201-rehe-auf-unserem-campingplatz-0.jpg
   title: Rehe auf unserem Campingplatz
-- filename: 7728530-kochen-bei-regen-0.jpg
+- src: 7728530-kochen-bei-regen-0.jpg
   title: Kochen bei Regen
-- filename: 7728531-burger-0.jpg
+- src: 7728531-burger-0.jpg
   title: Burger!
-- filename: 7728532-eines-der-vielen-gewitter-im-rmnp-0.jpg
+- src: 7728532-eines-der-vielen-gewitter-im-rmnp-0.jpg
   title: eines der vielen Gewitter im RMNP
-- filename: 7701202-fr-hst-ck-nachts-um-2-uhr-0.jpg
+- src: 7701202-fr-hst-ck-nachts-um-2-uhr-0.jpg
   title: Frühstück nachts um 2 Uhr
-- filename: 7701204-ca-um-5-uhr-an-der-keyhole-route-zum-long-s-peak-0.jpg
+- src: 7701204-ca-um-5-uhr-an-der-keyhole-route-zum-long-s-peak-0.jpg
   title: ca. um 5 Uhr an der Keyhole Route zum Long's Peak
-- filename: 7701205-frieder-christoph-chrissi-und-piet-vor-dem-keyhole-0.jpg
+- src: 7701205-frieder-christoph-chrissi-und-piet-vor-dem-keyhole-0.jpg
   title: Frieder, Christoph, Chrissi und Piet vor dem Keyhole
-- filename: 7701207-die-sonne-geht-auf-im-rmnp-0.jpg
+- src: 7701207-die-sonne-geht-auf-im-rmnp-0.jpg
   title: Die Sonne geht auf im RMNP
-- filename: 7701208-frieder-auf-ausschau-0.jpg
+- src: 7701208-frieder-auf-ausschau-0.jpg
   title: Frieder auf Ausschau
-- filename: 7701210-on-top-0.jpg
+- src: 7701210-on-top-0.jpg
   title: on top!
-- filename: 7701211-feldtoiletten-am-campingplatz-0.jpg
+- src: 7701211-feldtoiletten-am-campingplatz-0.jpg
   title: Feldtoiletten am Campingplatz
-  description: am Fuße des Keyholes
-- filename: 7701213-christoph-boulder--the-kind--v5-0.jpg
+  params:
+    description: am Fuße des Keyholes
+- src: 7701213-christoph-boulder--the-kind--v5-0.jpg
   title: Christoph boulder "The Kind" (V5)
-- filename: 7701214-guten-morgen-0.jpg
+- src: 7701214-guten-morgen-0.jpg
   title: Guten Morgen!
-- filename: 7701215-frieder-bei-seinem-letzten-abschlag-0.jpg
+- src: 7701215-frieder-bei-seinem-letzten-abschlag-0.jpg
   title: Frieder bei seinem letzten Abschlag
-- filename: 7701217-wir-versuchen-frieders-zeug-aus-unserem-rauszupacken-0.jpg
+- src: 7701217-wir-versuchen-frieders-zeug-aus-unserem-rauszupacken-0.jpg
   title: wir versuchen Frieders Zeug aus unserem rauszupacken
-- filename: 7701218-ein-letztes-spiel-bohnanza-mit-frieder-0.jpg
+- src: 7701218-ein-letztes-spiel-bohnanza-mit-frieder-0.jpg
   title: ein letztes Spiel Bohnanza mit Frieder
-- filename: 7701219-am-flughafen-0.jpg
+- src: 7701219-am-flughafen-0.jpg
   title: am Flughafen
-  description: Goodbye Frieder!
-- filename: 7701220-abends-im-dark-horse-0.jpg
+  params:
+    description: Goodbye Frieder!
+- src: 7701220-abends-im-dark-horse-0.jpg
   title: Abends im Dark Horse
-- filename: 7701221-chrissi-und-piet-0.jpg
+- src: 7701221-chrissi-und-piet-0.jpg
   title: Chrissi und Piet
-- filename: 7728541-auf-den-zweiten-flatiron-0.jpg
+- src: 7728541-auf-den-zweiten-flatiron-0.jpg
   title: auf den zweiten Flatiron
-- filename: 7728542-boulder-unter-uns-0.jpg
+- src: 7728542-boulder-unter-uns-0.jpg
   title: Boulder unter uns
-- filename: 7728543-no-shooting-auf-unserem-campground-0.jpg
+- src: 7728543-no-shooting-auf-unserem-campground-0.jpg
   title: No Shooting auf unserem Campground!
-- filename: 7728545-tausche-neu-gegen-alt-bei-rei-0.jpg
+- src: 7728545-tausche-neu-gegen-alt-bei-rei-0.jpg
   title: tausche neu gegen alt, bei REI
-  description: 'auch: "Return and Exchange Inc."'
-- filename: 7728546-briefk-sten-0.jpg
+  params:
+    description: 'auch: "Return and Exchange Inc."'
+- src: 7728546-briefk-sten-0.jpg
   title: Briefkästen
-- filename: 7728548-endo-valley-0.jpg
+- src: 7728548-endo-valley-0.jpg
   title: Endo Valley
-- filename: 7728547-endo-valley--the-portal-0.jpg
+- src: 7728547-endo-valley--the-portal-0.jpg
   title: Endo Valley - The Portal
-- filename: 7728549-boulder-in-endo-valley-0.jpg
+- src: 7728549-boulder-in-endo-valley-0.jpg
   title: Boulder in Endo Valley
-  description: v6?
-- filename: 7728550-oh-nooo-0.jpg
+  params:
+    description: v6?
+- src: 7728550-oh-nooo-0.jpg
   title: oh nooo
-- filename: 7728551-ruff-0.jpg
+- src: 7728551-ruff-0.jpg
   title: ruff
-- filename: 7728552-longhorn-sheep-0.jpg
+- src: 7728552-longhorn-sheep-0.jpg
   title: Longhorn sheep
-- filename: 7728553-und-nochmal-auf-der-trail-ridge-road-0.jpg
+- src: 7728553-und-nochmal-auf-der-trail-ridge-road-0.jpg
   title: Und nochmal auf der Trail Ridge Road
 type: post
 ---

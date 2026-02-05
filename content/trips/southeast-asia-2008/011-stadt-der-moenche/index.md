@@ -8,51 +8,63 @@ location:
 - West
 - Luang Prabang
 original_url: https://www.travelblog.org/asia/laos/west/luang-prabang/blog-299934
-images:
-- filename: 2575263-moenche-stehen-zum-almosensammeln-an-0.jpg
+resources:
+- src: 2575263-moenche-stehen-zum-almosensammeln-an-0.jpg
   title: Moenche stehen zum Almosensammeln an
-  description: Moenche stehen zum Almosensammeln an
-- filename: 2575264-der-nightmarket-0.jpg
+  params:
+    description: Moenche stehen zum Almosensammeln an
+- src: 2575264-der-nightmarket-0.jpg
   title: Der Nightmarket
-  description: vornehmlich gibt es Stoffe, Tuecher, Bettbezuege, Lampenschirme, Schmuck, Holzschnitzereien und Kleider zu kaufen. Alles handgenaeht, aus der Umgebung.
-- filename: 2575265-wat-xieng-thong-0.jpg
+  params:
+    description: vornehmlich gibt es Stoffe, Tuecher, Bettbezuege, Lampenschirme, Schmuck, Holzschnitzereien und Kleider zu kaufen. Alles handgenaeht, aus der Umgebung.
+- src: 2575265-wat-xieng-thong-0.jpg
   title: Wat Xieng Thong
-  description: der bekannteste Tempel in Luang Prabang
-- filename: 2575266-die-goldverzierungen-auf-den-waenden-in-wat-xieng-thong-0.jpg
+  params:
+    description: der bekannteste Tempel in Luang Prabang
+- src: 2575266-die-goldverzierungen-auf-den-waenden-in-wat-xieng-thong-0.jpg
   title: Die Goldverzierungen auf den Waenden in Wat Xieng Thong
-- filename: 2575267-moenche-beim-abendgebet-0.jpg
+- src: 2575267-moenche-beim-abendgebet-0.jpg
   title: Moenche beim Abendgebet
-- filename: 2575268-so-werden-die-touren-ausgeschrieben-0.jpg
+- src: 2575268-so-werden-die-touren-ausgeschrieben-0.jpg
   title: So werden die Touren ausgeschrieben...
-  description: So werden die Touren ausgeschrieben... ...die man in den Travel Agencies buchen kann. Die ganze Hauptstrasse wimmelt nur so von solchen Schildern.
-- filename: 2575269-einer-der-vielen-reizvollen-laeden-0.jpg
+  params:
+    description: So werden die Touren ausgeschrieben... ...die man in den Travel Agencies buchen kann. Die ganze Hauptstrasse wimmelt nur so von solchen Schildern.
+- src: 2575269-einer-der-vielen-reizvollen-laeden-0.jpg
   title: Einer der vielen reizvollen Laeden
-  description: Einer der vielen reizvollen Laeden
-- filename: 2575270-und-auch-hier-gibt-es-schoene-alte-autos-0.jpg
+  params:
+    description: Einer der vielen reizvollen Laeden
+- src: 2575270-und-auch-hier-gibt-es-schoene-alte-autos-0.jpg
   title: und auch hier gibt es schoene alte Autos :)
-  description: und auch hier gibt es schoene alte Autos :)
-- filename: 2575272-vier-jungs-und-ich-beim-fischen-0.jpg
+  params:
+    description: und auch hier gibt es schoene alte Autos :)
+- src: 2575272-vier-jungs-und-ich-beim-fischen-0.jpg
   title: Vier Jungs und ich beim Fischen :)
-  description: Vier Jungs und ich beim Fischen :) Sie waren so um die 18 Jahre alt...
-- filename: 2575273-suk-wirft-das-fischernetz-0.jpg
+  params:
+    description: Vier Jungs und ich beim Fischen :) Sie waren so um die 18 Jahre alt...
+- src: 2575273-suk-wirft-das-fischernetz-0.jpg
   title: Suk wirft das Fischernetz
-- filename: 2575276-die-bewohner-werfen-reisklumpen-in-die-schuesseln-der-moenche-0.jpg
+- src: 2575276-die-bewohner-werfen-reisklumpen-in-die-schuesseln-der-moenche-0.jpg
   title: die Bewohner werfen Reisklumpen in die Schuesseln der Moenche
-  description: die Bewohner werfen Reisklumpen in die Schuesseln der Moenche
-- filename: 2575277-eine-ganze-reihe-moenche-wartet-0.jpg
+  params:
+    description: die Bewohner werfen Reisklumpen in die Schuesseln der Moenche
+- src: 2575277-eine-ganze-reihe-moenche-wartet-0.jpg
   title: eine ganze Reihe Moenche wartet
-  description: eine ganze Reihe Moenche wartet
-- filename: 2575278-die-stimmung-ist-sehr-ruhig-0.jpg
+  params:
+    description: eine ganze Reihe Moenche wartet
+- src: 2575278-die-stimmung-ist-sehr-ruhig-0.jpg
   title: die Stimmung ist sehr ruhig
-  description: die Stimmung ist sehr ruhig wenn auch die Moenche sehr an die Touris gewoehnt sind und pflichtschuldig in die Kameras laecheln
-- filename: 2575279-monk-sombath-und-ich-0.jpg
+  params:
+    description: die Stimmung ist sehr ruhig wenn auch die Moenche sehr an die Touris gewoehnt sind und pflichtschuldig in die Kameras laecheln
+- src: 2575279-monk-sombath-und-ich-0.jpg
   title: Monk Sombath und ich
-- filename: 2575280-phu-si-0.jpg
+- src: 2575280-phu-si-0.jpg
   title: Phu Si
-  description: Phu Si die Luang Prabang ueberragende Stuppa. Hervorragend zur Orientierung geeignet.
-- filename: 2575281-blick-von-phu-si-auf-den-mekong-0.jpg
+  params:
+    description: Phu Si die Luang Prabang ueberragende Stuppa. Hervorragend zur Orientierung geeignet.
+- src: 2575281-blick-von-phu-si-auf-den-mekong-0.jpg
   title: Blick von Phu Si auf den Mekong
-  description: Blick von Phu Si auf den Mekong
+  params:
+    description: Blick von Phu Si auf den Mekong
 type: post
 ---
 

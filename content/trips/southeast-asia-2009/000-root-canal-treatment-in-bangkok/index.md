@@ -8,21 +8,24 @@ location:
 - Central Thailand
 - Bangkok
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-393546
-images:
-- filename: 3739000-der-eingangsbereich-des-thonglor-dental-centers-0.jpg
+resources:
+- src: 3739000-der-eingangsbereich-des-thonglor-dental-centers-0.jpg
   title: der Eingangsbereich des Thonglor Dental Centers
-- filename: 3738999-mein-heutiges-fruehstueck-0.jpg
+- src: 3738999-mein-heutiges-fruehstueck-0.jpg
   title: mein heutiges Fruehstueck
-  description: Reissuppe mit Ei und Chicken-Innereien. Schmeckt besser als es klingt und ausschaut :).
-- filename: 3739001-nach-dem-start-in-abu-dhabi-0.jpg
+  params:
+    description: Reissuppe mit Ei und Chicken-Innereien. Schmeckt besser als es klingt und ausschaut :).
+- src: 3739001-nach-dem-start-in-abu-dhabi-0.jpg
   title: Nach dem Start in Abu Dhabi
-  description: Von der Luft sieht man noch mehr, wie alles auf dem Reissbrett geplant wurde.
-- filename: 3739002-im-sports-park-0.jpg
+  params:
+    description: Von der Luft sieht man noch mehr, wie alles auf dem Reissbrett geplant wurde.
+- src: 3739002-im-sports-park-0.jpg
   title: Im Sports Park
-  description: Die Vortaenzerin etwas engagierter als der Herr im Vordergrund :)
-- filename: 3739003-die-thais-beim-ueblichen-rattanballspiel-0.jpg
+  params:
+    description: Die Vortaenzerin etwas engagierter als der Herr im Vordergrund :)
+- src: 3739003-die-thais-beim-ueblichen-rattanballspiel-0.jpg
   title: Die Thais beim ueblichen Rattanballspiel
-- filename: 3739004-crazy-moves-0.jpg
+- src: 3739004-crazy-moves-0.jpg
   title: crazy moves :)
 type: post
 ---

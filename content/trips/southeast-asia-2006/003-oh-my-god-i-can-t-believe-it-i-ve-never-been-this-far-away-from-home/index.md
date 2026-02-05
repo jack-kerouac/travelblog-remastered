@@ -8,16 +8,19 @@ location:
 - Central Thailand
 - Bangkok
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-79660
-images:
-- filename: 487768-und-los-0.jpg
+resources:
+- src: 487768-und-los-0.jpg
   title: und los...
-  description: und los gehts. Oxx, Wegbier...
-- filename: 487770-fruehstueck-0.jpg
+  params:
+    description: und los gehts. Oxx, Wegbier...
+- src: 487770-fruehstueck-0.jpg
   title: Fruehstueck
-  description: der Morgen in Dubai - ein Fruehstueck fuer Koenige
-- filename: 487775-fly-emirates-0.jpg
+  params:
+    description: der Morgen in Dubai - ein Fruehstueck fuer Koenige
+- src: 487775-fly-emirates-0.jpg
   title: fly Emirates
-  description: Fliegen mit Emirates - sehr angenehm
+  params:
+    description: Fliegen mit Emirates - sehr angenehm
 type: post
 ---
 

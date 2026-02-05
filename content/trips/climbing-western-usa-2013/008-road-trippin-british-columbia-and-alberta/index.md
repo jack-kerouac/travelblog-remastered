@@ -8,71 +8,80 @@ location:
 - Alberta
 - Banff National Park
 original_url: https://www.travelblog.org/north-america/canada/alberta/banff-national-park/blog-796366
-images:
-- filename: 7618184-morraine-lake-banff-national-park-0.jpg
+resources:
+- src: 7618184-morraine-lake-banff-national-park-0.jpg
   title: Morraine Lake, Banff National Park
-- filename: 7618164-klettern-in-revelstoke-0.jpg
+- src: 7618164-klettern-in-revelstoke-0.jpg
   title: Klettern in Revelstoke
-  description: Bagbie Bluffs
-- filename: 7618165-piet-vor-der-horde-locals-0.jpg
+  params:
+    description: Bagbie Bluffs
+- src: 7618165-piet-vor-der-horde-locals-0.jpg
   title: Piet vor der Horde Locals
-- filename: 7618166-roger-s-pass-0.jpg
+- src: 7618166-roger-s-pass-0.jpg
   title: Roger's Pass
-  description: Glacier National Park (Kanada)
-- filename: 7618167-auf-der-suche-nach-einem-wildcamping-spot-0.jpg
+  params:
+    description: Glacier National Park (Kanada)
+- src: 7618167-auf-der-suche-nach-einem-wildcamping-spot-0.jpg
   title: Auf der Suche nach einem Wildcamping-Spot
-- filename: 7618168-das-mutterschiff-auf-leichten-abwegen-0.jpg
+- src: 7618168-das-mutterschiff-auf-leichten-abwegen-0.jpg
   title: das Mutterschiff auf leichten Abwegen
-- filename: 7618169-und-ein-wunderbarer-platz-0.jpg
+- src: 7618169-und-ein-wunderbarer-platz-0.jpg
   title: Und ein wunderbarer Platz
-  description: neben einem riesen Haufen Holz. Praktisch.
-- filename: 7618170-nachts-um-11-0.jpg
+  params:
+    description: neben einem riesen Haufen Holz. Praktisch.
+- src: 7618170-nachts-um-11-0.jpg
   title: nachts um 11
-- filename: 7618171-hike-auf-den-balu-pass-0.jpg
+- src: 7618171-hike-auf-den-balu-pass-0.jpg
   title: Hike auf den Balu Pass
-- filename: 7618172-oben-liegt-noch-jede-menge-schnee-0.jpg
+- src: 7618172-oben-liegt-noch-jede-menge-schnee-0.jpg
   title: oben liegt noch jede Menge Schnee
-- filename: 7618173-und-auf-einen-sprung-in-den-gletscherbach-0.jpg
+- src: 7618173-und-auf-einen-sprung-in-den-gletscherbach-0.jpg
   title: Und auf einen Sprung in den Gletscherbach
-- filename: 7618174-lake-agnes-0.jpg
+- src: 7618174-lake-agnes-0.jpg
   title: Lake Agnes
-  description: Da war Frieder aber allein, da er nicht mit uns Klettern konnte. Er hatte Schulter.
-- filename: 7618175-die-berge-rund-um-lake-louise-0.jpg
+  params:
+    description: Da war Frieder aber allein, da er nicht mit uns Klettern konnte. Er hatte Schulter.
+- src: 7618175-die-berge-rund-um-lake-louise-0.jpg
   title: Die Berge rund um Lake Louise
-- filename: 7618177-5-12b-0.jpg
+- src: 7618177-5-12b-0.jpg
   title: 5.12b
-  description: no redpoint, allerdings 5-6 Versuche
-- filename: 7618176-mit-vielen-st-rzen-0.jpg
+  params:
+    description: no redpoint, allerdings 5-6 Versuche
+- src: 7618176-mit-vielen-st-rzen-0.jpg
   title: mit vielen Stürzen
-- filename: 7618178-danach-abends-um-zehn-uhr-waschen-im-lake-louis-0.jpg
+- src: 7618178-danach-abends-um-zehn-uhr-waschen-im-lake-louis-0.jpg
   title: 'danach, abends um zehn Uhr: Waschen im Lake Louis'
-- filename: 7618179-idyllisches-picknick-0.jpg
+- src: 7618179-idyllisches-picknick-0.jpg
   title: idyllisches Picknick
-- filename: 7618180-wanderung-zum-lake-eiffel-0.jpg
+- src: 7618180-wanderung-zum-lake-eiffel-0.jpg
   title: Wanderung zum Lake Eiffel
-- filename: 7618181-murmeltiere--berall-0.jpg
+- src: 7618181-murmeltiere--berall-0.jpg
   title: Murmeltiere überall
-- filename: 7618182-wir-drei-0.jpg
+- src: 7618182-wir-drei-0.jpg
   title: wir drei
-- filename: 7618183-golden-mantled-ground-squirrel-0.jpg
+- src: 7618183-golden-mantled-ground-squirrel-0.jpg
   title: Golden-mantled ground squirrel
-  description: vor dem Morraine Lake
-- filename: 7618224-nicht-immer-haben-wir-den-perfekten-schlafplatz-0.jpg
+  params:
+    description: vor dem Morraine Lake
+- src: 7618224-nicht-immer-haben-wir-den-perfekten-schlafplatz-0.jpg
   title: nicht immer haben wir den perfekten Schlafplatz
-  description: 'hier: "Mordor", direkt neben einem Zementwerk'
-- filename: 7618225-nach-einer-nassen-nacht-trocknen-wir-zelt-und-inhalt-0.jpg
+  params:
+    description: 'hier: "Mordor", direkt neben einem Zementwerk'
+- src: 7618225-nach-einer-nassen-nacht-trocknen-wir-zelt-und-inhalt-0.jpg
   title: nach einer nassen Nacht trocknen wir Zelt und Inhalt
-- filename: 7618226-glassy-lake-und-canmore-im-hintergrund-0.jpg
+- src: 7618226-glassy-lake-und-canmore-im-hintergrund-0.jpg
   title: Glassy Lake und Canmore im Hintergrund
-- filename: 7618227-durch-die-farmlandschaft-von-alberta-fahren-wir-0.jpg
+- src: 7618227-durch-die-farmlandschaft-von-alberta-fahren-wir-0.jpg
   title: durch die Farmlandschaft von Alberta fahren wir
-- filename: 7618228-a-w-die-omnipr-sente-kanadische-fastfoodkette-0.jpg
+- src: 7618228-a-w-die-omnipr-sente-kanadische-fastfoodkette-0.jpg
   title: A&W, die omnipräsente kanadische Fastfoodkette
-  description: mit free Wifi
-- filename: 7618229-wir-pennen-mitten-im-nirgendwo-0.jpg
+  params:
+    description: mit free Wifi
+- src: 7618229-wir-pennen-mitten-im-nirgendwo-0.jpg
   title: wir pennen mitten im Nirgendwo
-  description: inmitten von Windrädern
-- filename: 7618230-wohin-l-uft-frieder-da-wohl-0.jpg
+  params:
+    description: inmitten von Windrädern
+- src: 7618230-wohin-l-uft-frieder-da-wohl-0.jpg
   title: wohin läuft Frieder da wohl?
 type: post
 ---

@@ -8,54 +8,67 @@ location:
 - West
 - Vientiane
 original_url: https://www.travelblog.org/asia/laos/west/vientiane/blog-301328
-images:
-- filename: 2591315-vientiane--nichts-fuer-traeumer-1.jpg
+resources:
+- src: 2591315-vientiane--nichts-fuer-traeumer-1.jpg
   title: Vientiane - Nichts fuer Traeumer :)
-  description: Vientiane - Nichts fuer Traeumer :) Da gewinnt der gaengige Spruch "Lao PDR - Please Don't Rush" gleich eine ganz neue Bedeutung...
-- filename: 2591317-dani-vor-der-selfmade-suppe-0.jpg
+  params:
+    description: Vientiane - Nichts fuer Traeumer :) Da gewinnt der gaengige Spruch "Lao PDR - Please Don't Rush" gleich eine ganz neue Bedeutung...
+- src: 2591317-dani-vor-der-selfmade-suppe-0.jpg
   title: Dani vor der Selfmade-Suppe
-  description: Dani vor der Selfmade-Suppe Verschiedene Zutaten, wie Nudeln, Gemuese und Fleisch werden in den gluehend heissen Suppentopf geworfen
-- filename: 2591318-zum-abendessen-grashopper-0.jpg
+  params:
+    description: Dani vor der Selfmade-Suppe Verschiedene Zutaten, wie Nudeln, Gemuese und Fleisch werden in den gluehend heissen Suppentopf geworfen
+- src: 2591318-zum-abendessen-grashopper-0.jpg
   title: 'Zum Abendessen: grashopper'
-- filename: 2591319-und-weitere-gute-sachen-0.jpg
+- src: 2591319-und-weitere-gute-sachen-0.jpg
   title: '...und weitere gute Sachen'
-  description: vom Evening Market
-- filename: 2591321-patuxai-the--vertical-runway-0.jpg
+  params:
+    description: vom Evening Market
+- src: 2591321-patuxai-the--vertical-runway-0.jpg
   title: Patuxai, the "vertical runway"
-  description: Patuxai, the "vertical runway"
-- filename: 2591323-es-waren-schon-eindeutig-zu-viele-destruktive-touris-in-laos-0.jpg
+  params:
+    description: Patuxai, the "vertical runway"
+- src: 2591323-es-waren-schon-eindeutig-zu-viele-destruktive-touris-in-laos-0.jpg
   title: Es waren schon eindeutig zu viele destruktive Touris in Laos :)
-  description: Es waren schon eindeutig zu viele destruktive Touris in Laos :)
-- filename: 2591325-der-blick-von-patuxai-richtung-mekong-0.jpg
+  params:
+    description: Es waren schon eindeutig zu viele destruktive Touris in Laos :)
+- src: 2591325-der-blick-von-patuxai-richtung-mekong-0.jpg
   title: Der Blick von Patuxai Richtung Mekong
-  description: Der Blick von Patuxai Richtung Mekong
-- filename: 2591327-und-auf-die-andere-seite-0.jpg
+  params:
+    description: Der Blick von Patuxai Richtung Mekong
+- src: 2591327-und-auf-die-andere-seite-0.jpg
   title: '...und auf die andere Seite'
-  description: '...und auf die andere Seite'
-- filename: 2591328-die-culture-hall-0.jpg
+  params:
+    description: '...und auf die andere Seite'
+- src: 2591328-die-culture-hall-0.jpg
   title: die Culture Hall
-- filename: 2591331-der-morning-market-0.jpg
+- src: 2591331-der-morning-market-0.jpg
   title: Der Morning Market
-  description: vor allem bekannt fuer Silber- und Goldschmiede
-- filename: 2591333-wat-sisaket-0.jpg
+  params:
+    description: vor allem bekannt fuer Silber- und Goldschmiede
+- src: 2591333-wat-sisaket-0.jpg
   title: Wat Sisaket
-  description: Wat Sisaket kleine Buddhas finden sich in den Nieschen. Im ganzen Tempel gibts ueber 8600 Buddha-Figuren
-- filename: 2591334-und-danach-gabs-eine-kleine-staerkung-von-den-moenchen-0.jpg
+  params:
+    description: Wat Sisaket kleine Buddhas finden sich in den Nieschen. Im ganzen Tempel gibts ueber 8600 Buddha-Figuren
+- src: 2591334-und-danach-gabs-eine-kleine-staerkung-von-den-moenchen-0.jpg
   title: und danach gabs eine kleine Staerkung von den Moenchen
-- filename: 2591341-eines-der-besten-essen-seit-sehr-langer-zeit-0.jpg
+- src: 2591341-eines-der-besten-essen-seit-sehr-langer-zeit-0.jpg
   title: eines der besten Essen seit sehr langer Zeit
-  description: eines der besten Essen seit sehr langer Zeit im Full Moon Cafe in Vientiane. Ausserdem gibt es einen Katalog mit gefuehlt 23 Millionen Alben zur Auswahl. Man kann sich fuer ca. 75 Dollar-Cent pro Album eine beliebige Menge an Musik auf seinen iPod kopieren oder auf DVD brennen lassen.
-- filename: 2591342-mein-25-dollar-guesthouse-0.jpg
+  params:
+    description: eines der besten Essen seit sehr langer Zeit im Full Moon Cafe in Vientiane. Ausserdem gibt es einen Katalog mit gefuehlt 23 Millionen Alben zur Auswahl. Man kann sich fuer ca. 75 Dollar-Cent pro Album eine beliebige Menge an Musik auf seinen iPod kopieren oder auf DVD brennen lassen.
+- src: 2591342-mein-25-dollar-guesthouse-0.jpg
   title: Mein 25-Dollar-Guesthouse
-- filename: 2591343-marianne-0.jpg
+- src: 2591343-marianne-0.jpg
   title: Marianne...
-  description: '...und im Hintergrund ihr momentaner Untermieter, ein absolut witziger Hollaender'
-- filename: 2591345-der-uebelste-kaefer-den-ich-je-gesehen-habe-0.jpg
+  params:
+    description: '...und im Hintergrund ihr momentaner Untermieter, ein absolut witziger Hollaender'
+- src: 2591345-der-uebelste-kaefer-den-ich-je-gesehen-habe-0.jpg
   title: Der uebelste Kaefer, den ich je gesehen habe
-  description: Der uebelste Kaefer, den ich je gesehen habe
-- filename: 2591346-ich-bin-heute-rechts-abgebogen-0.jpg
+  params:
+    description: Der uebelste Kaefer, den ich je gesehen habe
+- src: 2591346-ich-bin-heute-rechts-abgebogen-0.jpg
   title: ich bin heute rechts abgebogen
-  description: ich bin heute rechts abgebogen
+  params:
+    description: ich bin heute rechts abgebogen
 type: post
 ---
 

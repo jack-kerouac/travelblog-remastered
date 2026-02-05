@@ -9,54 +9,67 @@ location:
 - Quang Ninh
 - Halong Bay
 original_url: https://www.travelblog.org/asia/vietnam/northeast/quang-ninh/halong-bay/blog-82980
-images:
-- filename: 512951-eines-der-vielen-verwinkelten-gaesschen-in-hanoi-0.jpg
+resources:
+- src: 512951-eines-der-vielen-verwinkelten-gaesschen-in-hanoi-0.jpg
   title: eines der vielen verwinkelten Gaesschen in Hanoi
-  description: eines der vielen verwinkelten Gaesschen in Hanoi
-- filename: 512961-ha-long-bay--a-paradise-0.jpg
+  params:
+    description: eines der vielen verwinkelten Gaesschen in Hanoi
+- src: 512961-ha-long-bay--a-paradise-0.jpg
   title: Ha Long Bay - a paradise
-  description: Kann es noch schoener sein? Vielleicht bei Sonnenschein. (by Fabian)
-- filename: 512962-rikscha-fahrer-im-old-quarter-hanoi-0.jpg
+  params:
+    description: Kann es noch schoener sein? Vielleicht bei Sonnenschein. (by Fabian)
+- src: 512962-rikscha-fahrer-im-old-quarter-hanoi-0.jpg
   title: Rikscha-Fahrer im Old Quarter, Hanoi
-  description: Rikscha-Fahrer im Old Quarter, Hanoi
-- filename: 512963-auf-dem-dong-xuan-market-0.jpg
+  params:
+    description: Rikscha-Fahrer im Old Quarter, Hanoi
+- src: 512963-auf-dem-dong-xuan-market-0.jpg
   title: auf dem Dong Xuan Market
-- filename: 512997-essen-aller-art-0.jpg
+- src: 512997-essen-aller-art-0.jpg
   title: Essen aller Art
-  description: wenn wir nur wuessten, was und wer das alles is(s)t...
-- filename: 512967-harbor-business-man-0.jpg
+  params:
+    description: wenn wir nur wuessten, was und wer das alles is(s)t...
+- src: 512967-harbor-business-man-0.jpg
   title: harbor business man
-  description: Verkauf von Essen durchs Fenster unseres Ausflugboots
-- filename: 512968-erste-touri-anlaufstation-0.jpg
+  params:
+    description: Verkauf von Essen durchs Fenster unseres Ausflugboots
+- src: 512968-erste-touri-anlaufstation-0.jpg
   title: erste Touri-Anlaufstation
-  description: nette Bucht mit Disney-Hoehle
-- filename: 513000-ausser-atem-0.jpg
+  params:
+    description: nette Bucht mit Disney-Hoehle
+- src: 513000-ausser-atem-0.jpg
   title: ausser Atem
-  description: 'ausser Atem und wie immer: sweeeeezing'
-- filename: 512976-kartenspielen-3.jpg
+  params:
+    description: 'ausser Atem und wie immer: sweeeeezing'
+- src: 512976-kartenspielen-3.jpg
   title: Kartenspielen
-  description: und Fabian ruled wie immer :) Im Hintergrund rechts zwei der drei Poebel-Englaenderinnen
-- filename: 512978-einige-impressionen-aus-der-ha-long-bay-0.jpg
+  params:
+    description: und Fabian ruled wie immer :) Im Hintergrund rechts zwei der drei Poebel-Englaenderinnen
+- src: 512978-einige-impressionen-aus-der-ha-long-bay-0.jpg
   title: einige Impressionen aus der Ha Long Bay
-  description: einige Impressionen aus der Ha Long Bay
-- filename: 512980--0.jpg
+  params:
+    description: einige Impressionen aus der Ha Long Bay
+- src: 512980--0.jpg
   title: '...'
-- filename: 512982-badewanne-mit-panorama-0.jpg
+- src: 512982-badewanne-mit-panorama-0.jpg
   title: Badewanne mit Panorama
-- filename: 512983-leider-schon-wieder-auf-dem-rueckweg-0.jpg
+- src: 512983-leider-schon-wieder-auf-dem-rueckweg-0.jpg
   title: leider schon wieder auf dem Rueckweg
-  description: leider schon wieder auf dem Rueckweg
-- filename: 512985--0.jpg
+  params:
+    description: leider schon wieder auf dem Rueckweg
+- src: 512985--0.jpg
   title: '...'
-- filename: 512988-gemeinsamer-rad-und-kuhweg-0.jpg
+- src: 512988-gemeinsamer-rad-und-kuhweg-0.jpg
   title: gemeinsamer Rad- und Kuhweg
-  description: gemeinsamer Rad- und Kuhweg
-- filename: 512990-moped-carrier-0.jpg
+  params:
+    description: gemeinsamer Rad- und Kuhweg
+- src: 512990-moped-carrier-0.jpg
   title: Moped-Carrier
-  description: 'auf Mopeds wird alles moegliche und vor allem unmoegliche transportiert: tote Kuh am Stueck, fuenf lebende Ferkel, eine drei Meter hohe Palme, ...'
-- filename: 512994-normaler-verkehr-in-hanoi-0.jpg
+  params:
+    description: 'auf Mopeds wird alles moegliche und vor allem unmoegliche transportiert: tote Kuh am Stueck, fuenf lebende Ferkel, eine drei Meter hohe Palme, ...'
+- src: 512994-normaler-verkehr-in-hanoi-0.jpg
   title: normaler Verkehr in Hanoi
-  description: 2.000.000 Mopeds vs. 20.000 Autos (300% teurer als in 'schland), Busse, etc.
+  params:
+    description: 2.000.000 Mopeds vs. 20.000 Autos (300% teurer als in 'schland), Busse, etc.
 type: post
 ---
 

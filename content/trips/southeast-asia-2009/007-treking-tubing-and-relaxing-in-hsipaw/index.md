@@ -8,59 +8,70 @@ location:
 - Mandalay Region
 - Hsipaw
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-409758
-images:
-- filename: 3946226-free-falling-0.jpg
+resources:
+- src: 3946226-free-falling-0.jpg
   title: Free Falling
-  description: '"Wenn Gott gewollt hätte, dass Menschen fliegen, hätte er ihnen Flügel verliehen." :)'
-- filename: 3946227-trekking-through-the-fields-0.jpg
+  params:
+    description: '"Wenn Gott gewollt hätte, dass Menschen fliegen, hätte er ihnen Flügel verliehen." :)'
+- src: 3946227-trekking-through-the-fields-0.jpg
   title: Trekking through the fields
-- filename: 3946228-das-fussbaldfeld-muss-man-sich-hier-mit-kuehen-teilen-1.jpg
+- src: 3946228-das-fussbaldfeld-muss-man-sich-hier-mit-kuehen-teilen-1.jpg
   title: das Fussbaldfeld muss man sich hier mit Kuehen teilen
-- filename: 3946229-nils-in-action-0.jpg
+- src: 3946229-nils-in-action-0.jpg
   title: Nils in action
-- filename: 3946230-devon-in-action-0.jpg
+- src: 3946230-devon-in-action-0.jpg
   title: Devon in action
-- filename: 3946231-treeking-through-the-river-0.jpg
+- src: 3946231-treeking-through-the-river-0.jpg
   title: Treeking through the river
-- filename: 3946232-shan-noodle-soup-0.jpg
+- src: 3946232-shan-noodle-soup-0.jpg
   title: Shan Noodle Soup
-  description: unser taeglich Brot
-- filename: 3946248-smoking-the-cheroots-0.jpg
+  params:
+    description: unser taeglich Brot
+- src: 3946248-smoking-the-cheroots-0.jpg
   title: Smoking the Cheroots
-  description: die traditionelle Zigarre Myanmars, nur aus natuerlichen Zutaten, gerollt in getrockneten Blaettern, der Filter ist aus Pflanzenfasern. Schmeckt aber sehr gewoehnungsbeduerftig.
-- filename: 3946250-nils-0.jpg
+  params:
+    description: die traditionelle Zigarre Myanmars, nur aus natuerlichen Zutaten, gerollt in getrockneten Blaettern, der Filter ist aus Pflanzenfasern. Schmeckt aber sehr gewoehnungsbeduerftig.
+- src: 3946250-nils-0.jpg
   title: Nils
-  description: 21 Jahre, Kanada, Vancouver Island, studiert 3D-Animation und Modellierung
-- filename: 3946252-devon-0.jpg
+  params:
+    description: 21 Jahre, Kanada, Vancouver Island, studiert 3D-Animation und Modellierung
+- src: 3946252-devon-0.jpg
   title: Devon
-  description: 24 Jahre, Kanada, Vancouver Island, studierte Environmental Science
-- filename: 3946253-bim-0.jpg
+  params:
+    description: 24 Jahre, Kanada, Vancouver Island, studierte Environmental Science
+- src: 3946253-bim-0.jpg
   title: Bim
-  description: Alter unbekannt, aus Holland
-- filename: 3946256-uebliche-banknote-0.jpg
+  params:
+    description: Alter unbekannt, aus Holland
+- src: 3946256-uebliche-banknote-0.jpg
   title: uebliche Banknote
-  description: mit Ausnahme der 1000 Kyat-Note schauen alle so fertig aus. Die Regierung schafft es nicht mal, das Bargeld in Schuss zu halten.
-- filename: 3946258-unser-recht-ueberschaubarer-raum-0.jpg
+  params:
+    description: mit Ausnahme der 1000 Kyat-Note schauen alle so fertig aus. Die Regierung schafft es nicht mal, das Bargeld in Schuss zu halten.
+- src: 3946258-unser-recht-ueberschaubarer-raum-0.jpg
   title: unser recht ueberschaubarer Raum
-  description: in Mr. Charles Guesthouse
-- filename: 3946259-riding-the-buffalo-0.jpg
+  params:
+    description: in Mr. Charles Guesthouse
+- src: 3946259-riding-the-buffalo-0.jpg
   title: Riding the buffalo
-- filename: 3946261-kinderwiege-0.jpg
+- src: 3946261-kinderwiege-0.jpg
   title: Kinderwiege
-  description: in einem abgeschiedenen Haus mitten in den Reisfeldern
-- filename: 3946262-ein-ochsenkarren-0.jpg
+  params:
+    description: in einem abgeschiedenen Haus mitten in den Reisfeldern
+- src: 3946262-ein-ochsenkarren-0.jpg
   title: ein Ochsenkarren
-  description: ein uebliches Mittel zum Transport von Reissaecken
-- filename: 3946263-namtho-waterfall-0.jpg
+  params:
+    description: ein uebliches Mittel zum Transport von Reissaecken
+- src: 3946263-namtho-waterfall-0.jpg
   title: Namtho waterfall
-- filename: 3946265-wie-suess-ein-paerchen-0.jpg
+- src: 3946265-wie-suess-ein-paerchen-0.jpg
   title: Wie suess, ein Paerchen
-- filename: 3946266-hauptstrasse-in-hsipaw-0.jpg
+- src: 3946266-hauptstrasse-in-hsipaw-0.jpg
   title: Hauptstrasse in Hsipaw
-- filename: 3946268--0.jpg
+- src: 3946268--0.jpg
   title: :)
-  description: '"necessary" ist das Beste. Wir armen, hilflosen Reisenden...'
-- filename: 3946270-seltsame-tiere-leben-hier-0.jpg
+  params:
+    description: '"necessary" ist das Beste. Wir armen, hilflosen Reisenden...'
+- src: 3946270-seltsame-tiere-leben-hier-0.jpg
   title: seltsame Tiere leben hier...
 type: post
 ---

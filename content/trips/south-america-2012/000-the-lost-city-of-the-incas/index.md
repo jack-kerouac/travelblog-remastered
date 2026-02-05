@@ -8,56 +8,64 @@ location:
 - Cusco
 - Machu Picchu
 original_url: https://www.travelblog.org/south-america/peru/cusco/machu-picchu/blog-747193
-images:
-- filename: 7191094-wenn-ich-hier-koenig-gewesen-waere-0.jpg
+resources:
+- src: 7191094-wenn-ich-hier-koenig-gewesen-waere-0.jpg
   title: Wenn ich hier Koenig gewesen waere...
-  description: '...und ich haette mir sowas bauen lassen, waere ich ganz schoen psyched gewesen (Wie Christoph korrekt bemerkte).'
-- filename: 7191067-nachtbus-von-lima-nach-cusco-0.jpg
+  params:
+    description: '...und ich haette mir sowas bauen lassen, waere ich ganz schoen psyched gewesen (Wie Christoph korrekt bemerkte).'
+- src: 7191067-nachtbus-von-lima-nach-cusco-0.jpg
   title: Nachtbus von Lima nach Cusco
-  description: 20h Business Class travelling
-- filename: 7191068-cuscos-plaza-de-armas-0.jpg
+  params:
+    description: 20h Business Class travelling
+- src: 7191068-cuscos-plaza-de-armas-0.jpg
   title: Cuscos Plaza de Armas
-- filename: 7191070-cloud-mountains-0.jpg
+- src: 7191070-cloud-mountains-0.jpg
   title: Cloud Mountains
-- filename: 7191069-aus-dem-nebel-0.jpg
+- src: 7191069-aus-dem-nebel-0.jpg
   title: Aus dem Nebel...
-  description: '...tauchen die Tempel auf...'
-- filename: 7191071-bis-sie-irgendwann-0.jpg
+  params:
+    description: '...tauchen die Tempel auf...'
+- src: 7191071-bis-sie-irgendwann-0.jpg
   title: '...bis sie irgendwann...'
-- filename: 7191072-ganz-sichtbar-sind-0.jpg
+- src: 7191072-ganz-sichtbar-sind-0.jpg
   title: ..ganz sichtbar sind.
-- filename: 7191092-tiefblick-0.jpg
+- src: 7191092-tiefblick-0.jpg
   title: Tiefblick
-  description: Auf einem Stueck des Inka-Trails.
-- filename: 7191093-wohngebaeude-0.jpg
+  params:
+    description: Auf einem Stueck des Inka-Trails.
+- src: 7191093-wohngebaeude-0.jpg
   title: Wohngebaeude
-  description: Man kann sich hier durchaus ein wenig verlaufen.
-- filename: 7191095-hm-5.jpg
+  params:
+    description: Man kann sich hier durchaus ein wenig verlaufen.
+- src: 7191095-hm-5.jpg
   title: Hm...
-- filename: 7191096-allein-ist-man-auf-jeden-fall-nicht-0.jpg
+- src: 7191096-allein-ist-man-auf-jeden-fall-nicht-0.jpg
   title: Allein ist man auf jeden Fall nicht
-- filename: 7191097-hart-am-chillen-0.jpg
+- src: 7191097-hart-am-chillen-0.jpg
   title: hart am Chillen
-  description: auf den Grasterassen
-- filename: 7191098-die-busschlange-zurueck-1.jpg
+  params:
+    description: auf den Grasterassen
+- src: 7191098-die-busschlange-zurueck-1.jpg
   title: Die Busschlange zurueck.
-  description: Man konnte hochlaufen oder sich mit dem Bus hochfahren lassen.
-- filename: 7191099-aquas-calientes-0.jpg
+  params:
+    description: Man konnte hochlaufen oder sich mit dem Bus hochfahren lassen.
+- src: 7191099-aquas-calientes-0.jpg
   title: Aquas Calientes
-  description: Schoen gelegen ist es zumindest.
-- filename: 7191100-cusco--plaza-de-armas-0.jpg
+  params:
+    description: Schoen gelegen ist es zumindest.
+- src: 7191100-cusco--plaza-de-armas-0.jpg
   title: Cusco - Plaza de Armas
-- filename: 7191101-ein-inka-tempel-0.jpg
+- src: 7191101-ein-inka-tempel-0.jpg
   title: Ein Inka Tempel
-- filename: 7191102-und-mit-den-anden-im-hintergrund-0.jpg
+- src: 7191102-und-mit-den-anden-im-hintergrund-0.jpg
   title: und mit den Anden im Hintergrund
-- filename: 7191103-peru-inka-tempel-touris-und-alpacas-0.jpg
+- src: 7191103-peru-inka-tempel-touris-und-alpacas-0.jpg
   title: Peru, Inka-Tempel, Touris und Alpacas
-- filename: 7191104-ueber-cusco-0.jpg
+- src: 7191104-ueber-cusco-0.jpg
   title: Ueber Cusco
-- filename: 7191105-bauten-aus-der-spanischen-kolonialzeit-0.jpg
+- src: 7191105-bauten-aus-der-spanischen-kolonialzeit-0.jpg
   title: Bauten aus der spanischen Kolonialzeit
-- filename: 7191106-das-essen-in-unserem-hostel-war-sehr-gut-0.jpg
+- src: 7191106-das-essen-in-unserem-hostel-war-sehr-gut-0.jpg
   title: Das Essen in unserem Hostel war sehr gut
 type: post
 ---

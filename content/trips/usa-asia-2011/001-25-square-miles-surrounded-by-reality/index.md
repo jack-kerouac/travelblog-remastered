@@ -8,41 +8,45 @@ location:
 - Colorado
 - Boulder
 original_url: https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-591549
-images:
-- filename: 6011887-der_blick_vom_boulder_canyon_auf_boulder_in_die_great_plains_im_osten-0.jpg
+resources:
+- src: 6011887-der_blick_vom_boulder_canyon_auf_boulder_in_die_great_plains_im_osten-0.jpg
   title: Der Blick vom Boulder Canyon auf Boulder in die Great Plains im Osten
-- filename: 6011888-lower_dream_canyon-0.jpg
+- src: 6011888-lower_dream_canyon-0.jpg
   title: Lower Dream Canyon
-- filename: 6012087-lucid_dreaming-_5-12d-0.jpg
+- src: 6012087-lucid_dreaming-_5-12d-0.jpg
   title: Lucid Dreaming, 5.12d
-- filename: 6011890-der_campus-0.jpg
+- src: 6011890-der_campus-0.jpg
   title: Der Campus
-- filename: 6011891-colorado_creed-0.jpg
+- src: 6011891-colorado_creed-0.jpg
   title: Colorado Creed
-- filename: 6011892-und_nochmal_der_campus-0.jpg
+- src: 6011892-und_nochmal_der_campus-0.jpg
   title: Und nochmal der Campus
-- filename: 6011893-wenn_man_zum_fahrradfahren_zu_faul_ist-0.jpg
+- src: 6011893-wenn_man_zum_fahrradfahren_zu_faul_ist-0.jpg
   title: Wenn man zum Fahrradfahren zu faul ist...
-  description: '...oder der Reifen platzt, dann stellt man das Rad einfach in den Fahrradstaender vom Bus.'
-- filename: 6011895-die_bear_creak_appartments-0.jpg
+  params:
+    description: '...oder der Reifen platzt, dann stellt man das Rad einfach in den Fahrradstaender vom Bus.'
+- src: 6011895-die_bear_creak_appartments-0.jpg
   title: Die Bear Creak Appartments
-  description: Man beachte das Festungsaehnliche Gebaeude im Hintergrund. Auch das sind Studentenwohnungen
-- filename: 6011896-miniroecke_und_schnee_am_st-_patricks_day-0.jpg
+  params:
+    description: Man beachte das Festungsaehnliche Gebaeude im Hintergrund. Auch das sind Studentenwohnungen
+- src: 6011896-miniroecke_und_schnee_am_st-_patricks_day-0.jpg
   title: Miniroecke und Schnee am St. Patricks Day
-- filename: 6011894-einer_der_vielen_hippie-shops-0.jpg
+- src: 6011894-einer_der_vielen_hippie-shops-0.jpg
   title: Einer der vielen Hippie-Shops
-- filename: 6011897-hier_wird_eine_ansehnliche_sammlung_an_bongs_verkauft-0.jpg
+- src: 6011897-hier_wird_eine_ansehnliche_sammlung_an_bongs_verkauft-0.jpg
   title: Hier wird eine ansehnliche Sammlung an Bongs verkauft
-- filename: 6011898-clear_creek_canyon-0.jpg
+- src: 6011898-clear_creek_canyon-0.jpg
   title: Clear Creek Canyon
-  description: 20 Meilen suedlich von Boulder
-- filename: 6011889-die_bilanz_der_ersten_beiden_klettertage-0.jpg
+  params:
+    description: 20 Meilen suedlich von Boulder
+- src: 6011889-die_bilanz_der_ersten_beiden_klettertage-0.jpg
   title: Die Bilanz der ersten beiden Klettertage
-- filename: 6011899-interessanter_zustieg-0.jpg
+- src: 6011899-interessanter_zustieg-0.jpg
   title: Interessanter Zustieg
-- filename: 6011900-links_piet-_rechts_felix-1.jpg
+- src: 6011900-links_piet-_rechts_felix-1.jpg
   title: Links Piet, rechts Felix
-  description: vor ziemlich harten 5.10er Touren
+  params:
+    description: vor ziemlich harten 5.10er Touren
 type: post
 ---
 

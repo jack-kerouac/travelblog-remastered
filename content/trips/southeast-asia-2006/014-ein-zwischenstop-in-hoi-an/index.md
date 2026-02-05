@@ -9,21 +9,24 @@ location:
 - Quảng Nam
 - Hoi An
 original_url: https://www.travelblog.org/asia/vietnam/south-central-coast/quang-nam/hoi-an/blog-84294
-images:
-- filename: 522807-mit-raedern-durch-die-altstadt-0.jpg
+resources:
+- src: 522807-mit-raedern-durch-die-altstadt-0.jpg
   title: Mit Raedern durch die Altstadt
-  description: Mit Raedern durch die Altstadt
-- filename: 522808-unser-pool-0.jpg
+  params:
+    description: Mit Raedern durch die Altstadt
+- src: 522808-unser-pool-0.jpg
   title: unser Pool
-  description: eine willkommene Erfrischung unter dem blauen Himmel von Hoi An
-- filename: 522810-diese-haeuser-mussten-der-neuen-strasse-weichen-0.jpg
+  params:
+    description: eine willkommene Erfrischung unter dem blauen Himmel von Hoi An
+- src: 522810-diese-haeuser-mussten-der-neuen-strasse-weichen-0.jpg
   title: diese Haeuser mussten der neuen Strasse weichen
-  description: diese Haeuser mussten der neuen Strasse weichen
-- filename: 522812-good-morning-vietnam-0.jpg
+  params:
+    description: diese Haeuser mussten der neuen Strasse weichen
+- src: 522812-good-morning-vietnam-0.jpg
   title: Good Morning, Vietnam!
-- filename: 522814-uferpromenade-von-hoi-an-0.jpg
+- src: 522814-uferpromenade-von-hoi-an-0.jpg
   title: Uferpromenade von Hoi An
-- filename: 522815-reisfelder-mitten-im-ort-0.jpg
+- src: 522815-reisfelder-mitten-im-ort-0.jpg
   title: Reisfelder, mitten im Ort
 type: post
 ---

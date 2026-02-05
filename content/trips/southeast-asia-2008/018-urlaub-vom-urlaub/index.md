@@ -7,30 +7,35 @@ location:
 - Italy
 - Tuscany
 original_url: https://www.travelblog.org/europe/italy/tuscany/blog-321222
-images:
-- filename: 2815070-allee-nach-bolgheri-0.jpg
+resources:
+- src: 2815070-allee-nach-bolgheri-0.jpg
   title: Allee nach Bolgheri
-- filename: 2815071-zwiebeln-schnibbeln-0.jpg
+- src: 2815071-zwiebeln-schnibbeln-0.jpg
   title: Zwiebeln schnibbeln
-  description: und der KÃ¤se, mhhh...
-- filename: 2815072-bruno-unser-vermieter-0.jpg
+  params:
+    description: und der KÃ¤se, mhhh...
+- src: 2815072-bruno-unser-vermieter-0.jpg
   title: Bruno, unser Vermieter
-  description: zockt uns beim Backgammon total ab.
-- filename: 2815073-typisch-toskana-0.jpg
+  params:
+    description: zockt uns beim Backgammon total ab.
+- src: 2815073-typisch-toskana-0.jpg
   title: typisch Toskana
-- filename: 2815074-idylle-0.jpg
+- src: 2815074-idylle-0.jpg
   title: Idylle
-- filename: 2815075-castagneto-carducci-0.jpg
+- src: 2815075-castagneto-carducci-0.jpg
   title: Castagneto Carducci
-- filename: 2815076-beachvolleyball-mit-meinem-bruder-0.jpg
+- src: 2815076-beachvolleyball-mit-meinem-bruder-0.jpg
   title: Beachvolleyball mit meinem Bruder
-  description: Beachvolleyball mit meinem Bruder
-- filename: 2815077-das-haus-unseres-vermieters-0.jpg
+  params:
+    description: Beachvolleyball mit meinem Bruder
+- src: 2815077-das-haus-unseres-vermieters-0.jpg
   title: Das Haus unseres Vermieters
-  description: Das Haus unseres Vermieters
-- filename: 2815078-vollkommen-zufriedener-flo-0.jpg
+  params:
+    description: Das Haus unseres Vermieters
+- src: 2815078-vollkommen-zufriedener-flo-0.jpg
   title: Vollkommen zufriedener Flo :-)
-  description: Vollkommen zufriedener Flo :-)
+  params:
+    description: Vollkommen zufriedener Flo :-)
 type: post
 ---
 

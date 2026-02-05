@@ -8,48 +8,59 @@ location:
 - North
 - Luang Namtha
 original_url: https://www.travelblog.org/asia/laos/north/luang-namtha/blog-295275
-images:
-- filename: 2527353-angetreten-zum-appell-0.jpg
+resources:
+- src: 2527353-angetreten-zum-appell-0.jpg
   title: angetreten zum Appell...
-  description: '...die Massage-Abteilung des Akha-Dorfes'
-- filename: 2527360-gemeinsams-fruehstuck-im-khmu-dorf-0.jpg
+  params:
+    description: '...die Massage-Abteilung des Akha-Dorfes'
+- src: 2527360-gemeinsams-fruehstuck-im-khmu-dorf-0.jpg
   title: Gemeinsams Fruehstuck im Khmu-Dorf
-  description: Gemeinsams Fruehstuck im Khmu-Dorf
-- filename: 2527385-zuerst-sah-der-pfad-noch-so-aus-0.jpg
+  params:
+    description: Gemeinsams Fruehstuck im Khmu-Dorf
+- src: 2527385-zuerst-sah-der-pfad-noch-so-aus-0.jpg
   title: zuerst sah der Pfad noch so aus...
-  description: zuerst sah der Pfad noch so aus...
-- filename: 2527405-dann-eher-so-0.jpg
+  params:
+    description: zuerst sah der Pfad noch so aus...
+- src: 2527405-dann-eher-so-0.jpg
   title: '...dann eher so'
-- filename: 2527406-der-jeep-der-gtz-0.jpg
+- src: 2527406-der-jeep-der-gtz-0.jpg
   title: der Jeep der GTZ
-- filename: 2527407-blick-von-unserer-gastgeberhuette-ueber-das-khmu-dorf-0.jpg
+- src: 2527407-blick-von-unserer-gastgeberhuette-ueber-das-khmu-dorf-0.jpg
   title: Blick von unserer Gastgeberhuette ueber das Khmu-Dorf
-- filename: 2527409-kamuan-unser-sehr-cooler-uebersetzer-0.jpg
+- src: 2527409-kamuan-unser-sehr-cooler-uebersetzer-0.jpg
   title: Kamuan, unser sehr cooler Uebersetzer
-  description: Kamuan, unser sehr cooler Uebersetzer
-- filename: 2527410-auch-die-schweine-hier-sind-sehr-gechillt-0.jpg
+  params:
+    description: Kamuan, unser sehr cooler Uebersetzer
+- src: 2527410-auch-die-schweine-hier-sind-sehr-gechillt-0.jpg
   title: auch die Schweine hier sind sehr gechillt
-  description: auch die Schweine hier sind sehr gechillt
-- filename: 2527412-kinder-beim-rattanball-spielen-0.jpg
+  params:
+    description: auch die Schweine hier sind sehr gechillt
+- src: 2527412-kinder-beim-rattanball-spielen-0.jpg
   title: Kinder beim Rattanball-Spielen
-  description: Kinder beim Rattanball-Spielen
-- filename: 2527414-unsere-ankunft-im-akha-dorf-0.jpg
+  params:
+    description: Kinder beim Rattanball-Spielen
+- src: 2527414-unsere-ankunft-im-akha-dorf-0.jpg
   title: Unsere Ankunft im Akha-Dorf
-  description: Unsere Ankunft im Akha-Dorf vor uns waren da nur ca. 100 Touris
-- filename: 2527415-ein--little-house-0.jpg
+  params:
+    description: Unsere Ankunft im Akha-Dorf vor uns waren da nur ca. 100 Touris
+- src: 2527415-ein--little-house-0.jpg
   title: ein "Little House"
-  description: ein "Little House"
-- filename: 2527416-abendessen-im-haus-des-nai-ban-0.jpg
+  params:
+    description: ein "Little House"
+- src: 2527416-abendessen-im-haus-des-nai-ban-0.jpg
   title: Abendessen im Haus des Nai Ban
-  description: Abendessen im Haus des Nai Ban
-- filename: 2527417-blick-ueber-das-akha-dorf-0.jpg
+  params:
+    description: Abendessen im Haus des Nai Ban
+- src: 2527417-blick-ueber-das-akha-dorf-0.jpg
   title: Blick ueber das Akha-Dorf
-- filename: 2527419-etwas-verschuechtertes-maedchen-0.jpg
+- src: 2527419-etwas-verschuechtertes-maedchen-0.jpg
   title: etwas verschuechtertes Maedchen
-  description: etwas verschuechtertes Maedchen beim Holztragen
-- filename: 2527423-unser-trupp-beim-verlassen-des-dorfs-0.jpg
+  params:
+    description: etwas verschuechtertes Maedchen beim Holztragen
+- src: 2527423-unser-trupp-beim-verlassen-des-dorfs-0.jpg
   title: Unser Trupp beim Verlassen des Dorfs
-  description: Unser Trupp beim Verlassen des Dorfs Dani, Marianne, Dou und ich, einige Guides und zwei Maedels aus Kanada, die separat mit ihrem Guide ins Dorf kamen
+  params:
+    description: Unser Trupp beim Verlassen des Dorfs Dani, Marianne, Dou und ich, einige Guides und zwei Maedels aus Kanada, die separat mit ihrem Guide ins Dorf kamen
 type: post
 ---
 

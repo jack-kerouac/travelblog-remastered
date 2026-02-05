@@ -9,40 +9,45 @@ location:
 - Canyonlands National Park
 - Island in the Sky
 original_url: https://www.travelblog.org/north-america/united-states/utah/canyonlands-national-park/island-in-the-sky/blog-778622
-images:
-- filename: 7452851-circus-tricks--big-bend-area-moab-0.jpg
+resources:
+- src: 7452851-circus-tricks--big-bend-area-moab-0.jpg
   title: '"Circus Tricks", Big Bend Area, Moab'
-  description: v4
-- filename: 7452849-satellite-boulders-2nd-flat-iron-boulder-0.jpg
+  params:
+    description: v4
+- src: 7452849-satellite-boulders-2nd-flat-iron-boulder-0.jpg
   title: Satellite Boulders, 2nd Flat Iron, Boulder
-- filename: 7452850-unser-lager-in-colins-wohnzimmer-0.jpg
+- src: 7452850-unser-lager-in-colins-wohnzimmer-0.jpg
   title: unser Lager in Colins Wohnzimmer
-- filename: 7452863-unsere-license-plates-haben-wir-im-dmv-in-longmont-bekommen-0.jpg
+- src: 7452863-unsere-license-plates-haben-wir-im-dmv-in-longmont-bekommen-0.jpg
   title: Unsere License Plates haben wir im DMV in Longmont bekommen
-  description: 'DMV: Department of Motorized Vehicles'
-- filename: 7452864-unsere-brettkonstruktion-f-r-den-kofferraum-0.jpg
+  params:
+    description: 'DMV: Department of Motorized Vehicles'
+- src: 7452864-unsere-brettkonstruktion-f-r-den-kofferraum-0.jpg
   title: Unsere Brettkonstruktion für den Kofferraum
-  description: gebastelt im und mit Werkzeug vom Baumarkt "Home Depot"
-- filename: 7452852-piet-an-seinem-bouder-0.jpg
+  params:
+    description: gebastelt im und mit Werkzeug vom Baumarkt "Home Depot"
+- src: 7452852-piet-an-seinem-bouder-0.jpg
   title: Piet an seinem Bouder
-  description: Big Bend Area, Moab
-- filename: 7452853-kochen-im-mondlicht-0.jpg
+  params:
+    description: Big Bend Area, Moab
+- src: 7452853-kochen-im-mondlicht-0.jpg
   title: Kochen im Mondlicht
-- filename: 7452854-im-arches-national-park-0.jpg
+- src: 7452854-im-arches-national-park-0.jpg
   title: im Arches National Park
-- filename: 7452855-arches-ist-ber-hmt-f-r-seine-felsformationen-0.jpg
+- src: 7452855-arches-ist-ber-hmt-f-r-seine-felsformationen-0.jpg
   title: Arches ist berühmt für seine Felsformationen
-- filename: 7452858-und-vor-allem--ber-3000-felsb-gen-0.jpg
+- src: 7452858-und-vor-allem--ber-3000-felsb-gen-0.jpg
   title: und vor allem über 3000 Felsbögen
-- filename: 7452859-frieder-und-ich-0.jpg
+- src: 7452859-frieder-und-ich-0.jpg
   title: Frieder und ich
-- filename: 7452860-canyonlands-national-park-island-in-the-sky-district-0.jpg
+- src: 7452860-canyonlands-national-park-island-in-the-sky-district-0.jpg
   title: Canyonlands National Park, Island in the Sky district
-- filename: 7452861-view-point--berm-green-river-0.jpg
+- src: 7452861-view-point--berm-green-river-0.jpg
   title: View Point überm Green River
-- filename: 7452862-auto-fahren-0.jpg
+- src: 7452862-auto-fahren-0.jpg
   title: Auto fahren
-  description: mit Automatik und Tempomat
+  params:
+    description: mit Automatik und Tempomat
 type: post
 ---
 

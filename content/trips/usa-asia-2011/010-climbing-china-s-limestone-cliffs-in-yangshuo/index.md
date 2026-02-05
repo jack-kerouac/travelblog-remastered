@@ -8,92 +8,109 @@ location:
 - Guangxi
 - Yangshuo
 original_url: https://www.travelblog.org/asia/china/guangxi/yangshuo/blog-617259
-images:
-- filename: 6184074-50m_freihaengende_abseilerei-0.jpg
+resources:
+- src: 6184074-50m_freihaengende_abseilerei-0.jpg
   title: 50m freihaengende Abseilerei
-  description: L'echo des montagnes, Low Mountain
-- filename: 6184077-moon_hill-0.jpg
+  params:
+    description: L'echo des montagnes, Low Mountain
+- src: 6184077-moon_hill-0.jpg
   title: Moon Hill
-- filename: 6184090-insanity_in_west_street-0.jpg
+- src: 6184090-insanity_in_west_street-0.jpg
   title: Insanity in West Street
-- filename: 6184091-nachtklettern_mit_wade_und_jay_p-0.jpg
+- src: 6184091-nachtklettern_mit_wade_und_jay_p-0.jpg
   title: Nachtklettern mit Wade und Jay P.
-- filename: 6184092-eine_wunderbare_aussicht_vom_moon_hill-0.jpg
+- src: 6184092-eine_wunderbare_aussicht_vom_moon_hill-0.jpg
   title: Eine wunderbare Aussicht vom Moon Hill
-  description: auf umliegende Doerfer und Felsen
-- filename: 6184097-das_ist_uns_beim_seilabziehen_passiert-0.jpg
+  params:
+    description: auf umliegende Doerfer und Felsen
+- src: 6184097-das_ist_uns_beim_seilabziehen_passiert-0.jpg
   title: das ist uns beim Seilabziehen passiert
-  description: insane...
-- filename: 6184119-the_egg-0.jpg
+  params:
+    description: insane...
+- src: 6184119-the_egg-0.jpg
   title: '"The Egg"'
-  description: ein beliebter Felsen mit Touren in den Schwierigkeitsgraden 5+ bis 7c
-- filename: 6184106-hot_pot-0.jpg
+  params:
+    description: ein beliebter Felsen mit Touren in den Schwierigkeitsgraden 5+ bis 7c
+- src: 6184106-hot_pot-0.jpg
   title: Hot Pot
-  description: mit Marcello (El Salvador), Stina (Daenemark), Sophie (UK), Morgan (US), Duncan (Australien)
-- filename: 6184107-beer_pong_in_der_mojo_bar-0.jpg
+  params:
+    description: mit Marcello (El Salvador), Stina (Daenemark), Sophie (UK), Morgan (US), Duncan (Australien)
+- src: 6184107-beer_pong_in_der_mojo_bar-0.jpg
   title: Beer Pong in der Mojo Bar
-  description: Man versucht Tischtennisbaelle in die mit Bier gefuellten Becher der anderen zu werfen. Duncan und Stina
-- filename: 6184118-the_white_mountain-0.jpg
+  params:
+    description: Man versucht Tischtennisbaelle in die mit Bier gefuellten Becher der anderen zu werfen. Duncan und Stina
+- src: 6184118-the_white_mountain-0.jpg
   title: The White Mountain
-  description: 200m lang harte Routen bis 9a+. Hier klettert nur die Elite, zum Beispiel Chris Sharma und A Bon, bester Kletterer Asiens.
-- filename: 6184120-schoen_ists_hier_halt_schon-0.jpg
+  params:
+    description: 200m lang harte Routen bis 9a+. Hier klettert nur die Elite, zum Beispiel Chris Sharma und A Bon, bester Kletterer Asiens.
+- src: 6184120-schoen_ists_hier_halt_schon-0.jpg
   title: schoen ists hier halt schon...
-- filename: 6184121-the_top_of_-low_mountain-0.jpg
+- src: 6184121-the_top_of_-low_mountain-0.jpg
   title: The top of "Low Mountain"
-  description: Low Mountain ist eigentlich gar nicht so "low"...
-- filename: 6184130-alex_-oesterreich-_und_ruben_-holland-_sind_vom_monsunregen_total_begeistert-0.jpg
+  params:
+    description: Low Mountain ist eigentlich gar nicht so "low"...
+- src: 6184130-alex_-oesterreich-_und_ruben_-holland-_sind_vom_monsunregen_total_begeistert-0.jpg
   title: Alex (Oesterreich) und Ruben (Holland) sind vom Monsunregen total begeistert
-- filename: 6184133-phoenix-_7b-_white_mountain-0.jpg
+- src: 6184133-phoenix-_7b-_white_mountain-0.jpg
   title: Phoenix, 7b, White Mountain
-- filename: 6184134-fakes_oder_kopien_wo_man_hinschaut-0.jpg
+- src: 6184134-fakes_oder_kopien_wo_man_hinschaut-0.jpg
   title: Fakes oder Kopien wo man hinschaut
-  description: der Adidas-Shop ist 100 Meter weiter und schaut exakt gleich aus
-- filename: 6184136-falsche_jade_in_der_west_street-0.jpg
+  params:
+    description: der Adidas-Shop ist 100 Meter weiter und schaut exakt gleich aus
+- src: 6184136-falsche_jade_in_der_west_street-0.jpg
   title: Falsche Jade in der West Street
-- filename: 6184260-eine_nacht_in_yangshuo-0.jpg
+- src: 6184260-eine_nacht_in_yangshuo-0.jpg
   title: Eine Nacht in Yangshuo
-  description: von der Mojo Rooftop-Bar aus
-- filename: 6184261-da_war_gerade_maskenball-0.jpg
+  params:
+    description: von der Mojo Rooftop-Bar aus
+- src: 6184261-da_war_gerade_maskenball-0.jpg
   title: da war gerade Maskenball
-- filename: 6184263-und_nebenzu_uebten_wir_barhocker-bouldern-0.jpg
+- src: 6184263-und_nebenzu_uebten_wir_barhocker-bouldern-0.jpg
   title: und nebenzu uebten wir Barhocker-Bouldern
-- filename: 6184265-singularity-_7a-_in_lei_pi_shan-0.jpg
+- src: 6184265-singularity-_7a-_in_lei_pi_shan-0.jpg
   title: Singularity, 7a+ in Lei Pi Shan
-  description: Coco sichert mich in der 30-Meter Route mit einer kleingriffen, ueberhaengenden Crux.
-- filename: 6184266-marc_und_ich-0.jpg
+  params:
+    description: Coco sichert mich in der 30-Meter Route mit einer kleingriffen, ueberhaengenden Crux.
+- src: 6184266-marc_und_ich-0.jpg
   title: Marc und ich
-  description: Marc studiert in Guilin, kommt aus Barcelona und ist ein ueberaus amuesanter Vogel
-- filename: 6184267-ein_kleiner_teich_mitten_in_yangshuo-0.jpg
+  params:
+    description: Marc studiert in Guilin, kommt aus Barcelona und ist ein ueberaus amuesanter Vogel
+- src: 6184267-ein_kleiner_teich_mitten_in_yangshuo-0.jpg
   title: Ein kleiner Teich mitten in Yangshuo
-- filename: 6184268-chinese_buritos-0.jpg
+- src: 6184268-chinese_buritos-0.jpg
   title: Chinese Buritos
-  description: mit Ei, Salat, Wuerstchen, Gewuerzen. Unser taegliches Mittagessen an den Felsen
-- filename: 6184270-ruben_und_coco_in_einer_7b-0.jpg
+  params:
+    description: mit Ei, Salat, Wuerstchen, Gewuerzen. Unser taegliches Mittagessen an den Felsen
+- src: 6184270-ruben_und_coco_in_einer_7b-0.jpg
   title: Ruben und Coco in einer 7b
-  description: Beide sind verzweifelt, wir haben erst am Abend erfahren, dass der Schluesselgriff ausgebrochen ist.
-- filename: 6184271-sonnenuntergang_ueber_yangshuo-0.jpg
+  params:
+    description: Beide sind verzweifelt, wir haben erst am Abend erfahren, dass der Schluesselgriff ausgebrochen ist.
+- src: 6184271-sonnenuntergang_ueber_yangshuo-0.jpg
   title: Sonnenuntergang ueber Yangshuo
-- filename: 6184272-tim_und_seine_bar_98-0.jpg
+- src: 6184272-tim_und_seine_bar_98-0.jpg
   title: Tim und seine Bar 98
-- filename: 6184274-duncan-_shane_und_mathias_beim_allgegenwaertigen_billardspiel-0.jpg
+- src: 6184274-duncan-_shane_und_mathias_beim_allgegenwaertigen_billardspiel-0.jpg
   title: Duncan, Shane und Mathias beim allgegenwaertigen Billardspiel
-- filename: 6184288-schwimmen_im_li_river-0.jpg
+- src: 6184288-schwimmen_im_li_river-0.jpg
   title: Schwimmen im Li River
-- filename: 6184295-ich_in_moonwalker-_7a-0.jpg
+- src: 6184295-ich_in_moonwalker-_7a-0.jpg
   title: Ich in Moonwalker, 7a+
-- filename: 6184317-coco-_kaum_sichtbar-_in_red_dragon-_7b-0.jpg
+- src: 6184317-coco-_kaum_sichtbar-_in_red_dragon-_7b-0.jpg
   title: Coco, kaum sichtbar, in Red Dragon, 7b+
-  description: am gegenueberliegenden Pfeiler von Moon Hill
-- filename: 6184318-the_moon_swing-0.jpg
+  params:
+    description: am gegenueberliegenden Pfeiler von Moon Hill
+- src: 6184318-the_moon_swing-0.jpg
   title: The Moon Swing
-- filename: 6184319-coco-_alex-_georgio_und_mathias_chillen-0.jpg
+- src: 6184319-coco-_alex-_georgio_und_mathias_chillen-0.jpg
   title: Coco, Alex, Georgio und Mathias chillen
-- filename: 6184320-gemuesebuffet_fuer_90_cent-0.jpg
+- src: 6184320-gemuesebuffet_fuer_90_cent-0.jpg
   title: Gemuesebuffet fuer 90 Cent
-  description: Man sucht sich aus, was man will, dann wird alles zusammen in einem Wok angebraten und dazu gibts dann Reis.
-- filename: 6184321-mathias-_coco-_marc-_alex-_georgio_und_ich-0.jpg
+  params:
+    description: Man sucht sich aus, was man will, dann wird alles zusammen in einem Wok angebraten und dazu gibts dann Reis.
+- src: 6184321-mathias-_coco-_marc-_alex-_georgio_und_ich-0.jpg
   title: Mathias, Coco, Marc, Alex, Georgio und ich
-  description: nach einem guten Klettertag auf Moon Hill
+  params:
+    description: nach einem guten Klettertag auf Moon Hill
 type: post
 ---
 

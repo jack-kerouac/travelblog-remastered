@@ -8,28 +8,35 @@ location:
 - Central Thailand
 - Bangkok
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-87999
-images:
-- filename: 552808-badende-kids-0.jpg
+resources:
+- src: 552808-badende-kids-0.jpg
   title: Badende Kids
-  description: auf dem Weg nach Battambang
-- filename: 552807-verkatert-zum-boot-0.jpg
+  params:
+    description: auf dem Weg nach Battambang
+- src: 552807-verkatert-zum-boot-0.jpg
   title: verkatert zum Boot
-  description: ich falle ein paarmal fast vom Pickup
-- filename: 552812-poipet-0.jpg
+  params:
+    description: ich falle ein paarmal fast vom Pickup
+- src: 552812-poipet-0.jpg
   title: Poipet
-  description: leben in Dreck und Armut
-- filename: 552813-total-ueberladen-0.jpg
+  params:
+    description: leben in Dreck und Armut
+- src: 552813-total-ueberladen-0.jpg
   title: total ueberladen
-  description: aber es kuemmert niemand.
-- filename: 552814-die-grenze-0.jpg
+  params:
+    description: aber es kuemmert niemand.
+- src: 552814-die-grenze-0.jpg
   title: die Grenze
-  description: Thailand erwartet mich
-- filename: 552816-dreispurige-strassen-0.jpg
+  params:
+    description: Thailand erwartet mich
+- src: 552816-dreispurige-strassen-0.jpg
   title: dreispurige Strassen
-  description: welch unerwarteter und erfreulicher Luxus
-- filename: 552818-downtown-bangkok-0.jpg
+  params:
+    description: welch unerwarteter und erfreulicher Luxus
+- src: 552818-downtown-bangkok-0.jpg
   title: Downtown Bangkok
-  description: die Kluft zwischen arm und reich befindet sich ungefaehr in der Mitte des Fotos
+  params:
+    description: die Kluft zwischen arm und reich befindet sich ungefaehr in der Mitte des Fotos
 type: post
 ---
 

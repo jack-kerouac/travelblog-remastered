@@ -8,42 +8,53 @@ location:
 - West
 - Vientiane
 original_url: https://www.travelblog.org/asia/laos/west/vientiane/blog-80319
-images:
-- filename: 492703-fabian-im-nachtzug-0.jpg
+resources:
+- src: 492703-fabian-im-nachtzug-0.jpg
   title: Fabian im Nachtzug
-  description: von Bangkok nach Nong Khai
-- filename: 492706-mut-mee-guest-house-0.jpg
+  params:
+    description: von Bangkok nach Nong Khai
+- src: 492706-mut-mee-guest-house-0.jpg
   title: Mut Mee Guest House
-  description: 'Im Hintergrund die Terasse und der Mekong. Dahinter: Laos'
-- filename: 492708-ein-gruppensprungfoto-0.jpg
+  params:
+    description: 'Im Hintergrund die Terasse und der Mekong. Dahinter: Laos'
+- src: 492708-ein-gruppensprungfoto-0.jpg
   title: Ein Gruppensprungfoto :-)
-  description: Like in "The Beach"
-- filename: 492709-sala-kaewkoo-0.jpg
+  params:
+    description: Like in "The Beach"
+- src: 492709-sala-kaewkoo-0.jpg
   title: Sala Kaewkoo
-  description: Im Skulpturenpark bei Nong Khai
-- filename: 492711-siebenkoepfige-schlange-0.jpg
+  params:
+    description: Im Skulpturenpark bei Nong Khai
+- src: 492711-siebenkoepfige-schlange-0.jpg
   title: Siebenkoepfige Schlange
-  description: Beeindruckend gross...
-- filename: 492713-fuenf-penner-im-buddha-park-0.jpg
+  params:
+    description: Beeindruckend gross...
+- src: 492713-fuenf-penner-im-buddha-park-0.jpg
   title: Fuenf Penner im Buddha-Park
-  description: Fuenf Penner im Buddha-Park - no comment -
-- filename: 492716-i-love-the-deads-0.jpg
+  params:
+    description: Fuenf Penner im Buddha-Park - no comment -
+- src: 492716-i-love-the-deads-0.jpg
   title: I love the deads
-- filename: 492718-ich-buddha-0.jpg
+- src: 492718-ich-buddha-0.jpg
   title: Ich, Buddha
-  description: Ich, Buddha ...wieso muss der Buddha auch so fett sein.
-- filename: 492720-wir-vor-laos-0.jpg
+  params:
+    description: Ich, Buddha ...wieso muss der Buddha auch so fett sein.
+- src: 492720-wir-vor-laos-0.jpg
   title: Wir, vor Laos.
-  description: Tom, Fabian, Christoph, Pille, Flo
-- filename: 492722-chillen-0.jpg
+  params:
+    description: Tom, Fabian, Christoph, Pille, Flo
+- src: 492722-chillen-0.jpg
   title: Chillen
-  description: alles easy, Petra?
-- filename: 492725-baustelle-in-vientiane-0.jpg
+  params:
+    description: alles easy, Petra?
+- src: 492725-baustelle-in-vientiane-0.jpg
   title: Baustelle in Vientiane
-  description: fast wie in Deutschland...
-- filename: 492727-syri-1-guest-house-0.jpg
+  params:
+    description: fast wie in Deutschland...
+- src: 492727-syri-1-guest-house-0.jpg
   title: Syri 1 Guest House
-  description: '...mit schoenem Blick ueber Vientiane.'
+  params:
+    description: '...mit schoenem Blick ueber Vientiane.'
 type: post
 ---
 

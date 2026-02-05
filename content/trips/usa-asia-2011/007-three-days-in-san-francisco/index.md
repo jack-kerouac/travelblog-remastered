@@ -8,63 +8,70 @@ location:
 - California
 - San Francisco
 original_url: https://www.travelblog.org/north-america/united-states/california/san-francisco/blog-610072
-images:
-- filename: 6097989-transamerica_pyramid-0.jpg
+resources:
+- src: 6097989-transamerica_pyramid-0.jpg
   title: Transamerica Pyramid
-- filename: 6097990-leben_am_berg-0.jpg
+- src: 6097990-leben_am_berg-0.jpg
   title: Leben am Berg
-- filename: 6097991-crooked_street-0.jpg
+- src: 6097991-crooked_street-0.jpg
   title: Crooked Street
-- filename: 6097992-und_das_obligatorische_cable_car-0.jpg
+- src: 6097992-und_das_obligatorische_cable_car-0.jpg
   title: und das obligatorische Cable Car
-- filename: 6097993-jack_kerouac_beat_generation_museum-0.jpg
+- src: 6097993-jack_kerouac_beat_generation_museum-0.jpg
   title: Jack Kerouac Beat Generation Museum
-  description: das verdankt er wohl posthum der Tatsache, dass drei seiner vier im Buch "On the Road" beschriebenen Trips in San Francisco endeten.
-- filename: 6097994-chinatown-0.jpg
+  params:
+    description: das verdankt er wohl posthum der Tatsache, dass drei seiner vier im Buch "On the Road" beschriebenen Trips in San Francisco endeten.
+- src: 6097994-chinatown-0.jpg
   title: Chinatown
-  description: Das macht Lust auf China.
-- filename: 6097995-sicht_vom_coit_tower-0.jpg
+  params:
+    description: Das macht Lust auf China.
+- src: 6097995-sicht_vom_coit_tower-0.jpg
   title: Sicht vom Coit Tower
-  description: Die Insel in Bucht ist Alcatraz.
-- filename: 6097996-downtown-0.jpg
+  params:
+    description: Die Insel in Bucht ist Alcatraz.
+- src: 6097996-downtown-0.jpg
   title: Downtown
-- filename: 6097997-und_der_blick_richtung_pazifik-0.jpg
+- src: 6097997-und_der_blick_richtung_pazifik-0.jpg
   title: Und der Blick Richtung Pazifik
-  description: Die Golden Gate Bridge im Hintergrund.
-- filename: 6097998-market_street_i-0.jpg
+  params:
+    description: Die Golden Gate Bridge im Hintergrund.
+- src: 6097998-market_street_i-0.jpg
   title: Market Street I
-- filename: 6097999-market_street_ii-0.jpg
+- src: 6097999-market_street_ii-0.jpg
   title: Market Street II
-- filename: 6098000-union_square-0.jpg
+- src: 6098000-union_square-0.jpg
   title: Union Square
-- filename: 6098001-schoene_haeuser-0.jpg
+- src: 6098001-schoene_haeuser-0.jpg
   title: Schoene Haeuser
-  description: wie aus TV Soaps
-- filename: 6098002-noch_schoenere_haeuser-0.jpg
+  params:
+    description: wie aus TV Soaps
+- src: 6098002-noch_schoenere_haeuser-0.jpg
   title: noch schoenere Haeuser
-- filename: 6098003-und_mit_dem_fahrrad_ueber_die_bruecke-0.jpg
+- src: 6098003-und_mit_dem_fahrrad_ueber_die_bruecke-0.jpg
   title: Und mit dem Fahrrad ueber die Bruecke
-- filename: 6098004-ein_schiff_faehrt_unter_bruecke_in_die_bucht-0.jpg
+- src: 6098004-ein_schiff_faehrt_unter_bruecke_in_die_bucht-0.jpg
   title: ein Schiff faehrt unter Bruecke in die Bucht
-- filename: 6098005-der_klassiker-0.jpg
+- src: 6098005-der_klassiker-0.jpg
   title: der Klassiker...
-- filename: 6098006-tt_-_touristentrauma_auf_dem_ausflugsboot-0.jpg
+- src: 6098006-tt_-_touristentrauma_auf_dem_ausflugsboot-0.jpg
   title: TT - Touristentrauma auf dem Ausflugsboot
-- filename: 6098007-mal_eine_andere_perspektive_auf_die_bruecke-0.jpg
+- src: 6098007-mal_eine_andere_perspektive_auf_die_bruecke-0.jpg
   title: Mal eine andere Perspektive auf die Bruecke
-  description: Ansonsten gibts ja genug Bilder, die jeder kennt.
-- filename: 6098008-ein_naeherer_blick_auf_alcatraz-0.jpg
+  params:
+    description: Ansonsten gibts ja genug Bilder, die jeder kennt.
+- src: 6098008-ein_naeherer_blick_auf_alcatraz-0.jpg
   title: Ein naeherer Blick auf Alcatraz
-- filename: 6098009-seeloewen-_die_sich_vor_einigen_jahren_am_pier_39_einquartiert_haben-0.jpg
+- src: 6098009-seeloewen-_die_sich_vor_einigen_jahren_am_pier_39_einquartiert_haben-0.jpg
   title: Seeloewen, die sich vor einigen Jahren am Pier 39 einquartiert haben
-- filename: 6098010-sean_und_victoria_auf_dem_dach_ihrer_neuen_wohnung-0.jpg
+- src: 6098010-sean_und_victoria_auf_dem_dach_ihrer_neuen_wohnung-0.jpg
   title: Sean und Victoria auf dem Dach ihrer neuen Wohnung.
-- filename: 6098011-die_bay_bridge_bei_sonnenaufgang-0.jpg
+- src: 6098011-die_bay_bridge_bei_sonnenaufgang-0.jpg
   title: Die Bay Bridge bei Sonnenaufgang
-- filename: 6098012-der_bahnhof_von_san_francisco-0.jpg
+- src: 6098012-der_bahnhof_von_san_francisco-0.jpg
   title: Der Bahnhof von San Francisco
-  description: recht uebersichtlich, ein Gleis. Und mein Amtrak Zug Richtung Bakersfield.
-- filename: 6098013-anbau_von_allen_moeglichen_fruechten_im_san_joaquin_valley-0.jpg
+  params:
+    description: recht uebersichtlich, ein Gleis. Und mein Amtrak Zug Richtung Bakersfield.
+- src: 6098013-anbau_von_allen_moeglichen_fruechten_im_san_joaquin_valley-0.jpg
   title: Anbau von allen moeglichen Fruechten im San Joaquin Valley
 type: post
 ---

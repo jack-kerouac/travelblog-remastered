@@ -8,49 +8,61 @@ location:
 - North-West Thailand
 - Chiang Mai
 original_url: https://www.travelblog.org/asia/thailand/north-west-thailand/chiang-mai/blog-291113
-images:
-- filename: 2482983-mae-ya-waterfall-0.jpg
+resources:
+- src: 2482983-mae-ya-waterfall-0.jpg
   title: Mae Ya Waterfall
-  description: und ich der einzige Mensch weit und breit.
-- filename: 2482984-einer-der-vielen-strassemaerkte-0.jpg
+  params:
+    description: und ich der einzige Mensch weit und breit.
+- src: 2482984-einer-der-vielen-strassemaerkte-0.jpg
   title: einer der vielen Strassemaerkte
-  description: einer der vielen Strassemaerkte
-- filename: 2482985-keep-und-rolling-0.jpg
+  params:
+    description: einer der vielen Strassemaerkte
+- src: 2482985-keep-und-rolling-0.jpg
   title: keep und rolling...
-- filename: 2482986-der-zug-faehrt-immer-mit-offenen-tueren-0.jpg
+- src: 2482986-der-zug-faehrt-immer-mit-offenen-tueren-0.jpg
   title: der Zug faehrt immer mit offenen Tueren
-  description: der Zug faehrt immer mit offenen Tueren
-- filename: 2483020-fahrrad-viel-zu-klein-0.jpg
+  params:
+    description: der Zug faehrt immer mit offenen Tueren
+- src: 2483020-fahrrad-viel-zu-klein-0.jpg
   title: Fahrrad viel zu klein
-- filename: 2483021-ein-teil-der-wassergraeben-rund-um-die-altstadt-0.jpg
+- src: 2483021-ein-teil-der-wassergraeben-rund-um-die-altstadt-0.jpg
   title: Ein Teil der Wassergraeben rund um die Altstadt
-  description: Ein Teil der Wassergraeben rund um die Altstadt
-- filename: 2483023-elefanten-sind-hier-allgegenwaertig-0.jpg
+  params:
+    description: Ein Teil der Wassergraeben rund um die Altstadt
+- src: 2483023-elefanten-sind-hier-allgegenwaertig-0.jpg
   title: Elefanten sind hier allgegenwaertig
-  description: Elefanten sind hier allgegenwaertig auch in den Tempeln
-- filename: 2483024-sonnenaufgang-ueber-chiang-mai-0.jpg
+  params:
+    description: Elefanten sind hier allgegenwaertig auch in den Tempeln
+- src: 2483024-sonnenaufgang-ueber-chiang-mai-0.jpg
   title: Sonnenaufgang ueber Chiang Mai
-  description: Sonnenaufgang ueber Chiang Mai
-- filename: 2483025-blick-vom-doi-suthep-tempel-0.jpg
+  params:
+    description: Sonnenaufgang ueber Chiang Mai
+- src: 2483025-blick-vom-doi-suthep-tempel-0.jpg
   title: Blick vom Doi Suthep Tempel
-  description: Blick vom Doi Suthep Tempel
-- filename: 2483026-danach-ab--into-the-wild-0.jpg
+  params:
+    description: Blick vom Doi Suthep Tempel
+- src: 2483026-danach-ab--into-the-wild-0.jpg
   title: danach ab "into the wild"
-  description: danach ab "into the wild" die Huegellandschaft um Chiang Mai ist schon beeindruckend
-- filename: 2483030-betanken-meines-gefaehrts-0.jpg
+  params:
+    description: danach ab "into the wild" die Huegellandschaft um Chiang Mai ist schon beeindruckend
+- src: 2483030-betanken-meines-gefaehrts-0.jpg
   title: Betanken meines Gefaehrts
-  description: Das benoetigte Benzin konnte ich nur aus der Farbe der Reste im Tank identifizieren :)
-- filename: 2483031-blick-flussabwaerts-0.jpg
+  params:
+    description: Das benoetigte Benzin konnte ich nur aus der Farbe der Reste im Tank identifizieren :)
+- src: 2483031-blick-flussabwaerts-0.jpg
   title: Blick flussabwaerts
-- filename: 2483032-nochmal-ein-wasserfall-0.jpg
+- src: 2483032-nochmal-ein-wasserfall-0.jpg
   title: nochmal ein Wasserfall
-  description: ich habe den Namen vergessen
-- filename: 2483033-etwas-cross-country-action-0.jpg
+  params:
+    description: ich habe den Namen vergessen
+- src: 2483033-etwas-cross-country-action-0.jpg
   title: Etwas cross country action
-  description: stellenweise war auf dem Pfad ziemliches Balancieren noetig
-- filename: 2483034-der-hoechste-berg-thailands-doi-inthamon-0.jpg
+  params:
+    description: stellenweise war auf dem Pfad ziemliches Balancieren noetig
+- src: 2483034-der-hoechste-berg-thailands-doi-inthamon-0.jpg
   title: Der hoechste Berg Thailands, Doi Inthamon...
-  description: Der hoechste Berg Thailands, Doi Inthamon... ... huellt sich in Wolken
+  params:
+    description: Der hoechste Berg Thailands, Doi Inthamon... ... huellt sich in Wolken
 type: post
 ---
 

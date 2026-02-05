@@ -8,35 +8,43 @@ location:
 - West
 - Vang Vieng
 original_url: https://www.travelblog.org/asia/laos/west/vang-vieng/blog-80724
-images:
-- filename: 496008-kartenspielen-im-syri-1-0.jpg
+resources:
+- src: 496008-kartenspielen-im-syri-1-0.jpg
   title: Kartenspielen im Syri 1
-- filename: 496010-wat-si-saket-in-vientiane-0.jpg
+- src: 496010-wat-si-saket-in-vientiane-0.jpg
   title: Wat Si Saket in Vientiane
-- filename: 496013-wer-sein-tuktuk-liebt-der-schiebt-0.jpg
+- src: 496013-wer-sein-tuktuk-liebt-der-schiebt-0.jpg
   title: Wer sein Tuktuk liebt, der schiebt
-  description: Wer sein Tuktuk liebt, der schiebt
-- filename: 496014-messerschleifer-im-morning-market-0.jpg
+  params:
+    description: Wer sein Tuktuk liebt, der schiebt
+- src: 496014-messerschleifer-im-morning-market-0.jpg
   title: Messerschleifer im Morning Market
-  description: Messerschleifer im Morning Market
-- filename: 496016-pha-that-luang-0.jpg
+  params:
+    description: Messerschleifer im Morning Market
+- src: 496016-pha-that-luang-0.jpg
   title: Pha That Luang
-  description: Wat in Vientiane
-- filename: 496017-pha-that-luang-0.jpg
+  params:
+    description: Wat in Vientiane
+- src: 496017-pha-that-luang-0.jpg
   title: Pha That Luang
-  description: Flo und Christoph vor dem vollvergoldeten Buddha-Denkmal
-- filename: 496019-spielende-kinder-neben-den-tempeln-0.jpg
+  params:
+    description: Flo und Christoph vor dem vollvergoldeten Buddha-Denkmal
+- src: 496019-spielende-kinder-neben-den-tempeln-0.jpg
   title: spielende Kinder neben den Tempeln
-  description: spielende Kinder neben den Tempeln
-- filename: 496022-schlagloecher-in-der-strasse-von-vientiane-nach-vang-vieng-0.jpg
+  params:
+    description: spielende Kinder neben den Tempeln
+- src: 496022-schlagloecher-in-der-strasse-von-vientiane-nach-vang-vieng-0.jpg
   title: Schlagloecher in der Strasse von Vientiane nach Vang Vieng
-  description: '... die bestausgebauteste Strasse von Laos.'
-- filename: 496023-limestone--im-hochland-von-laos-0.jpg
+  params:
+    description: '... die bestausgebauteste Strasse von Laos.'
+- src: 496023-limestone--im-hochland-von-laos-0.jpg
   title: '"Limestone" im Hochland von Laos'
-  description: '"Limestone" im Hochland von Laos'
-- filename: 496025-wir-vor-dem-nam-song-0.jpg
+  params:
+    description: '"Limestone" im Hochland von Laos'
+- src: 496025-wir-vor-dem-nam-song-0.jpg
   title: wir vor dem Nam Song
-  description: im Hintergrund die Kalkberge morgen folgt noch ein besseres...
+  params:
+    description: im Hintergrund die Kalkberge morgen folgt noch ein besseres...
 type: post
 ---
 

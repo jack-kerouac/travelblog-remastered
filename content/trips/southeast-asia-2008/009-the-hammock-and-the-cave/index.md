@@ -8,28 +8,35 @@ location:
 - West
 - Nong Khiaw
 original_url: https://www.travelblog.org/asia/laos/west/nong-khiaw/blog-298248
-images:
-- filename: 2557321-the-war-cave-0.jpg
+resources:
+- src: 2557321-the-war-cave-0.jpg
   title: the war cave
-  description: ein Unterschlupf der "Pathet Lao"
-- filename: 2557335-so-sieht-die-strasse-zwischen-luang-nam-tha-und-nong-khiaw-aus-0.jpg
+  params:
+    description: ein Unterschlupf der "Pathet Lao"
+- src: 2557335-so-sieht-die-strasse-zwischen-luang-nam-tha-und-nong-khiaw-aus-0.jpg
   title: so sieht die Strasse zwischen Luang Nam Tha und Nong Khiaw aus
-  description: so sieht die Strasse zwischen Luang Nam Tha und Nong Khiaw aus
-- filename: 2557336-die-bruecke-ueber-den-nam-ou-0.jpg
+  params:
+    description: so sieht die Strasse zwischen Luang Nam Tha und Nong Khiaw aus
+- src: 2557336-die-bruecke-ueber-den-nam-ou-0.jpg
   title: die Bruecke ueber den Nam Ou
-  description: die Bruecke ueber den Nam Ou auf der anderen Uferseite Nong Khiaw
-- filename: 2557340-das-war-mein-blick-aus-der-haengematte-0.jpg
+  params:
+    description: die Bruecke ueber den Nam Ou auf der anderen Uferseite Nong Khiaw
+- src: 2557340-das-war-mein-blick-aus-der-haengematte-0.jpg
   title: das war mein Blick aus der Haengematte :)
-  description: das war mein Blick aus der Haengematte :)
-- filename: 2557341-und-das-sieht-man-von-der-bruecke-aus-0.jpg
+  params:
+    description: das war mein Blick aus der Haengematte :)
+- src: 2557341-und-das-sieht-man-von-der-bruecke-aus-0.jpg
   title: und das sieht man von der Bruecke aus
-  description: und das sieht man von der Bruecke aus
-- filename: 2557343-die-laos-und-das-englisch-0.jpg
+  params:
+    description: und das sieht man von der Bruecke aus
+- src: 2557343-die-laos-und-das-englisch-0.jpg
   title: die Laos und das Englisch...
-  description: die Laos und das Englisch... Furchtbar. Es gibt kein Strassenschild und keine Speisekarte auf der kein Schreibfehler waere.
-- filename: 2557344-schreibtisch-des-lokalen-oberhaupts-0.jpg
+  params:
+    description: die Laos und das Englisch... Furchtbar. Es gibt kein Strassenschild und keine Speisekarte auf der kein Schreibfehler waere.
+- src: 2557344-schreibtisch-des-lokalen-oberhaupts-0.jpg
   title: Schreibtisch des lokalen Oberhaupts
-  description: Schreibtisch des lokalen Oberhaupts
+  params:
+    description: Schreibtisch des lokalen Oberhaupts
 type: post
 ---
 

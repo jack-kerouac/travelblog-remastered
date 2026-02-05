@@ -8,67 +8,74 @@ location:
 - Arequipa
 - Arequipa
 original_url: https://www.travelblog.org/south-america/peru/arequipa/arequipa/blog-747202
-images:
-- filename: 7191178-el-misti--the-old-man-0.jpg
+resources:
+- src: 7191178-el-misti--the-old-man-0.jpg
   title: El Misti - The Old Man
-- filename: 7191122-suesswaren-und-kuchen-0.jpg
+- src: 7191122-suesswaren-und-kuchen-0.jpg
   title: Suesswaren und Kuchen
-  description: '...gibt es hier in allen Formen.'
-- filename: 7191123-kirche-aus-der-kolonialzeit-5.jpg
+  params:
+    description: '...gibt es hier in allen Formen.'
+- src: 7191123-kirche-aus-der-kolonialzeit-5.jpg
   title: Kirche aus der Kolonialzeit
-  description: Alles mit dem weissen Vulkangestein erbaut.
-- filename: 7191124-plaza-de-armas-0.jpg
+  params:
+    description: Alles mit dem weissen Vulkangestein erbaut.
+- src: 7191124-plaza-de-armas-0.jpg
   title: Plaza de Armas
-- filename: 7191179-die-kirche-am-plaza-de-armas-0.jpg
+- src: 7191179-die-kirche-am-plaza-de-armas-0.jpg
   title: die Kirche am Plaza de Armas
-- filename: 7191125-kreuzgang-im-kloster-santa-catalunia-0.jpg
+- src: 7191125-kreuzgang-im-kloster-santa-catalunia-0.jpg
   title: Kreuzgang im Kloster Santa Catalunia
-- filename: 7191126-und-noch-einer-0.jpg
+- src: 7191126-und-noch-einer-0.jpg
   title: und noch einer
-- filename: 7191127-ein-eigenes-stadtviertel-0.jpg
+- src: 7191127-ein-eigenes-stadtviertel-0.jpg
   title: Ein eigenes Stadtviertel
-  description: Das Kloster nimmt ein ganzes, eigenes Stadtviertel ein.
-- filename: 7191128-rot-blau-weiss-0.jpg
+  params:
+    description: Das Kloster nimmt ein ganzes, eigenes Stadtviertel ein.
+- src: 7191128-rot-blau-weiss-0.jpg
   title: rot, blau, weiss
-  description: sind die dominierenden Farben hier.
-- filename: 7191129-let-the-show-begin-0.jpg
+  params:
+    description: sind die dominierenden Farben hier.
+- src: 7191129-let-the-show-begin-0.jpg
   title: let the show begin
-- filename: 7191130-munich-moutaineering-crew-0.jpg
+- src: 7191130-munich-moutaineering-crew-0.jpg
   title: Munich Moutaineering Crew
-- filename: 7191132-unser-guide-und-der-rest-0.jpg
+- src: 7191132-unser-guide-und-der-rest-0.jpg
   title: Unser Guide und der Rest
-  description: 'Im Hintergrund, rechts, unter dicker Staub- und Smog-Glocke: Arequipa'
-- filename: 7191151-das--basecamp--im-sonnenuntergang-0.jpg
+  params:
+    description: 'Im Hintergrund, rechts, unter dicker Staub- und Smog-Glocke: Arequipa'
+- src: 7191151-das--basecamp--im-sonnenuntergang-0.jpg
   title: Das "Basecamp" im Sonnenuntergang
-- filename: 7191152-noch-ist-die-stimmung-gut-0.jpg
+- src: 7191152-noch-ist-die-stimmung-gut-0.jpg
   title: Noch ist die Stimmung gut
-- filename: 7191153-naechster-tag-letztes-eisfeld-vor-dem-gipfel-0.jpg
+- src: 7191153-naechster-tag-letztes-eisfeld-vor-dem-gipfel-0.jpg
   title: Naechster Tag, letztes Eisfeld vor dem Gipfel
-- filename: 7191154-am-ende-0.jpg
+- src: 7191154-am-ende-0.jpg
   title: am Ende...
-- filename: 7191155-aus-dem-krater-steigt-schwefelhaltiger-dampf-auf-0.jpg
+- src: 7191155-aus-dem-krater-steigt-schwefelhaltiger-dampf-auf-0.jpg
   title: Aus dem Krater steigt schwefelhaltiger Dampf auf
-- filename: 7191156-wir-beide-ziemlich-k-o-0.jpg
+- src: 7191156-wir-beide-ziemlich-k-o-0.jpg
   title: Wir beide, ziemlich k.o.
-  description: 'unser Guide: ziemlich fit.'
-- filename: 7191157-das-verpasste-gipfelglueck-0.jpg
+  params:
+    description: 'unser Guide: ziemlich fit.'
+- src: 7191157-das-verpasste-gipfelglueck-0.jpg
   title: das verpasste Gipfelglueck
-- filename: 7191158-christoph-schlaeft-in-der-vulkanasche-0.jpg
+- src: 7191158-christoph-schlaeft-in-der-vulkanasche-0.jpg
   title: Christoph schlaeft in der Vulkanasche
-- filename: 7191159-hm-0.jpg
+- src: 7191159-hm-0.jpg
   title: Hm...
-- filename: 7191160-gal-und-der-guide-rennen-vom-gipfel-0.jpg
+- src: 7191160-gal-und-der-guide-rennen-vom-gipfel-0.jpg
   title: Gal und der Guide rennen vom Gipfel
-  description: Gal, der Kerl aus Israel, war noch ein wenig fitter als wir.
-- filename: 7191161-bergab-gings-schnell-und-spassig-0.jpg
+  params:
+    description: Gal, der Kerl aus Israel, war noch ein wenig fitter als wir.
+- src: 7191161-bergab-gings-schnell-und-spassig-0.jpg
   title: Bergab gings schnell und spassig.
-- filename: 7191174-spektakulaere-blicke-talwaerts-0.jpg
+- src: 7191174-spektakulaere-blicke-talwaerts-0.jpg
   title: Spektakulaere Blicke talwaerts
-- filename: 7191175-und-zurueck-im-basecamp-0.jpg
+- src: 7191175-und-zurueck-im-basecamp-0.jpg
   title: und zurueck im Basecamp...
-- filename: 7191176-gabs-noch-0.jpg
+- src: 7191176-gabs-noch-0.jpg
   title: ..gabs noch...
-- filename: 7191177-einen-workout-0.jpg
+- src: 7191177-einen-workout-0.jpg
   title: '...einen Workout :-)'
 type: post
 ---

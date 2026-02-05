@@ -8,54 +8,63 @@ location:
 - California
 - Sequoia National Park
 original_url: https://www.travelblog.org/north-america/united-states/california/sequoia-national-park/blog-784240
-images:
-- filename: 7498077-die-murmeln-des-buttermilk-counties-0.jpg
+resources:
+- src: 7498077-die-murmeln-des-buttermilk-counties-0.jpg
   title: Die Murmeln des Buttermilk Counties
-- filename: 7498076-the-pit-0.jpg
+- src: 7498076-the-pit-0.jpg
   title: '"The Pit"'
-  description: unser Schlafplatz für zwei Dollar pro Nacht.
-- filename: 7498078-klapperschlange-im-anmarsch-0.jpg
+  params:
+    description: unser Schlafplatz für zwei Dollar pro Nacht.
+- src: 7498078-klapperschlange-im-anmarsch-0.jpg
   title: Klapperschlange im Anmarsch
-- filename: 7498079-rock-creek-canyon-0.jpg
+- src: 7498079-rock-creek-canyon-0.jpg
   title: Rock Creek Canyon
-  description: und die Angler
-- filename: 7498080-von-der--happies--bouldering-area-richtung-bishop-0.jpg
+  params:
+    description: und die Angler
+- src: 7498080-von-der--happies--bouldering-area-richtung-bishop-0.jpg
   title: von der "Happies" bouldering area Richtung Bishop
-  description: Der Owens River begrünt das Tal
-- filename: 7498081-die-drei-muskeltiere-0.jpg
+  params:
+    description: Der Owens River begrünt das Tal
+- src: 7498081-die-drei-muskeltiere-0.jpg
   title: die drei Muskeltiere
-  description: wie in der Kletterhalle
-- filename: 7498082-night-session-an--the-hulk-0.jpg
+  params:
+    description: wie in der Kletterhalle
+- src: 7498082-night-session-an--the-hulk-0.jpg
   title: Night Session an "The Hulk"
-- filename: 7498083-und-nochmal-0.jpg
+- src: 7498083-und-nochmal-0.jpg
   title: Und nochmal
-- filename: 7505891-lake-juno-0.jpg
+- src: 7505891-lake-juno-0.jpg
   title: Lake Juno
-  description: nördlich von Mammoth Lakes
-- filename: 7505868-flo-und-frieder-0.jpg
+  params:
+    description: nördlich von Mammoth Lakes
+- src: 7505868-flo-und-frieder-0.jpg
   title: Flo und Frieder
-- filename: 7505869-lake-kaewah-0.jpg
+- src: 7505869-lake-kaewah-0.jpg
   title: Lake Kaewah
-- filename: 7505870-kaweah-river-sequoia-np-0.jpg
+- src: 7505870-kaweah-river-sequoia-np-0.jpg
   title: Kaweah River, Sequoia NP
-- filename: 7505871-das-getriebe-l-war-vorher-im-auto-0.jpg
+- src: 7505871-das-getriebe-l-war-vorher-im-auto-0.jpg
   title: das Getriebeöl war vorher im Auto
-- filename: 7505872-sequoia-trees-0.jpg
+- src: 7505872-sequoia-trees-0.jpg
   title: Sequoia Trees
-  description: werden bis zu 2000 Jahren alt
-- filename: 7505892-hirsch-0.jpg
+  params:
+    description: werden bis zu 2000 Jahren alt
+- src: 7505892-hirsch-0.jpg
   title: Hirsch
-- filename: 7505873-wir-vor-dem-grand-sherman-tree-0.jpg
+- src: 7505873-wir-vor-dem-grand-sherman-tree-0.jpg
   title: Wir, vor dem Grand Sherman Tree
-  description: dem fettesten Baum der Welt
-- filename: 7505894-sequoias-werden-aber-nicht-so-gro--wie-redwood-trees-0.jpg
+  params:
+    description: dem fettesten Baum der Welt
+- src: 7505894-sequoias-werden-aber-nicht-so-gro--wie-redwood-trees-0.jpg
   title: Sequoias werden aber nicht so groß wie Redwood Trees
-- filename: 7505895-sonnenaufgang-vor-dem-el-capitan-0.jpg
+- src: 7505895-sonnenaufgang-vor-dem-el-capitan-0.jpg
   title: Sonnenaufgang vor dem El Capitan
-  description: Die 1000m Granitwand im Yosemite
-- filename: 7505896-die-bekannteste-tour-daran-the-nose-0.jpg
+  params:
+    description: Die 1000m Granitwand im Yosemite
+- src: 7505896-die-bekannteste-tour-daran-the-nose-0.jpg
   title: 'die bekannteste Tour daran: The Nose'
-  description: 'Speedrekord der Huber-Brüder: 2:30h'
+  params:
+    description: 'Speedrekord der Huber-Brüder: 2:30h'
 type: post
 ---
 

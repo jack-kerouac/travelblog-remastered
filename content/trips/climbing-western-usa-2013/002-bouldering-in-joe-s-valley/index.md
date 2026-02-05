@@ -8,44 +8,46 @@ location:
 - Utah
 - Price
 original_url: https://www.travelblog.org/north-america/united-states/utah/price/blog-780207
-images:
-- filename: 7477716-frieder-im-bereich--new-joes-0.jpg
+resources:
+- src: 7477716-frieder-im-bereich--new-joes-0.jpg
   title: Frieder im Bereich "New Joes"
-- filename: 7477726-new-joe-bouldering-area-0.jpg
+- src: 7477726-new-joe-bouldering-area-0.jpg
   title: New Joe bouldering area
-- filename: 7477718-ich-in-low-tide-v6-0.jpg
+- src: 7477718-ich-in-low-tide-v6-0.jpg
   title: ich in Low Tide, v6
-- filename: 7477722-am-cottonwood-creek-0.jpg
+- src: 7477722-am-cottonwood-creek-0.jpg
   title: Am Cottonwood Creek
-- filename: 7477714-gewissenhafte-vorbereitung-f-r-0.jpg
+- src: 7477714-gewissenhafte-vorbereitung-f-r-0.jpg
   title: gewissenhafte Vorbereitung für...
-- filename: 7477712-lagerfeuerstimmung-0.jpg
+- src: 7477712-lagerfeuerstimmung-0.jpg
   title: '...Lagerfeuerstimmung'
-- filename: 7477715-aufw-rmen-in-einer-v2-0.jpg
+- src: 7477715-aufw-rmen-in-einer-v2-0.jpg
   title: Aufwärmen in einer v2
-- filename: 7477713-feetering--bouldering-for-rest-days-0.jpg
+- src: 7477713-feetering--bouldering-for-rest-days-0.jpg
   title: '"feetering", bouldering for rest days :)'
-- filename: 7477717-swinger-piet-0.jpg
+- src: 7477717-swinger-piet-0.jpg
   title: Swinger-Piet
-- filename: 7477719-right-fork-boudering-area-0.jpg
+- src: 7477719-right-fork-boudering-area-0.jpg
   title: Right Fork boudering area
-- filename: 7477720-maxipad-v5-0.jpg
+- src: 7477720-maxipad-v5-0.jpg
   title: Maxipad, v5
-  description: bei dem Sprung auf den Griff mit links habe ich mir meine Bauchmuskelzerrung geholt. Damn
-- filename: 7477721-ich-halte-bierdosen-die-anderen-griffe-0.jpg
+  params:
+    description: bei dem Sprung auf den Griff mit links habe ich mir meine Bauchmuskelzerrung geholt. Damn
+- src: 7477721-ich-halte-bierdosen-die-anderen-griffe-0.jpg
   title: Ich halte Bierdosen, die anderen Griffe
-  description: nichts los mehr mit Bouldern
-- filename: 7477723-ich-spotte-thomas-in--the-angler--v2-0.jpg
+  params:
+    description: nichts los mehr mit Bouldern
+- src: 7477723-ich-spotte-thomas-in--the-angler--v2-0.jpg
   title: ich spotte Thomas in "The Angler", v2
-- filename: 7477724-vorher-0.jpg
+- src: 7477724-vorher-0.jpg
   title: vorher
-- filename: 7477725-nachher-0.jpg
+- src: 7477725-nachher-0.jpg
   title: nachher
-- filename: 7486486-kalte-n-chte-0.jpg
+- src: 7486486-kalte-n-chte-0.jpg
   title: Kalte Nächte
-- filename: 7477727-aufw-rmen-in-einer-v4-0.jpg
+- src: 7477727-aufw-rmen-in-einer-v4-0.jpg
   title: Aufwärmen in einer v4
-- filename: 7477728-und-die-t-glichen--h-uslichen-pflichten-0.jpg
+- src: 7477728-und-die-t-glichen--h-uslichen-pflichten-0.jpg
   title: und die täglichen "häuslichen Pflichten"
 type: post
 ---

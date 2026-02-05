@@ -8,53 +8,67 @@ location:
 - Southeast
 - Ho Chi Minh City
 original_url: https://www.travelblog.org/asia/vietnam/southeast/ho-chi-minh-city/blog-85588
-images:
-- filename: 533449-reunification-square-0.jpg
+resources:
+- src: 533449-reunification-square-0.jpg
   title: Reunification Square
-- filename: 533453-vor-dem-reunification-palace-0.jpg
+- src: 533453-vor-dem-reunification-palace-0.jpg
   title: vor dem Reunification Palace
-  description: vor dem Reunification Palace Man beachte mein geiles Ho Chi Minh Shirt :)
-- filename: 533455-kautschukplantage-0.jpg
+  params:
+    description: vor dem Reunification Palace Man beachte mein geiles Ho Chi Minh Shirt :)
+- src: 533455-kautschukplantage-0.jpg
   title: Kautschukplantage
-  description: Auf dem Weg zu den Cu Chi Tunnels
-- filename: 533458-vollgestopfter-laden-auf-dem-markt-0.jpg
+  params:
+    description: Auf dem Weg zu den Cu Chi Tunnels
+- src: 533458-vollgestopfter-laden-auf-dem-markt-0.jpg
   title: vollgestopfter Laden auf dem Markt
-  description: vollgestopfter Laden auf dem Markt
-- filename: 533459-ein-ganz-gewoehnlicher-strassenrand-0.jpg
+  params:
+    description: vollgestopfter Laden auf dem Markt
+- src: 533459-ein-ganz-gewoehnlicher-strassenrand-0.jpg
   title: ein ganz gewoehnlicher Strassenrand
-  description: ein ganz gewoehnlicher Strassenrand mit dem Umweltbewusstsein ist es hier einfach noch nicht so weit her.
-- filename: 533462-aus-diesem-loch-tauchten-mal-vietcong-auf-0.jpg
+  params:
+    description: ein ganz gewoehnlicher Strassenrand mit dem Umweltbewusstsein ist es hier einfach noch nicht so weit her.
+- src: 533462-aus-diesem-loch-tauchten-mal-vietcong-auf-0.jpg
   title: aus diesem Loch tauchten mal Vietcong auf
-  description: aus diesem Loch tauchten mal Vietcong auf und nicht wie hier eine absolut unmoegliche Chinesin
-- filename: 533464-schuetzengraben-mit-eingang-zu-einem-tunnel-0.jpg
+  params:
+    description: aus diesem Loch tauchten mal Vietcong auf und nicht wie hier eine absolut unmoegliche Chinesin
+- src: 533464-schuetzengraben-mit-eingang-zu-einem-tunnel-0.jpg
   title: Schuetzengraben mit Eingang zu einem Tunnel
-  description: Schuetzengraben mit Eingang zu einem Tunnel
-- filename: 533465-und-so-gemuetlich-schauts-drin-aus-0.jpg
+  params:
+    description: Schuetzengraben mit Eingang zu einem Tunnel
+- src: 533465-und-so-gemuetlich-schauts-drin-aus-0.jpg
   title: '...und so gemuetlich schauts drin aus'
-  description: '...und so gemuetlich schauts drin aus'
-- filename: 533468-unser-cooler-guide-0.jpg
+  params:
+    description: '...und so gemuetlich schauts drin aus'
+- src: 533468-unser-cooler-guide-0.jpg
   title: unser cooler Guide
-  description: und ein vom Vietcong lahmgelegter Panzer
-- filename: 533471-rolling-trap-0.jpg
+  params:
+    description: und ein vom Vietcong lahmgelegter Panzer
+- src: 533471-rolling-trap-0.jpg
   title: rolling trap
-  description: wie aus der mittelalterlichen Folterkammer. Na dann gute Nacht...
-- filename: 533473-b-52-bombenkrater-0.jpg
+  params:
+    description: wie aus der mittelalterlichen Folterkammer. Na dann gute Nacht...
+- src: 533473-b-52-bombenkrater-0.jpg
   title: B-52 Bombenkrater
-  description: einer der vielen rund um Cu Chi, des meistbombardiertesten Gebietes der Erde
-- filename: 533475-dann-doch-lieber-nuechtern-bleiben-0.jpg
+  params:
+    description: einer der vielen rund um Cu Chi, des meistbombardiertesten Gebietes der Erde
+- src: 533475-dann-doch-lieber-nuechtern-bleiben-0.jpg
   title: '...dann doch lieber nuechtern bleiben :)'
-  description: '...dann doch lieber nuechtern bleiben :) Schlange frisst Skorpion. Die Vietnamesen fahren da voll drauf ab.'
-- filename: 533476-jaaa-die-chillen-0.jpg
+  params:
+    description: '...dann doch lieber nuechtern bleiben :) Schlange frisst Skorpion. Die Vietnamesen fahren da voll drauf ab.'
+- src: 533476-jaaa-die-chillen-0.jpg
   title: jaaa, die chillen!
-- filename: 533480-das-moderne-saigon-0.jpg
+- src: 533480-das-moderne-saigon-0.jpg
   title: das moderne Saigon
-  description: doch nicht zu vergessen, die wie immer unmoeglichen Stromleitungen
-- filename: 533483-sam-freut-sich-ueber-den-verkehr-0.jpg
+  params:
+    description: doch nicht zu vergessen, die wie immer unmoeglichen Stromleitungen
+- src: 533483-sam-freut-sich-ueber-den-verkehr-0.jpg
   title: Sam freut sich ueber den Verkehr :-)
-  description: Sam freut sich ueber den Verkehr :-)
-- filename: 533484-spaetfolgen-des-dioxin-einsatzes-0.jpg
+  params:
+    description: Sam freut sich ueber den Verkehr :-)
+- src: 533484-spaetfolgen-des-dioxin-einsatzes-0.jpg
   title: Spaetfolgen des Dioxin-Einsatzes
-  description: Spaetfolgen des Dioxin-Einsatzes
+  params:
+    description: Spaetfolgen des Dioxin-Einsatzes
 type: post
 ---
 

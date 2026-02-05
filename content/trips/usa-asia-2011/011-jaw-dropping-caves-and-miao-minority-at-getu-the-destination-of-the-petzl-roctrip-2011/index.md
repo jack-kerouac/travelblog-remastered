@@ -8,115 +8,138 @@ location:
 - Guizhou
 - Anshun
 original_url: https://www.travelblog.org/asia/china/guizhou/anshun/blog-620458
-images:
-- filename: 6218098-chuanshang_dong_-_-cave_over_the_bed-0.jpg
+resources:
+- src: 6218098-chuanshang_dong_-_-cave_over_the_bed-0.jpg
   title: Chuanshang dong - "Cave over the bed"
-  description: 20 sweaty minutes to climb the stairs to this cave. 150m long, 70m high, about 100 m wide
-- filename: 6218099-yanzi_dong_-_swallow_cave-0.jpg
+  params:
+    description: 20 sweaty minutes to climb the stairs to this cave. 150m long, 70m high, about 100 m wide
+- src: 6218099-yanzi_dong_-_swallow_cave-0.jpg
   title: Yanzi dong - Swallow cave
-  description: From inside the grotto on its back towards the ferry pier
-- filename: 6218100-old_woman-_still_smiling-0.jpg
+  params:
+    description: From inside the grotto on its back towards the ferry pier
+- src: 6218100-old_woman-_still_smiling-0.jpg
   title: old woman, still smiling
-- filename: 6218101-the_caves-0.jpg
+- src: 6218101-the_caves-0.jpg
   title: The caves
-  description: from the ferry. In fall, there is a ray of light through Chuanshang cave onto the river in the morning.
-- filename: 6218102-yanzi_cave-0.jpg
+  params:
+    description: from the ferry. In fall, there is a ray of light through Chuanshang cave onto the river in the morning.
+- src: 6218102-yanzi_cave-0.jpg
   title: Yanzi cave
-  description: with lots of swallows flying over the fisherman
-- filename: 6218103-crossing_the_g-t-_river-0.jpg
+  params:
+    description: with lots of swallows flying over the fisherman
+- src: 6218103-crossing_the_g-t-_river-0.jpg
   title: crossing the Gétû river
-  description: the guy was kind enough to take the two of us over
-- filename: 6218104-the_normal_touristy_way_of_going_across-along_the_river-0.jpg
+  params:
+    description: the guy was kind enough to take the two of us over
+- src: 6218104-the_normal_touristy_way_of_going_across-along_the_river-0.jpg
   title: the normal touristy way of going across/along the river
-- filename: 6218105-g-t-_river-0.jpg
+- src: 6218105-g-t-_river-0.jpg
   title: Gétû river
-- filename: 6218106-a_15cm_centipede_and_a_huge_butterfly-0.jpg
+- src: 6218106-a_15cm_centipede_and_a_huge_butterfly-0.jpg
   title: a 15cm centipede and a huge butterfly
-  description: it's a wild ecosystem here
-- filename: 6218107-blind_valley-0.jpg
+  params:
+    description: it's a wild ecosystem here
+- src: 6218107-blind_valley-0.jpg
   title: Blind Valley
-  description: hard to access, surrounded by rock cliffs. Tempting.
-- filename: 6218112-welcome_to_pandorra-0.jpg
+  params:
+    description: hard to access, surrounded by rock cliffs. Tempting.
+- src: 6218112-welcome_to_pandorra-0.jpg
   title: Welcome to Pandorra.
-  description: behind Chuanshang cave there is this funnel of green, with the grotto to Yanzi cave at its lowest point
-- filename: 6218113-the_pathway_through_the_cave-0.jpg
+  params:
+    description: behind Chuanshang cave there is this funnel of green, with the grotto to Yanzi cave at its lowest point
+- src: 6218113-the_pathway_through_the_cave-0.jpg
   title: the pathway through the cave
-  description: built eight years ago
-- filename: 6218114-the_cave_has_its_own_microclimate-0.jpg
+  params:
+    description: built eight years ago
+- src: 6218114-the_cave_has_its_own_microclimate-0.jpg
   title: the cave has its own microclimate
-  description: and thus its own specifc set of tropical plants and creatures
-- filename: 6218115-the_grotto-0.jpg
+  params:
+    description: and thus its own specifc set of tropical plants and creatures
+- src: 6218115-the_grotto-0.jpg
   title: the grotto
-  description: the Gétû river is entering through Yanzi cave on the right and submerging deeper into the hill into the cave on the left
-- filename: 6218116-abseiling_into_the_grotto-0.jpg
+  params:
+    description: the Gétû river is entering through Yanzi cave on the right and submerging deeper into the hill into the cave on the left
+- src: 6218116-abseiling_into_the_grotto-0.jpg
   title: abseiling into the grotto
-- filename: 6218117-where_is_coco-_part_1-0.jpg
+- src: 6218117-where_is_coco-_part_1-0.jpg
   title: where is Coco, part 1
-- filename: 6218119-where_is_coco-_part_2-0.jpg
+- src: 6218119-where_is_coco-_part_2-0.jpg
   title: where is Coco, part 2
-- filename: 6218121-chuanshang_cave_from_behind-0.jpg
+- src: 6218121-chuanshang_cave_from_behind-0.jpg
   title: Chuanshang cave from behind
-- filename: 6218123-and_from_above-0.jpg
+- src: 6218123-and_from_above-0.jpg
   title: and from above
-  description: every angle is a new picture
-- filename: 6218126-climbing_chuanshang_cave-0.jpg
+  params:
+    description: every angle is a new picture
+- src: 6218126-climbing_chuanshang_cave-0.jpg
   title: climbing Chuanshang cave
-- filename: 6218137-where_is_coco-_part_3-0.jpg
+- src: 6218137-where_is_coco-_part_3-0.jpg
   title: where is Coco, part 3
-- filename: 6218138-different_rock_formations_in_the_cave-0.jpg
+- src: 6218138-different_rock_formations_in_the_cave-0.jpg
   title: different rock formations in the cave
-  description: all of it is bolted and climable. If you are strong enough :).
-- filename: 6218139-rain_water_seeping_through_the_cave-0.jpg
+  params:
+    description: all of it is bolted and climable. If you are strong enough :).
+- src: 6218139-rain_water_seeping_through_the_cave-0.jpg
   title: rain water seeping through the cave
-  description: and forming the characteristic tuffa structures
-- filename: 6218140-c-mon-0.jpg
+  params:
+    description: and forming the characteristic tuffa structures
+- src: 6218140-c-mon-0.jpg
   title: C'mon! :)
-- filename: 6218141-there_is_so_much_potential_for_more_climbs_here-0.jpg
+- src: 6218141-there_is_so_much_potential_for_more_climbs_here-0.jpg
   title: there is so much potential for more climbs here
-- filename: 6218142-taking_luo_zao_zum_--_climbing-0.jpg
+- src: 6218142-taking_luo_zao_zum_--_climbing-0.jpg
   title: taking Luo Zao Zum (?) climbing
-  description: son of the owner of our guest house
-- filename: 6218143-from_the_g-t-_river_to_the_village-0.jpg
+  params:
+    description: son of the owner of our guest house
+- src: 6218143-from_the_g-t-_river_to_the_village-0.jpg
   title: from the Gétû river to the village
-- filename: 6218144-preparation_for_the_arrival_of_the_crowds_in_october-0.jpg
+- src: 6218144-preparation_for_the_arrival_of_the_crowds_in_october-0.jpg
   title: preparation for the arrival of the crowds in October
-- filename: 6218145-rice_paddies_in_the_middle_of_the_village-0.jpg
+- src: 6218145-rice_paddies_in_the_middle_of_the_village-0.jpg
   title: rice paddies in the middle of the village
-- filename: 6218146-the_white_building_is_the_guest_house-0.jpg
+- src: 6218146-the_white_building_is_the_guest_house-0.jpg
   title: the white building is the guest house
-  description: not very obvious
-- filename: 6218147-the_kitchen-0.jpg
+  params:
+    description: not very obvious
+- src: 6218147-the_kitchen-0.jpg
   title: The kitchen
-- filename: 6218148-the_not-so-nice_bathroom-0.jpg
+- src: 6218148-the_not-so-nice_bathroom-0.jpg
   title: the not-so-nice bathroom
-  description: don't be too sensitive
-- filename: 6218149-dinner-0.jpg
+  params:
+    description: don't be too sensitive
+- src: 6218149-dinner-0.jpg
   title: dinner...
-- filename: 6218150-and_social_dinner_with_the_family-0.jpg
+- src: 6218150-and_social_dinner_with_the_family-0.jpg
   title: '...and social dinner with the family'
-- filename: 6218151-explaining_some_rope_techniques-0.jpg
+- src: 6218151-explaining_some_rope_techniques-0.jpg
   title: explaining some rope techniques
-  description: the owner of the GH was keen to learn about ascending a rope
-- filename: 6218152-a_funeral_ceremony-0.jpg
+  params:
+    description: the owner of the GH was keen to learn about ascending a rope
+- src: 6218152-a_funeral_ceremony-0.jpg
   title: a funeral ceremony
-  description: lasting for four days, with lots of firework, card playing, eating, and rice wine
-- filename: 6218153-coco-_checking_out_the_chicken_legs-0.jpg
+  params:
+    description: lasting for four days, with lots of firework, card playing, eating, and rice wine
+- src: 6218153-coco-_checking_out_the_chicken_legs-0.jpg
   title: Coco, checking out the chicken legs
-  description: yummy
-- filename: 6218154-kids-0.jpg
+  params:
+    description: yummy
+- src: 6218154-kids-0.jpg
   title: kids
-- filename: 6218155-our_night_bus_to_guiyang-0.jpg
+- src: 6218155-our_night_bus_to_guiyang-0.jpg
   title: our night bus to Guiyang
-  description: the "beds" are ways too small for me
-- filename: 6218156-our_cab_in_guiyang_broke_down-0.jpg
+  params:
+    description: the "beds" are ways too small for me
+- src: 6218156-our_cab_in_guiyang_broke_down-0.jpg
   title: our cab in Guiyang broke down
-  description: Coco was pushing it to clear the traffic crossing
-- filename: 6218157-guiyang_at_night-0.jpg
+  params:
+    description: Coco was pushing it to clear the traffic crossing
+- src: 6218157-guiyang_at_night-0.jpg
   title: Guiyang at night
-  description: quite different to Gétû
-- filename: 6218158-skyscrapers_to_be_in_jinyang_new_district-0.jpg
+  params:
+    description: quite different to Gétû
+- src: 6218158-skyscrapers_to_be_in_jinyang_new_district-0.jpg
   title: skyscrapers to be in Jinyang New District
-- filename: 6217847-ziyun_in_chinese_letters-0.jpg
+- src: 6217847-ziyun_in_chinese_letters-0.jpg
   title: Ziyun in Chinese letters
 type: post
 ---

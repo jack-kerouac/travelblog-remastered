@@ -8,46 +8,59 @@ location:
 - Red River Delta
 - Hanoi
 original_url: https://www.travelblog.org/asia/vietnam/red-river-delta/hanoi/blog-83168
-images:
-- filename: 514053-die-schlachtstrasse-0.jpg
+resources:
+- src: 514053-die-schlachtstrasse-0.jpg
   title: die Schlachtstrasse
-  description: von unserem Balkon aus
-- filename: 514055-der-besitzer-des-darling-guesthouse-0.jpg
+  params:
+    description: von unserem Balkon aus
+- src: 514055-der-besitzer-des-darling-guesthouse-0.jpg
   title: der Besitzer des Darling Guesthouse
-  description: der Besitzer des Darling Guesthouse ein riesen Schlitzohr, aber verdammt lustig.
-- filename: 514057-little-hanoi-0.jpg
+  params:
+    description: der Besitzer des Darling Guesthouse ein riesen Schlitzohr, aber verdammt lustig.
+- src: 514057-little-hanoi-0.jpg
   title: Little Hanoi
-  description: unser "Stammlokal" zum Sandwich futtern
-- filename: 514061-strassenverkehr-in-hanoi-0.jpg
+  params:
+    description: unser "Stammlokal" zum Sandwich futtern
+- src: 514061-strassenverkehr-in-hanoi-0.jpg
   title: Strassenverkehr in Hanoi
-  description: ein Erlebnis fuer sich
-- filename: 514064-wasserpuppentheater-0.jpg
+  params:
+    description: ein Erlebnis fuer sich
+- src: 514064-wasserpuppentheater-0.jpg
   title: Wasserpuppentheater
-  description: Leider verstehen wir ueberhaupt nix und pennen fast ein. Totaler Muell :) Natuerlich gefaellts Fabian.
-- filename: 514067-army-museum-0.jpg
+  params:
+    description: Leider verstehen wir ueberhaupt nix und pennen fast ein. Totaler Muell :) Natuerlich gefaellts Fabian.
+- src: 514067-army-museum-0.jpg
   title: Army Museum
-  description: Army Museum Den ungluecklichen Besitzern halfen diese Helme wohl nichts.
-- filename: 514069-iroquoise-helikopter-0.jpg
+  params:
+    description: Army Museum Den ungluecklichen Besitzern halfen diese Helme wohl nichts.
+- src: 514069-iroquoise-helikopter-0.jpg
   title: Iroquoise-Helikopter
-  description: mit dem wurden im Vietnamkrieg die Verletzten ausgeflogen. Siehe "Apocalypse Now"
-- filename: 514070-die-reste-eines-amerikanischen-bombers-0.jpg
+  params:
+    description: mit dem wurden im Vietnamkrieg die Verletzten ausgeflogen. Siehe "Apocalypse Now"
+- src: 514070-die-reste-eines-amerikanischen-bombers-0.jpg
   title: die Reste eines amerikanischen Bombers
-  description: die Reste eines amerikanischen Bombers Der wurde mit Handfeuerwaffen abgeschossen.
-- filename: 514071-von-den-russen-gesponsorter-tank-0.jpg
+  params:
+    description: die Reste eines amerikanischen Bombers Der wurde mit Handfeuerwaffen abgeschossen.
+- src: 514071-von-den-russen-gesponsorter-tank-0.jpg
   title: von den Russen gesponsorter Tank
-  description: von den Russen gesponsorter Tank
-- filename: 514075-presedential-palace-0.jpg
+  params:
+    description: von den Russen gesponsorter Tank
+- src: 514075-presedential-palace-0.jpg
   title: Presedential Palace
-  description: hier koennte man wohnen...
-- filename: 514078-rent-a-riksha-0.jpg
+  params:
+    description: hier koennte man wohnen...
+- src: 514078-rent-a-riksha-0.jpg
   title: rent a riksha
-  description: rent a riksha er wollte leider mich nicht fahren lassen :)
-- filename: 514079-kulinarischer-hoehepunkt-in-hanoi-0.jpg
+  params:
+    description: rent a riksha er wollte leider mich nicht fahren lassen :)
+- src: 514079-kulinarischer-hoehepunkt-in-hanoi-0.jpg
   title: kulinarischer Hoehepunkt in Hanoi
-  description: kulinarischer Hoehepunkt in Hanoi Fabians Essen im KOTO
-- filename: 514083-zwei-philosophen-im-temple-of-literature-0.jpg
+  params:
+    description: kulinarischer Hoehepunkt in Hanoi Fabians Essen im KOTO
+- src: 514083-zwei-philosophen-im-temple-of-literature-0.jpg
   title: zwei Philosophen im Temple of Literature
-  description: zwei Philosophen im Temple of Literature der ersten grossen Bildungsstaette in Vietnam
+  params:
+    description: zwei Philosophen im Temple of Literature der ersten grossen Bildungsstaette in Vietnam
 type: post
 ---
 

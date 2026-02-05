@@ -8,80 +8,88 @@ location:
 - Colorado
 - Boulder
 original_url: https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-593961
-images:
-- filename: 6032533-skifahren_in_breckenridge-0.jpg
+resources:
+- src: 6032533-skifahren_in_breckenridge-0.jpg
   title: Skifahren in Breckenridge
-  description: der bunteste Vogel auf der Piste
-- filename: 6032532-5-11b_in_shelf_road-0.jpg
+  params:
+    description: der bunteste Vogel auf der Piste
+- src: 6032532-5-11b_in_shelf_road-0.jpg
   title: 5.11b in Shelf Road
-- filename: 6032534-bouldern_am_-graham_boulder-3.jpg
+- src: 6032534-bouldern_am_-graham_boulder-3.jpg
   title: Bouldern am "Graham Boulder"
-  description: V4
-- filename: 6032535-und_nochmal-1.jpg
+  params:
+    description: V4
+- src: 6032535-und_nochmal-1.jpg
   title: und nochmal
-- filename: 6032536-topping_out-1.jpg
+- src: 6032536-topping_out-1.jpg
   title: topping out
-  description: der Mantle am Schluss
-- filename: 6032537-die_v6_daneben-0.jpg
+  params:
+    description: der Mantle am Schluss
+- src: 6032537-die_v6_daneben-0.jpg
   title: die V6 daneben
-  description: ich kam nicht ins Fliegen...
-- filename: 6032538-aber_piet-1.jpg
+  params:
+    description: ich kam nicht ins Fliegen...
+- src: 6032538-aber_piet-1.jpg
   title: '...aber Piet'
-  description: doch auch nicht bis zum Ende
-- filename: 6032539-5-13a_am_easter_rock-0.jpg
+  params:
+    description: doch auch nicht bis zum Ende
+- src: 6032539-5-13a_am_easter_rock-0.jpg
   title: 5.13a am Easter Rock
-- filename: 6032540-inklusive_dyno-1.jpg
+- src: 6032540-inklusive_dyno-1.jpg
   title: inklusive Dyno.
-- filename: 6032541-warming_hut-_in_breckenridge-0.jpg
+- src: 6032541-warming_hut-_in_breckenridge-0.jpg
   title: '"Warming Hut" in Breckenridge'
-- filename: 6032542-toller-_trockener_powder-0.jpg
+- src: 6032542-toller-_trockener_powder-0.jpg
   title: Toller, trockener Powder
-- filename: 6032543-slackline_hinter_den_bear_creek_apartments_wo_piet_wohnt-1.jpg
+- src: 6032543-slackline_hinter_den_bear_creek_apartments_wo_piet_wohnt-1.jpg
   title: Slackline hinter den Bear Creek Apartments wo Piet wohnt
-- filename: 6032544-eine_nacht_auf_dem_dem_flagstaff_mountain-0.jpg
+- src: 6032544-eine_nacht_auf_dem_dem_flagstaff_mountain-0.jpg
   title: Eine Nacht auf dem dem Flagstaff Mountain
-  description: mit Ausblick ueber Boulder und rechts Denver
-- filename: 6032545-gute_stimmung_-d-0.jpg
+  params:
+    description: mit Ausblick ueber Boulder und rechts Denver
+- src: 6032545-gute_stimmung_-d-0.jpg
   title: gute Stimmung :-D
-- filename: 6032546-half-life_auf_der_x-box-0.jpg
+- src: 6032546-half-life_auf_der_x-box-0.jpg
   title: Half-Life auf der X-Box
-- filename: 6032547-podiumsdiskussion_ueber_wikileaks_im_macky_auditorium-0.jpg
+- src: 6032547-podiumsdiskussion_ueber_wikileaks_im_macky_auditorium-0.jpg
   title: Podiumsdiskussion ueber Wikileaks im Macky Auditorium
-- filename: 6032548-einer_der_vielen_aufenthaltsraeume_hier_an_der_uni-0.jpg
+- src: 6032548-einer_der_vielen_aufenthaltsraeume_hier_an_der_uni-0.jpg
   title: Einer der vielen Aufenthaltsraeume hier an der Uni
-- filename: 6032549-williams_village-0.jpg
+- src: 6032549-williams_village-0.jpg
   title: Williams Village
-  description: ein Komplex von Studentenwohnungen
-- filename: 6032550-im_hintergrund-_die_alles_beherrschenden_flatirons-0.jpg
+  params:
+    description: ein Komplex von Studentenwohnungen
+- src: 6032550-im_hintergrund-_die_alles_beherrschenden_flatirons-0.jpg
   title: 'im Hintergrund: Die alles beherrschenden Flatirons'
-  description: '(zu Deutsch: Buegeleisen)'
-- filename: 6032551-einer_der_obskuren_laeden_in_der_pearl_street-0.jpg
+  params:
+    description: '(zu Deutsch: Buegeleisen)'
+- src: 6032551-einer_der_obskuren_laeden_in_der_pearl_street-0.jpg
   title: einer der obskuren Laeden in der Pearl Street
-- filename: 6032552-typische_einwohner-1.jpg
+- src: 6032552-typische_einwohner-1.jpg
   title: typische Einwohner
-- filename: 6032553-und_nochmal-0.jpg
+- src: 6032553-und_nochmal-0.jpg
   title: und nochmal
-- filename: 6032554-schlafen_am_lagerfeuer_in_shelf_road-1.jpg
+- src: 6032554-schlafen_am_lagerfeuer_in_shelf_road-1.jpg
   title: Schlafen am Lagerfeuer in Shelf Road
-- filename: 6032555-ein_ganz_normaler_samstag_morgen-1.jpg
+- src: 6032555-ein_ganz_normaler_samstag_morgen-1.jpg
   title: ein ganz normaler Samstag morgen :)
-- filename: 6032556-gelbe_und_rote_kalksteinkliffs-0.jpg
+- src: 6032556-gelbe_und_rote_kalksteinkliffs-0.jpg
   title: gelbe und rote Kalksteinkliffs
-- filename: 6032557-collin_in_der_5-11b-0.jpg
+- src: 6032557-collin_in_der_5-11b-0.jpg
   title: Collin in der 5.11b
-- filename: 6032558-king_swing-0.jpg
+- src: 6032558-king_swing-0.jpg
   title: King Swing
-- filename: 6032559-sonntag_morgen-0.jpg
+- src: 6032559-sonntag_morgen-0.jpg
   title: Sonntag morgen.
-- filename: 6032560-contest_wall-0.jpg
+- src: 6032560-contest_wall-0.jpg
   title: Contest Wall
-- filename: 6032561-der_himmel_reisst_nach_einem_kurzen_schneeschauer_wieder_auf-0.jpg
+- src: 6032561-der_himmel_reisst_nach_einem_kurzen_schneeschauer_wieder_auf-0.jpg
   title: Der Himmel reisst nach einem kurzen Schneeschauer wieder auf
-- filename: 6032562-ein_spiel_-risk-_mit_collin_und_piet-0.jpg
+- src: 6032562-ein_spiel_-risk-_mit_collin_und_piet-0.jpg
   title: Ein Spiel "Risk" mit Collin und Piet
-- filename: 6032564-die_boulderhalle_-the_spot-0.jpg
+- src: 6032564-die_boulderhalle_-the_spot-0.jpg
   title: Die Boulderhalle "The Spot"
-- filename: 6032563-das_endlos-boulder-band_im_spot-0.jpg
+- src: 6032563-das_endlos-boulder-band_im_spot-0.jpg
   title: Das Endlos-Boulder-Band im Spot
 type: post
 ---

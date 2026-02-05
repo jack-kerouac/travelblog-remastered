@@ -8,69 +8,74 @@ location:
 - Nevada
 - Las Vegas
 original_url: https://www.travelblog.org/north-america/united-states/nevada/las-vegas/blog-607142
-images:
-- filename: 6062913-die_red_rocks-_einige_meilen_vor_las_vegas-0.jpg
+resources:
+- src: 6062913-die_red_rocks-_einige_meilen_vor_las_vegas-0.jpg
   title: Die Red Rocks, einige Meilen vor Las Vegas
-- filename: 6062914-der_-scenic_drive-_fuehrt_uns_zu_den_kletterrouten-0.jpg
+- src: 6062914-der_-scenic_drive-_fuehrt_uns_zu_den_kletterrouten-0.jpg
   title: Der "Scenic Drive" fuehrt uns zu den Kletterrouten.
-- filename: 6062915-der_zustieg-0.jpg
+- src: 6062915-der_zustieg-0.jpg
   title: Der Zustieg
-- filename: 6062916-the_black_corridor-0.jpg
+- src: 6062916-the_black_corridor-0.jpg
   title: '"The Black Corridor"'
-  description: 2x 5.9, 3x.5.10
-- filename: 6062917-5-10d_in_-the_pier-0.jpg
+  params:
+    description: 2x 5.9, 3x.5.10
+- src: 6062917-5-10d_in_-the_pier-0.jpg
   title: 5.10d in "The Pier"
-  description: Uberragende Tour, grosse Henkel, Schluesselstelle vor dem Ausstieg
-- filename: 6062918-die_red_rocks-0.jpg
+  params:
+    description: Uberragende Tour, grosse Henkel, Schluesselstelle vor dem Ausstieg
+- src: 6062918-die_red_rocks-0.jpg
   title: Die Red Rocks
-- filename: 6062919-unser_-zeltplatz-0.jpg
+- src: 6062919-unser_-zeltplatz-0.jpg
   title: Unser "Zeltplatz"
-- filename: 6062921-5-12a_-fear_and_loathing-0.jpg
+- src: 6062921-5-12a_-fear_and_loathing-0.jpg
   title: 5.12a "Fear and Loathing"
-  description: 'Sektor: "The Confusion Wall"'
-- filename: 6062920-rest_position-0.jpg
+  params:
+    description: 'Sektor: "The Confusion Wall"'
+- src: 6062920-rest_position-0.jpg
   title: rest position
-- filename: 6062922-aha-0.jpg
+- src: 6062922-aha-0.jpg
   title: Aha.
-- filename: 6062923-der_pool_und_unser_hotel_hilton-0.jpg
+- src: 6062923-der_pool_und_unser_hotel_hilton-0.jpg
   title: Der Pool und unser Hotel Hilton
-- filename: 6062924-betten-0.jpg
+- src: 6062924-betten-0.jpg
   title: Betten!
-- filename: 6062925-und_der_blick_auf_den_-strip-0.jpg
+- src: 6062925-und_der_blick_auf_den_-strip-0.jpg
   title: Und der Blick auf den "Strip"
-- filename: 6062926-sportwetten-0.jpg
+- src: 6062926-sportwetten-0.jpg
   title: Sportwetten
-  description: leider ein schlechtes Bild
-- filename: 6062927-kontrapunkt-0.jpg
+  params:
+    description: leider ein schlechtes Bild
+- src: 6062927-kontrapunkt-0.jpg
   title: Kontrapunkt
-- filename: 6062928-wyll_-_encore_hotel-0.jpg
+- src: 6062928-wyll_-_encore_hotel-0.jpg
   title: Wyll & Encore Hotel
-- filename: 6062931-treasure_island-0.jpg
+- src: 6062931-treasure_island-0.jpg
   title: Treasure Island
-- filename: 6062933-the_venetian-0.jpg
+- src: 6062933-the_venetian-0.jpg
   title: The Venetian
-  description: Mit Rialtobruecke links
-- filename: 6062934-the_mirage-0.jpg
+  params:
+    description: Mit Rialtobruecke links
+- src: 6062934-the_mirage-0.jpg
   title: The Mirage
-- filename: 6062936-deckengemaelde_im_venetian-0.jpg
+- src: 6062936-deckengemaelde_im_venetian-0.jpg
   title: Deckengemaelde im Venetian
-- filename: 6062948-nochmal_das_venetian-0.jpg
+- src: 6062948-nochmal_das_venetian-0.jpg
   title: Nochmal das Venetian
-- filename: 6062949-das_zugehoerige_casino-0.jpg
+- src: 6062949-das_zugehoerige_casino-0.jpg
   title: Das zugehoerige Casino
-- filename: 6062950-ein_kunsthimmel_suggeriert_tageslicht-0.jpg
+- src: 6062950-ein_kunsthimmel_suggeriert_tageslicht-0.jpg
   title: Ein Kunsthimmel suggeriert Tageslicht
-- filename: 6062951-caesars_palace-0.jpg
+- src: 6062951-caesars_palace-0.jpg
   title: Caesars Palace
-- filename: 6062952-der_trevi-brunnen_in_caesars_palace-0.jpg
+- src: 6062952-der_trevi-brunnen_in_caesars_palace-0.jpg
   title: Der Trevi-Brunnen in Caesars Palace
-- filename: 6062953-und_das_zugehoerige_casino-0.jpg
+- src: 6062953-und_das_zugehoerige_casino-0.jpg
   title: und das zugehoerige Casino
-- filename: 6062954-der_-eingang-0.jpg
+- src: 6062954-der_-eingang-0.jpg
   title: Der "Eingang"
-- filename: 6062955-das_bellagio_und_der_brunnen_davor-0.jpg
+- src: 6062955-das_bellagio_und_der_brunnen_davor-0.jpg
   title: Das Bellagio und der Brunnen davor
-- filename: 6062956-stratosphere_tower-0.jpg
+- src: 6062956-stratosphere_tower-0.jpg
   title: Stratosphere Tower
 type: post
 ---

@@ -8,97 +8,113 @@ location:
 - British Columbia
 - Squamish
 original_url: https://www.travelblog.org/north-america/canada/british-columbia/squamish/blog-793834
-images:
-- filename: 7596978-minor-thread--v6-vor-dem-schl-sselzug-0.jpg
+resources:
+- src: 7596978-minor-thread--v6-vor-dem-schl-sselzug-0.jpg
   title: '"Minor Thread", v6, vor dem Schlüsselzug'
-  description: Sechs Tage lang bin ich zu diesem Felsbock gepilgert bis ich die Züge aneinander reihen konnte.
-- filename: 7596979-und-nach-dem-schl-sselzug-0.jpg
+  params:
+    description: Sechs Tage lang bin ich zu diesem Felsbock gepilgert bis ich die Züge aneinander reihen konnte.
+- src: 7596979-und-nach-dem-schl-sselzug-0.jpg
   title: und nach dem Schlüsselzug
-- filename: 7588644-minor-threat-in-der-totalen-0.jpg
+- src: 7588644-minor-threat-in-der-totalen-0.jpg
   title: Minor Threat in der Totalen
-  description: Das Bild hat Alex, ein Kumpel von Nils aufgenommen und zusammengeschnitten.
-- filename: 7596963-squamish-ahead-0.jpg
+  params:
+    description: Das Bild hat Alex, ein Kumpel von Nils aufgenommen und zusammengeschnitten.
+- src: 7596963-squamish-ahead-0.jpg
   title: Squamish ahead!
-- filename: 7596964-frieder-in-der-gibb-s-cave-0.jpg
+- src: 7596964-frieder-in-der-gibb-s-cave-0.jpg
   title: Frieder in der Gibb's Cave
-  description: v11
-- filename: 7596965-peter-in-v9-0.jpg
+  params:
+    description: v11
+- src: 7596965-peter-in-v9-0.jpg
   title: Peter in v9
-  description: Ein wahnsinniger langer Zug im Dach auf einen Crimp
-- filename: 7596966-flo-h-ngt-in-ner-v9-wie-in-nasser-sack-0.jpg
+  params:
+    description: Ein wahnsinniger langer Zug im Dach auf einen Crimp
+- src: 7596966-flo-h-ngt-in-ner-v9-wie-in-nasser-sack-0.jpg
   title: Flo hängt in ner v9 wie in nasser Sack
-- filename: 7596967-canadian-forest-i-0.jpg
+- src: 7596967-canadian-forest-i-0.jpg
   title: Canadian forest I
-- filename: 7596968-die-neuen-evolv-shaman-dr-cken-auf-meine-werten-zehen-0.jpg
+- src: 7596968-die-neuen-evolv-shaman-dr-cken-auf-meine-werten-zehen-0.jpg
   title: die neuen Evolv Shaman drücken auf meine werten Zehen
-- filename: 7596969-canadian-forest-ii-0.jpg
+- src: 7596969-canadian-forest-ii-0.jpg
   title: Canadian forest II
-- filename: 7596970-frieder-in-seinem-zuhause-0.jpg
+- src: 7596970-frieder-in-seinem-zuhause-0.jpg
   title: Frieder in seinem Zuhause
-  description: Daunenjacke + 2x Crashpad
-- filename: 7596971-peter-jackson-0.jpg
+  params:
+    description: Daunenjacke + 2x Crashpad
+- src: 7596971-peter-jackson-0.jpg
   title: Peter Jackson
-- filename: 7596972-flo-in-superfly-v4-0.jpg
+- src: 7596972-flo-in-superfly-v4-0.jpg
   title: Flo in Superfly, v4
-  description: hart
-- filename: 7596973-bitstreamen-im-zephyr-cafe-0.jpg
+  params:
+    description: hart
+- src: 7596973-bitstreamen-im-zephyr-cafe-0.jpg
   title: Bitstreamen im Zephyr Cafe
-  description: Bitstreamen = Internet Access in unserem Road Trip Slang
-- filename: 7596974-boot-im-howe-sound-0.jpg
+  params:
+    description: Bitstreamen = Internet Access in unserem Road Trip Slang
+- src: 7596974-boot-im-howe-sound-0.jpg
   title: Boot im Howe Sound
-  description: Die Meeresbucht vor Squamish
-- filename: 7596975-piet-in-seinem-v8-projekt-0.jpg
+  params:
+    description: Die Meeresbucht vor Squamish
+- src: 7596975-piet-in-seinem-v8-projekt-0.jpg
   title: Piet in seinem v8 Projekt
-- filename: 7596977-mit-roundhouse-kick-finish-0.jpg
+- src: 7596977-mit-roundhouse-kick-finish-0.jpg
   title: mit Roundhouse-Kick finish
-- filename: 7596976-erstbegehung-daneben-0.jpg
+- src: 7596976-erstbegehung-daneben-0.jpg
   title: Erstbegehung daneben
-  description: v1?
-- filename: 7596980-unser-zuhause-f-r-drei-wochen-0.jpg
+  params:
+    description: v1?
+- src: 7596980-unser-zuhause-f-r-drei-wochen-0.jpg
   title: unser Zuhause für drei Wochen
-- filename: 7596981-die-jungs-am-morgen-0.jpg
+- src: 7596981-die-jungs-am-morgen-0.jpg
   title: die Jungs am Morgen
-- filename: 7596982-bear-eating-berries-0.jpg
+- src: 7596982-bear-eating-berries-0.jpg
   title: bear eating berries
-- filename: 7596983-frieder-checkt-den-boulderf-hrer-0.jpg
+- src: 7596983-frieder-checkt-den-boulderf-hrer-0.jpg
   title: Frieder checkt den Boulderführer
-- filename: 7596984-zack-0.jpg
+- src: 7596984-zack-0.jpg
   title: zack
-- filename: 7596985-kaffee-jeden-morgen-0.jpg
+- src: 7596985-kaffee-jeden-morgen-0.jpg
   title: Kaffee jeden Morgen
-  description: nur Frieder trinkt Tee. Der Freak :)
-- filename: 7596986-pb-j-0.jpg
+  params:
+    description: nur Frieder trinkt Tee. Der Freak :)
+- src: 7596986-pb-j-0.jpg
   title: PB&J
-  description: Peanut Butter and Jell (Erdnussbutter und Marmelade auf ungetoastetem Toastbrot), unser Standardsnack
-- filename: 7596991-frieder-in-v5-1.jpg
+  params:
+    description: Peanut Butter and Jell (Erdnussbutter und Marmelade auf ungetoastetem Toastbrot), unser Standardsnack
+- src: 7596991-frieder-in-v5-1.jpg
   title: Frieder in v5
-  description: North Wall Boulders
-- filename: 7596992-ich-dehne-mich-weng-0.jpg
+  params:
+    description: North Wall Boulders
+- src: 7596992-ich-dehne-mich-weng-0.jpg
   title: ich dehne mich weng
-- filename: 7596993-north-wall-forest-0.jpg
+- src: 7596993-north-wall-forest-0.jpg
   title: North Wall forest
-  description: noch viel wilder als der bei den anderen Bouldern am Campground
-- filename: 7596994-piet-putzt-seinen-neuen-boulder-0.jpg
+  params:
+    description: noch viel wilder als der bei den anderen Bouldern am Campground
+- src: 7596994-piet-putzt-seinen-neuen-boulder-0.jpg
   title: Piet putzt seinen neuen Boulder
-  description: Erstbegehung ausstehend, da der Fels dauernd nass war
-- filename: 7596995-canadian-forest-again-0.jpg
+  params:
+    description: Erstbegehung ausstehend, da der Fels dauernd nass war
+- src: 7596995-canadian-forest-again-0.jpg
   title: Canadian forest again
-- filename: 7596997-hike-auf-den-chief-0.jpg
+- src: 7596997-hike-auf-den-chief-0.jpg
   title: Hike auf den Chief
-- filename: 7596996-squamish-downtown-vom-chief-0.jpg
+- src: 7596996-squamish-downtown-vom-chief-0.jpg
   title: Squamish downtown vom Chief
-- filename: 7596999-und-wieder-runter-0.jpg
+- src: 7596999-und-wieder-runter-0.jpg
   title: und wieder runter
-- filename: 7597001-unser-zeltplatz-mit-tarp-0.jpg
+- src: 7597001-unser-zeltplatz-mit-tarp-0.jpg
   title: unser Zeltplatz mit Tarp
-  description: die letzten Tage hats einfach zu viel geregnet
-- filename: 7597002-orientierung-in-downtown-whistler-0.jpg
+  params:
+    description: die letzten Tage hats einfach zu viel geregnet
+- src: 7597002-orientierung-in-downtown-whistler-0.jpg
   title: Orientierung in Downtown Whistler
-- filename: 7597003-downtown-whistler-0.jpg
+- src: 7597003-downtown-whistler-0.jpg
   title: Downtown Whistler
-- filename: 7597004-peak-to-peak-gondola-0.jpg
+- src: 7597004-peak-to-peak-gondola-0.jpg
   title: Peak to Peak Gondola
-  description: Die längste freihängende Gondel der Welt, verbindet Whistler Mountain und Blackcomb Mountain
+  params:
+    description: Die längste freihängende Gondel der Welt, verbindet Whistler Mountain und Blackcomb Mountain
 type: post
 ---
 

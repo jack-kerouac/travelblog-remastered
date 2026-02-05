@@ -9,101 +9,109 @@ location:
 - Yosemite National Park
 - Yosemite Valley
 original_url: https://www.travelblog.org/north-america/united-states/california/yosemite-national-park/yosemite-valley/blog-787323
-images:
-- filename: 7555972-yosemite-valley-0.jpg
+resources:
+- src: 7555972-yosemite-valley-0.jpg
   title: Yosemite Valley
-- filename: 7555978-nach-einer-vierseill-ngen-tour-0.jpg
+- src: 7555978-nach-einer-vierseill-ngen-tour-0.jpg
   title: nach einer Vierseillängen-Tour
-  description: an Five Open Books
-- filename: 7555963-vom-glacier-point-richtung-half-dome-0.jpg
+  params:
+    description: an Five Open Books
+- src: 7555963-vom-glacier-point-richtung-half-dome-0.jpg
   title: vom Glacier Point Richtung Half Dome
-- filename: 7555979-hoch-zum-glacier-point-0.jpg
+- src: 7555979-hoch-zum-glacier-point-0.jpg
   title: hoch zum Glacier Point
-- filename: 7555980-overhanging-rock-0.jpg
+- src: 7555980-overhanging-rock-0.jpg
   title: Overhanging Rock
-- filename: 7555981-marc-und-ich-0.jpg
+- src: 7555981-marc-und-ich-0.jpg
   title: Marc und ich
-- filename: 7555982-liberty-cap-und-nevada-falls-0.jpg
+- src: 7555982-liberty-cap-und-nevada-falls-0.jpg
   title: Liberty Cap und Nevada Falls
-- filename: 7555964-outer-space-am-cookie-cliff-0.jpg
+- src: 7555964-outer-space-am-cookie-cliff-0.jpg
   title: Outer Space am Cookie Cliff
-- filename: 7555965-yosemite-falls-0.jpg
+- src: 7555965-yosemite-falls-0.jpg
   title: Yosemite Falls
-- filename: 7555966-bouldern-in-the-wood-yard-0.jpg
+- src: 7555966-bouldern-in-the-wood-yard-0.jpg
   title: Bouldern in The Wood Yard
-- filename: 7555967-auf-der-siccle-ledge-0.jpg
+- src: 7555967-auf-der-siccle-ledge-0.jpg
   title: auf der Siccle Ledge
-  description: Nach der vierten Seillänge von The Nose
-- filename: 7555976-und-wieder-abw-rts-0.jpg
+  params:
+    description: Nach der vierten Seillänge von The Nose
+- src: 7555976-und-wieder-abw-rts-0.jpg
   title: und wieder abwärts
-  description: mit wehenden Aidern
-- filename: 7555969-chillen-am-merced-river-0.jpg
+  params:
+    description: mit wehenden Aidern
+- src: 7555969-chillen-am-merced-river-0.jpg
   title: Chillen am Merced River
-  description: The Sentinel im Hintergrund
-- filename: 7555970-camp-4-0.jpg
+  params:
+    description: The Sentinel im Hintergrund
+- src: 7555970-camp-4-0.jpg
   title: Camp 4
-- filename: 7555973-und-direkt-ums-camp-4-boulder--berall-0.jpg
+- src: 7555973-und-direkt-ums-camp-4-boulder--berall-0.jpg
   title: 'und direkt ums Camp 4: Boulder überall'
-- filename: 7555975-der-bekannteste-midnight-lightning-0.jpg
+- src: 7555975-der-bekannteste-midnight-lightning-0.jpg
   title: 'der bekannteste: Midnight Lightning'
-- filename: 7555977-veggie-burger-0.jpg
+- src: 7555977-veggie-burger-0.jpg
   title: Veggie Burger!
-- filename: 7555983-der-el-cap-taucht-aus-den-wolken-auf-0.jpg
+- src: 7555983-der-el-cap-taucht-aus-den-wolken-auf-0.jpg
   title: der El Cap taucht aus den Wolken auf
-- filename: 7555957-snake-dike-die-einfachste-tour-auf-den-half-dome-0.jpg
+- src: 7555957-snake-dike-die-einfachste-tour-auf-den-half-dome-0.jpg
   title: Snake Dike, die einfachste Tour auf den Half Dome
-  description: Das war Seillänge fünf oder so
-- filename: 7555956-quentin-trotzdem-zufrieden-0.jpg
+  params:
+    description: Das war Seillänge fünf oder so
+- src: 7555956-quentin-trotzdem-zufrieden-0.jpg
   title: Quentin, trotzdem zufrieden
-- filename: 7555959-endlose-granitplatten-nach-der-eigentlichen-tour-0.jpg
+- src: 7555959-endlose-granitplatten-nach-der-eigentlichen-tour-0.jpg
   title: endlose Granitplatten nach der eigentlichen Tour
-- filename: 7555960-und-runter-gehts--ber-die-cable-auf-der-r-ckseite-0.jpg
+- src: 7555960-und-runter-gehts--ber-die-cable-auf-der-r-ckseite-0.jpg
   title: und runter gehts über die Cable auf der Rückseite
-- filename: 7555961-auf-dem-langen-weg-abw-rts-0.jpg
+- src: 7555961-auf-dem-langen-weg-abw-rts-0.jpg
   title: auf dem langen Weg abwärts
-- filename: 7555962-vernal-falls-0.jpg
+- src: 7555962-vernal-falls-0.jpg
   title: Vernal Falls
-- filename: 7555984-the-lemon-0.jpg
+- src: 7555984-the-lemon-0.jpg
   title: The Lemon
-  description: 5.9 Lieback, Trad
-- filename: 7555985-nach-dem-gro-en-regen-0.jpg
+  params:
+    description: 5.9 Lieback, Trad
+- src: 7555985-nach-dem-gro-en-regen-0.jpg
   title: nach dem großen Regen
-- filename: 7555986-fl-sse-durchs-zelt-0.jpg
+- src: 7555986-fl-sse-durchs-zelt-0.jpg
   title: Flüsse durchs Zelt
-- filename: 7555987-und-str-me-durchs-camp-4-0.jpg
+- src: 7555987-und-str-me-durchs-camp-4-0.jpg
   title: und Ströme durchs Camp 4
-- filename: 7555988-unsere-plane-wird-unser-freund-0.jpg
+- src: 7555988-unsere-plane-wird-unser-freund-0.jpg
   title: unsere Plane wird unser Freund
-- filename: 7555989-die-endlose-schlange-jeden-morgen-vor-dem-camp-0.jpg
+- src: 7555989-die-endlose-schlange-jeden-morgen-vor-dem-camp-0.jpg
   title: die endlose Schlange jeden Morgen vor dem Camp
-- filename: 7555990-ranger-piet-0.jpg
+- src: 7555990-ranger-piet-0.jpg
   title: Ranger Piet
-- filename: 7555991-chaos-im-auto-0.jpg
+- src: 7555991-chaos-im-auto-0.jpg
   title: Chaos im Auto
-- filename: 7555992-manure-pile-buttress-0.jpg
+- src: 7555992-manure-pile-buttress-0.jpg
   title: Manure Pile Buttress
-  description: '"Nutcracker", 5.8'
-- filename: 7555993-und-oben-0.jpg
+  params:
+    description: '"Nutcracker", 5.8'
+- src: 7555993-und-oben-0.jpg
   title: und oben
-- filename: 7555994-das-verdiente-bad-im-kalten-merced-river-danach-0.jpg
+- src: 7555994-das-verdiente-bad-im-kalten-merced-river-danach-0.jpg
   title: das verdiente Bad im kalten Merced River danach
-- filename: 7555996-piet-am-einstieg-der-salathe-wall-0.jpg
+- src: 7555996-piet-am-einstieg-der-salathe-wall-0.jpg
   title: Piet am Einstieg der Salathe Wall
-- filename: 7555997-it-s-a-long-way-to-the-top-0.jpg
+- src: 7555997-it-s-a-long-way-to-the-top-0.jpg
   title: it's a long way to the top
-- filename: 7555998-selbstgebauter-anker-am-manure-pile-buttress-0.jpg
+- src: 7555998-selbstgebauter-anker-am-manure-pile-buttress-0.jpg
   title: Selbstgebauter Anker am Manure Pile Buttress
-- filename: 7555999-letzte-seill-nge-wahnsinns-tour-0.jpg
+- src: 7555999-letzte-seill-nge-wahnsinns-tour-0.jpg
   title: letzte Seillänge, wahnsinns Tour
-- filename: 7556000-und-schon-wieder-oben-0.jpg
+- src: 7556000-und-schon-wieder-oben-0.jpg
   title: und schon wieder oben :)
-- filename: 7556001-bohnanza-unser-kartenspiel-0.jpg
+- src: 7556001-bohnanza-unser-kartenspiel-0.jpg
   title: Bohnanza, unser Kartenspiel
-- filename: 7556002-yosemite-falls-und-torpedo-beer-0.jpg
+- src: 7556002-yosemite-falls-und-torpedo-beer-0.jpg
   title: Yosemite Falls und Torpedo Beer
-- filename: 7556003-nochmal-der-el-cap-0.jpg
+- src: 7556003-nochmal-der-el-cap-0.jpg
   title: nochmal der El Cap
-  description: von der letzten Seillänge von "Central Pillar of Frenzy", am Cathedral Rock gegenüber
+  params:
+    description: von der letzten Seillänge von "Central Pillar of Frenzy", am Cathedral Rock gegenüber
 type: post
 ---
 

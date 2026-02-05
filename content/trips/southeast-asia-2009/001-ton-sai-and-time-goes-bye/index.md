@@ -8,13 +8,15 @@ location:
 - South-West Thailand
 - Railay
 original_url: https://www.travelblog.org/asia/thailand/south-west-thailand/railay/blog-395334
-images:
-- filename: 3766903-where-it-s-so-white-as-snow-0.jpg
+resources:
+- src: 3766903-where-it-s-so-white-as-snow-0.jpg
   title: Where it's so white as snow...
-  description: RHCP
-- filename: 3766902-deep-water-soloing-0.jpg
+  params:
+    description: RHCP
+- src: 3766902-deep-water-soloing-0.jpg
   title: Deep Water Soloing
-  description: Jump!
+  params:
+    description: Jump!
 type: post
 ---
 

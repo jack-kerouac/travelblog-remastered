@@ -7,89 +7,110 @@ location:
 - Vietnam
 - Mekong River Delta
 original_url: https://www.travelblog.org/asia/vietnam/mekong-river-delta/blog-86372
-images:
-- filename: 540288-eine-stadt-am-im-fluss-0.jpg
+resources:
+- src: 540288-eine-stadt-am-im-fluss-0.jpg
   title: Eine Stadt am/im Fluss
-  description: Das Mekong-Delta, dichtbesiedelter Agrarraum Vietnams.
-- filename: 540289-traumhafte-landschaften-entlang-des-ufers-0.jpg
+  params:
+    description: Das Mekong-Delta, dichtbesiedelter Agrarraum Vietnams.
+- src: 540289-traumhafte-landschaften-entlang-des-ufers-0.jpg
   title: traumhafte Landschaften entlang des Ufers
-  description: traumhafte Landschaften entlang des Ufers
-- filename: 540291-was-man-auf-mopeds-noch-so-alles-transportieren-kann-0.jpg
+  params:
+    description: traumhafte Landschaften entlang des Ufers
+- src: 540291-was-man-auf-mopeds-noch-so-alles-transportieren-kann-0.jpg
   title: was man auf Mopeds noch so alles transportieren kann
-  description: was man auf Mopeds noch so alles transportieren kann
-- filename: 540293-lisa-und-sam-0.jpg
+  params:
+    description: was man auf Mopeds noch so alles transportieren kann
+- src: 540293-lisa-und-sam-0.jpg
   title: Lisa und Sam
-  description: Moechtegern-Vietnamesinnen :)
-- filename: 540295-alles-leben-spielt-sich-hier-auf-dem-fluss-ab-0.jpg
+  params:
+    description: Moechtegern-Vietnamesinnen :)
+- src: 540295-alles-leben-spielt-sich-hier-auf-dem-fluss-ab-0.jpg
   title: alles Leben spielt sich hier auf dem Fluss ab
-  description: alles Leben spielt sich hier auf dem Fluss ab Kids koennen schon von klein auf schwimmen
-- filename: 540296-kokos-kaugummi-0.jpg
+  params:
+    description: alles Leben spielt sich hier auf dem Fluss ab Kids koennen schon von klein auf schwimmen
+- src: 540296-kokos-kaugummi-0.jpg
   title: Kokos-Kaugummi
-  description: klebt wie Patex...
-- filename: 540298-die-reis-popkorn-maschine-0.jpg
+  params:
+    description: klebt wie Patex...
+- src: 540298-die-reis-popkorn-maschine-0.jpg
   title: die Reis-Popkorn-Maschine
-  description: im Prinzip nur heisser, schwarzer Sand
-- filename: 540300-spartanisches-leben-am-mekong-0.jpg
+  params:
+    description: im Prinzip nur heisser, schwarzer Sand
+- src: 540300-spartanisches-leben-am-mekong-0.jpg
   title: spartanisches Leben am Mekong
-  description: spartanisches Leben am Mekong
-- filename: 540303-mittagessen-auf-einer-mekong-insel-0.jpg
+  params:
+    description: spartanisches Leben am Mekong
+- src: 540303-mittagessen-auf-einer-mekong-insel-0.jpg
   title: Mittagessen auf einer Mekong-Insel
-  description: Mittagessen auf einer Mekong-Insel Sam, ein franzoesisches Paerchen, ich und Lisa
-- filename: 540305-chilling-in-a-hamock-0.jpg
+  params:
+    description: Mittagessen auf einer Mekong-Insel Sam, ein franzoesisches Paerchen, ich und Lisa
+- src: 540305-chilling-in-a-hamock-0.jpg
   title: chilling in a hamock
-- filename: 540307-manche-transportschiffe-sind-dem-untergang-wirklich-nahe-0.jpg
+- src: 540307-manche-transportschiffe-sind-dem-untergang-wirklich-nahe-0.jpg
   title: manche Transportschiffe sind dem Untergang wirklich nahe...
-  description: hier bedeutet "Schiff" alles was irgendwie schwimmt...
-- filename: 540310-tropische-wolkenformationen-0.jpg
+  params:
+    description: hier bedeutet "Schiff" alles was irgendwie schwimmt...
+- src: 540310-tropische-wolkenformationen-0.jpg
   title: tropische Wolkenformationen
-  description: tropische Wolkenformationen
-- filename: 540312-lisa-und-ich-0.jpg
+  params:
+    description: tropische Wolkenformationen
+- src: 540312-lisa-und-ich-0.jpg
   title: Lisa und ich
-  description: mit Bart und Sturmfrisur :)
-- filename: 540314-ananashandel-auf-dem-floating-market-0.jpg
+  params:
+    description: mit Bart und Sturmfrisur :)
+- src: 540314-ananashandel-auf-dem-floating-market-0.jpg
   title: Ananashandel auf dem Floating Market
-  description: Ananashandel auf dem Floating Market
-- filename: 540316-hand-rowed-boat-0.jpg
+  params:
+    description: Ananashandel auf dem Floating Market
+- src: 540316-hand-rowed-boat-0.jpg
   title: hand-rowed boat
-- filename: 540317-deep-in-the-jungle-0.jpg
+- src: 540317-deep-in-the-jungle-0.jpg
   title: deep in the jungle
-- filename: 540319-kokosnuesse-bananen-und-die-leckersten-ananas-ever-0.jpg
+- src: 540319-kokosnuesse-bananen-und-die-leckersten-ananas-ever-0.jpg
   title: Kokosnuesse, Bananen und die leckersten Ananas ever
-- filename: 540322-das-hier-auch-ordentlich-geparkt-wird-0.jpg
+- src: 540322-das-hier-auch-ordentlich-geparkt-wird-0.jpg
   title: das hier auch ordentlich geparkt wird!
-  description: das hier auch ordentlich geparkt wird!
-- filename: 540324-lebende-froesche-auf-dem-fischmarkt-0.jpg
+  params:
+    description: das hier auch ordentlich geparkt wird!
+- src: 540324-lebende-froesche-auf-dem-fischmarkt-0.jpg
   title: lebende Froesche auf dem Fischmarkt
-  description: lebende Froesche auf dem Fischmarkt
-- filename: 540327-ein-dumpling-0.jpg
+  params:
+    description: lebende Froesche auf dem Fischmarkt
+- src: 540327-ein-dumpling-0.jpg
   title: ein Dumpling
-  description: Dampfnudel, mit Fleisch-Eier-Fuellung. Sehr lecker
-- filename: 540329-pagode-in-chau-doc-0.jpg
+  params:
+    description: Dampfnudel, mit Fleisch-Eier-Fuellung. Sehr lecker
+- src: 540329-pagode-in-chau-doc-0.jpg
   title: Pagode in Chau Doc
-- filename: 540330-die-propanfrucht-0.jpg
+- src: 540330-die-propanfrucht-0.jpg
   title: Die Propanfrucht
-- filename: 540334-sie-wollte-mich-partout-nicht-rudern-lassen-0.jpg
+- src: 540334-sie-wollte-mich-partout-nicht-rudern-lassen-0.jpg
   title: sie wollte mich partout nicht rudern lassen
-  description: sie wollte mich partout nicht rudern lassen
-- filename: 540336-floating-village--leben-auf-dem-mekong-0.jpg
+  params:
+    description: sie wollte mich partout nicht rudern lassen
+- src: 540336-floating-village--leben-auf-dem-mekong-0.jpg
   title: Floating Village - Leben auf dem Mekong
-  description: Floating Village - Leben auf dem Mekong
-- filename: 540338-independence-day-in-vietnam-0.jpg
+  params:
+    description: Floating Village - Leben auf dem Mekong
+- src: 540338-independence-day-in-vietnam-0.jpg
   title: Independence Day in Vietnam
-  description: Independence Day in Vietnam
-- filename: 540340-drei-vietnamesen-versuchen-ihr-boot-flott-zu-machen-0.jpg
+  params:
+    description: Independence Day in Vietnam
+- src: 540340-drei-vietnamesen-versuchen-ihr-boot-flott-zu-machen-0.jpg
   title: drei Vietnamesen versuchen ihr Boot flott zu machen
-- filename: 540343-die-kambodschanische-grenze--sehr-unspektakulaer-0.jpg
+- src: 540343-die-kambodschanische-grenze--sehr-unspektakulaer-0.jpg
   title: die kambodschanische Grenze - sehr unspektakulaer
-  description: die kambodschanische Grenze - sehr unspektakulaer
-- filename: 540344-wasserbueffel-am-ufer-0.jpg
+  params:
+    description: die kambodschanische Grenze - sehr unspektakulaer
+- src: 540344-wasserbueffel-am-ufer-0.jpg
   title: Wasserbueffel am Ufer
-- filename: 540346-die-erste-kambodschanische-siedlung-0.jpg
+- src: 540346-die-erste-kambodschanische-siedlung-0.jpg
   title: die erste kambodschanische Siedlung
-  description: die erste kambodschanische Siedlung
-- filename: 540347-tempel-mitten-im-nirgendwo-0.jpg
+  params:
+    description: die erste kambodschanische Siedlung
+- src: 540347-tempel-mitten-im-nirgendwo-0.jpg
   title: Tempel mitten im Nirgendwo
-- filename: 540349-cambodia-i-m-coming-0.jpg
+- src: 540349-cambodia-i-m-coming-0.jpg
   title: Cambodia, I'm coming
 type: post
 ---

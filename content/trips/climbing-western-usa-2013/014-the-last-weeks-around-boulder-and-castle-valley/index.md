@@ -8,43 +8,44 @@ location:
 - Colorado
 - Boulder
 original_url: https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-812217
-images:
-- filename: 7756181-castleton-tower-0.jpg
+resources:
+- src: 7756181-castleton-tower-0.jpg
   title: Castleton Tower
-- filename: 7756177-titelbild-f-r-unsere-autoanzeige-0.jpg
+- src: 7756177-titelbild-f-r-unsere-autoanzeige-0.jpg
   title: Titelbild für unsere Autoanzeige
-- filename: 7756183-verkauft-0.jpg
+- src: 7756183-verkauft-0.jpg
   title: verkauft!
-- filename: 7756178-ersatz-der-mietwagen-0.jpg
+- src: 7756178-ersatz-der-mietwagen-0.jpg
   title: 'Ersatz: der Mietwagen'
-- filename: 7756184-auf-dem-weg-nach-rifle-0.jpg
+- src: 7756184-auf-dem-weg-nach-rifle-0.jpg
   title: auf dem Weg nach Rifle
-  description: Herbst am Vail Pass
-- filename: 7756179-raureif-morgens-ins-rifle-0.jpg
+  params:
+    description: Herbst am Vail Pass
+- src: 7756179-raureif-morgens-ins-rifle-0.jpg
   title: Raureif morgens ins Rifle
-- filename: 7756182-das-wunderbare-castle-valley-0.jpg
+- src: 7756182-das-wunderbare-castle-valley-0.jpg
   title: das wunderbare Castle Valley
-- filename: 7756186-atv-action-0.jpg
+- src: 7756186-atv-action-0.jpg
   title: ATV action
-- filename: 7756187-peter-0.jpg
+- src: 7756187-peter-0.jpg
   title: Peter
-- filename: 7756188-tunnel-rock-0.jpg
+- src: 7756188-tunnel-rock-0.jpg
   title: Tunnel Rock
-- filename: 7756190-zustieg-zum-castleton-tower-0.jpg
+- src: 7756190-zustieg-zum-castleton-tower-0.jpg
   title: Zustieg zum Castleton Tower
-- filename: 7756191-pitch-2-kor-ingalls-route-0.jpg
+- src: 7756191-pitch-2-kor-ingalls-route-0.jpg
   title: Pitch 2, Kor-Ingalls-Route
-- filename: 7756192-auf-einem-absatz-nach-der-dritten-seillaenge-0.jpg
+- src: 7756192-auf-einem-absatz-nach-der-dritten-seillaenge-0.jpg
   title: Auf einem Absatz nach der dritten Seillaenge
-- filename: 7756194-peter-kurz-vor-dem-gipfel-0.jpg
+- src: 7756194-peter-kurz-vor-dem-gipfel-0.jpg
   title: Peter kurz vor dem Gipfel
-- filename: 7756196-on-top-0.jpg
+- src: 7756196-on-top-0.jpg
   title: on top!
-- filename: 7756195-gear-sortieren-0.jpg
+- src: 7756195-gear-sortieren-0.jpg
   title: Gear sortieren
-- filename: 7756197-und-wieder-runter-0.jpg
+- src: 7756197-und-wieder-runter-0.jpg
   title: und wieder runter
-- filename: 7756199-letztes-mal-morgens-drau-en-aufwachen-0.jpg
+- src: 7756199-letztes-mal-morgens-drau-en-aufwachen-0.jpg
   title: letztes Mal morgens draußen aufwachen
 type: post
 ---

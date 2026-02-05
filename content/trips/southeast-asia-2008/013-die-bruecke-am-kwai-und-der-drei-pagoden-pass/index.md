@@ -8,70 +8,89 @@ location:
 - Western Thailand
 - Sangkhlaburi
 original_url: https://www.travelblog.org/asia/thailand/western-thailand/sangkhlaburi/blog-303533
-images:
-- filename: 2615250-die-bruecke-am-kwai-0.jpg
+resources:
+- src: 2615250-die-bruecke-am-kwai-0.jpg
   title: Die Bruecke am Kwai
-- filename: 2615251-rumhaengen-im-nachtzug-0.jpg
+- src: 2615251-rumhaengen-im-nachtzug-0.jpg
   title: Rumhaengen im Nachtzug
-  description: oder ausserhalb des Nachtzugs :)
-- filename: 2615252-die-grenze-zu-burma-0.jpg
+  params:
+    description: oder ausserhalb des Nachtzugs :)
+- src: 2615252-die-grenze-zu-burma-0.jpg
   title: Die Grenze zu Burma
-  description: geschlossen
-- filename: 2615253-ziegenkopfsuelze-0.jpg
+  params:
+    description: geschlossen
+- src: 2615253-ziegenkopfsuelze-0.jpg
   title: Ziegenkopfsuelze :)
-- filename: 2615255-john-der-schottische-dachdecker-0.jpg
+- src: 2615255-john-der-schottische-dachdecker-0.jpg
   title: John, der schottische Dachdecker
-  description: John, der schottische Dachdecker Und ein Polizist im Nighttrain
-- filename: 2615256-schwimmende-haeuser-auf-dem-kwai-1.jpg
+  params:
+    description: John, der schottische Dachdecker Und ein Polizist im Nighttrain
+- src: 2615256-schwimmende-haeuser-auf-dem-kwai-1.jpg
   title: schwimmende Haeuser auf dem Kwai
-  description: schwimmende Haeuser auf dem Kwai manche Restaurants haben einen eigenen Antrieb und schippern, sobald genuegend Gaeste da sind den Fluss entlang
-- filename: 2615257-ich-hoffe-die-thais-meinen-das-nicht-ernst-0.jpg
+  params:
+    description: schwimmende Haeuser auf dem Kwai manche Restaurants haben einen eigenen Antrieb und schippern, sobald genuegend Gaeste da sind den Fluss entlang
+- src: 2615257-ich-hoffe-die-thais-meinen-das-nicht-ernst-0.jpg
   title: Ich hoffe, die Thais meinen das nicht ernst... :)
-  description: Ich hoffe, die Thais meinen das nicht ernst... :)
-- filename: 2615259-war-cemetery-0.jpg
+  params:
+    description: Ich hoffe, die Thais meinen das nicht ernst... :)
+- src: 2615259-war-cemetery-0.jpg
   title: War Cemetery
-  description: hier sind die Opfer des "Death Railway" begraben
-- filename: 2615260-24-jahre-alt-0.jpg
+  params:
+    description: hier sind die Opfer des "Death Railway" begraben
+- src: 2615260-24-jahre-alt-0.jpg
   title: 24 Jahre alt
-  description: die Japaner sehen Kriegsgefangene als unwuerdig an, da sie nicht bis zum Tode gekaempft haben, was in Japan im Zweiten Weltkrieg das Kriegerethos war. Dementsprechend wurden die Gefangenen behandelt.
-- filename: 2615261-die-bruecke-am-kwai-die-zweite-0.jpg
+  params:
+    description: die Japaner sehen Kriegsgefangene als unwuerdig an, da sie nicht bis zum Tode gekaempft haben, was in Japan im Zweiten Weltkrieg das Kriegerethos war. Dementsprechend wurden die Gefangenen behandelt.
+- src: 2615261-die-bruecke-am-kwai-die-zweite-0.jpg
   title: Die Bruecke am Kwai, die zweite
-  description: Die Bruecke am Kwai, die zweite
-- filename: 2615263-das-bedeutet-wohl-0.jpg
+  params:
+    description: Die Bruecke am Kwai, die zweite
+- src: 2615263-das-bedeutet-wohl-0.jpg
   title: das bedeutet wohl...
-  description: Air Condition / Warm Shower / Pool Home, sweet home.
-- filename: 2615266-busfahren-in-suedostasien-0.jpg
+  params:
+    description: Air Condition / Warm Shower / Pool Home, sweet home.
+- src: 2615266-busfahren-in-suedostasien-0.jpg
   title: Busfahren in Suedostasien
-  description: immer wieder ein Erlebnis
-- filename: 2615267-three-pagoda-pass-0.jpg
+  params:
+    description: immer wieder ein Erlebnis
+- src: 2615267-three-pagoda-pass-0.jpg
   title: Three-Pagoda-Pass
-  description: daneben Standen die Hilfskonvois vor drei Monaten
-- filename: 2615268-das-ist-die-grenze-zu-burma-0.jpg
+  params:
+    description: daneben Standen die Hilfskonvois vor drei Monaten
+- src: 2615268-das-ist-die-grenze-zu-burma-0.jpg
   title: Das ist die Grenze zu Burma :)
-  description: Das ist die Grenze zu Burma :) kein Spass!
-- filename: 2615269-deal-0.jpg
+  params:
+    description: Das ist die Grenze zu Burma :) kein Spass!
+- src: 2615269-deal-0.jpg
   title: Deal?
-  description: Hiermit beginnt eine Aera der deutsch-birmesischen Zusammenarbeit. :))
-- filename: 2615272-regen-im-anmarsch-0.jpg
+  params:
+    description: Hiermit beginnt eine Aera der deutsch-birmesischen Zusammenarbeit. :))
+- src: 2615272-regen-im-anmarsch-0.jpg
   title: Regen im Anmarsch
-- filename: 2615274-schwimmende-haeuser-bei-sangkhlaburi-1.jpg
+- src: 2615274-schwimmende-haeuser-bei-sangkhlaburi-1.jpg
   title: schwimmende Haeuser bei Sangkhlaburi
-  description: schwimmende Haeuser bei Sangkhlaburi im Hintergrund die Holzbruecke
-- filename: 2615276-begruendeterweise-0.jpg
+  params:
+    description: schwimmende Haeuser bei Sangkhlaburi im Hintergrund die Holzbruecke
+- src: 2615276-begruendeterweise-0.jpg
   title: begruendeterweise...
-  description: '...duerfen keine Motorcycles oder anderes schweres Gefaehrt auf die Bruecke'
-- filename: 2615278-tempel-indischer-abstammung-0.jpg
+  params:
+    description: '...duerfen keine Motorcycles oder anderes schweres Gefaehrt auf die Bruecke'
+- src: 2615278-tempel-indischer-abstammung-0.jpg
   title: Tempel, indischer Abstammung
-  description: Tempel, indischer Abstammung
-- filename: 2615280-blick-vom-trommelturm-bei-monsunregen-0.jpg
+  params:
+    description: Tempel, indischer Abstammung
+- src: 2615280-blick-vom-trommelturm-bei-monsunregen-0.jpg
   title: Blick vom Trommelturm bei Monsunregen
-  description: Blick vom Trommelturm bei Monsunregen
-- filename: 2615281-und-gleiche-richtung-ohne-regen-0.jpg
+  params:
+    description: Blick vom Trommelturm bei Monsunregen
+- src: 2615281-und-gleiche-richtung-ohne-regen-0.jpg
   title: und gleiche Richtung, ohne Regen
-  description: und gleiche Richtung, ohne Regen
-- filename: 2615282-litschi-fuer-80-cent-der-beutel-0.jpg
+  params:
+    description: und gleiche Richtung, ohne Regen
+- src: 2615282-litschi-fuer-80-cent-der-beutel-0.jpg
   title: Litschi, fuer 80 Cent der Beutel
-  description: Litschi, fuer 80 Cent der Beutel
+  params:
+    description: Litschi, fuer 80 Cent der Beutel
 type: post
 ---
 

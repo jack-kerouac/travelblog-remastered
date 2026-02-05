@@ -8,50 +8,57 @@ location:
 - Wyoming
 - Yellowstone National Park
 original_url: https://www.travelblog.org/north-america/united-states/wyoming/yellowstone-national-park/blog-796372
-images:
-- filename: 7618075-wilder-b-ffel-im-yellowstone-national-park-0.jpg
+resources:
+- src: 7618075-wilder-b-ffel-im-yellowstone-national-park-0.jpg
   title: Wilder Büffel im Yellowstone National Park
-- filename: 7618069-rehkuh-im-glacier-national-park-0.jpg
+- src: 7618069-rehkuh-im-glacier-national-park-0.jpg
   title: Rehkuh im Glacier National Park
-- filename: 7618070-auf-dem-weg-zu-piegan-s-pass-0.jpg
+- src: 7618070-auf-dem-weg-zu-piegan-s-pass-0.jpg
   title: auf dem Weg zu Piegan's Pass
-  description: GNP
-- filename: 7618071-blick-zur-ck-im-glacier-national-park-0.jpg
+  params:
+    description: GNP
+- src: 7618071-blick-zur-ck-im-glacier-national-park-0.jpg
   title: Blick zurück im Glacier National Park
-- filename: 7618072-wir-bauen-ein-steinmandl-in-den-wolken-0.jpg
+- src: 7618072-wir-bauen-ein-steinmandl-in-den-wolken-0.jpg
   title: wir bauen ein Steinmandl in den Wolken
-  description: big one
-- filename: 7618073-zufallsguter-wildcamping-spot-0.jpg
+  params:
+    description: big one
+- src: 7618073-zufallsguter-wildcamping-spot-0.jpg
   title: Zufallsguter Wildcamping-Spot
-- filename: 7618074-steamer--im-yellowstone-0.jpg
+- src: 7618074-steamer--im-yellowstone-0.jpg
   title: '"Steamer" im Yellowstone'
-- filename: 7618076-norris-basin-0.jpg
+- src: 7618076-norris-basin-0.jpg
   title: Norris Basin
-- filename: 7618077-man-l-uft--ber-holzstege-0.jpg
+- src: 7618077-man-l-uft--ber-holzstege-0.jpg
   title: man läuft über Holzstege
-  description: da man sonst in den porösen Boden einbricht und sich verbrüht/verätzt
-- filename: 7618078-boss-car-0.jpg
+  params:
+    description: da man sonst in den porösen Boden einbricht und sich verbrüht/verätzt
+- src: 7618078-boss-car-0.jpg
   title: Boss car
-- filename: 7618079-hei-e-quelle-0.jpg
+- src: 7618079-hei-e-quelle-0.jpg
   title: heiße Quelle
-  description: die blaue Farbe kommt von Mineralien im Wasser
-- filename: 7618080-fountain-paint-pot-0.jpg
+  params:
+    description: die blaue Farbe kommt von Mineralien im Wasser
+- src: 7618080-fountain-paint-pot-0.jpg
   title: Fountain Paint Pot
-  description: eine heiße Matschquelle
-- filename: 7618081-middle-geyser-basin-0.jpg
+  params:
+    description: eine heiße Matschquelle
+- src: 7618081-middle-geyser-basin-0.jpg
   title: Middle Geyser Basin
-- filename: 7618082-und-wieder-eine-hei-e-quelle-0.jpg
+- src: 7618082-und-wieder-eine-hei-e-quelle-0.jpg
   title: und wieder eine heiße Quelle
-- filename: 7618083-unendlich-viele-andere-besucher-0.jpg
+- src: 7618083-unendlich-viele-andere-besucher-0.jpg
   title: unendlich viele andere Besucher
-- filename: 7618084-piet-an-der-grand-prismatic-spring-0.jpg
+- src: 7618084-piet-an-der-grand-prismatic-spring-0.jpg
   title: Piet an der Grand Prismatic Spring
-- filename: 7618085-grand-prismatic-spring-0.jpg
+- src: 7618085-grand-prismatic-spring-0.jpg
   title: Grand Prismatic Spring
-  description: wahnsinns Farben, von Mineralien und Bakterien
-- filename: 7618086-old-faithful-geyser-0.jpg
+  params:
+    description: wahnsinns Farben, von Mineralien und Bakterien
+- src: 7618086-old-faithful-geyser-0.jpg
   title: Old Faithful Geyser
-  description: seinen Namen verdankt er der Tatsache, dass sich der Zeitpunkt wann er Wasser speit recht genau berechnen lässt.
+  params:
+    description: seinen Namen verdankt er der Tatsache, dass sich der Zeitpunkt wann er Wasser speit recht genau berechnen lässt.
 type: post
 ---
 

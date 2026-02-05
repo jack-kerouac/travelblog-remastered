@@ -8,170 +8,217 @@ location:
 - Surigao
 - Siargao
 original_url: https://www.travelblog.org/asia/philippines/surigao/siargao/blog-309275
-images:
-- filename: 2678029-starfishes-on-naked-island-0.jpg
+resources:
+- src: 2678029-starfishes-on-naked-island-0.jpg
   title: Starfishes on Naked Island
-  description: aus drei Meter Tiefe hochgetaucht.
-- filename: 2678030-boy-0.jpg
+  params:
+    description: aus drei Meter Tiefe hochgetaucht.
+- src: 2678030-boy-0.jpg
   title: Boy
-  description: 19 Jahre alt, supercool und mein persoenlicher Held.
-- filename: 2678031-palmen-palmen-palmen-0.jpg
+  params:
+    description: 19 Jahre alt, supercool und mein persoenlicher Held.
+- src: 2678031-palmen-palmen-palmen-0.jpg
   title: Palmen, Palmen, Palmen
-- filename: 2678032-diese-fische-wuerde-man-daheim-im-aquarium-finden-0.jpg
+- src: 2678032-diese-fische-wuerde-man-daheim-im-aquarium-finden-0.jpg
   title: diese Fische wuerde man daheim im Aquarium finden
-  description: diese Fische wuerde man daheim im Aquarium finden hier landen sie auf dem Teller
-- filename: 2678033-unser-faehre-von-surigao-nach-siargao-island-0.jpg
+  params:
+    description: diese Fische wuerde man daheim im Aquarium finden hier landen sie auf dem Teller
+- src: 2678033-unser-faehre-von-surigao-nach-siargao-island-0.jpg
   title: unser Faehre von Surigao nach Siargao Island
-  description: unser Faehre von Surigao nach Siargao Island eine halbe Stunde spaeter hoffnungslos Ueberladen
-- filename: 2678034-idyllische-fahrt-durch-eine-vielzahl-von-inseln-0.jpg
+  params:
+    description: unser Faehre von Surigao nach Siargao Island eine halbe Stunde spaeter hoffnungslos Ueberladen
+- src: 2678034-idyllische-fahrt-durch-eine-vielzahl-von-inseln-0.jpg
   title: idyllische Fahrt durch eine Vielzahl von Inseln
-  description: idyllische Fahrt durch eine Vielzahl von Inseln
-- filename: 2678035-jonathan-mein-begleiter-0.jpg
+  params:
+    description: idyllische Fahrt durch eine Vielzahl von Inseln
+- src: 2678035-jonathan-mein-begleiter-0.jpg
   title: Jonathan, mein Begleiter
-  description: und Koch :)
-- filename: 2678036-das-fischerboot-von-rodrego-0.jpg
+  params:
+    description: und Koch :)
+- src: 2678036-das-fischerboot-von-rodrego-0.jpg
   title: das Fischerboot von Rodrego
-  description: das Fischerboot von Rodrego
-- filename: 2678037-der-knatternde-zweitakter-uebertoent-alles-0.jpg
+  params:
+    description: das Fischerboot von Rodrego
+- src: 2678037-der-knatternde-zweitakter-uebertoent-alles-0.jpg
   title: der knatternde Zweitakter uebertoent alles
-  description: der knatternde Zweitakter uebertoent alles
-- filename: 2678038-welcome-to-daku-island-0.jpg
+  params:
+    description: der knatternde Zweitakter uebertoent alles
+- src: 2678038-welcome-to-daku-island-0.jpg
   title: Welcome to Daku Island
-- filename: 2678039-mit-wunderbaren-huetten-am-weissen-strand-0.jpg
+- src: 2678039-mit-wunderbaren-huetten-am-weissen-strand-0.jpg
   title: mit wunderbaren Huetten am weissen Strand
-  description: mit wunderbaren Huetten am weissen Strand
-- filename: 2678041-geburtstagsanruf-von-zuhause-0.jpg
+  params:
+    description: mit wunderbaren Huetten am weissen Strand
+- src: 2678041-geburtstagsanruf-von-zuhause-0.jpg
   title: Geburtstagsanruf von Zuhause
-  description: Geburtstagsanruf von Zuhause
-- filename: 2678042-und-das-geburtstagsessen-1.jpg
+  params:
+    description: Geburtstagsanruf von Zuhause
+- src: 2678042-und-das-geburtstagsessen-1.jpg
   title: und das Geburtstagsessen
-  description: Fisch, von Rodrego ausgenommen
-- filename: 2678043-und-fertig-gebraten-0.jpg
+  params:
+    description: Fisch, von Rodrego ausgenommen
+- src: 2678043-und-fertig-gebraten-0.jpg
   title: und fertig gebraten
-- filename: 2678044-essen-in-der-strandhuette-0.jpg
+- src: 2678044-essen-in-der-strandhuette-0.jpg
   title: Essen in der Strandhuette
-  description: leider war das Wetter an diesem Tag recht regnerisch
-- filename: 2678045-abends-einige-runden-billard-0.jpg
+  params:
+    description: leider war das Wetter an diesem Tag recht regnerisch
+- src: 2678045-abends-einige-runden-billard-0.jpg
   title: Abends, einige Runden Billard
-  description: Abends, einige Runden Billard Jojo und Boy spielen eindeutig besser Billard...
-- filename: 2678046-zu-besuch-in-der-high-school-in-gl-0.jpg
+  params:
+    description: Abends, einige Runden Billard Jojo und Boy spielen eindeutig besser Billard...
+- src: 2678046-zu-besuch-in-der-high-school-in-gl-0.jpg
   title: zu Besuch in der High School in GL
-  description: zu Besuch in der High School in GL am Abschlusstag des Nutrition Month. Die Kinder haben von daheim mitgebrachte Fruechte auf einem Stand aufgebaut und verkauft.
-- filename: 2678048-ein-mobile-classroom-fuer-den-pc-unterricht-0.jpg
+  params:
+    description: zu Besuch in der High School in GL am Abschlusstag des Nutrition Month. Die Kinder haben von daheim mitgebrachte Fruechte auf einem Stand aufgebaut und verkauft.
+- src: 2678048-ein-mobile-classroom-fuer-den-pc-unterricht-0.jpg
   title: ein mobile classroom fuer den PC-Unterricht
-  description: ein mobile classroom fuer den PC-Unterricht ausgestattet mit Laptops auf der hoehe der Zeit und Beamer
-- filename: 2678049-ein-weiteres-nahrungsmittel-hier-0.jpg
+  params:
+    description: ein mobile classroom fuer den PC-Unterricht ausgestattet mit Laptops auf der hoehe der Zeit und Beamer
+- src: 2678049-ein-weiteres-nahrungsmittel-hier-0.jpg
   title: ein weiteres Nahrungsmittel hier
-  description: 'ein weiteres Nahrungsmittel hier chicken, bzw. hier zu sehen: einer der vielen angebundenen Haehne. Sie sind sehr aggressiv und wuerden aufeinander losgehen'
-- filename: 2678050-und-allgegenwaertig-horden-von-kindern-0.jpg
+  params:
+    description: 'ein weiteres Nahrungsmittel hier chicken, bzw. hier zu sehen: einer der vielen angebundenen Haehne. Sie sind sehr aggressiv und wuerden aufeinander losgehen'
+- src: 2678050-und-allgegenwaertig-horden-von-kindern-0.jpg
   title: 'und allgegenwaertig: Horden von Kindern'
-  description: 'und allgegenwaertig: Horden von Kindern'
-- filename: 2678051--0.jpg
+  params:
+    description: 'und allgegenwaertig: Horden von Kindern'
+- src: 2678051--0.jpg
   title: :)
-- filename: 2678071-ein-lebender-krake-0.jpg
+- src: 2678071-ein-lebender-krake-0.jpg
   title: ein lebender Krake
-- filename: 2678073-ein-typischer-fang-vom-outer-reef-0.jpg
+- src: 2678073-ein-typischer-fang-vom-outer-reef-0.jpg
   title: ein typischer Fang vom Outer Reef
-  description: ein typischer Fang vom Outer Reef
-- filename: 2678074-wird-hier-auf-dem-fischmarkt-in-gl-verkauft-0.jpg
+  params:
+    description: ein typischer Fang vom Outer Reef
+- src: 2678074-wird-hier-auf-dem-fischmarkt-in-gl-verkauft-0.jpg
   title: wird hier auf dem Fischmarkt in GL verkauft
-  description: wird hier auf dem Fischmarkt in GL verkauft
-- filename: 2678090-ein-ueberbleibsel-der-piraten-0.jpg
+  params:
+    description: wird hier auf dem Fischmarkt in GL verkauft
+- src: 2678090-ein-ueberbleibsel-der-piraten-0.jpg
   title: ein Ueberbleibsel der Piraten
-  description: ein Ueberbleibsel der Piraten auf einer kleinen Insel bei Janosa Island
-- filename: 2678091-jojo-und-ich-am-pebble-beach-0.jpg
+  params:
+    description: ein Ueberbleibsel der Piraten auf einer kleinen Insel bei Janosa Island
+- src: 2678091-jojo-und-ich-am-pebble-beach-0.jpg
   title: Jojo und ich am Pebble Beach
-  description: Jojo und ich am Pebble Beach
-- filename: 2678092-volksport-nummer-eins-basketball-0.jpg
+  params:
+    description: Jojo und ich am Pebble Beach
+- src: 2678092-volksport-nummer-eins-basketball-0.jpg
   title: 'Volksport Nummer eins: Basketball'
-  description: 'Volksport Nummer eins: Basketball Ich war der erste Foreigner, der ein Spiel mit ihnen in Daku gespielt hat. Ich habe mich etwas blamiert. Mein letztes Basketballspiel ist 6 Jahre her.'
-- filename: 2678093-ich-vor-guyam-0.jpg
+  params:
+    description: 'Volksport Nummer eins: Basketball Ich war der erste Foreigner, der ein Spiel mit ihnen in Daku gespielt hat. Ich habe mich etwas blamiert. Mein letztes Basketballspiel ist 6 Jahre her.'
+- src: 2678093-ich-vor-guyam-0.jpg
   title: Ich vor Guyam
-  description: Ich vor Guyam
-- filename: 2678094-und-nochmal-in-grossaufnahme-0.jpg
+  params:
+    description: Ich vor Guyam
+- src: 2678094-und-nochmal-in-grossaufnahme-0.jpg
   title: und nochmal in Grossaufnahme
-  description: und nochmal in Grossaufnahme in vier Minuten laeuft man einmal aussenrum
-- filename: 2678095-ueber-nacht-auf-guyam-0.jpg
+  params:
+    description: und nochmal in Grossaufnahme in vier Minuten laeuft man einmal aussenrum
+- src: 2678095-ueber-nacht-auf-guyam-0.jpg
   title: ueber Nacht auf Guyam
-  description: 'und zum Essen: immer wieder Fisch'
-- filename: 2678096-und-hier-ein-frischer-octopus-0.jpg
+  params:
+    description: 'und zum Essen: immer wieder Fisch'
+- src: 2678096-und-hier-ein-frischer-octopus-0.jpg
   title: und hier ein frischer Octopus
-  description: und hier ein frischer Octopus am Spiess auf dem Lagerfeuer.
-- filename: 2678097-die-straende-hier-werde-ich-nie-vergessen-0.jpg
+  params:
+    description: und hier ein frischer Octopus am Spiess auf dem Lagerfeuer.
+- src: 2678097-die-straende-hier-werde-ich-nie-vergessen-0.jpg
   title: die Straende hier werde ich nie vergessen...
-  description: die Straende hier werde ich nie vergessen...
-- filename: 2678098-anker-ueber-bord-0.jpg
+  params:
+    description: die Straende hier werde ich nie vergessen...
+- src: 2678098-anker-ueber-bord-0.jpg
   title: Anker ueber Bord!
-- filename: 2678099-die-kids-schwimmen-rund-um-unser-boot-0.jpg
+- src: 2678099-die-kids-schwimmen-rund-um-unser-boot-0.jpg
   title: die Kids schwimmen rund um unser Boot
-  description: die Kids schwimmen rund um unser Boot und warten auf ein "Hello" von mir :)
-- filename: 2678100-ein-fischer-mit-seinem-fang-auf-dem-kopf-0.jpg
+  params:
+    description: die Kids schwimmen rund um unser Boot und warten auf ein "Hello" von mir :)
+- src: 2678100-ein-fischer-mit-seinem-fang-auf-dem-kopf-0.jpg
   title: Ein Fischer mit seinem Fang auf dem Kopf
-  description: Ein Fischer mit seinem Fang auf dem Kopf
-- filename: 2678102-wir-am-strand-0.jpg
+  params:
+    description: Ein Fischer mit seinem Fang auf dem Kopf
+- src: 2678102-wir-am-strand-0.jpg
   title: wir am Strand
-  description: 'wir am Strand vrnl.: ich, Jojo, Jelia und Boy. Die anderen kannte ich nicht'
-- filename: 2678103-der-strand-von-janosa-island-0.jpg
+  params:
+    description: 'wir am Strand vrnl.: ich, Jojo, Jelia und Boy. Die anderen kannte ich nicht'
+- src: 2678103-der-strand-von-janosa-island-0.jpg
   title: der Strand von Janosa Island
-  description: der Strand von Janosa Island
-- filename: 2678104-das-wunderbare-blau-des-meeres-0.jpg
+  params:
+    description: der Strand von Janosa Island
+- src: 2678104-das-wunderbare-blau-des-meeres-0.jpg
   title: das wunderbare Blau des Meeres
-  description: das wunderbare Blau des Meeres
-- filename: 2678105-auf-dem-weg-von-gl-zu-cloud-9-0.jpg
+  params:
+    description: das wunderbare Blau des Meeres
+- src: 2678105-auf-dem-weg-von-gl-zu-cloud-9-0.jpg
   title: auf dem Weg von GL zu Cloud 9,
-  description: auf dem Weg von GL zu Cloud 9,
-- filename: 2678106-einer-der-besten-orte-der-welt-zum-surfen-0.jpg
+  params:
+    description: auf dem Weg von GL zu Cloud 9,
+- src: 2678106-einer-der-besten-orte-der-welt-zum-surfen-0.jpg
   title: einer der besten Orte der Welt zum Surfen
-  description: einer der besten Orte der Welt zum Surfen Saison ist im Oktober, November und Dezember
-- filename: 2678108-boy-kann-surfen-0.jpg
+  params:
+    description: einer der besten Orte der Welt zum Surfen Saison ist im Oktober, November und Dezember
+- src: 2678108-boy-kann-surfen-0.jpg
   title: Boy kann surfen
-- filename: 2678119-jojo-mit-einem-seestern-0.jpg
+- src: 2678119-jojo-mit-einem-seestern-0.jpg
   title: Jojo mit einem Seestern
-- filename: 2678147-mein-erster-selbstgefangener-fisch-0.jpg
+- src: 2678147-mein-erster-selbstgefangener-fisch-0.jpg
   title: mein erster selbstgefangener Fisch
-  description: mein erster selbstgefangener Fisch
-- filename: 2678148-ein-fish-cage-auf-dem-boot-0.jpg
+  params:
+    description: mein erster selbstgefangener Fisch
+- src: 2678148-ein-fish-cage-auf-dem-boot-0.jpg
   title: ein fish cage auf dem Boot
-- filename: 2678160-mango-nudeln-fisch-hummer-0.jpg
+- src: 2678160-mango-nudeln-fisch-hummer-0.jpg
   title: Mango, Nudeln, Fisch, Hummer...
-  description: Mango, Nudeln, Fisch, Hummer... ...und der allgegenwaertige Reis
-- filename: 2678162-suesser-reis-fisch-eine-spezielle-krabbenart-0.jpg
+  params:
+    description: Mango, Nudeln, Fisch, Hummer... ...und der allgegenwaertige Reis
+- src: 2678162-suesser-reis-fisch-eine-spezielle-krabbenart-0.jpg
   title: suesser Reis, Fisch, eine spezielle Krabbenart
-  description: suesser Reis, Fisch, eine spezielle Krabbenart Reis, und deutscher Leberkaes von Pater Castro :)
-- filename: 2678165-suessen-reis-0.jpg
+  params:
+    description: suesser Reis, Fisch, eine spezielle Krabbenart Reis, und deutscher Leberkaes von Pater Castro :)
+- src: 2678165-suessen-reis-0.jpg
   title: suessen Reis
-  description: gibt es auch in dieser Darreichungsform, mit Bananenblaettern umwickelt
-- filename: 2678167-hahnenkampf-0.jpg
+  params:
+    description: gibt es auch in dieser Darreichungsform, mit Bananenblaettern umwickelt
+- src: 2678167-hahnenkampf-0.jpg
   title: Hahnenkampf
-- filename: 2678168-die-kids-hier-sind-ziemlich-fit-0.jpg
+- src: 2678168-die-kids-hier-sind-ziemlich-fit-0.jpg
   title: die Kids hier sind ziemlich fit
-  description: die Kids hier sind ziemlich fit
-- filename: 2678169-doch-auch-die-muessen-arbeiten-0.jpg
+  params:
+    description: die Kids hier sind ziemlich fit
+- src: 2678169-doch-auch-die-muessen-arbeiten-0.jpg
   title: doch auch die muessen arbeiten
-  description: doch auch die muessen arbeiten hier zerschlaegt ein Junge Krabenhaeuser um das Fleisch als Koeder zu benutzen
-- filename: 2678170-magpopongko-beach-0.jpg
+  params:
+    description: doch auch die muessen arbeiten hier zerschlaegt ein Junge Krabenhaeuser um das Fleisch als Koeder zu benutzen
+- src: 2678170-magpopongko-beach-0.jpg
   title: Magpopongko Beach
-  description: bei Ebbe. Der Fels im Hintergrund sieht aus wie ein Kopf der aufs Meer schaut
-- filename: 2678171-climbing-the-palm-0.jpg
+  params:
+    description: bei Ebbe. Der Fels im Hintergrund sieht aus wie ein Kopf der aufs Meer schaut
+- src: 2678171-climbing-the-palm-0.jpg
   title: climbing the palm
-  description: das ist etwas anders als rock climbing :)
-- filename: 2678172-die-frischen-kokosnuesse-0.jpg
+  params:
+    description: das ist etwas anders als rock climbing :)
+- src: 2678172-die-frischen-kokosnuesse-0.jpg
   title: die frischen Kokosnuesse...
-  description: die frischen Kokosnuesse... ...werden dann mit einer Machete aufgehackt und das Fruchtwasser getrunken. Danach wird sie gespalten und das Fruchtfleisch kann mit einem Stueck zum Loeffel geformten Schalte herausgeschabt und gegessen werden.
-- filename: 2678173-jelia-und-ich-0.jpg
+  params:
+    description: die frischen Kokosnuesse... ...werden dann mit einer Machete aufgehackt und das Fruchtwasser getrunken. Danach wird sie gespalten und das Fruchtfleisch kann mit einem Stueck zum Loeffel geformten Schalte herausgeschabt und gegessen werden.
+- src: 2678173-jelia-und-ich-0.jpg
   title: Jelia und ich
-  description: Jelia und ich
-- filename: 2678174-jojo-ich-und-boy-0.jpg
+  params:
+    description: Jelia und ich
+- src: 2678174-jojo-ich-und-boy-0.jpg
   title: Jojo, ich und Boy
-- filename: 2678175-unser-waschzimmer-badezimmer-und-teil-der-kueche-0.jpg
+- src: 2678175-unser-waschzimmer-badezimmer-und-teil-der-kueche-0.jpg
   title: unser Waschzimmer, Badezimmer und Teil der Kueche
-  description: unser Waschzimmer, Badezimmer und Teil der Kueche im Elternhaus von Tirso auf GL
-- filename: 2678177-pfannkuchenkochen-am-letzten-abend-0.jpg
+  params:
+    description: unser Waschzimmer, Badezimmer und Teil der Kueche im Elternhaus von Tirso auf GL
+- src: 2678177-pfannkuchenkochen-am-letzten-abend-0.jpg
   title: Pfannkuchenkochen am letzten Abend
-  description: Pfannkuchenkochen am letzten Abend es hat sich schnell herausgestellt, dass die Jungs das mit den hiessigen Kochinstrumenten besser koennen und sie haben mein Pfannkuchenkochen vor dem Scheitern bewahrt :)
-- filename: 2678178-doch-alles-geht-einmal-zu-ende-0.jpg
+  params:
+    description: Pfannkuchenkochen am letzten Abend es hat sich schnell herausgestellt, dass die Jungs das mit den hiessigen Kochinstrumenten besser koennen und sie haben mein Pfannkuchenkochen vor dem Scheitern bewahrt :)
+- src: 2678178-doch-alles-geht-einmal-zu-ende-0.jpg
   title: doch alles geht einmal zu Ende...
-  description: doch alles geht einmal zu Ende... ...und somit auch meine Zeit auf Daku.
+  params:
+    description: doch alles geht einmal zu Ende... ...und somit auch meine Zeit auf Daku.
 type: post
 ---
 

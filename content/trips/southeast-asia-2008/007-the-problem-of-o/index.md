@@ -8,36 +8,45 @@ location:
 - North
 - Muang Sing
 original_url: https://www.travelblog.org/asia/laos/north/muang-sing/blog-295259
-images:
-- filename: 2527168-basi--um-die-hausgeister-gutmuetig-zu-stimmen-0.jpg
+resources:
+- src: 2527168-basi--um-die-hausgeister-gutmuetig-zu-stimmen-0.jpg
   title: Basi - um die Hausgeister gutmuetig zu stimmen
-  description: Basi - um die Hausgeister gutmuetig zu stimmen
-- filename: 2527170-laap-0.jpg
+  params:
+    description: Basi - um die Hausgeister gutmuetig zu stimmen
+- src: 2527170-laap-0.jpg
   title: Laap
-  description: traditionelles Lao-Essen
-- filename: 2527171-die-reisfelder-rund-um-muang-sing-0.jpg
+  params:
+    description: traditionelles Lao-Essen
+- src: 2527171-die-reisfelder-rund-um-muang-sing-0.jpg
   title: Die Reisfelder rund um Muang Sing
-  description: Die Reisfelder rund um Muang Sing
-- filename: 2527172-ziegen-auf-der-strasse-zwischen-luang-nam-tha-und-muang-sing-0.jpg
+  params:
+    description: Die Reisfelder rund um Muang Sing
+- src: 2527172-ziegen-auf-der-strasse-zwischen-luang-nam-tha-und-muang-sing-0.jpg
   title: Ziegen auf der Strasse zwischen Luang Nam Tha und Muang Sing
-  description: hier muss man immer mit beweglichen Hindernissen rechnen
-- filename: 2527174-der-blick-aus-meinem-fenster-0.jpg
+  params:
+    description: hier muss man immer mit beweglichen Hindernissen rechnen
+- src: 2527174-der-blick-aus-meinem-fenster-0.jpg
   title: der Blick aus meinem Fenster...
-  description: der Blick aus meinem Fenster... ...im Adima Guesthouse
-- filename: 2527175-und-hier-der-blick-nach-links-0.jpg
+  params:
+    description: der Blick aus meinem Fenster... ...im Adima Guesthouse
+- src: 2527175-und-hier-der-blick-nach-links-0.jpg
   title: und hier der Blick nach links :)
-  description: und hier der Blick nach links :)
-- filename: 2527179-so-sieht-ein-traditionelles-lao-haus-in-einem-dorf-aus-0.jpg
+  params:
+    description: und hier der Blick nach links :)
+- src: 2527179-so-sieht-ein-traditionelles-lao-haus-in-einem-dorf-aus-0.jpg
   title: so sieht ein traditionelles Lao-Haus in einem Dorf aus
-- filename: 2527182-und-so-geht-man-hier-mit-dem-muellproblem-um-0.jpg
+- src: 2527182-und-so-geht-man-hier-mit-dem-muellproblem-um-0.jpg
   title: und so geht man hier mit dem Muellproblem um
-  description: und so geht man hier mit dem Muellproblem um
-- filename: 2527185-spielende-kids-auf-dem-markt-0.jpg
+  params:
+    description: und so geht man hier mit dem Muellproblem um
+- src: 2527185-spielende-kids-auf-dem-markt-0.jpg
   title: spielende Kids auf dem Markt
-  description: spielende Kids auf dem Markt
-- filename: 2527188-marianne-dani-und-dou-0.jpg
+  params:
+    description: spielende Kids auf dem Markt
+- src: 2527188-marianne-dani-und-dou-0.jpg
   title: Marianne, Dani und Dou
-  description: Marianne und Dou sind Freunde von Dani aus Vientiane
+  params:
+    description: Marianne und Dou sind Freunde von Dani aus Vientiane
 type: post
 ---
 

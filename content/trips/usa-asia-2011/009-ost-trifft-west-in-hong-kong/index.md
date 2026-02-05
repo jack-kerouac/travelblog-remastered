@@ -6,70 +6,78 @@ location:
 - Asia
 - Hong Kong
 original_url: https://www.travelblog.org/asia/hong-kong/blog-611917
-images:
-- filename: 6117750-mit_der_star_ferry_ueber_den_victoria_harbor_nach_hong_kong_island-0.jpg
+resources:
+- src: 6117750-mit_der_star_ferry_ueber_den_victoria_harbor_nach_hong_kong_island-0.jpg
   title: Mit der Star Ferry ueber den Victoria Harbor nach Hong Kong Island
-  description: der Wolkenkratzer ist das International Finance Center Two, 415m, 2003 gebaut.
-- filename: 6117748-typisches_wohnsilo-0.jpg
+  params:
+    description: der Wolkenkratzer ist das International Finance Center Two, 415m, 2003 gebaut.
+- src: 6117748-typisches_wohnsilo-0.jpg
   title: Typisches Wohnsilo...
-  description: '...im am dichtesten besiedelten Gebiet der Erde: Mon Kok, Hong Kong.'
-- filename: 6117740-bauarbeiten_im_hafen-0.jpg
+  params:
+    description: '...im am dichtesten besiedelten Gebiet der Erde: Mon Kok, Hong Kong.'
+- src: 6117740-bauarbeiten_im_hafen-0.jpg
   title: Bauarbeiten im Hafen
-- filename: 6117741-the_mirador_mansions_-_mein_wertes_guesthouse-0.jpg
+- src: 6117741-the_mirador_mansions_-_mein_wertes_guesthouse-0.jpg
   title: The Mirador Mansions - Mein wertes Guesthouse
-  description: Ein altes Apartmenthochhaus, in dem jetzt dubiose Guesthouses, Hotels, Laeden und was weiss ich was noch alles untergebracht sind.
-- filename: 6117742-kowloon_park-0.jpg
+  params:
+    description: Ein altes Apartmenthochhaus, in dem jetzt dubiose Guesthouses, Hotels, Laeden und was weiss ich was noch alles untergebracht sind.
+- src: 6117742-kowloon_park-0.jpg
   title: Kowloon Park
-- filename: 6117743-international_commerce_centre-0.jpg
+- src: 6117743-international_commerce_centre-0.jpg
   title: International Commerce Centre
-  description: 484m hoch, 2010 fertig gestellt
-- filename: 6117744-drachenboot_for_hong_kong_island-0.jpg
+  params:
+    description: 484m hoch, 2010 fertig gestellt
+- src: 6117744-drachenboot_for_hong_kong_island-0.jpg
   title: Drachenboot for Hong Kong Island
-- filename: 6117745-hier_ist_alles_moegliche_verboten-0.jpg
+- src: 6117745-hier_ist_alles_moegliche_verboten-0.jpg
   title: Hier ist alles moegliche verboten.
-- filename: 6117746-gruene_oase-_der_signal_hill-0.jpg
+- src: 6117746-gruene_oase-_der_signal_hill-0.jpg
   title: Gruene Oase, der Signal Hill
-- filename: 6117747-nathan_road-_morgens_m_5-0.jpg
+- src: 6117747-nathan_road-_morgens_m_5-0.jpg
   title: Nathan Road, morgens m 5
-- filename: 6117749-tai_chi_morgens_um_sechs_im_kowoon_park-0.jpg
+- src: 6117749-tai_chi_morgens_um_sechs_im_kowoon_park-0.jpg
   title: Tai Chi morgens um sechs im Kowoon Park
-- filename: 6117751-blick_vom_victoria_peak_auf_die_rueckseite_von_hk_island-0.jpg
+- src: 6117751-blick_vom_victoria_peak_auf_die_rueckseite_von_hk_island-0.jpg
   title: Blick vom Victoria Peak auf die Rueckseite von HK Island
-- filename: 6117752-der_victoria_harbor-0.jpg
+- src: 6117752-der_victoria_harbor-0.jpg
   title: Der Victoria Harbor
-- filename: 6117753-slope_management-0.jpg
+- src: 6117753-slope_management-0.jpg
   title: Slope management
-  description: Sie haben Angst, dass ihnen eines Tages die Berge rundum auf den Kopf rutschen.
-- filename: 6117754-blumenstand_in_einem_markt-0.jpg
+  params:
+    description: Sie haben Angst, dass ihnen eines Tages die Berge rundum auf den Kopf rutschen.
+- src: 6117754-blumenstand_in_einem_markt-0.jpg
   title: Blumenstand in einem Markt
-- filename: 6117755-zwei_metzger_bei_der_arbeit-0.jpg
+- src: 6117755-zwei_metzger_bei_der_arbeit-0.jpg
   title: Zwei Metzger bei der Arbeit
-- filename: 6117756-in_jeder_raeucherspirale_haengt_eine_wunsch-0.jpg
+- src: 6117756-in_jeder_raeucherspirale_haengt_eine_wunsch-0.jpg
   title: In jeder Raeucherspirale haengt eine Wunsch
-  description: die grossen Spiralen brennen zwei bis drei Monate
-- filename: 6117757-mehr_wohnsilos_in_hong_kong-_wan_chai-0.jpg
+  params:
+    description: die grossen Spiralen brennen zwei bis drei Monate
+- src: 6117757-mehr_wohnsilos_in_hong_kong-_wan_chai-0.jpg
   title: mehr Wohnsilos in Hong Kong, Wan Chai
-- filename: 6117758-sonntagsbeschaeftigung-0.jpg
+- src: 6117758-sonntagsbeschaeftigung-0.jpg
   title: Sonntagsbeschaeftigung
-  description: sich mit Kartons ein Haus bauen und dann den ganzen Tag drin sitzen und plappern.
-- filename: 6117759-die_hervorragende_metro-0.jpg
+  params:
+    description: sich mit Kartons ein Haus bauen und dann den ganzen Tag drin sitzen und plappern.
+- src: 6117759-die_hervorragende_metro-0.jpg
   title: Die hervorragende Metro
-  description: bestes oeffentliches Nahverkehrssystem ever.
-- filename: 6117760-shek_oh_beach-0.jpg
+  params:
+    description: bestes oeffentliches Nahverkehrssystem ever.
+- src: 6117760-shek_oh_beach-0.jpg
   title: Shek Oh Beach
-- filename: 6117761-ein_weiteres_mal_mit_der_star_ferry_ueber_die_victoria_bay-0.jpg
+- src: 6117761-ein_weiteres_mal_mit_der_star_ferry_ueber_die_victoria_bay-0.jpg
   title: ein weiteres Mal mit der Star Ferry ueber die Victoria Bay
-- filename: 6117762-wolkenkratzer_in_shenzhen-0.jpg
+- src: 6117762-wolkenkratzer_in_shenzhen-0.jpg
   title: Wolkenkratzer in Shenzhen
-- filename: 6117763-armut_und_reichtum_sind_hier_nur_einige_meter_voneinander_entfernt-0.jpg
+- src: 6117763-armut_und_reichtum_sind_hier_nur_einige_meter_voneinander_entfernt-0.jpg
   title: Armut und Reichtum sind hier nur einige Meter voneinander entfernt
-- filename: 6117764-der_high-tech-park_in_shenzhen-0.jpg
+- src: 6117764-der_high-tech-park_in_shenzhen-0.jpg
   title: der High-Tech-Park in Shenzhen
-- filename: 6117765-mann_mit_zeitung_auf_moped-0.jpg
+- src: 6117765-mann_mit_zeitung_auf_moped-0.jpg
   title: Mann mit Zeitung auf Moped :)
-- filename: 6117766-chips_und_alles_moegliche_im_elektronikmarkt-0.jpg
+- src: 6117766-chips_und_alles_moegliche_im_elektronikmarkt-0.jpg
   title: Chips und alles moegliche im Elektronikmarkt
-- filename: 6117767-nachtzug_nach_guilin-0.jpg
+- src: 6117767-nachtzug_nach_guilin-0.jpg
   title: Nachtzug nach Guilin
 type: post
 ---

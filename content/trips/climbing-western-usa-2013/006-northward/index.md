@@ -8,78 +8,88 @@ location:
 - British Columbia
 - Vancouver
 original_url: https://www.travelblog.org/north-america/canada/british-columbia/vancouver/blog-790806
-images:
-- filename: 7561083-tuolomne-meadows-0.jpg
+resources:
+- src: 7561083-tuolomne-meadows-0.jpg
   title: Tuolomne Meadows
-- filename: 7561070-peter-in-v2-0.jpg
+- src: 7561070-peter-in-v2-0.jpg
   title: Peter in v2
-- filename: 7561071-golden-rastafari-0.jpg
+- src: 7561071-golden-rastafari-0.jpg
   title: '"Golden Rastafari"'
-  description: v3, hart
-- filename: 7561079-und-nochmal-0.jpg
+  params:
+    description: v3, hart
+- src: 7561079-und-nochmal-0.jpg
   title: und nochmal
-- filename: 7561077-der-zustieg-0.jpg
+- src: 7561077-der-zustieg-0.jpg
   title: der Zustieg
-- filename: 7561078-der-fluss-durch-tuolomne-0.jpg
+- src: 7561078-der-fluss-durch-tuolomne-0.jpg
   title: Der Fluss durch Tuolomne
-- filename: 7561081-b-ume-0.jpg
+- src: 7561081-b-ume-0.jpg
   title: Bäume
-- filename: 7561085-frieder-in-thunderbird-0.jpg
+- src: 7561085-frieder-in-thunderbird-0.jpg
   title: Frieder in Thunderbird
-  description: v11, no success
-- filename: 7561087-quentin-steckt-in-seiner--c4-0.jpg
+  params:
+    description: v11, no success
+- src: 7561087-quentin-steckt-in-seiner--c4-0.jpg
   title: Quentin steckt in seiner "C4"
-  description: 'Stimmung: low'
-- filename: 7561088-gro-einsatz-um-den-kerl-da-wieder-rauszubekommen-0.jpg
+  params:
+    description: 'Stimmung: low'
+- src: 7561088-gro-einsatz-um-den-kerl-da-wieder-rauszubekommen-0.jpg
   title: Großeinsatz um den Kerl da wieder rauszubekommen :-)
-- filename: 7561090-wenig-licht--gt-viele-sterne-0.jpg
+- src: 7561090-wenig-licht--gt-viele-sterne-0.jpg
   title: wenig Licht =&gt; viele Sterne
-  description: wenig Licht => viele Sterne
-- filename: 7561075-cathedral-peak-0.jpg
+  params:
+    description: wenig Licht => viele Sterne
+- src: 7561075-cathedral-peak-0.jpg
   title: Cathedral Peak
-  description: was für ein Berg!
-- filename: 7561072-dave-ist-free-solo-voraus-0.jpg
+  params:
+    description: was für ein Berg!
+- src: 7561072-dave-ist-free-solo-voraus-0.jpg
   title: Dave ist Free Solo voraus
-  description: und macht Bilder von uns von oben
-- filename: 7561073-alte-schneefelder-0.jpg
+  params:
+    description: und macht Bilder von uns von oben
+- src: 7561073-alte-schneefelder-0.jpg
   title: alte Schneefelder
-- filename: 7561074-zweieinhalb-seilschaften-on-top-0.jpg
+- src: 7561074-zweieinhalb-seilschaften-on-top-0.jpg
   title: zweieinhalb Seilschaften on top
-  description: 'wir teilen uns die drei Quadrameter auf der Spitze vlnr: Quentin, Frieder, meine Wenigkeit, Peter, Dave'
-- filename: 7561076-tenaya-lake-beach-0.jpg
+  params:
+    description: 'wir teilen uns die drei Quadrameter auf der Spitze vlnr: Quentin, Frieder, meine Wenigkeit, Peter, Dave'
+- src: 7561076-tenaya-lake-beach-0.jpg
   title: Tenaya Lake Beach
-- filename: 7561091-frieder-und-dave-am-hacky-sack-spielen-0.jpg
+- src: 7561091-frieder-und-dave-am-hacky-sack-spielen-0.jpg
   title: Frieder und Dave am Hacky Sack spielen
-- filename: 7561093-gear-sortieren-0.jpg
+- src: 7561093-gear-sortieren-0.jpg
   title: Gear sortieren
-  description: man bewundere den riesen Haufen Kletterschuhe im Vordergrund. Jeder von uns hat ca. vier Paar.
-- filename: 7561095-on-the-road-with-junk-food-0.jpg
+  params:
+    description: man bewundere den riesen Haufen Kletterschuhe im Vordergrund. Jeder von uns hat ca. vier Paar.
+- src: 7561095-on-the-road-with-junk-food-0.jpg
   title: on the road with junk food
-- filename: 7561101-smith-rock-state-park-oregon-0.jpg
+- src: 7561101-smith-rock-state-park-oregon-0.jpg
   title: Smith Rock State Park, Oregon
-- filename: 7561097-frieder-in-5-12a-0.jpg
+- src: 7561097-frieder-in-5-12a-0.jpg
   title: Frieder in 5.12a
-- filename: 7561099-flo-in--toxic-0.jpg
+- src: 7561099-flo-in--toxic-0.jpg
   title: Flo in "Toxic"
-  description: 5.11b
-- filename: 7561102-walmart-gro-einkauf-in-seattle-0.jpg
+  params:
+    description: 5.11b
+- src: 7561102-walmart-gro-einkauf-in-seattle-0.jpg
   title: Walmart Großeinkauf in Seattle
-- filename: 7561104-vancouver-1-0.jpg
+- src: 7561104-vancouver-1-0.jpg
   title: Vancouver 1
-- filename: 7561106-vancouver-2-0.jpg
+- src: 7561106-vancouver-2-0.jpg
   title: Vancouver 2
-- filename: 7561108-vancouver-3-0.jpg
+- src: 7561108-vancouver-3-0.jpg
   title: Vancouver 3
-- filename: 7561109-vancouver-4-0.jpg
+- src: 7561109-vancouver-4-0.jpg
   title: Vancouver 4
-- filename: 7561111-international-ice-cream-factory-0.jpg
+- src: 7561111-international-ice-cream-factory-0.jpg
   title: International Ice Cream Factory
-  description: 218 Sorten, u.a. blue cheese, Wasabi, German chocolate cake
-- filename: 7561112-vancouver-5-0.jpg
+  params:
+    description: 218 Sorten, u.a. blue cheese, Wasabi, German chocolate cake
+- src: 7561112-vancouver-5-0.jpg
   title: Vancouver 5
-- filename: 7561114-university-of-british-columbia-vancouver-0.jpg
+- src: 7561114-university-of-british-columbia-vancouver-0.jpg
   title: University of British Columbia, Vancouver
-- filename: 7561115-blick-auf-downtown-vancouver-und-stanley-park-links-0.jpg
+- src: 7561115-blick-auf-downtown-vancouver-und-stanley-park-links-0.jpg
   title: Blick auf Downtown Vancouver und Stanley Park links
 type: post
 ---

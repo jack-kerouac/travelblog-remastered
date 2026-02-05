@@ -8,74 +8,94 @@ location:
 - North
 - Angkor
 original_url: https://www.travelblog.org/asia/cambodia/north/angkor/blog-87984
-images:
-- filename: 552713-bayon-0.jpg
+resources:
+- src: 552713-bayon-0.jpg
   title: Bayon
-  description: ein kaltes Laecheln, fuer Jahrtausende in Stein gehauen
-- filename: 552717-angkor-wat-0.jpg
+  params:
+    description: ein kaltes Laecheln, fuer Jahrtausende in Stein gehauen
+- src: 552717-angkor-wat-0.jpg
   title: Angkor Wat
-  description: der Blick von der hoechsten Ebene
-- filename: 552722-hey-hey-we-re-the-monkeys-0.jpg
+  params:
+    description: der Blick von der hoechsten Ebene
+- src: 552722-hey-hey-we-re-the-monkeys-0.jpg
   title: hey hey, we're the monkeys
-  description: hey hey, we're the monkeys ueberall Affen. Wie im Dschungelbuch.
-- filename: 552726-flo-kristof-sam-0.jpg
+  params:
+    description: hey hey, we're the monkeys ueberall Affen. Wie im Dschungelbuch.
+- src: 552726-flo-kristof-sam-0.jpg
   title: Flo, Kristof, Sam
-  description: Deutschland, Oesterreich, England
-- filename: 552728-angkor-wat-im-sonnenaufgang-0.jpg
+  params:
+    description: Deutschland, Oesterreich, England
+- src: 552728-angkor-wat-im-sonnenaufgang-0.jpg
   title: Angkor Wat im Sonnenaufgang
-  description: Angkor Wat im Sonnenaufgang
-- filename: 552729-der-blick-zurueck-0.jpg
+  params:
+    description: Angkor Wat im Sonnenaufgang
+- src: 552729-der-blick-zurueck-0.jpg
   title: der Blick zurueck...
-  description: '...und kein Touri weit und breit'
-- filename: 552734-der-aufstieg-0.jpg
+  params:
+    description: '...und kein Touri weit und breit'
+- src: 552734-der-aufstieg-0.jpg
   title: der Aufstieg
-  description: und die Pumpe geht auf 180
-- filename: 552741-ein-toller-ausblick-von-der-spitze-0.jpg
+  params:
+    description: und die Pumpe geht auf 180
+- src: 552741-ein-toller-ausblick-von-der-spitze-0.jpg
   title: ein toller Ausblick von der Spitze
-  description: ein toller Ausblick von der Spitze
-- filename: 552744-reliefs-zeigen-gewaltige-armeen-0.jpg
+  params:
+    description: ein toller Ausblick von der Spitze
+- src: 552744-reliefs-zeigen-gewaltige-armeen-0.jpg
   title: Reliefs zeigen gewaltige Armeen
-  description: Reliefs zeigen gewaltige Armeen
-- filename: 552747-frederica-lucia-und-ich-0.jpg
+  params:
+    description: Reliefs zeigen gewaltige Armeen
+- src: 552747-frederica-lucia-und-ich-0.jpg
   title: Frederica, Lucia und ich
-  description: ziemlich abgekaempft...
-- filename: 552748-bayon-0.jpg
+  params:
+    description: ziemlich abgekaempft...
+- src: 552748-bayon-0.jpg
   title: Bayon
-  description: sieht aus der Entfernung aus wie ein Schutthaufen, tatsaechlich ist es ein Labyrinth aus Gaengen, Stufen und Etagen
-- filename: 552749-angkor-wat-0.jpg
+  params:
+    description: sieht aus der Entfernung aus wie ein Schutthaufen, tatsaechlich ist es ein Labyrinth aus Gaengen, Stufen und Etagen
+- src: 552749-angkor-wat-0.jpg
   title: Angkor Wat
-  description: das Bild kennt man...
-- filename: 552754-buy-a-flute-0.jpg
+  params:
+    description: das Bild kennt man...
+- src: 552754-buy-a-flute-0.jpg
   title: '"Buy a flute?"'
-- filename: 552757-indiana-jones-laesst-gruessen-0.jpg
+- src: 552757-indiana-jones-laesst-gruessen-0.jpg
   title: Indiana Jones laesst gruessen
-  description: Indiana Jones laesst gruessen
-- filename: 552761-zehn-jahre-alt-0.jpg
+  params:
+    description: Indiana Jones laesst gruessen
+- src: 552761-zehn-jahre-alt-0.jpg
   title: Zehn Jahre alt
-  description: und traegt schon zum Familieneinkommen bei. Meisst erfolgreicher als ihre Eltern zusammen.
-- filename: 552764-kristof-und-ich-morgens-um-sechs-0.jpg
+  params:
+    description: und traegt schon zum Familieneinkommen bei. Meisst erfolgreicher als ihre Eltern zusammen.
+- src: 552764-kristof-und-ich-morgens-um-sechs-0.jpg
   title: Kristof und ich, morgens um sechs
-  description: Kristof und ich, morgens um sechs im Halbschlaf
-- filename: 552766-der-hauptturm-im-morgenlicht-0.jpg
+  params:
+    description: Kristof und ich, morgens um sechs im Halbschlaf
+- src: 552766-der-hauptturm-im-morgenlicht-0.jpg
   title: der Hauptturm im Morgenlicht
-  description: der Hauptturm im Morgenlicht 55 m ueber dem Grund
-- filename: 552771-ein-sanftmuetiger-dickhaeuter-0.jpg
+  params:
+    description: der Hauptturm im Morgenlicht 55 m ueber dem Grund
+- src: 552771-ein-sanftmuetiger-dickhaeuter-0.jpg
   title: ein sanftmuetiger Dickhaeuter
-  description: ein sanftmuetiger Dickhaeuter der zu einem Wucherpreis koreanische Touristen rumtraegt
-- filename: 552773-was-will-er-mir-sagen-0.jpg
+  params:
+    description: ein sanftmuetiger Dickhaeuter der zu einem Wucherpreis koreanische Touristen rumtraegt
+- src: 552773-was-will-er-mir-sagen-0.jpg
   title: was will er mir sagen?
-- filename: 552774-lisa-and-me-0.jpg
+- src: 552774-lisa-and-me-0.jpg
   title: Lisa and me
-  description: Lisa and me (Neuseeland)
-- filename: 552776-der-schoene-und-das-biest-0.jpg
+  params:
+    description: Lisa and me (Neuseeland)
+- src: 552776-der-schoene-und-das-biest-0.jpg
   title: Der Schoene und das Biest
-  description: hehe
-- filename: 552779-kinder-futtern-unser-essen-0.jpg
+  params:
+    description: hehe
+- src: 552779-kinder-futtern-unser-essen-0.jpg
   title: Kinder futtern unser Essen
-  description: absolut herzzerreisend
-- filename: 552780-aber-lustig-waren-sie-0.jpg
+  params:
+    description: absolut herzzerreisend
+- src: 552780-aber-lustig-waren-sie-0.jpg
   title: aber lustig waren sie...
-- filename: 552781-whiskey-cola-aus-eimern-0.jpg
+- src: 552781-whiskey-cola-aus-eimern-0.jpg
   title: Whiskey Cola aus Eimern
 type: post
 ---

@@ -8,16 +8,19 @@ location:
 - South-West Thailand
 - Krabi
 original_url: https://www.travelblog.org/asia/thailand/south-west-thailand/krabi/blog-280660
-images:
-- filename: 2367058-the-way-to-ton-sai-0.jpg
+resources:
+- src: 2367058-the-way-to-ton-sai-0.jpg
   title: The way to Ton Sai
-  description: nur mit em Long Boat
-- filename: 2367060-deep-water-solo-0.jpg
+  params:
+    description: nur mit em Long Boat
+- src: 2367060-deep-water-solo-0.jpg
   title: Deep water Solo
-  description: zum ersten und garantiert nicht letzten Mal. Ich hatte selten so viel Spass
-- filename: 2367111-auf-dem-dws-trip-0.jpg
+  params:
+    description: zum ersten und garantiert nicht letzten Mal. Ich hatte selten so viel Spass
+- src: 2367111-auf-dem-dws-trip-0.jpg
   title: auf dem DWS trip
-  description: der Strand...
+  params:
+    description: der Strand...
 type: post
 ---
 

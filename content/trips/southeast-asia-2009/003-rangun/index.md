@@ -8,53 +8,65 @@ location:
 - Yangon Region
 - Yangon
 original_url: https://www.travelblog.org/asia/burma/yangon-region/yangon/blog-402497
-images:
-- filename: 3857324-shwedagon-pagoda-0.jpg
+resources:
+- src: 3857324-shwedagon-pagoda-0.jpg
   title: Shwedagon Pagoda
-  description: Magisch, imposant, unbeschreiblich
-- filename: 3857325-taegliche-szene-auf-ranguns-strassen-0.jpg
+  params:
+    description: Magisch, imposant, unbeschreiblich
+- src: 3857325-taegliche-szene-auf-ranguns-strassen-0.jpg
   title: Taegliche Szene auf Ranguns Strassen
-- filename: 3857327-fortune-teller-0.jpg
+- src: 3857327-fortune-teller-0.jpg
   title: Fortune Teller
-  description: Sie sagte mir natuerlich eine goldene Zukunft voraus. Ich werde bis 2010 heiraten, 2 Kinder haben, soll nach Maedels Ausschau halten, die an einem Donnerstag, keinesfalls allerdings an einem Mittwoch geboren sind, werde die naechsten Jahre Glueck im Job haben, und soll die naechsten Monate auf meine Gesundheit, besonders meinen Magen aufpassen. :)
-- filename: 3857328-der-gegenwert-von-300-dollar-in-kyat-0.jpg
+  params:
+    description: Sie sagte mir natuerlich eine goldene Zukunft voraus. Ich werde bis 2010 heiraten, 2 Kinder haben, soll nach Maedels Ausschau halten, die an einem Donnerstag, keinesfalls allerdings an einem Mittwoch geboren sind, werde die naechsten Jahre Glueck im Job haben, und soll die naechsten Monate auf meine Gesundheit, besonders meinen Magen aufpassen. :)
+- src: 3857328-der-gegenwert-von-300-dollar-in-kyat-0.jpg
   title: Der Gegenwert von 300 Dollar in Kyat
-  description: 1000 Kyat (ca. ein Dollar) ist die groesste Banknote
-- filename: 3857330-eingang-zum-okinawa-guesthouse-0.jpg
+  params:
+    description: 1000 Kyat (ca. ein Dollar) ist die groesste Banknote
+- src: 3857330-eingang-zum-okinawa-guesthouse-0.jpg
   title: Eingang zum Okinawa Guesthouse
-- filename: 3857331-eine-normale-strasse-in-rangun-0.jpg
+- src: 3857331-eine-normale-strasse-in-rangun-0.jpg
   title: Eine normale Strasse in Rangun
-  description: die Haeuser sind gar nicht mal so alt, doch die Farbe wurde zu sehr mit Wasser verduennt...
-- filename: 3857332-reclining-buddha-0.jpg
+  params:
+    description: die Haeuser sind gar nicht mal so alt, doch die Farbe wurde zu sehr mit Wasser verduennt...
+- src: 3857332-reclining-buddha-0.jpg
   title: Reclining Buddha
-  description: Die Glasaugen sehen sehr real aus
-- filename: 3857334-kloster-hinter-dem-reclining-buddha-0.jpg
+  params:
+    description: Die Glasaugen sehen sehr real aus
+- src: 3857334-kloster-hinter-dem-reclining-buddha-0.jpg
   title: Kloster hinter dem Reclining Buddha
-  description: In dessen Umgebung standen 60 Monasteries. Hier hatten die Proteste 2007 ihren Ursprung.
-- filename: 3857336-buddha-und-manu-0.jpg
+  params:
+    description: In dessen Umgebung standen 60 Monasteries. Hier hatten die Proteste 2007 ihren Ursprung.
+- src: 3857336-buddha-und-manu-0.jpg
   title: Buddha und ManU
-  description: Fussball ist hier unglaublich populaer
-- filename: 3857338-ein-herd-0.jpg
+  params:
+    description: Fussball ist hier unglaublich populaer
+- src: 3857338-ein-herd-0.jpg
   title: Ein Herd
-- filename: 3857340-eating-monks-0.jpg
+- src: 3857340-eating-monks-0.jpg
   title: Eating Monks
-  description: Sie essen immer zuerst, die Reste werden dann von anderen gegessen.
-- filename: 3857343-grossmarkt-0.jpg
+  params:
+    description: Sie essen immer zuerst, die Reste werden dann von anderen gegessen.
+- src: 3857343-grossmarkt-0.jpg
   title: Grossmarkt
-  description: wo alles moegliche Organische an andere Maerkte und grosse Restaurants verkauft wird
-- filename: 3857345-cheerful-0.jpg
+  params:
+    description: wo alles moegliche Organische an andere Maerkte und grosse Restaurants verkauft wird
+- src: 3857345-cheerful-0.jpg
   title: Cheerful
-- filename: 3857346-die-weltlichen-vergnuegungen-0.jpg
+- src: 3857346-die-weltlichen-vergnuegungen-0.jpg
   title: die weltlichen Vergnuegungen...
-  description: '...werden auch von den jungen Moenchen nicht abgelehnt'
-- filename: 3857347-bananen-in-huelle-und-fuelle-0.jpg
+  params:
+    description: '...werden auch von den jungen Moenchen nicht abgelehnt'
+- src: 3857347-bananen-in-huelle-und-fuelle-0.jpg
   title: Bananen in Huelle und Fuelle
-  description: gelbe, gruene, rote (rot!), krumme, gerade, dicke, duenne, ...
-- filename: 3857348-shwedagon-pagoda-0.jpg
+  params:
+    description: gelbe, gruene, rote (rot!), krumme, gerade, dicke, duenne, ...
+- src: 3857348-shwedagon-pagoda-0.jpg
   title: Shwedagon Pagoda
-- filename: 3857349-und-noch-eins-0.jpg
+- src: 3857349-und-noch-eins-0.jpg
   title: und noch eins
-  description: bei Daemmerung
+  params:
+    description: bei Daemmerung
 type: post
 ---
 

@@ -8,45 +8,49 @@ location:
 - Central Thailand
 - Bangkok
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-411038
-images:
-- filename: 3956020-der-bus-von-hsipaw-nach-mandalay-0.jpg
+resources:
+- src: 3956020-der-bus-von-hsipaw-nach-mandalay-0.jpg
   title: Der Bus von Hsipaw nach Mandalay
-- filename: 3956022-nettes-aber-penetrantes-maedel-auf-dem-bogyoke-market-in-yangon-1.jpg
+- src: 3956022-nettes-aber-penetrantes-maedel-auf-dem-bogyoke-market-in-yangon-1.jpg
   title: Nettes, aber penetrantes Maedel auf dem Bogyoke Market in Yangon
-- filename: 3956025-maha-bandoola-garden-in-yangon-0.jpg
+- src: 3956025-maha-bandoola-garden-in-yangon-0.jpg
   title: Maha Bandoola Garden in Yangon
-- filename: 3956026-und-noch-eins-aus-dem-maha-bandoola-garden-0.jpg
+- src: 3956026-und-noch-eins-aus-dem-maha-bandoola-garden-0.jpg
   title: Und noch eins aus dem Maha Bandoola Garden
-- filename: 3956027-the-triumphant-elite-of-the-future-0.jpg
+- src: 3956027-the-triumphant-elite-of-the-future-0.jpg
   title: '"The triumphant elite of the future"'
-  description: Propaganda am Eingang zur Militaerakademie in Pyin U Lwin. Fotos von Militaereinrichtungen sind verboten. Deswegen ist das Foto hinter vorgehaltener Hand etwas schief geworden.
-- filename: 3956029-zurueck-in-der-englischklasse-0.jpg
+  params:
+    description: Propaganda am Eingang zur Militaerakademie in Pyin U Lwin. Fotos von Militaereinrichtungen sind verboten. Deswegen ist das Foto hinter vorgehaltener Hand etwas schief geworden.
+- src: 3956029-zurueck-in-der-englischklasse-0.jpg
   title: Zurueck in der Englischklasse
-- filename: 3956030-der-leicht-verrueckte-lehrer-sein-sohn-und-ich-0.jpg
+- src: 3956030-der-leicht-verrueckte-lehrer-sein-sohn-und-ich-0.jpg
   title: Der leicht verrueckte Lehrer, sein Sohn und ich
-- filename: 3956031-letztes-abendessen-in-myanmar-0.jpg
+- src: 3956031-letztes-abendessen-in-myanmar-0.jpg
   title: Letztes Abendessen in Myanmar
-  description: Im Monsoon Restaurant in Yangon. Sehr lecker, aber deutlich teurer als das Essen der letzten Wochen.
-- filename: 3956033-mein-ganzes-gepaeck-und-ich-am-flughafen-0.jpg
+  params:
+    description: Im Monsoon Restaurant in Yangon. Sehr lecker, aber deutlich teurer als das Essen der letzten Wochen.
+- src: 3956033-mein-ganzes-gepaeck-und-ich-am-flughafen-0.jpg
   title: Mein ganzes Gepaeck und ich am Flughafen
-- filename: 3956034-der-flughafen-der-hauptstadt-ist-sehr-ueberschaubar-0.jpg
+- src: 3956034-der-flughafen-der-hauptstadt-ist-sehr-ueberschaubar-0.jpg
   title: Der Flughafen der Hauptstadt ist sehr ueberschaubar.
-- filename: 3956035-zurueck-in-bangkok-auf-dem-siam-square-0.jpg
+- src: 3956035-zurueck-in-bangkok-auf-dem-siam-square-0.jpg
   title: Zurueck in Bangkok, auf dem Siam Square
-- filename: 3956036-nils-und-ich-im-3d-kino-0.jpg
+- src: 3956036-nils-und-ich-im-3d-kino-0.jpg
   title: Nils und ich im 3D-Kino
-- filename: 3956037-erawan-museum-in-bangkok-0.jpg
+- src: 3956037-erawan-museum-in-bangkok-0.jpg
   title: Erawan-Museum in Bangkok
-- filename: 3956059-charlee-0.jpg
+- src: 3956059-charlee-0.jpg
   title: Charlee
-  description: mit seinem crazy Cowboy-Hut
-- filename: 3956060-mosaik-aus-scherben-von-tontoepfen-im-museum-0.jpg
+  params:
+    description: mit seinem crazy Cowboy-Hut
+- src: 3956060-mosaik-aus-scherben-von-tontoepfen-im-museum-0.jpg
   title: Mosaik aus Scherben von Tontoepfen im Museum
-- filename: 3956061-pad-thai-auf-der-khao-san-road-0.jpg
+- src: 3956061-pad-thai-auf-der-khao-san-road-0.jpg
   title: Pad Thai auf der Khao San Road
-- filename: 3956062-marina-und-ich-0.jpg
+- src: 3956062-marina-und-ich-0.jpg
   title: Marina und ich
-  description: Mein letzter Tuk-Tuk ride
+  params:
+    description: Mein letzter Tuk-Tuk ride
 type: post
 ---
 

@@ -8,62 +8,71 @@ location:
 - Mandalay Region
 - Bagan
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/bagan/blog-405131
-images:
-- filename: 3889604-pagodas-of-bagan-0.jpg
+resources:
+- src: 3889604-pagodas-of-bagan-0.jpg
   title: Pagodas of Bagan
-- filename: 3938810-ein-gang-in-einer-pagode-0.jpg
+- src: 3938810-ein-gang-in-einer-pagode-0.jpg
   title: Ein Gang in einer Pagode
-- filename: 3938812-ein-traditionelles-spinnrad-0.jpg
+- src: 3938812-ein-traditionelles-spinnrad-0.jpg
   title: Ein traditionelles Spinnrad
-  description: allerdings in aktiver Benutzung
-- filename: 3938814-blick-von-der-dachterasse-unseres-guesthouses-0.jpg
+  params:
+    description: allerdings in aktiver Benutzung
+- src: 3938814-blick-von-der-dachterasse-unseres-guesthouses-0.jpg
   title: Blick von der Dachterasse unseres Guesthouses
-  description: Das "Eden Motel"
-- filename: 3938815-ein-klassischer-birmesischer-teashop-0.jpg
+  params:
+    description: Das "Eden Motel"
+- src: 3938815-ein-klassischer-birmesischer-teashop-0.jpg
   title: ein klassischer birmesischer Teashop
-- filename: 3938834-hier-wird-das-getrocknete-palmoel-gerieben-0.jpg
+- src: 3938834-hier-wird-das-getrocknete-palmoel-gerieben-0.jpg
   title: Hier wird das getrocknete Palmoel gerieben
-- filename: 3938836-die-landschaft-0.jpg
+- src: 3938836-die-landschaft-0.jpg
   title: Die Landschaft...
-  description: '...hier sieht aus wie in einer Oase in der Wueste. Sehr sandiger Boden, trocken und ueberall Palmen.'
-- filename: 3938837-mount-popa-0.jpg
+  params:
+    description: '...hier sieht aus wie in einer Oase in der Wueste. Sehr sandiger Boden, trocken und ueberall Palmen.'
+- src: 3938837-mount-popa-0.jpg
   title: Mount Popa
-  description: Unser Tagesausflug am Nachmittag, nachdem wir uns am morgen von der aufreibenden Busfahrt erholt haben. Ein Kloster auf einem Felsen, der mitten in der Landschaft aufragt.
-- filename: 3938840-und-der-fluch-von-mount-popa-0.jpg
+  params:
+    description: Unser Tagesausflug am Nachmittag, nachdem wir uns am morgen von der aufreibenden Busfahrt erholt haben. Ein Kloster auf einem Felsen, der mitten in der Landschaft aufragt.
+- src: 3938840-und-der-fluch-von-mount-popa-0.jpg
   title: 'und der Fluch von Mount Popa:'
-  description: ueberall Affen
-- filename: 3938841-mehr-affen-0.jpg
+  params:
+    description: ueberall Affen
+- src: 3938841-mehr-affen-0.jpg
   title: mehr Affen
-- filename: 3938847-dafuer-ein-wunderbarer-ausblick-0.jpg
+- src: 3938847-dafuer-ein-wunderbarer-ausblick-0.jpg
   title: dafuer ein wunderbarer Ausblick
-- filename: 3938853-ausblick-0.jpg
+- src: 3938853-ausblick-0.jpg
   title: Ausblick
-- filename: 3938856-und-mehr-ausblick-mit-tollem-himmel-0.jpg
+- src: 3938856-und-mehr-ausblick-mit-tollem-himmel-0.jpg
   title: und mehr Ausblick, mit tollem Himmel :)
-- filename: 3938858-pagoden-ueber-pagoden-0.jpg
+- src: 3938858-pagoden-ueber-pagoden-0.jpg
   title: Pagoden ueber Pagoden
-- filename: 3938862-mehr-pagoden-0.jpg
+- src: 3938862-mehr-pagoden-0.jpg
   title: mehr Pagoden
-- filename: 3938863-wir-schiessen-steine-auf-pagoden-0.jpg
+- src: 3938863-wir-schiessen-steine-auf-pagoden-0.jpg
   title: wir schiessen Steine auf Pagoden
-- filename: 3938865-und-noch-mehr-pagoden-0.jpg
+- src: 3938865-und-noch-mehr-pagoden-0.jpg
   title: und noch mehr Pagoden
-- filename: 3938868-und-immer-unterwegs-mit-dem-pferdewagen-0.jpg
+- src: 3938868-und-immer-unterwegs-mit-dem-pferdewagen-0.jpg
   title: und immer unterwegs mit dem Pferdewagen
-- filename: 3938870-eine-der-groessten-pagoden-0.jpg
+- src: 3938870-eine-der-groessten-pagoden-0.jpg
   title: eine der groessten Pagoden
-  description: doch leider langweilig, man konnte nicht hochklettern
-- filename: 3938885-und-noch-viel-mehr-pagoden-0.jpg
+  params:
+    description: doch leider langweilig, man konnte nicht hochklettern
+- src: 3938885-und-noch-viel-mehr-pagoden-0.jpg
   title: und noch viel mehr Pagoden
-  description: diesmal bei Sonnenuntergang
-- filename: 3938896-auf-einer-einsamen-pagode-bei-sonnenuntergang-0.jpg
+  params:
+    description: diesmal bei Sonnenuntergang
+- src: 3938896-auf-einer-einsamen-pagode-bei-sonnenuntergang-0.jpg
   title: auf einer einsamen Pagode bei Sonnenuntergang
-- filename: 3938911-naja-fast-0.jpg
+- src: 3938911-naja-fast-0.jpg
   title: naja, fast...
-  description: Einsam bis auf den netten Menschen, der - oh Wunder! - "Painter" ist und mir seine "Paintings" verkaufen will.
-- filename: 3938912-busfahrt-nach-mandalay-0.jpg
+  params:
+    description: Einsam bis auf den netten Menschen, der - oh Wunder! - "Painter" ist und mir seine "Paintings" verkaufen will.
+- src: 3938912-busfahrt-nach-mandalay-0.jpg
   title: Busfahrt nach Mandalay
-  description: Sie bauen die Strasse fuer uns :)
+  params:
+    description: Sie bauen die Strasse fuer uns :)
 type: post
 ---
 

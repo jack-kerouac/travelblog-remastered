@@ -8,34 +8,41 @@ location:
 - North
 - Muang Ngoi Neua
 original_url: https://www.travelblog.org/asia/laos/north/muang-ngoi-neua/blog-298255
-images:
-- filename: 2557381-die-landschaft-auf-dem-weg-zu-einer-hoehle-1.jpg
+resources:
+- src: 2557381-die-landschaft-auf-dem-weg-zu-einer-hoehle-1.jpg
   title: die Landschaft auf dem Weg zu einer Hoehle
-  description: die Landschaft auf dem Weg zu einer Hoehle
-- filename: 2557383-erst-einmal-eine-dusche-nach-ankunft-am-wasserfall-0.jpg
+  params:
+    description: die Landschaft auf dem Weg zu einer Hoehle
+- src: 2557383-erst-einmal-eine-dusche-nach-ankunft-am-wasserfall-0.jpg
   title: erst einmal eine Dusche, nach Ankunft am Wasserfall
-- filename: 2557384-alltaegliches-bild-1.jpg
+- src: 2557384-alltaegliches-bild-1.jpg
   title: alltaegliches Bild
-- filename: 2557386-der-eingang-der-hoehle-0.jpg
+- src: 2557386-der-eingang-der-hoehle-0.jpg
   title: der Eingang der Hoehle
-- filename: 2557388-auf-dem-weg-zum-wasserfall-0.jpg
+- src: 2557388-auf-dem-weg-zum-wasserfall-0.jpg
   title: auf dem Weg zum Wasserfall
-  description: keine Ahnung, warum unser Bootsfuehrer so verzweifelt ausschaut :)
-- filename: 2557393-unser-guide-vor-der-ersten-stufe-des-wasserfalls-0.jpg
+  params:
+    description: keine Ahnung, warum unser Bootsfuehrer so verzweifelt ausschaut :)
+- src: 2557393-unser-guide-vor-der-ersten-stufe-des-wasserfalls-0.jpg
   title: unser Guide vor der ersten Stufe des Wasserfalls
-  description: unser Guide vor der ersten Stufe des Wasserfalls ohne den Jungen haetten wir den Weg nie gefunden
-- filename: 2557396-nochmal-ein-wenig-wasserfallstimmung-0.jpg
+  params:
+    description: unser Guide vor der ersten Stufe des Wasserfalls ohne den Jungen haetten wir den Weg nie gefunden
+- src: 2557396-nochmal-ein-wenig-wasserfallstimmung-0.jpg
   title: nochmal ein wenig Wasserfallstimmung :)
-  description: nochmal ein wenig Wasserfallstimmung :)
-- filename: 2557398-mit-blauem-himmel-0.jpg
+  params:
+    description: nochmal ein wenig Wasserfallstimmung :)
+- src: 2557398-mit-blauem-himmel-0.jpg
   title: mit blauem Himmel...
-  description: '... schaut die Landschaft gleich noch viel schoener aus'
-- filename: 2557400-vollkommen-ueberfuelltes-boot-0.jpg
+  params:
+    description: '... schaut die Landschaft gleich noch viel schoener aus'
+- src: 2557400-vollkommen-ueberfuelltes-boot-0.jpg
   title: vollkommen ueberfuelltes Boot
-  description: vollkommen ueberfuelltes Boot zurueck nach Nong Khiaw. Ich kann mir nicht vorstellen, dass das erlaubt war. Wobei es bei nur 50 geschriebenen Gesetzen wohl auch nicht verboten war :)
-- filename: 2557402-mein-fruehstuec-in-luang-prabang-0.jpg
+  params:
+    description: vollkommen ueberfuelltes Boot zurueck nach Nong Khiaw. Ich kann mir nicht vorstellen, dass das erlaubt war. Wobei es bei nur 50 geschriebenen Gesetzen wohl auch nicht verboten war :)
+- src: 2557402-mein-fruehstuec-in-luang-prabang-0.jpg
   title: mein Fruehstuec in Luang Prabang
-  description: mein Fruehstuec in Luang Prabang
+  params:
+    description: mein Fruehstuec in Luang Prabang
 type: post
 ---
 

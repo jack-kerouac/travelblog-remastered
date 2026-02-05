@@ -8,74 +8,89 @@ location:
 - Mandalay Region
 - Mandalay
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/mandalay/blog-409381
-images:
-- filename: 3943686-fuenf-junge-novizen-0.jpg
+resources:
+- src: 3943686-fuenf-junge-novizen-0.jpg
   title: Fuenf junge Novizen
-  description: in der Pagode auf dem Gipfel in Sagaing, suedlich von Mandalay
-- filename: 3943687-teak-bruecke-in-amarapura-0.jpg
+  params:
+    description: in der Pagode auf dem Gipfel in Sagaing, suedlich von Mandalay
+- src: 3943687-teak-bruecke-in-amarapura-0.jpg
   title: Teak-Bruecke in Amarapura
-- filename: 3943688-lu-maw-0.jpg
+- src: 3943688-lu-maw-0.jpg
   title: Lu Maw
-  description: einziger Mustache Brother der Englisch spricht
-- filename: 3943689-blue-taxi-von-der-bus-station-in-die-innenstadt-0.jpg
+  params:
+    description: einziger Mustache Brother der Englisch spricht
+- src: 3943689-blue-taxi-von-der-bus-station-in-die-innenstadt-0.jpg
   title: Blue Taxi von der Bus Station in die Innenstadt
-- filename: 3943705-strassenbau-vor-dem-guesthouse-0.jpg
+- src: 3943705-strassenbau-vor-dem-guesthouse-0.jpg
   title: Strassenbau vor dem Guesthouse
-- filename: 3943712-par-par-lay-0.jpg
+- src: 3943712-par-par-lay-0.jpg
   title: Par Par Lay
-  description: sass drei Mal im Gefaengnis
-- filename: 3943713-die-drei-mutigen-brueder-und-ich-0.jpg
+  params:
+    description: sass drei Mal im Gefaengnis
+- src: 3943713-die-drei-mutigen-brueder-und-ich-0.jpg
   title: die drei mutigen Brueder und ich
-- filename: 3943714-aung-san-suu-kyi-0.jpg
+- src: 3943714-aung-san-suu-kyi-0.jpg
   title: Aung San Suu Kyi
-  description: besuchte die Moustache Brothers
-- filename: 3943735-swimming-pool-in-mandalay-0.jpg
+  params:
+    description: besuchte die Moustache Brothers
+- src: 3943735-swimming-pool-in-mandalay-0.jpg
   title: Swimming Pool in Mandalay
-  description: reichlich Chlor, doch irgendwie roch er immer noch unangenehm. Aber immerhin, eine Abkuehlung
-- filename: 3943736-auf-dem-gipfel-des-mandalay-hill-0.jpg
+  params:
+    description: reichlich Chlor, doch irgendwie roch er immer noch unangenehm. Aber immerhin, eine Abkuehlung
+- src: 3943736-auf-dem-gipfel-des-mandalay-hill-0.jpg
   title: Auf dem Gipfel des Mandalay Hill
-- filename: 3943737-und-auf-dem-dach-auf-dem-gipfel-des-mandalay-hill-0.jpg
+- src: 3943737-und-auf-dem-dach-auf-dem-gipfel-des-mandalay-hill-0.jpg
   title: und auf dem Dach auf dem Gipfel des Mandalay Hill
-- filename: 3943738-die-rum-station-in-mandalay-0.jpg
+- src: 3943738-die-rum-station-in-mandalay-0.jpg
   title: die Rum Station in Mandalay
-  description: 'Rum-Tankstelle. Rechts sitzt Josh aus Australien, leicht ignorant, Wortwahl aggressiv, aber im Ganzen sehr witzig: "That''s fucking stupid"'
-- filename: 3943739-und-auf-der-dachterasse-des-royal-guesthouses-gings-weiter-0.jpg
+  params:
+    description: 'Rum-Tankstelle. Rechts sitzt Josh aus Australien, leicht ignorant, Wortwahl aggressiv, aber im Ganzen sehr witzig: "That''s fucking stupid"'
+- src: 3943739-und-auf-der-dachterasse-des-royal-guesthouses-gings-weiter-0.jpg
   title: und auf der Dachterasse des Royal Guesthouses gings weiter
-  description: Nils, wie immer mit Gitarre und Mundharmonika als Alleinunterhalter
-- filename: 3943740-macht-man-ein-foto-will-jeder-sofort-das-bild-sehen-0.jpg
+  params:
+    description: Nils, wie immer mit Gitarre und Mundharmonika als Alleinunterhalter
+- src: 3943740-macht-man-ein-foto-will-jeder-sofort-das-bild-sehen-0.jpg
   title: Macht man ein Foto, will jeder sofort das Bild sehen
-  description: auch die Moenche :)
-- filename: 3943741-recht-trauriger-eisverkaeufer-in-sagaing-0.jpg
+  params:
+    description: auch die Moenche :)
+- src: 3943741-recht-trauriger-eisverkaeufer-in-sagaing-0.jpg
   title: recht trauriger Eisverkaeufer in Sagaing
-  description: Er macht ein ziemlich langes Gesicht :). Die Eiswaffeln schauen aber auch nicht so lecker aus...
-- filename: 3943742-the-teaching-of-buddha-0.jpg
+  params:
+    description: Er macht ein ziemlich langes Gesicht :). Die Eiswaffeln schauen aber auch nicht so lecker aus...
+- src: 3943742-the-teaching-of-buddha-0.jpg
   title: The teaching of Buddha
-- filename: 3943743-unser--luxury-vehicle-0.jpg
+- src: 3943743-unser--luxury-vehicle-0.jpg
   title: unser "Luxury Vehicle"
-  description: durch den verrosteten Boden spritzt einem das Waser bis auf die Knie, wenn der Karren durch eine Wasserpfuetze rumpelt.
-- filename: 3943744-und-dann-gab-das--auto--natuerlich-den-geist-auf-0.jpg
+  params:
+    description: durch den verrosteten Boden spritzt einem das Waser bis auf die Knie, wenn der Karren durch eine Wasserpfuetze rumpelt.
+- src: 3943744-und-dann-gab-das--auto--natuerlich-den-geist-auf-0.jpg
   title: und dann gab das "Auto" natuerlich den Geist auf
-  description: mitten im stroemenden Monsunregen. Unser Fahrer versucht unter der Plane die Karre zu reparieren.
-- filename: 3943745-tee-im-teashop-0.jpg
+  params:
+    description: mitten im stroemenden Monsunregen. Unser Fahrer versucht unter der Plane die Karre zu reparieren.
+- src: 3943745-tee-im-teashop-0.jpg
   title: Tee im Teashop
-- filename: 3943746-die-locals-sind-beim-schach-unschlagbar-0.jpg
+- src: 3943746-die-locals-sind-beim-schach-unschlagbar-0.jpg
   title: die Locals sind beim Schach unschlagbar
-- filename: 3943747-relaxte-atmosphaere-in-amarapura-0.jpg
+- src: 3943747-relaxte-atmosphaere-in-amarapura-0.jpg
   title: relaxte Atmosphaere in Amarapura
-- filename: 3943749-ein-teil-der-bruecke-in-der-totale-0.jpg
+- src: 3943749-ein-teil-der-bruecke-in-der-totale-0.jpg
   title: ein Teil der Bruecke in der Totale
-- filename: 3943750-und-auch-hier-bettelnde-kinder-0.jpg
+- src: 3943750-und-auch-hier-bettelnde-kinder-0.jpg
   title: 'Und auch hier: bettelnde Kinder'
-  description: wie so oft an den Touristenattraktionen in Myanmar. Sie sind aber nicht sehr hartnaeckig und durch ein kurzes Gespraech kommen sie schnell auf andere Gedanken.
-- filename: 3943751-morgens-in-der-busstation-in-mandalay-0.jpg
+  params:
+    description: wie so oft an den Touristenattraktionen in Myanmar. Sie sind aber nicht sehr hartnaeckig und durch ein kurzes Gespraech kommen sie schnell auf andere Gedanken.
+- src: 3943751-morgens-in-der-busstation-in-mandalay-0.jpg
   title: Morgens in der Busstation in Mandalay
-  description: Gute Stimmung :)
-- filename: 3943758-devon-nils-und-ich-0.jpg
+  params:
+    description: Gute Stimmung :)
+- src: 3943758-devon-nils-und-ich-0.jpg
   title: Devon, Nils und ich
-  description: Rum-Cola. Cheers.
-- filename: 3943819-sitze-auch-im-gang-im-bus-0.jpg
+  params:
+    description: Rum-Cola. Cheers.
+- src: 3943819-sitze-auch-im-gang-im-bus-0.jpg
   title: Sitze auch im Gang im Bus
-  description: darunter, Saecke voll Reis, Zement, ... Unterwegs wurden wir zweimal angehalten, Maenner mit langen Eisenstaeben stachen in die Saecke, auf der Suche nach Heroin.
+  params:
+    description: darunter, Saecke voll Reis, Zement, ... Unterwegs wurden wir zweimal angehalten, Maenner mit langen Eisenstaeben stachen in die Saecke, auf der Suche nach Heroin.
 type: post
 ---
 

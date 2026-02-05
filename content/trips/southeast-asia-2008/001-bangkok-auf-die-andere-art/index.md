@@ -8,55 +8,69 @@ location:
 - Central Thailand
 - Bangkok
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-279600
-images:
-- filename: 2354727-vekehr-in-bangkok-0.jpg
+resources:
+- src: 2354727-vekehr-in-bangkok-0.jpg
   title: Vekehr in Bangkok
-  description: immer wieder ein Erlebnis
-- filename: 2354729-paht-thai-0.jpg
+  params:
+    description: immer wieder ein Erlebnis
+- src: 2354729-paht-thai-0.jpg
   title: Paht Thai
-  description: 'Paht Thai auf deutsch: gebratene Nudeln mit Bambussprossen und Ei'
-- filename: 2354731-enno-0.jpg
+  params:
+    description: 'Paht Thai auf deutsch: gebratene Nudeln mit Bambussprossen und Ei'
+- src: 2354731-enno-0.jpg
   title: Enno
-  description: '... beim Paht Thai futtern'
-- filename: 2354733-bangkoks-schoenste-ecken-0.jpg
+  params:
+    description: '... beim Paht Thai futtern'
+- src: 2354733-bangkoks-schoenste-ecken-0.jpg
   title: Bangkoks schoenste Ecken
-- filename: 2354737-essen-von-der-dame-ums-eck-0.jpg
+- src: 2354737-essen-von-der-dame-ums-eck-0.jpg
   title: Essen von der Dame ums Eck
-  description: fuer 50 Cent und dann wirds auch noch ins Guesthouse geliefert...
-- filename: 2354739-monsunregen-0.jpg
+  params:
+    description: fuer 50 Cent und dann wirds auch noch ins Guesthouse geliefert...
+- src: 2354739-monsunregen-0.jpg
   title: Monsunregen
-  description: in der Strasse vor "The Artists Place"
-- filename: 2354744-the-artists-place-0.jpg
+  params:
+    description: in der Strasse vor "The Artists Place"
+- src: 2354744-the-artists-place-0.jpg
   title: The Artists Place
-  description: von der Terasse aus auf den Eingang
-- filename: 2815053-charlee-and-me-0.jpg
+  params:
+    description: von der Terasse aus auf den Eingang
+- src: 2815053-charlee-and-me-0.jpg
   title: Charlee and me
-  description: ein Hoch auf "The Artists Place"
-- filename: 2354745-der-liegende-buddha-0.jpg
+  params:
+    description: ein Hoch auf "The Artists Place"
+- src: 2354745-der-liegende-buddha-0.jpg
   title: der liegende Buddha
-  description: Pflicht-Touri-Foto
-- filename: 2354751-waechter-des-liegenden-buddhas-0.jpg
+  params:
+    description: Pflicht-Touri-Foto
+- src: 2354751-waechter-des-liegenden-buddhas-0.jpg
   title: Waechter des liegenden Buddhas
-  description: Waechter des liegenden Buddhas
-- filename: 2354755-hm-0.jpg
+  params:
+    description: Waechter des liegenden Buddhas
+- src: 2354755-hm-0.jpg
   title: hm...
-  description: :)
-- filename: 2354757-betende-moenche-0.jpg
+  params:
+    description: :)
+- src: 2354757-betende-moenche-0.jpg
   title: betende Moenche
-- filename: 2354758-tuk-tuk-0.jpg
+- src: 2354758-tuk-tuk-0.jpg
   title: TUK-TUK!
-  description: Go Tuk-Tuk, go!
-- filename: 2354759-bangkok-von-oben-0.jpg
+  params:
+    description: Go Tuk-Tuk, go!
+- src: 2354759-bangkok-von-oben-0.jpg
   title: Bangkok von oben
-  description: vom "Grand Mount" aus, einem weiteren Tempel
-- filename: 2354760-fruechtesaft-frisch-gemixt-0.jpg
+  params:
+    description: vom "Grand Mount" aus, einem weiteren Tempel
+- src: 2354760-fruechtesaft-frisch-gemixt-0.jpg
   title: Fruechtesaft, frisch gemixt
-  description: Fruechtesaft, frisch gemixt
-- filename: 2354762-krawatten-auf-dem-markt-0.jpg
+  params:
+    description: Fruechtesaft, frisch gemixt
+- src: 2354762-krawatten-auf-dem-markt-0.jpg
   title: Krawatten auf dem Markt
-- filename: 2354764-es-gibt-nichts-0.jpg
+- src: 2354764-es-gibt-nichts-0.jpg
   title: Es gibt nichts...
-  description: '...was man auf dem Markt nicht kaufen kann. Sogar Haski-Welpen gibts. Irre...'
+  params:
+    description: '...was man auf dem Markt nicht kaufen kann. Sogar Haski-Welpen gibts. Irre...'
 type: post
 ---
 

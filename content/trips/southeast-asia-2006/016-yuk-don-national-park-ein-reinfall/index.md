@@ -9,42 +9,53 @@ location:
 - Dak Lak
 - Buon Ma Thuot
 original_url: https://www.travelblog.org/asia/vietnam/central-highlands/dak-lak/buon-ma-thuot/blog-85288
-images:
-- filename: 531354-elvis-lebt-0.jpg
+resources:
+- src: 531354-elvis-lebt-0.jpg
   title: Elvis lebt!
-  description: Elvis lebt! hehe
-- filename: 531341-wir-mit-phon-0.jpg
+  params:
+    description: Elvis lebt! hehe
+- src: 531341-wir-mit-phon-0.jpg
   title: wir, mit Phon
-  description: wir, mit Phon einer Englischstudentin aus Saigon
-- filename: 531342-der-yuk-don-nationalpark-0.jpg
+  params:
+    description: wir, mit Phon einer Englischstudentin aus Saigon
+- src: 531342-der-yuk-don-nationalpark-0.jpg
   title: Der Yuk Don Nationalpark
-  description: Wir werden ihn leider nicht betreten.
-- filename: 531343-eingelegte-ziege-0.jpg
+  params:
+    description: Wir werden ihn leider nicht betreten.
+- src: 531343-eingelegte-ziege-0.jpg
   title: eingelegte Ziege
-  description: Die spinnen, die Vietnamesen
-- filename: 531344-und-nochmal-ziegen-diesmal-lebending-0.jpg
+  params:
+    description: Die spinnen, die Vietnamesen
+- src: 531344-und-nochmal-ziegen-diesmal-lebending-0.jpg
   title: und nochmal Ziegen, diesmal lebending
-  description: und nochmal Ziegen, diesmal lebending
-- filename: 531345-versammlungshalle-im-ort-buon-don-0.jpg
+  params:
+    description: und nochmal Ziegen, diesmal lebending
+- src: 531345-versammlungshalle-im-ort-buon-don-0.jpg
   title: Versammlungshalle im Ort Buon Don
-  description: Versammlungshalle im Ort Buon Don
-- filename: 531346-ueber-den-fluss-auf-die-picknickinsel-0.jpg
+  params:
+    description: Versammlungshalle im Ort Buon Don
+- src: 531346-ueber-den-fluss-auf-die-picknickinsel-0.jpg
   title: ueber den Fluss auf die Picknickinsel
-  description: ueber den Fluss auf die Picknickinsel
-- filename: 531347-betrunkene-vietnamesen-beim-lunch-0.jpg
+  params:
+    description: ueber den Fluss auf die Picknickinsel
+- src: 531347-betrunkene-vietnamesen-beim-lunch-0.jpg
   title: betrunkene Vietnamesen beim Lunch
-  description: betrunkene Vietnamesen beim Lunch
-- filename: 531348-born-to-be-wild-2.jpg
+  params:
+    description: betrunkene Vietnamesen beim Lunch
+- src: 531348-born-to-be-wild-2.jpg
   title: born to be wild
-- filename: 531350-man-fuehlt-sich-ein-bisschen-wie-tarzan-0.jpg
+- src: 531350-man-fuehlt-sich-ein-bisschen-wie-tarzan-0.jpg
   title: man fuehlt sich ein bisschen wie Tarzan
-  description: man fuehlt sich ein bisschen wie Tarzan nur, wo ist Jane?
-- filename: 531351-2-cm-ameise-0.jpg
+  params:
+    description: man fuehlt sich ein bisschen wie Tarzan nur, wo ist Jane?
+- src: 531351-2-cm-ameise-0.jpg
   title: 2 cm Ameise
-  description: 2 cm Ameise Die beissen sich in der Haut fest und es ist nicht einfach die wieder loszuwerden
-- filename: 531353-colonel-hathi-und-winnifred-0.jpg
+  params:
+    description: 2 cm Ameise Die beissen sich in der Haut fest und es ist nicht einfach die wieder loszuwerden
+- src: 531353-colonel-hathi-und-winnifred-0.jpg
   title: Colonel Hathi und Winnifred :)
-  description: Colonel Hathi und Winnifred :) Leider nix Elephantenreiten. Aber das ist doch eh langweilig. *Schoenred*. Hehe
+  params:
+    description: Colonel Hathi und Winnifred :) Leider nix Elephantenreiten. Aber das ist doch eh langweilig. *Schoenred*. Hehe
 type: post
 ---
 

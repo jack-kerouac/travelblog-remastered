@@ -8,37 +8,47 @@ location:
 - Central Highlands
 - Kon Tum
 original_url: https://www.travelblog.org/asia/vietnam/central-highlands/kontum/blog-84721
-images:
-- filename: 531293-on-the-road-to-the-south-0.jpg
+resources:
+- src: 531293-on-the-road-to-the-south-0.jpg
   title: on the road to the south
-  description: Kuestenstrasse von Hoi An nach Quy Nhon
-- filename: 531295-reisfelder-und-palmen-soweit-das-auge-sieht-0.jpg
+  params:
+    description: Kuestenstrasse von Hoi An nach Quy Nhon
+- src: 531295-reisfelder-und-palmen-soweit-das-auge-sieht-0.jpg
   title: Reisfelder und Palmen, soweit das Auge sieht
-  description: Reisfelder und Palmen, soweit das Auge sieht
-- filename: 531312-mr-vinh-und-sam-0.jpg
+  params:
+    description: Reisfelder und Palmen, soweit das Auge sieht
+- src: 531312-mr-vinh-und-sam-0.jpg
   title: Mr Vinh und Sam
-  description: Eine sehr beeindruckende Persoenlichkeit
-- filename: 531300-ein-rong-haus-0.jpg
+  params:
+    description: Eine sehr beeindruckende Persoenlichkeit
+- src: 531300-ein-rong-haus-0.jpg
   title: ein Rong Haus
-  description: ein Rong Haus Dorfzentrum und Versammlungshalle. Nur mit Hilfe von Bambus und Rattanschnueren gebaut.
-- filename: 531296-sam-und-vier-lustige-entwicklungshelfer-0.jpg
+  params:
+    description: ein Rong Haus Dorfzentrum und Versammlungshalle. Nur mit Hilfe von Bambus und Rattanschnueren gebaut.
+- src: 531296-sam-und-vier-lustige-entwicklungshelfer-0.jpg
   title: Sam und vier lustige Entwicklungshelfer
-  description: Sam und vier lustige Entwicklungshelfer die uns am Abend in Kon Tum zum Essen eingeladen haben
-- filename: 531301-ein-typisches-haus-der-gehobenen-klasse-0.jpg
+  params:
+    description: Sam und vier lustige Entwicklungshelfer die uns am Abend in Kon Tum zum Essen eingeladen haben
+- src: 531301-ein-typisches-haus-der-gehobenen-klasse-0.jpg
   title: ein typisches Haus der gehobenen Klasse
-  description: ein typisches Haus der gehobenen Klasse immerhin ist es gemauert! :) Auf Stelzen wegen der Feuchtigkeit, Ungeziefer und groesseren Tieren
-- filename: 531303-das-hinterland-von-kon-tum-0.jpg
+  params:
+    description: ein typisches Haus der gehobenen Klasse immerhin ist es gemauert! :) Auf Stelzen wegen der Feuchtigkeit, Ungeziefer und groesseren Tieren
+- src: 531303-das-hinterland-von-kon-tum-0.jpg
   title: Das Hinterland von Kon Tum
-  description: kein Tourist weit und breit
-- filename: 531304-dieser-nette-mensch-flechtet-tragkoerbe-fuer-kinder-0.jpg
+  params:
+    description: kein Tourist weit und breit
+- src: 531304-dieser-nette-mensch-flechtet-tragkoerbe-fuer-kinder-0.jpg
   title: Dieser nette Mensch flechtet Tragkoerbe fuer Kinder
-  description: die dann im Tauschhandel verauessert werden
-- filename: 531305-ein-paar-stifte-und-ballons-fuer-die-kids-0.jpg
+  params:
+    description: die dann im Tauschhandel verauessert werden
+- src: 531305-ein-paar-stifte-und-ballons-fuer-die-kids-0.jpg
   title: Ein paar Stifte und Ballons fuer die Kids
-  description: Ein paar Stifte und Ballons fuer die Kids Damit waren wir endgueltig die groesste Attraktion seit Wochen in diesem Dorf :).
-- filename: 531307-geschwisterliebe-0.jpg
+  params:
+    description: Ein paar Stifte und Ballons fuer die Kids Damit waren wir endgueltig die groesste Attraktion seit Wochen in diesem Dorf :).
+- src: 531307-geschwisterliebe-0.jpg
   title: Geschwisterliebe
-  description: Schon in jungen Jahren passen die Kinder auf ihre kleinen Geschwister auf
+  params:
+    description: Schon in jungen Jahren passen die Kinder auf ihre kleinen Geschwister auf
 type: post
 ---
 

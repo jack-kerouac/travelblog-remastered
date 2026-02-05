@@ -8,62 +8,71 @@ location:
 - Colorado
 - Rocky Mountains
 original_url: https://www.travelblog.org/north-america/united-states/colorado/rocky-mountains/blog-801070
-images:
-- filename: 7650734-moraine-park-rocky-mountain-national-park-0.jpg
+resources:
+- src: 7650734-moraine-park-rocky-mountain-national-park-0.jpg
   title: Moraine Park, Rocky Mountain National Park
-- filename: 7650725-unser-camp-im-rmnp-0.jpg
+- src: 7650725-unser-camp-im-rmnp-0.jpg
   title: unser Camp im RMNP
-- filename: 7650727-v5-dyno-0.jpg
+- src: 7650727-v5-dyno-0.jpg
   title: v5 Dyno
-  description: danke an Frieder für das wahnsinns Foto
-- filename: 7650729-auf-unserem-zeltplatz-wohnte-auch-eine-h-rnchen-familie-0.jpg
+  params:
+    description: danke an Frieder für das wahnsinns Foto
+- src: 7650729-auf-unserem-zeltplatz-wohnte-auch-eine-h-rnchen-familie-0.jpg
   title: auf unserem Zeltplatz wohnte auch eine Hörnchen-Familie
-- filename: 7650731-piet-und-ich-im-bitstream-0.jpg
+- src: 7650731-piet-und-ich-im-bitstream-0.jpg
   title: Piet und ich im Bitstream
-- filename: 7650732-minigolf-am-ruhetag-0.jpg
+- src: 7650732-minigolf-am-ruhetag-0.jpg
   title: Minigolf am Ruhetag
-- filename: 7650735-potatoe-chips-v7-0.jpg
+- src: 7650735-potatoe-chips-v7-0.jpg
   title: Potatoe Chips (v7)
-  description: Bis jetzt habe ich die letzten Züge noch nicht geschafft :-/
-- filename: 7650736-hiyaha-lake-0.jpg
+  params:
+    description: Bis jetzt habe ich die letzten Züge noch nicht geschafft :-/
+- src: 7650736-hiyaha-lake-0.jpg
   title: Hiyaha Lake
-  description: Mit dem Blick auf das Bouldergebiet "Upper Chaos Canyon"
-- filename: 7650738-wir-erwischen-abends-noch-den-letzten-leeren-shuttlebus-0.jpg
+  params:
+    description: Mit dem Blick auf das Bouldergebiet "Upper Chaos Canyon"
+- src: 7650738-wir-erwischen-abends-noch-den-letzten-leeren-shuttlebus-0.jpg
   title: wir erwischen abends noch den letzten, leeren, Shuttlebus
-- filename: 7650739-blick-von-der-trail-ridge-road-0.jpg
+- src: 7650739-blick-von-der-trail-ridge-road-0.jpg
   title: Blick von der Trail Ridge Road
-- filename: 7650741-hirsche-im-rocky-mountain-national-park-0.jpg
+- src: 7650741-hirsche-im-rocky-mountain-national-park-0.jpg
   title: Hirsche im Rocky Mountain National Park
-- filename: 7650744-piet-sichert-in-rifle-0.jpg
+- src: 7650744-piet-sichert-in-rifle-0.jpg
   title: Piet sichert in Rifle
-- filename: 7650834-vortrag-von-chris-sharma-am-rifle-climbing-festival-0.jpg
+- src: 7650834-vortrag-von-chris-sharma-am-rifle-climbing-festival-0.jpg
   title: Vortrag von Chris Sharma am Rifle Climbing Festival
-  description: 'Thema: Seine neueste superharte Kletterroute "La Dura Dura"'
-- filename: 7650743-chillen-mit-nudeln-0.jpg
+  params:
+    description: 'Thema: Seine neueste superharte Kletterroute "La Dura Dura"'
+- src: 7650743-chillen-mit-nudeln-0.jpg
   title: Chillen mit Nudeln
-- filename: 7650746-ich-klettere--the-rehabilitator--5-11d-0.jpg
+- src: 7650746-ich-klettere--the-rehabilitator--5-11d-0.jpg
   title: ich klettere "The Rehabilitator", 5.11d
-- filename: 7650747-pb-j-gibt-kraft-0.jpg
+- src: 7650747-pb-j-gibt-kraft-0.jpg
   title: PB&J gibt Kraft :)
-- filename: 7650749-jeder-hat-seine-frisch-gewaschene-w-sche-auf-dem-arm-0.jpg
+- src: 7650749-jeder-hat-seine-frisch-gewaschene-w-sche-auf-dem-arm-0.jpg
   title: jeder hat seine frisch gewaschene Wäsche auf dem Arm
-  description: Piet ist der eindeutig reinlichste von uns
-- filename: 7650750-am-ruhetage-bauen-wir-uns-wurfspeere-0.jpg
+  params:
+    description: Piet ist der eindeutig reinlichste von uns
+- src: 7650750-am-ruhetage-bauen-wir-uns-wurfspeere-0.jpg
   title: Am Ruhetage bauen wir uns Wurfspeere :)
-- filename: 7650752-frieder-the-chef-0.jpg
+- src: 7650752-frieder-the-chef-0.jpg
   title: Frieder, The Chef
-- filename: 7650753-beta-transfer-0.jpg
+- src: 7650753-beta-transfer-0.jpg
   title: Beta-Transfer
-  description: 'Beta: Infos zu einer Kletterroute (Ruhepositionen, Griffarten, Klipp-Positionen, Körperhaltungen, Sequenzen, ...)'
-- filename: 7650755-geburtstagsbier-0.jpg
+  params:
+    description: 'Beta: Infos zu einer Kletterroute (Ruhepositionen, Griffarten, Klipp-Positionen, Körperhaltungen, Sequenzen, ...)'
+- src: 7650755-geburtstagsbier-0.jpg
   title: Geburtstagsbier
-  description: PBR (Pabst Blue Rippon)
-- filename: 7650756-geburtstagsessen-0.jpg
+  params:
+    description: PBR (Pabst Blue Rippon)
+- src: 7650756-geburtstagsessen-0.jpg
   title: Geburtstagsessen
-  description: Rindersteaks vom Grill
-- filename: 7650757-geburtstagsfeuer-0.jpg
+  params:
+    description: Rindersteaks vom Grill
+- src: 7650757-geburtstagsfeuer-0.jpg
   title: Geburtstagsfeuer
-  description: danke an Piet für das geile Foto
+  params:
+    description: danke an Piet für das geile Foto
 type: post
 ---
 

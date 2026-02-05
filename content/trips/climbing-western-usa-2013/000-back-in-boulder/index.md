@@ -8,24 +8,26 @@ location:
 - Colorado
 - Boulder
 original_url: https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-777656
-images:
-- filename: 7439665-boulder-im-hintergrund-0.jpg
+resources:
+- src: 7439665-boulder-im-hintergrund-0.jpg
   title: Boulder im Hintergrund
-- filename: 7439661-frieder-und-ich-beim-autosuchen-0.jpg
+- src: 7439661-frieder-und-ich-beim-autosuchen-0.jpg
   title: Frieder und ich beim Autosuchen
-- filename: 7439663-bouldern-am-flagstaff-mountain-0.jpg
+- src: 7439663-bouldern-am-flagstaff-mountain-0.jpg
   title: Bouldern am Flagstaff Mountain
-- filename: 7439664-frieder-rockt-0.jpg
+- src: 7439664-frieder-rockt-0.jpg
   title: Frieder rockt
-- filename: 7439666-kletter-wg-von-colin-0.jpg
+- src: 7439666-kletter-wg-von-colin-0.jpg
   title: Kletter-WG von Colin
-  description: und ihre Auswüchse
-- filename: 7439667-that-was-sick-0.jpg
+  params:
+    description: und ihre Auswüchse
+- src: 7439667-that-was-sick-0.jpg
   title: that was sick
-- filename: 7439668-unser-mutterschiff-0.jpg
+- src: 7439668-unser-mutterschiff-0.jpg
   title: Unser Mutterschiff
-  description: Ford Windstar, Baujahr 1999, 60.000 Meilen
-- filename: 7439669-satellite-boulders-0.jpg
+  params:
+    description: Ford Windstar, Baujahr 1999, 60.000 Meilen
+- src: 7439669-satellite-boulders-0.jpg
   title: Satellite Boulders
 type: post
 ---

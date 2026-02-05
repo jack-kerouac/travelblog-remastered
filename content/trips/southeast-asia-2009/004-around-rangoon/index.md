@@ -8,41 +8,48 @@ location:
 - Yangon Region
 - Yangon
 original_url: https://www.travelblog.org/asia/burma/yangon-region/yangon/blog-405103
-images:
-- filename: 3889380-neugierige-kids-im-dorf-0.jpg
+resources:
+- src: 3889380-neugierige-kids-im-dorf-0.jpg
   title: Neugierige Kids im Dorf
-- filename: 3889499-indisch-neujahr-0.jpg
+- src: 3889499-indisch-neujahr-0.jpg
   title: Indisch Neujahr
-  description: Sehr bunt und lebhaft. Jeder ist der wichtigste...
-- filename: 3889523-faehre-ueber-den-yangon-river-0.jpg
+  params:
+    description: Sehr bunt und lebhaft. Jeder ist der wichtigste...
+- src: 3889523-faehre-ueber-den-yangon-river-0.jpg
   title: Faehre ueber den Yangon River
-  description: Yangon ist nebenbei der neue Name fuer Rangun.
-- filename: 3889535-alle-lauschen-gespannt-meinen-erzaehlungen-0.jpg
+  params:
+    description: Yangon ist nebenbei der neue Name fuer Rangun.
+- src: 3889535-alle-lauschen-gespannt-meinen-erzaehlungen-0.jpg
   title: Alle lauschen gespannt meinen Erzaehlungen
-  description: in der Englischschule
-- filename: 3889539-yangon-0.jpg
+  params:
+    description: in der Englischschule
+- src: 3889539-yangon-0.jpg
   title: Yangon
-  description: vom hoechsten Gebaeude Burmas aus (14 Stockwerke...)
-- filename: 3889548-drei-strassenkinder-0.jpg
+  params:
+    description: vom hoechsten Gebaeude Burmas aus (14 Stockwerke...)
+- src: 3889548-drei-strassenkinder-0.jpg
   title: drei Strassenkinder
-  description: Ich hab ihnen eine Portion Essen gekauft
-- filename: 3889563-an-dieser-strassenkreuzung-0.jpg
+  params:
+    description: Ich hab ihnen eine Portion Essen gekauft
+- src: 3889563-an-dieser-strassenkreuzung-0.jpg
   title: An dieser Strassenkreuzung...
-  description: '...wurde waehrend den Protesten 2007 der japanische Journalist erschossen'
-- filename: 3889573-birmesischer-personentransport-0.jpg
+  params:
+    description: '...wurde waehrend den Protesten 2007 der japanische Journalist erschossen'
+- src: 3889573-birmesischer-personentransport-0.jpg
   title: birmesischer Personentransport :)
-- filename: 3889574-eine-der-hauptstrassen-ins-irawaddy-delta-0.jpg
+- src: 3889574-eine-der-hauptstrassen-ins-irawaddy-delta-0.jpg
   title: Eine der Hauptstrassen ins Irawaddy-Delta
-- filename: 3889575-zusammengebundene-huehner-0.jpg
+- src: 3889575-zusammengebundene-huehner-0.jpg
   title: Zusammengebundene Huehner
-- filename: 3889576-die-kids-im-dorf-und-ich-0.jpg
+- src: 3889576-die-kids-im-dorf-und-ich-0.jpg
   title: Die Kids im Dorf und ich
-- filename: 3889580-besuch-bei-den-toepfern-0.jpg
+- src: 3889580-besuch-bei-den-toepfern-0.jpg
   title: Besuch bei den Toepfern
-  description: Die eine Frau dreht die Toepferscheibe mit dem Fuss an, die andere formt den Ton
-- filename: 3889581-die-indische-neujahrs-prozession-0.jpg
+  params:
+    description: Die eine Frau dreht die Toepferscheibe mit dem Fuss an, die andere formt den Ton
+- src: 3889581-die-indische-neujahrs-prozession-0.jpg
   title: Die indische Neujahrs-Prozession
-- filename: 3889603-affen-im-park-ausserhalb-von-yangon-0.jpg
+- src: 3889603-affen-im-park-ausserhalb-von-yangon-0.jpg
   title: Affen im Park ausserhalb von Yangon
 type: post
 ---

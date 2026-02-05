@@ -8,27 +8,33 @@ location:
 - Central Thailand
 - Bangkok
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-79884
-images:
-- filename: 489651-thai-boxen-im-lumphini-stadion-0.jpg
+resources:
+- src: 489651-thai-boxen-im-lumphini-stadion-0.jpg
   title: Thai-Boxen im Lumphini-Stadion
-  description: Thai-Boxen im Lumphini-Stadion
-- filename: 489653-kieferchirurg-nummer-1-0.jpg
+  params:
+    description: Thai-Boxen im Lumphini-Stadion
+- src: 489653-kieferchirurg-nummer-1-0.jpg
   title: Kieferchirurg Nummer 1
-  description: Fabian hat sich total weggeworfen wegen dem :-(=)
-- filename: 489654-khao-sarn-road-bei-nacht-0.jpg
+  params:
+    description: Fabian hat sich total weggeworfen wegen dem :-(=)
+- src: 489654-khao-sarn-road-bei-nacht-0.jpg
   title: Khao Sarn Road bei Nacht
-- filename: 489655-zwei-englischlehrerinnen-aus-england-0.jpg
+- src: 489655-zwei-englischlehrerinnen-aus-england-0.jpg
   title: Zwei Englischlehrerinnen aus England
-  description: Zwei Englischlehrerinnen aus England Fucking awesome, you know?
-- filename: 489656-bonsai-streicheln-0.jpg
+  params:
+    description: Zwei Englischlehrerinnen aus England Fucking awesome, you know?
+- src: 489656-bonsai-streicheln-0.jpg
   title: Bonsai streicheln
-  description: '...dass der auch gross und stark wird!'
-- filename: 489657-unser-lieber-taxifahrer-0.jpg
+  params:
+    description: '...dass der auch gross und stark wird!'
+- src: 489657-unser-lieber-taxifahrer-0.jpg
   title: unser lieber Taxifahrer
-  description: mit einem Wortschatz von ungefaehr 10 Vokabeln. Good, not good, money, company.
-- filename: 489658-essen-in-einem-innenhof-in-der-khao-sarn-road-0.jpg
+  params:
+    description: mit einem Wortschatz von ungefaehr 10 Vokabeln. Good, not good, money, company.
+- src: 489658-essen-in-einem-innenhof-in-der-khao-sarn-road-0.jpg
   title: Essen in einem Innenhof in der Khao Sarn Road
-  description: Essen in einem Innenhof in der Khao Sarn Road Fabians Tofu-Scheiss. Schaut aber nicht so schlecht aus.
+  params:
+    description: Essen in einem Innenhof in der Khao Sarn Road Fabians Tofu-Scheiss. Schaut aber nicht so schlecht aus.
 type: post
 ---
 

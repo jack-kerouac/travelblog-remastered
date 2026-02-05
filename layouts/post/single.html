@@ -16,22 +16,18 @@
             {{ .Content }}
         </div>
 
-        {{ if .Params.images }}
+        {{ with .Resources.ByType "image" }}
         <div class="photo-grid">
-            {{ range .Params.images }}
-            {{ $imgData := . }}
-            {{ $img := $.Resources.Get .filename }}
-            {{ with $img }}
+            {{ range . }}
             <figure>
-                <img src="{{ .RelPermalink }}" alt="{{ $imgData.title }}" width="{{ .Width }}" height="{{ .Height }}">
+                <img src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
                 <figcaption>
-                    <strong>{{ $imgData.title }}</strong>
-                    {{ with $imgData.description }}
+                    <strong>{{ .Title }}</strong>
+                    {{ with .Params.description }}
                     <p>{{ . }}</p>
                     {{ end }}
                 </figcaption>
             </figure>
-            {{ end }}
             {{ end }}
         </div>
         {{ end }}

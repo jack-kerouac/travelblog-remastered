@@ -8,47 +8,48 @@ location:
 - Colorado
 - Aspen
 original_url: https://www.travelblog.org/north-america/united-states/colorado/aspen/blog-803235
-images:
-- filename: 7677714-oben-am-independence-pass-0.jpg
+resources:
+- src: 7677714-oben-am-independence-pass-0.jpg
   title: Oben am Independence Pass
-- filename: 7677709-v2-mt-evans-0.jpg
+- src: 7677709-v2-mt-evans-0.jpg
   title: V2, Mt. Evans
-- filename: 7677711-v3-mt-evans-0.jpg
+- src: 7677711-v3-mt-evans-0.jpg
   title: V3, Mt. Evans
-- filename: 7677716-piet-am-zelt-zusammenr-umen-0.jpg
+- src: 7677716-piet-am-zelt-zusammenr-umen-0.jpg
   title: Piet am Zelt-Zusammenräumen
-- filename: 7677717-unser-campingplatz-ist-mitten-im-espenwald-0.jpg
+- src: 7677717-unser-campingplatz-ist-mitten-im-espenwald-0.jpg
   title: Unser Campingplatz ist mitten im Espenwald
-- filename: 7677719-feuerholztransport-0.jpg
+- src: 7677719-feuerholztransport-0.jpg
   title: Feuerholztransport
-- filename: 7677721-frieder-the-chef-0.jpg
+- src: 7677721-frieder-the-chef-0.jpg
   title: Frieder, the Chef
-- filename: 7677723-frieder-f-r-jeden-quatsch-gut-0.jpg
+- src: 7677723-frieder-f-r-jeden-quatsch-gut-0.jpg
   title: Frieder, für jeden Quatsch gut :-)
-- filename: 7677724-melissa-0.jpg
+- src: 7677724-melissa-0.jpg
   title: Melissa
-- filename: 7677726-unsere-geschirrkiste-0.jpg
+- src: 7677726-unsere-geschirrkiste-0.jpg
   title: unsere Geschirrkiste
-- filename: 7677728-piet-gut-drauf-0.jpg
+- src: 7677728-piet-gut-drauf-0.jpg
   title: Piet gut drauf
-- filename: 7701191-the-ice-caves-0.jpg
+- src: 7701191-the-ice-caves-0.jpg
   title: The Ice Caves
-  description: von viel viel Wasser geformt
-- filename: 7677930-v6-highball-von-frieder-0.jpg
+  params:
+    description: von viel viel Wasser geformt
+- src: 7677930-v6-highball-von-frieder-0.jpg
   title: v6 Highball von Frieder
-- filename: 7677931-ich-beim-rumsitzen-im-wald-0.jpg
+- src: 7677931-ich-beim-rumsitzen-im-wald-0.jpg
   title: ich beim Rumsitzen im Wald
-- filename: 7677730-der-fluss-hat-sich-hier-bizarre-strukturen-in-den-granit-gegraben-0.jpg
+- src: 7677730-der-fluss-hat-sich-hier-bizarre-strukturen-in-den-granit-gegraben-0.jpg
   title: der Fluss hat sich hier bizarre Strukturen in den Granit gegraben
-- filename: 7677731-noch-mehr-espen-0.jpg
+- src: 7677731-noch-mehr-espen-0.jpg
   title: Noch mehr Espen
-- filename: 7677732-das-camp-unserer-zweitageswanderung-0.jpg
+- src: 7677732-das-camp-unserer-zweitageswanderung-0.jpg
   title: das Camp unserer Zweitageswanderung
-- filename: 7677734-conundrum-hot-springs-0.jpg
+- src: 7677734-conundrum-hot-springs-0.jpg
   title: Conundrum Hot Springs
-- filename: 7677735-der-lange-weg-zur-ck-0.jpg
+- src: 7677735-der-lange-weg-zur-ck-0.jpg
   title: der lange Weg zurück
-- filename: 7677736-chillen-am-independence-pass-0.jpg
+- src: 7677736-chillen-am-independence-pass-0.jpg
   title: Chillen am Independence Pass
 type: post
 ---

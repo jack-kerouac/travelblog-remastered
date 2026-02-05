@@ -8,24 +8,29 @@ location:
 - North
 - Luang Namtha
 original_url: https://www.travelblog.org/asia/laos/north/luang-namtha/blog-295244
-images:
-- filename: 2527033-mein-bus-von-chiang-rai-an-die-grenze-0.jpg
+resources:
+- src: 2527033-mein-bus-von-chiang-rai-an-die-grenze-0.jpg
   title: mein Bus von Chiang Rai an die Grenze
-  description: mein Bus von Chiang Rai an die Grenze Ich lebe noch :)
-- filename: 2527034-ueber-den-mekong-nach-laos-0.jpg
+  params:
+    description: mein Bus von Chiang Rai an die Grenze Ich lebe noch :)
+- src: 2527034-ueber-den-mekong-nach-laos-0.jpg
   title: Ueber den Mekong nach Laos
-  description: 'Zu sehen: Die Grenzstation in Huay Xai'
-- filename: 2527035-etwas-eingeschuechtert-0.jpg
+  params:
+    description: 'Zu sehen: Die Grenzstation in Huay Xai'
+- src: 2527035-etwas-eingeschuechtert-0.jpg
   title: etwas eingeschuechtert...
-- filename: 2527038-massiver-monsunregen-0.jpg
+- src: 2527038-massiver-monsunregen-0.jpg
   title: massiver Monsunregen...
-  description: '...in einem schoenen Restaurant am Ufer des Nuam Tha'
-- filename: 2527039-was-man-hier-ueberall-am-strassenrand-trifft-0.jpg
+  params:
+    description: '...in einem schoenen Restaurant am Ufer des Nuam Tha'
+- src: 2527039-was-man-hier-ueberall-am-strassenrand-trifft-0.jpg
   title: was man hier ueberall am Strassenrand trifft
-  description: was man hier ueberall am Strassenrand trifft Hier ein Bueffel. Sie haben leider keine Hemmungen einem vor das Motorrad zu laufen. Ich glaube, sie wuerden gewinnen,
-- filename: 2527043-ueberwaeltigender-blick-0.jpg
+  params:
+    description: was man hier ueberall am Strassenrand trifft Hier ein Bueffel. Sie haben leider keine Hemmungen einem vor das Motorrad zu laufen. Ich glaube, sie wuerden gewinnen,
+- src: 2527043-ueberwaeltigender-blick-0.jpg
   title: ueberwaeltigender Blick
-  description: von einem Huegel ueber Luang Nam Tha und die Reisfelder
+  params:
+    description: von einem Huegel ueber Luang Nam Tha und die Reisfelder
 type: post
 ---
 

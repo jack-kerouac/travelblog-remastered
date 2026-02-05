@@ -8,57 +8,71 @@ location:
 - Cebu
 - Cebu City
 original_url: https://www.travelblog.org/asia/philippines/cebu/cebu-city/blog-305351
-images:
-- filename: 2634820-der-jeepney--oeffentliches-verkehrsmittel-nummer-1-0.jpg
+resources:
+- src: 2634820-der-jeepney--oeffentliches-verkehrsmittel-nummer-1-0.jpg
   title: der Jeepney - oeffentliches Verkehrsmittel Nummer 1
-- filename: 2634822-fort-de-san-pedro-0.jpg
+- src: 2634822-fort-de-san-pedro-0.jpg
   title: Fort de San Pedro
-  description: von den Spaniern nach der Landung Magellans gebaut
-- filename: 2634825-kids-an-der-hafenmauer-0.jpg
+  params:
+    description: von den Spaniern nach der Landung Magellans gebaut
+- src: 2634825-kids-an-der-hafenmauer-0.jpg
   title: Kids an der Hafenmauer
-  description: die amerikanische Kultur hat hier starken Einfluss. Die Kids kennen alle Rapper von East- und Westcoast :)
-- filename: 2634826-slum-im-hafenviertel-0.jpg
+  params:
+    description: die amerikanische Kultur hat hier starken Einfluss. Die Kids kennen alle Rapper von East- und Westcoast :)
+- src: 2634826-slum-im-hafenviertel-0.jpg
   title: Slum im Hafenviertel
-- filename: 2634827-so-begruessen-mich-die-philippinen-0.jpg
+- src: 2634827-so-begruessen-mich-die-philippinen-0.jpg
   title: So begruessen mich die Philippinen
-  description: So begruessen mich die Philippinen auf der Bruecke zwischen dem Flughafen auf der Insel Mactan und Cebu City
-- filename: 2634828-immigration-office-0.jpg
+  params:
+    description: So begruessen mich die Philippinen auf der Bruecke zwischen dem Flughafen auf der Insel Mactan und Cebu City
+- src: 2634828-immigration-office-0.jpg
   title: Immigration Office
-  description: eine buerokratische Tortur
-- filename: 2634830-kanone-im-fort-de-san-pedro-0.jpg
+  params:
+    description: eine buerokratische Tortur
+- src: 2634830-kanone-im-fort-de-san-pedro-0.jpg
   title: Kanone im Fort de San Pedro
-  description: Kanone im Fort de San Pedro
-- filename: 2634831-auf-dem-weg-zum-carbon-market-0.jpg
+  params:
+    description: Kanone im Fort de San Pedro
+- src: 2634831-auf-dem-weg-zum-carbon-market-0.jpg
   title: auf dem Weg zum Carbon Market
-  description: auf dem Weg zum Carbon Market ein sehr aermliches Viertel
-- filename: 2634832-alles-moegliche-was-unter-den-begriff-lebend-faellt-0.jpg
+  params:
+    description: auf dem Weg zum Carbon Market ein sehr aermliches Viertel
+- src: 2634832-alles-moegliche-was-unter-den-begriff-lebend-faellt-0.jpg
   title: alles moegliche was unter den Begriff lebend faellt...
-  description: '... kann hier gekauft werden'
-- filename: 2634833-dieses-foto-wuerde-ich-gerne-piet-widmen-0.jpg
+  params:
+    description: '... kann hier gekauft werden'
+- src: 2634833-dieses-foto-wuerde-ich-gerne-piet-widmen-0.jpg
   title: dieses Foto wuerde ich gerne Piet widmen :)
-  description: dieses Foto wuerde ich gerne Piet widmen :)
-- filename: 2634834-sauberkeit-ist-hier-nur-theoretisch-wichtig-0.jpg
+  params:
+    description: dieses Foto wuerde ich gerne Piet widmen :)
+- src: 2634834-sauberkeit-ist-hier-nur-theoretisch-wichtig-0.jpg
   title: Sauberkeit ist hier nur theoretisch wichtig
-  description: Sauberkeit ist hier nur theoretisch wichtig okey?!
-- filename: 2634836-basilica-de-san-nino-0.jpg
+  params:
+    description: Sauberkeit ist hier nur theoretisch wichtig okey?!
+- src: 2634836-basilica-de-san-nino-0.jpg
   title: Basilica de San Nino
-- filename: 2634837-und-eine-hochzeit-0.jpg
+- src: 2634837-und-eine-hochzeit-0.jpg
   title: und eine Hochzeit
-- filename: 2634838-die-colon-street-0.jpg
+- src: 2634838-die-colon-street-0.jpg
   title: Die Colon Street
-  description: eine sehr lebendige Hauptstrasse in Cebu
-- filename: 2634839-die-faehre-faehrt-direkt-in-ein-gewitter-0.jpg
+  params:
+    description: eine sehr lebendige Hauptstrasse in Cebu
+- src: 2634839-die-faehre-faehrt-direkt-in-ein-gewitter-0.jpg
   title: Die Faehre faehrt direkt in ein Gewitter
-  description: Die Faehre faehrt direkt in ein Gewitter
-- filename: 2634840-zwei-schwestern-schlafen-neben-meinem-bett-0.jpg
+  params:
+    description: Die Faehre faehrt direkt in ein Gewitter
+- src: 2634840-zwei-schwestern-schlafen-neben-meinem-bett-0.jpg
   title: Zwei Schwestern schlafen neben meinem Bett
-  description: Zwei Schwestern schlafen neben meinem Bett
-- filename: 2634842-die-legion-der-hafenarbeiter-0.jpg
+  params:
+    description: Zwei Schwestern schlafen neben meinem Bett
+- src: 2634842-die-legion-der-hafenarbeiter-0.jpg
   title: Die Legion der Hafenarbeiter
-  description: Die Legion der Hafenarbeiter wartet auf die Faehre
-- filename: 2634843-und-die-kids-schwimmen-rund-um-die-faehre-0.jpg
+  params:
+    description: Die Legion der Hafenarbeiter wartet auf die Faehre
+- src: 2634843-und-die-kids-schwimmen-rund-um-die-faehre-0.jpg
   title: und die Kids schwimmen rund um die Faehre
-  description: und die Kids schwimmen rund um die Faehre in Deutschland undenkbar, wie gefaehrlich! :)
+  params:
+    description: und die Kids schwimmen rund um die Faehre in Deutschland undenkbar, wie gefaehrlich! :)
 type: post
 ---
 

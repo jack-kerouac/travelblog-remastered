@@ -8,91 +8,94 @@ location:
 - Wyoming
 - Yellowstone National Park
 original_url: https://www.travelblog.org/north-america/united-states/wyoming/yellowstone-national-park/blog-809009
-images:
-- filename: 7728586-grand-prismatic-spring-0.jpg
+resources:
+- src: 7728586-grand-prismatic-spring-0.jpg
   title: Grand Prismatic Spring
-- filename: 7728581-yellowstone-national-park-0.jpg
+- src: 7728581-yellowstone-national-park-0.jpg
   title: Yellowstone National Park
-- filename: 7728557-pr-riehunde-am-devil-s-tower-0.jpg
+- src: 7728557-pr-riehunde-am-devil-s-tower-0.jpg
   title: Präriehunde am Devil's Tower
-- filename: 7728558-camping-an-der-devil-s-tower-lodge-0.jpg
+- src: 7728558-camping-an-der-devil-s-tower-lodge-0.jpg
   title: Camping an der Devil's Tower Lodge
-- filename: 7728559-unser-auto-hat-mal-wieder-seine-inhalte-ausgespuckt-0.jpg
+- src: 7728559-unser-auto-hat-mal-wieder-seine-inhalte-ausgespuckt-0.jpg
   title: unser Auto hat mal wieder seine Inhalte ausgespuckt
-- filename: 7728595-piet-morgens-in-der-route--durance--am-devils-tower-0.jpg
+- src: 7728595-piet-morgens-in-der-route--durance--am-devils-tower-0.jpg
   title: Piet morgens in der Route "Durance" am Devils Tower
-- filename: 7728596-ich-in-seill-nge-vier-0.jpg
+- src: 7728596-ich-in-seill-nge-vier-0.jpg
   title: ich in Seillänge vier
-- filename: 7728560-chrissi-an-der-home-alone-wall-ten-sleep-canyon-0.jpg
+- src: 7728560-chrissi-an-der-home-alone-wall-ten-sleep-canyon-0.jpg
   title: Chrissi an der Home Alone Wall, Ten Sleep Canyon
-- filename: 7728561-piet-0.jpg
+- src: 7728561-piet-0.jpg
   title: Piet
-- filename: 7728562-mieses-wetter-0.jpg
+- src: 7728562-mieses-wetter-0.jpg
   title: mieses Wetter!
-- filename: 7728566-oben-im-canyon-ist-es-aber-noch-schlimmer-0.jpg
+- src: 7728566-oben-im-canyon-ist-es-aber-noch-schlimmer-0.jpg
   title: oben im Canyon ist es aber noch schlimmer
-- filename: 7728564-ten-sleep-0.jpg
+- src: 7728564-ten-sleep-0.jpg
   title: Ten Sleep
-- filename: 7728597-ten-sleep-salon-0.jpg
+- src: 7728597-ten-sleep-salon-0.jpg
   title: Ten Sleep Salon
-- filename: 7728565-die-gleiche-scheune-haben-wir-vor-zwei-jahren-schon-fotografiert-0.jpg
+- src: 7728565-die-gleiche-scheune-haben-wir-vor-zwei-jahren-schon-fotografiert-0.jpg
   title: die gleiche Scheune haben wir vor zwei Jahren schon fotografiert
-- filename: 7728567-piet-und-chrissi-lesen-0.jpg
+- src: 7728567-piet-und-chrissi-lesen-0.jpg
   title: Piet und Chrissi lesen
-- filename: 7728563-endless-skies-0.jpg
+- src: 7728563-endless-skies-0.jpg
   title: endless skies
-- filename: 7728568-ich-bin-auch-dabei-0.jpg
+- src: 7728568-ich-bin-auch-dabei-0.jpg
   title: ich bin auch dabei :)
-- filename: 7728569-crematorium-extension--5-12a-0.jpg
+- src: 7728569-crematorium-extension--5-12a-0.jpg
   title: '"Crematorium Extension", 5.12a'
-- filename: 7728570-der-start-dazu-0.jpg
+- src: 7728570-der-start-dazu-0.jpg
   title: der Start dazu
-- filename: 7728571-chrissi-am-sektor--french-cattle-ranch-0.jpg
+- src: 7728571-chrissi-am-sektor--french-cattle-ranch-0.jpg
   title: Chrissi am Sektor "French Cattle Ranch"
-- filename: 7728572-auf-dem-r-ckweg-zum-auto-0.jpg
+- src: 7728572-auf-dem-r-ckweg-zum-auto-0.jpg
   title: auf dem Rückweg zum Auto
-- filename: 7728573-nach-einem-erfolgreichen-klettertag-0.jpg
+- src: 7728573-nach-einem-erfolgreichen-klettertag-0.jpg
   title: nach einem erfolgreichen Klettertag
-- filename: 7728574-fotos-von-oben-0.jpg
+- src: 7728574-fotos-von-oben-0.jpg
   title: Fotos von oben!
-- filename: 7728575-img_1038-0.jpg
+- src: 7728575-img_1038-0.jpg
   title: IMG_1038
-- filename: 7728576-charry--5-12b-0.jpg
+- src: 7728576-charry--5-12b-0.jpg
   title: '"Charry", 5.12b'
-- filename: 7728577-back-in-thermopolis-0.jpg
+- src: 7728577-back-in-thermopolis-0.jpg
   title: Back in Thermopolis
-  description: Soaking im state bath house
-- filename: 7728578-richtung-yellowstone-0.jpg
+  params:
+    description: Soaking im state bath house
+- src: 7728578-richtung-yellowstone-0.jpg
   title: Richtung Yellowstone
-- filename: 7728579-alte-waldbr-nde-im-yellowstone-0.jpg
+- src: 7728579-alte-waldbr-nde-im-yellowstone-0.jpg
   title: alte Waldbrände im Yellowstone
-- filename: 7728580-grand-canyon-of-the-yellowstone-0.jpg
+- src: 7728580-grand-canyon-of-the-yellowstone-0.jpg
   title: '"Grand Canyon of the Yellowstone"'
-- filename: 7728582-mud-pot-0.jpg
+- src: 7728582-mud-pot-0.jpg
   title: Mud Pot
-  description: blub
-- filename: 7728583-wir-drei-0.jpg
+  params:
+    description: blub
+- src: 7728583-wir-drei-0.jpg
   title: wir drei
-- filename: 7728584-ich-am-humpeln-0.jpg
+- src: 7728584-ich-am-humpeln-0.jpg
   title: ich am humpeln
-  description: bin am Tag zuvor mit dem Knie voraus in einer Kletterroute gestürzt
-- filename: 7728585-buffalo-0.jpg
+  params:
+    description: bin am Tag zuvor mit dem Knie voraus in einer Kletterroute gestürzt
+- src: 7728585-buffalo-0.jpg
   title: Buffalo
-- filename: 7728587-piet-schl-gt-ab-0.jpg
+- src: 7728587-piet-schl-gt-ab-0.jpg
   title: Piet schlägt ab
-- filename: 7728588-warrior-flo-0.jpg
+- src: 7728588-warrior-flo-0.jpg
   title: Warrior Flo
-- filename: 7728589-grand-teton-np-0.jpg
+- src: 7728589-grand-teton-np-0.jpg
   title: Grand Teton NP
-- filename: 7728590-squirrels-in-love-0.jpg
+- src: 7728590-squirrels-in-love-0.jpg
   title: Squirrels in love
-- filename: 7728591-jenny-lake-0.jpg
+- src: 7728591-jenny-lake-0.jpg
   title: Jenny Lake
-- filename: 7728592-sonnenuntergang--ber-den-grand-tetons-0.jpg
+- src: 7728592-sonnenuntergang--ber-den-grand-tetons-0.jpg
   title: Sonnenuntergang über den Grand Tetons
-- filename: 7728593-unz-hlige-b-ffel-0.jpg
+- src: 7728593-unz-hlige-b-ffel-0.jpg
   title: Unzählige Büffel
-- filename: 7728594-huhuhu-0.jpg
+- src: 7728594-huhuhu-0.jpg
   title: huhuhu
 type: post
 ---

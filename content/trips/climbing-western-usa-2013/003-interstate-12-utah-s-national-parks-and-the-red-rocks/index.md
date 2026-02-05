@@ -8,54 +8,60 @@ location:
 - Utah
 - Zion National Park
 original_url: https://www.travelblog.org/north-america/united-states/utah/zion-national-park/blog-783041
-images:
-- filename: 7486490-grand-staircase--escalante-national-monument-0.jpg
+resources:
+- src: 7486490-grand-staircase--escalante-national-monument-0.jpg
   title: Grand Staircase - Escalante National Monument
-- filename: 7486487-paradise-valley-am-beginn-der-interstate-12-0.jpg
+- src: 7486487-paradise-valley-am-beginn-der-interstate-12-0.jpg
   title: Paradise Valley, am Beginn der Interstate 12
-- filename: 7486488-frieder-auf-dem-hogback-drive-0.jpg
+- src: 7486488-frieder-auf-dem-hogback-drive-0.jpg
   title: Frieder auf dem Hogback Drive
-  description: im Escalante National Monument
-- filename: 7486489-und-nochmal-die-grand-staircases-0.jpg
+  params:
+    description: im Escalante National Monument
+- src: 7486489-und-nochmal-die-grand-staircases-0.jpg
   title: und nochmal die Grand Staircases
-  description: der Himmel ist hier in den USA irgendwie größer
-- filename: 7486491-bryce-canyon-national-park-0.jpg
+  params:
+    description: der Himmel ist hier in den USA irgendwie größer
+- src: 7486491-bryce-canyon-national-park-0.jpg
   title: Bryce Canyon National Park
-- filename: 7486492-ein-paar-meilen-wandern-durch-die--hoodoos-0.jpg
+- src: 7486492-ein-paar-meilen-wandern-durch-die--hoodoos-0.jpg
   title: Ein paar Meilen wandern durch die "Hoodoos"
-  description: Hoodoos sind diese krassen Felsnadeln
-- filename: 7486493-rock-bridges-zwischen-den-hoodoos-0.jpg
+  params:
+    description: Hoodoos sind diese krassen Felsnadeln
+- src: 7486493-rock-bridges-zwischen-den-hoodoos-0.jpg
   title: Rock bridges zwischen den Hoodoos
-- filename: 7486494-queens-garden-0.jpg
+- src: 7486494-queens-garden-0.jpg
   title: Queens Garden
-- filename: 7486495-da-ich-den-foto-trage-0.jpg
+- src: 7486495-da-ich-den-foto-trage-0.jpg
   title: da ich den Foto trage
-  description: sind nur die anderen dreien auf den Fotos
-- filename: 7486496-blick-vom-osteingang-des-zion-national-parks-0.jpg
+  params:
+    description: sind nur die anderen dreien auf den Fotos
+- src: 7486496-blick-vom-osteingang-des-zion-national-parks-0.jpg
   title: Blick vom Osteingang des Zion National Parks
-- filename: 7486497-rechts-gehts-ins-zion-valley-0.jpg
+- src: 7486497-rechts-gehts-ins-zion-valley-0.jpg
   title: rechts gehts ins Zion Valley
-- filename: 7486506-angels-landing-rechts-runter-0.jpg
+- src: 7486506-angels-landing-rechts-runter-0.jpg
   title: Angels Landing, rechts runter
-- filename: 7486507-angels-landing-links-runter-0.jpg
+- src: 7486507-angels-landing-links-runter-0.jpg
   title: Angels Landing, links runter
-- filename: 7486498-angels-landing-0.jpg
+- src: 7486498-angels-landing-0.jpg
   title: Angels Landing
-  description: Nach der Wanderung da links hoch haben wir uns das Bad verdient
-- filename: 7486499-red-rocks-scenic-drive-bei-las-vegas-0.jpg
+  params:
+    description: Nach der Wanderung da links hoch haben wir uns das Bad verdient
+- src: 7486499-red-rocks-scenic-drive-bei-las-vegas-0.jpg
   title: Red Rocks Scenic Drive, bei Las Vegas
-- filename: 7486500-in-den-red-rocks-leben-wirklich-schildkr-ten-wild-0.jpg
+- src: 7486500-in-den-red-rocks-leben-wirklich-schildkr-ten-wild-0.jpg
   title: in den Red Rocks leben wirklich Schildkröten wild
-- filename: 7486501-bl-hende-kakteen-0.jpg
+- src: 7486501-bl-hende-kakteen-0.jpg
   title: blühende Kakteen
-- filename: 7486502-frieder-in--perfect-poser--v2-0.jpg
+- src: 7486502-frieder-in--perfect-poser--v2-0.jpg
   title: Frieder in "Perfect Poser", V2
-- filename: 7486504-der-hoover-dam-0.jpg
+- src: 7486504-der-hoover-dam-0.jpg
   title: Der Hoover Dam
-- filename: 7486505-staut-den-lake-mead-0.jpg
+- src: 7486505-staut-den-lake-mead-0.jpg
   title: staut den Lake Mead
-  description: ein Naherholungsgebiet für die Einwohner von Las Vegas
-- filename: 7486503-die-fallrohre-hinter-dem-damm-0.jpg
+  params:
+    description: ein Naherholungsgebiet für die Einwohner von Las Vegas
+- src: 7486503-die-fallrohre-hinter-dem-damm-0.jpg
   title: Die Fallrohre hinter dem Damm
 type: post
 ---

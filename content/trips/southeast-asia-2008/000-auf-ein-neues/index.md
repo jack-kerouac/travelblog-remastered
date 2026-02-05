@@ -8,10 +8,11 @@ location:
 - Bavaria
 - Günzburg
 original_url: https://www.travelblog.org/europe/germany/bavaria/g-nzburg/blog-277964
-images:
-- filename: 2335740-s-dostasien-2008-0.jpg
+resources:
+- src: 2335740-s-dostasien-2008-0.jpg
   title: Südostasien 2008
-  description: Ein überraschendes Geschenk von meinen lieben Freunden in Erlangen
+  params:
+    description: Ein überraschendes Geschenk von meinen lieben Freunden in Erlangen
 type: post
 ---
 

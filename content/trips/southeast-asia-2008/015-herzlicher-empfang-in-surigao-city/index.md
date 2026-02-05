@@ -7,21 +7,23 @@ location:
 - Philippines
 - Surigao City
 original_url: https://www.travelblog.org/asia/philippines/surigao-city/blog-309204
-images:
-- filename: 2677010-der-strand-von-ipil-0.jpg
+resources:
+- src: 2677010-der-strand-von-ipil-0.jpg
   title: der Strand von Ipil
-- filename: 2677011-meine-willkommensflagge-0.jpg
+- src: 2677011-meine-willkommensflagge-0.jpg
   title: meine Willkommensflagge :)
-- filename: 2677013-das-weite-meer-0.jpg
+- src: 2677013-das-weite-meer-0.jpg
   title: das weite Meer...
-- filename: 2677016-san-miguel-das-bier-der-wahl-hier-0.jpg
+- src: 2677016-san-miguel-das-bier-der-wahl-hier-0.jpg
   title: San Miguel, das Bier der Wahl hier...
-  description: San Miguel, das Bier der Wahl hier... ...und auch meist das einzige
-- filename: 2677018-eman-1.jpg
+  params:
+    description: San Miguel, das Bier der Wahl hier... ...und auch meist das einzige
+- src: 2677018-eman-1.jpg
   title: Eman
-- filename: 2736209-pater-castro-und-ich-0.jpg
+- src: 2736209-pater-castro-und-ich-0.jpg
   title: Pater Castro und ich
-  description: ein Nachtrag :)
+  params:
+    description: ein Nachtrag :)
 type: post
 ---
 

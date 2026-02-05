@@ -8,35 +8,38 @@ location:
 - Mandalay Region
 - Hsipaw
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-410042
-images:
-- filename: 3948798-the-road-to-namhsan-0.jpg
+resources:
+- src: 3948798-the-road-to-namhsan-0.jpg
   title: The Road to Namhsan
-- filename: 3948804-hitchin--a-ride-0.jpg
+- src: 3948804-hitchin--a-ride-0.jpg
   title: Hitchin' a ride
-  description: Autstop am Strassenrand
-- filename: 3948808-zuerst-noch-recht-ordentlich-und-geteert-0.jpg
+  params:
+    description: Autstop am Strassenrand
+- src: 3948808-zuerst-noch-recht-ordentlich-und-geteert-0.jpg
   title: zuerst noch recht ordentlich und geteert...
-- filename: 3948809-dann-schlimmer-0.jpg
+- src: 3948809-dann-schlimmer-0.jpg
   title: dann schlimmer...
-- filename: 3948810-und-schliesslich-nur-noch-steine-0.jpg
+- src: 3948810-und-schliesslich-nur-noch-steine-0.jpg
   title: '...und schliesslich nur noch Steine'
-- filename: 3948811-doch-wunderbare-landschaften-0.jpg
+- src: 3948811-doch-wunderbare-landschaften-0.jpg
   title: doch wunderbare Landschaften
-  description: Reisfelder ueberall
-- filename: 3948812-mein-motorcycle-0.jpg
+  params:
+    description: Reisfelder ueberall
+- src: 3948812-mein-motorcycle-0.jpg
   title: mein Motorcycle
-- filename: 3948813-geplatzter-leifen-0.jpg
+- src: 3948813-geplatzter-leifen-0.jpg
   title: Geplatzter Leifen
-- filename: 3948814-ein-lotterieverkaeufer-0.jpg
+- src: 3948814-ein-lotterieverkaeufer-0.jpg
   title: ein Lotterieverkaeufer
-  description: wartet am Rande der Strasse, mitten im Nirgendwo. Es vergeht teilweise eine Stunde bis man von einem Dorf entlang der Strasse ins naechste kommt.
-- filename: 3948816-der-regen-hinter-mir-ist-ein-ansporn-0.jpg
+  params:
+    description: wartet am Rande der Strasse, mitten im Nirgendwo. Es vergeht teilweise eine Stunde bis man von einem Dorf entlang der Strasse ins naechste kommt.
+- src: 3948816-der-regen-hinter-mir-ist-ein-ansporn-0.jpg
   title: Der Regen hinter mir ist ein Ansporn
-- filename: 3948817-doerfer-auf-den-huegelgipfeln-0.jpg
+- src: 3948817-doerfer-auf-den-huegelgipfeln-0.jpg
   title: Doerfer auf den Huegelgipfeln
-- filename: 3948818-ein-bus-im-schlamm-0.jpg
+- src: 3948818-ein-bus-im-schlamm-0.jpg
   title: Ein Bus im Schlamm
-- filename: 3948819-so-wird-hier-getankt-0.jpg
+- src: 3948819-so-wird-hier-getankt-0.jpg
   title: So wird hier getankt.
 type: post
 ---

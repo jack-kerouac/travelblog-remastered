@@ -8,36 +8,37 @@ location:
 - La Paz Department
 - Isla del Sol
 original_url: https://www.travelblog.org/south-america/bolivia/la-paz-department/isla-del-sol/blog-750031
-images:
-- filename: 7215190-titicacasee-0.jpg
+resources:
+- src: 7215190-titicacasee-0.jpg
   title: Titicacasee
-- filename: 7215187-typische-haartracht-0.jpg
+- src: 7215187-typische-haartracht-0.jpg
   title: typische Haartracht
-- filename: 7215188-challapampa-0.jpg
+- src: 7215188-challapampa-0.jpg
   title: Challapampa
-- filename: 7215189-die-halbinsel-von-challapampa-0.jpg
+- src: 7215189-die-halbinsel-von-challapampa-0.jpg
   title: Die Halbinsel von Challapampa
-- filename: 7215191-der-weg-geht-einmal-0.jpg
+- src: 7215191-der-weg-geht-einmal-0.jpg
   title: der Weg geht einmal...
-- filename: 7215192-quer-ueber-die-insel-0.jpg
+- src: 7215192-quer-ueber-die-insel-0.jpg
   title: '...quer ueber die Insel'
-- filename: 7215193-die-verdiente-pizza-mit-ausblick-0.jpg
+- src: 7215193-die-verdiente-pizza-mit-ausblick-0.jpg
   title: die verdiente Pizza mit Ausblick
-- filename: 7215194-inkatreppe-0.jpg
+- src: 7215194-inkatreppe-0.jpg
   title: Inkatreppe
-- filename: 7215195-sind-wohl-alles-romantiker-die-bolivianer-0.jpg
+- src: 7215195-sind-wohl-alles-romantiker-die-bolivianer-0.jpg
   title: Sind wohl alles Romantiker, die Bolivianer
-- filename: 7215196-autofaehre-ueber-den-titicacasee-0.jpg
+- src: 7215196-autofaehre-ueber-den-titicacasee-0.jpg
   title: Autofaehre ueber den Titicacasee
-- filename: 7215197-die-saftfrau-macht-uns-guten-saft-0.jpg
+- src: 7215197-die-saftfrau-macht-uns-guten-saft-0.jpg
   title: die Saftfrau macht uns guten Saft
-- filename: 7215198-zug-von-oruro-nach-uyuni-0.jpg
+- src: 7215198-zug-von-oruro-nach-uyuni-0.jpg
   title: Zug von Oruro nach Uyuni
-- filename: 7215199-recht-viele-flammingos-0.jpg
+- src: 7215199-recht-viele-flammingos-0.jpg
   title: recht viele Flammingos
-- filename: 7215200-lamafleisch-0.jpg
+- src: 7215200-lamafleisch-0.jpg
   title: Lamafleisch
-  description: und zwei Teller Essen
+  params:
+    description: und zwei Teller Essen
 type: post
 ---
 

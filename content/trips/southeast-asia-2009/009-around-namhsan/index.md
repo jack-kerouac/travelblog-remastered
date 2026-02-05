@@ -8,60 +8,66 @@ location:
 - Mandalay Region
 - Hsipaw
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-411027
-images:
-- filename: 3955943-begeisterte-kids-in-namhsan-0.jpg
+resources:
+- src: 3955943-begeisterte-kids-in-namhsan-0.jpg
   title: Begeisterte Kids in Namhsan
-- filename: 3955944-blick-ueber-das-dorf-in-der-naehe-von-namhsan-0.jpg
+- src: 3955944-blick-ueber-das-dorf-in-der-naehe-von-namhsan-0.jpg
   title: Blick ueber das Dorf in der Naehe von Namhsan
-- filename: 3955947-der-junge-moench-hat-mir-den-weg-auf-den-gipfel-gezeigt-0.jpg
+- src: 3955947-der-junge-moench-hat-mir-den-weg-auf-den-gipfel-gezeigt-0.jpg
   title: Der junge Moench hat mir den Weg auf den Gipfel gezeigt
-- filename: 3955948-sehr-unbeschwerter-umgang-mit-der-natur-hier-0.jpg
+- src: 3955948-sehr-unbeschwerter-umgang-mit-der-natur-hier-0.jpg
   title: sehr unbeschwerter Umgang mit der Natur hier
-- filename: 3955951-fried-rice-0.jpg
+- src: 3955951-fried-rice-0.jpg
   title: Fried Rice
-- filename: 3955956-gebetssaal-im-kloster-0.jpg
+- src: 3955956-gebetssaal-im-kloster-0.jpg
   title: Gebetssaal im Kloster
-- filename: 3955958-pagodas-pagodas-pagodas-0.jpg
+- src: 3955958-pagodas-pagodas-pagodas-0.jpg
   title: Pagodas, Pagodas, Pagodas
-- filename: 3955959-pferde-sind-hier-normales-transportmittel-0.jpg
+- src: 3955959-pferde-sind-hier-normales-transportmittel-0.jpg
   title: Pferde sind hier normales Transportmittel
-- filename: 3955960-auf-dem-hoechsten-berg-in-der-umgebung-von-namhsan-0.jpg
+- src: 3955960-auf-dem-hoechsten-berg-in-der-umgebung-von-namhsan-0.jpg
   title: Auf dem hoechsten Berg in der Umgebung von Namhsan
-- filename: 3955962-mitten-in-den-wolken-0.jpg
+- src: 3955962-mitten-in-den-wolken-0.jpg
   title: mitten in den Wolken
-  description: 'dahinter: Ruby Land. Hier werden Edelsteine gewonnen. Zutritt fuer Touris strengstens verboten. Bis vor 10 Jahren wurde hier Opium im grossen Stil angebaut.'
-- filename: 3955963-was-fuer-ein-ausblick-0.jpg
+  params:
+    description: 'dahinter: Ruby Land. Hier werden Edelsteine gewonnen. Zutritt fuer Touris strengstens verboten. Bis vor 10 Jahren wurde hier Opium im grossen Stil angebaut.'
+- src: 3955963-was-fuer-ein-ausblick-0.jpg
   title: Was fuer ein Ausblick...
-- filename: 3955964-mittagessen-im-kloster-auf-dem-gipfel-0.jpg
+- src: 3955964-mittagessen-im-kloster-auf-dem-gipfel-0.jpg
   title: Mittagessen im Kloster auf dem Gipfel
-- filename: 3955965-der-klostervorsteher-abt-0.jpg
+- src: 3955965-der-klostervorsteher-abt-0.jpg
   title: Der Klostervorsteher (Abt?)
-  description: sehr nett, spricht aber leider kein Englisch
-- filename: 3955968-und-noch-ein-monk-0.jpg
+  params:
+    description: sehr nett, spricht aber leider kein Englisch
+- src: 3955968-und-noch-ein-monk-0.jpg
   title: und noch ein Monk
-  description: in seinem fuer Myanmar typischen weinroten Gewand
-- filename: 3955969-die-strassenverhaeltnisse-sind-furchtbar-0.jpg
+  params:
+    description: in seinem fuer Myanmar typischen weinroten Gewand
+- src: 3955969-die-strassenverhaeltnisse-sind-furchtbar-0.jpg
   title: Die Strassenverhaeltnisse sind furchtbar
-- filename: 3955970-nach-einem-platzregen-stecken-wir-tief-im-matsch-0.jpg
+- src: 3955970-nach-einem-platzregen-stecken-wir-tief-im-matsch-0.jpg
   title: Nach einem Platzregen stecken wir tief im Matsch
-  description: Die Locals nennen das Fahren auf solchen Strassen "kraulen". Die Fuesse kraulen durch den Matsch und so haelt man grob die Balance.
-- filename: 3955971-der-junge-rupft-eine-tote-maus-0.jpg
+  params:
+    description: Die Locals nennen das Fahren auf solchen Strassen "kraulen". Die Fuesse kraulen durch den Matsch und so haelt man grob die Balance.
+- src: 3955971-der-junge-rupft-eine-tote-maus-0.jpg
   title: Der Junge rupft eine tote Maus...
-- filename: 3955972-leicht-schuechteren-maedels-0.jpg
+- src: 3955972-leicht-schuechteren-maedels-0.jpg
   title: leicht schuechteren Maedels
-- filename: 3955974-er-wollte-auch-ein-foto-0.jpg
+- src: 3955974-er-wollte-auch-ein-foto-0.jpg
   title: Er wollte auch ein Foto...
-- filename: 3955975-der-dorfvorsteher-0.jpg
+- src: 3955975-der-dorfvorsteher-0.jpg
   title: Der Dorfvorsteher
-  description: Zusammen mit ihm, seiner Familie und Shandi sitze ich ums Feuer im Haus.
-- filename: 3955976-seine-tochter-0.jpg
+  params:
+    description: Zusammen mit ihm, seiner Familie und Shandi sitze ich ums Feuer im Haus.
+- src: 3955976-seine-tochter-0.jpg
   title: seine Tochter
-- filename: 3955978-und-abendessen-0.jpg
+- src: 3955978-und-abendessen-0.jpg
   title: Und Abendessen
-  description: Die Finger formen einen Reisball, den man dann in die verschiedenen Gerichte auf dem Tisch dipt. Ich bevorzuge einen Loeffel.
-- filename: 3955979-shandi-und-mein-bett-0.jpg
+  params:
+    description: Die Finger formen einen Reisball, den man dann in die verschiedenen Gerichte auf dem Tisch dipt. Ich bevorzuge einen Loeffel.
+- src: 3955979-shandi-und-mein-bett-0.jpg
   title: Shandi und mein Bett
-- filename: 3955980-die-grannys-0.jpg
+- src: 3955980-die-grannys-0.jpg
   title: Die Grannys :)
 type: post
 ---

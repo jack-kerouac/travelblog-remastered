@@ -8,55 +8,69 @@ location:
 - South
 - Phnom Penh
 original_url: https://www.travelblog.org/asia/cambodia/south/phnom-penh/blog-86661
-images:
-- filename: 542308-von-der-roten-khmer-massakrierte-kambodschaner-0.jpg
+resources:
+- src: 542308-von-der-roten-khmer-massakrierte-kambodschaner-0.jpg
   title: Von der Roten Khmer massakrierte Kambodschaner
-  description: Von der Roten Khmer massakrierte Kambodschaner
-- filename: 542312-einzelhaft-0.jpg
+  params:
+    description: Von der Roten Khmer massakrierte Kambodschaner
+- src: 542312-einzelhaft-0.jpg
   title: Einzelhaft
-- filename: 542315-typische-pagode-nach-khmer-scher-bauart-0.jpg
+- src: 542315-typische-pagode-nach-khmer-scher-bauart-0.jpg
   title: typische Pagode, nach khmer'scher Bauart
-  description: typische Pagode, nach khmer'scher Bauart
-- filename: 542319-wir-chillen-0.jpg
+  params:
+    description: typische Pagode, nach khmer'scher Bauart
+- src: 542319-wir-chillen-0.jpg
   title: wir chillen...
-  description: 'v.l.n.r.: Deutsche, deren Name mir schon wieder entfallen ist, Sam, Tony, Paul, meine Wenigkeit, Via und Nina (beide aus Muenchen)'
-- filename: 542321-anschlagtafel-im-tuol-sleng-museum-0.jpg
+  params:
+    description: 'v.l.n.r.: Deutsche, deren Name mir schon wieder entfallen ist, Sam, Tony, Paul, meine Wenigkeit, Via und Nina (beide aus Muenchen)'
+- src: 542321-anschlagtafel-im-tuol-sleng-museum-0.jpg
   title: Anschlagtafel im Tuol Sleng Museum
-  description: Anschlagtafel im Tuol Sleng Museum
-- filename: 542324-portraits-der-inhaftierten-0.jpg
+  params:
+    description: Anschlagtafel im Tuol Sleng Museum
+- src: 542324-portraits-der-inhaftierten-0.jpg
   title: Portraits der Inhaftierten
-  description: Wie auch im dritten Reich wurde hier penibel ueber alle Inhaftierten Buch gefuehrt
-- filename: 542328-eine-schule-wird-zum-foltergefaegnis-0.jpg
+  params:
+    description: Wie auch im dritten Reich wurde hier penibel ueber alle Inhaftierten Buch gefuehrt
+- src: 542328-eine-schule-wird-zum-foltergefaegnis-0.jpg
   title: eine Schule wird zum Foltergefaegnis
-  description: eine Schule wird zum Foltergefaegnis
-- filename: 542331-dabei-schaut-es-eigentlich-sehr-friedlich-aus-0.jpg
+  params:
+    description: eine Schule wird zum Foltergefaegnis
+- src: 542331-dabei-schaut-es-eigentlich-sehr-friedlich-aus-0.jpg
   title: dabei schaut es eigentlich sehr friedlich aus
-  description: dabei schaut es eigentlich sehr friedlich aus
-- filename: 542333-das-voelkermord-mahnmal-auf-den-killing-fields-2.jpg
+  params:
+    description: dabei schaut es eigentlich sehr friedlich aus
+- src: 542333-das-voelkermord-mahnmal-auf-den-killing-fields-2.jpg
   title: das Voelkermord-Mahnmal auf den Killing Fields
-  description: das Voelkermord-Mahnmal auf den Killing Fields man beachte die Abertausende aufgeschichtete Schaedel hinter dem Glas
-- filename: 542336-mass-grave-of-450-victims-0.jpg
+  params:
+    description: das Voelkermord-Mahnmal auf den Killing Fields man beachte die Abertausende aufgeschichtete Schaedel hinter dem Glas
+- src: 542336-mass-grave-of-450-victims-0.jpg
   title: mass grave of 450 victims
-- filename: 542339-killing-tree-0.jpg
+- src: 542339-killing-tree-0.jpg
   title: killing tree
-- filename: 542345-goetterdaemerung-1.jpg
+- src: 542345-goetterdaemerung-1.jpg
   title: Goetterdaemerung
-  description: vom Unabhaengigkeitsdenkmal himmelwaerts
-- filename: 542351-eine-der-schoenen-seiten-phnom-penhs-0.jpg
+  params:
+    description: vom Unabhaengigkeitsdenkmal himmelwaerts
+- src: 542351-eine-der-schoenen-seiten-phnom-penhs-0.jpg
   title: eine der schoenen Seiten Phnom Penhs
-  description: eine der schoenen Seiten Phnom Penhs
-- filename: 542354-die-riverside-0.jpg
+  params:
+    description: eine der schoenen Seiten Phnom Penhs
+- src: 542354-die-riverside-0.jpg
   title: die Riverside
-  description: die Riverside Nachts voller Leben und Muell :)
-- filename: 542355-lisa-in-billard-optimal-haltung-0.jpg
+  params:
+    description: die Riverside Nachts voller Leben und Muell :)
+- src: 542355-lisa-in-billard-optimal-haltung-0.jpg
   title: Lisa in Billard-Optimal-Haltung
-  description: Lisa in Billard-Optimal-Haltung
-- filename: 542359-plattenbauten-0.jpg
+  params:
+    description: Lisa in Billard-Optimal-Haltung
+- src: 542359-plattenbauten-0.jpg
   title: Plattenbauten
-  description: doch irgendwie schauen sie nett aus
-- filename: 542363-der-mobb-erwartet-uns-0.jpg
+  params:
+    description: doch irgendwie schauen sie nett aus
+- src: 542363-der-mobb-erwartet-uns-0.jpg
   title: der Mobb erwartet uns :)
-  description: Sowas habe ich noch nie erlebt. Irgendwie lustig, aber nach 2 Minuten wirds anstrengend.
+  params:
+    description: Sowas habe ich noch nie erlebt. Irgendwie lustig, aber nach 2 Minuten wirds anstrengend.
 type: post
 ---
 
