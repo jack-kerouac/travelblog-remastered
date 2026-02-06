@@ -16,7 +16,7 @@ resources:
 - src: 2354729-paht-thai-0.jpg
   title: Paht Thai
   params:
-    description: 'Paht Thai auf deutsch: gebratene Nudeln mit Bambussprossen und Ei'
+    description: 'auf deutsch: gebratene Nudeln mit Bambussprossen und Ei'
 - src: 2354731-enno-0.jpg
   title: Enno
   params:
@@ -45,8 +45,6 @@ resources:
     description: Pflicht-Touri-Foto
 - src: 2354751-waechter-des-liegenden-buddhas-0.jpg
   title: Waechter des liegenden Buddhas
-  params:
-    description: Waechter des liegenden Buddhas
 - src: 2354755-hm-0.jpg
   title: hm...
   params:
@@ -63,8 +61,6 @@ resources:
     description: vom "Grand Mount" aus, einem weiteren Tempel
 - src: 2354760-fruechtesaft-frisch-gemixt-0.jpg
   title: Fruechtesaft, frisch gemixt
-  params:
-    description: Fruechtesaft, frisch gemixt
 - src: 2354762-krawatten-auf-dem-markt-0.jpg
   title: Krawatten auf dem Markt
 - src: 2354764-es-gibt-nichts-0.jpg

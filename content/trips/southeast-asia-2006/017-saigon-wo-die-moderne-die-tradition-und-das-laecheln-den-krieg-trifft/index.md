@@ -14,31 +14,25 @@ resources:
 - src: 533453-vor-dem-reunification-palace-0.jpg
   title: vor dem Reunification Palace
   params:
-    description: vor dem Reunification Palace Man beachte mein geiles Ho Chi Minh Shirt :)
+    description: Man beachte mein geiles Ho Chi Minh Shirt :)
 - src: 533455-kautschukplantage-0.jpg
   title: Kautschukplantage
   params:
     description: Auf dem Weg zu den Cu Chi Tunnels
 - src: 533458-vollgestopfter-laden-auf-dem-markt-0.jpg
   title: vollgestopfter Laden auf dem Markt
-  params:
-    description: vollgestopfter Laden auf dem Markt
 - src: 533459-ein-ganz-gewoehnlicher-strassenrand-0.jpg
   title: ein ganz gewoehnlicher Strassenrand
   params:
-    description: ein ganz gewoehnlicher Strassenrand mit dem Umweltbewusstsein ist es hier einfach noch nicht so weit her.
+    description: mit dem Umweltbewusstsein ist es hier einfach noch nicht so weit her.
 - src: 533462-aus-diesem-loch-tauchten-mal-vietcong-auf-0.jpg
   title: aus diesem Loch tauchten mal Vietcong auf
   params:
-    description: aus diesem Loch tauchten mal Vietcong auf und nicht wie hier eine absolut unmoegliche Chinesin
+    description: und nicht wie hier eine absolut unmoegliche Chinesin
 - src: 533464-schuetzengraben-mit-eingang-zu-einem-tunnel-0.jpg
   title: Schuetzengraben mit Eingang zu einem Tunnel
-  params:
-    description: Schuetzengraben mit Eingang zu einem Tunnel
 - src: 533465-und-so-gemuetlich-schauts-drin-aus-0.jpg
   title: '...und so gemuetlich schauts drin aus'
-  params:
-    description: '...und so gemuetlich schauts drin aus'
 - src: 533468-unser-cooler-guide-0.jpg
   title: unser cooler Guide
   params:
@@ -54,7 +48,7 @@ resources:
 - src: 533475-dann-doch-lieber-nuechtern-bleiben-0.jpg
   title: '...dann doch lieber nuechtern bleiben :)'
   params:
-    description: '...dann doch lieber nuechtern bleiben :) Schlange frisst Skorpion. Die Vietnamesen fahren da voll drauf ab.'
+    description: Schlange frisst Skorpion. Die Vietnamesen fahren da voll drauf ab.
 - src: 533476-jaaa-die-chillen-0.jpg
   title: jaaa, die chillen!
 - src: 533480-das-moderne-saigon-0.jpg
@@ -63,12 +57,8 @@ resources:
     description: doch nicht zu vergessen, die wie immer unmoeglichen Stromleitungen
 - src: 533483-sam-freut-sich-ueber-den-verkehr-0.jpg
   title: Sam freut sich ueber den Verkehr :-)
-  params:
-    description: Sam freut sich ueber den Verkehr :-)
 - src: 533484-spaetfolgen-des-dioxin-einsatzes-0.jpg
   title: Spaetfolgen des Dioxin-Einsatzes
-  params:
-    description: Spaetfolgen des Dioxin-Einsatzes
 type: post
 ---
 

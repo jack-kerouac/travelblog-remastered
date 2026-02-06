@@ -14,12 +14,8 @@ resources:
     description: Das Mekong-Delta, dichtbesiedelter Agrarraum Vietnams.
 - src: 540289-traumhafte-landschaften-entlang-des-ufers-0.jpg
   title: traumhafte Landschaften entlang des Ufers
-  params:
-    description: traumhafte Landschaften entlang des Ufers
 - src: 540291-was-man-auf-mopeds-noch-so-alles-transportieren-kann-0.jpg
   title: was man auf Mopeds noch so alles transportieren kann
-  params:
-    description: was man auf Mopeds noch so alles transportieren kann
 - src: 540293-lisa-und-sam-0.jpg
   title: Lisa und Sam
   params:
@@ -27,7 +23,7 @@ resources:
 - src: 540295-alles-leben-spielt-sich-hier-auf-dem-fluss-ab-0.jpg
   title: alles Leben spielt sich hier auf dem Fluss ab
   params:
-    description: alles Leben spielt sich hier auf dem Fluss ab Kids koennen schon von klein auf schwimmen
+    description: Kids koennen schon von klein auf schwimmen
 - src: 540296-kokos-kaugummi-0.jpg
   title: Kokos-Kaugummi
   params:
@@ -38,12 +34,10 @@ resources:
     description: im Prinzip nur heisser, schwarzer Sand
 - src: 540300-spartanisches-leben-am-mekong-0.jpg
   title: spartanisches Leben am Mekong
-  params:
-    description: spartanisches Leben am Mekong
 - src: 540303-mittagessen-auf-einer-mekong-insel-0.jpg
   title: Mittagessen auf einer Mekong-Insel
   params:
-    description: Mittagessen auf einer Mekong-Insel Sam, ein franzoesisches Paerchen, ich und Lisa
+    description: Sam, ein franzoesisches Paerchen, ich und Lisa
 - src: 540305-chilling-in-a-hamock-0.jpg
   title: chilling in a hamock
 - src: 540307-manche-transportschiffe-sind-dem-untergang-wirklich-nahe-0.jpg
@@ -52,16 +46,12 @@ resources:
     description: hier bedeutet "Schiff" alles was irgendwie schwimmt...
 - src: 540310-tropische-wolkenformationen-0.jpg
   title: tropische Wolkenformationen
-  params:
-    description: tropische Wolkenformationen
 - src: 540312-lisa-und-ich-0.jpg
   title: Lisa und ich
   params:
     description: mit Bart und Sturmfrisur :)
 - src: 540314-ananashandel-auf-dem-floating-market-0.jpg
   title: Ananashandel auf dem Floating Market
-  params:
-    description: Ananashandel auf dem Floating Market
 - src: 540316-hand-rowed-boat-0.jpg
   title: hand-rowed boat
 - src: 540317-deep-in-the-jungle-0.jpg
@@ -70,12 +60,8 @@ resources:
   title: Kokosnuesse, Bananen und die leckersten Ananas ever
 - src: 540322-das-hier-auch-ordentlich-geparkt-wird-0.jpg
   title: das hier auch ordentlich geparkt wird!
-  params:
-    description: das hier auch ordentlich geparkt wird!
 - src: 540324-lebende-froesche-auf-dem-fischmarkt-0.jpg
   title: lebende Froesche auf dem Fischmarkt
-  params:
-    description: lebende Froesche auf dem Fischmarkt
 - src: 540327-ein-dumpling-0.jpg
   title: ein Dumpling
   params:
@@ -86,28 +72,18 @@ resources:
   title: Die Propanfrucht
 - src: 540334-sie-wollte-mich-partout-nicht-rudern-lassen-0.jpg
   title: sie wollte mich partout nicht rudern lassen
-  params:
-    description: sie wollte mich partout nicht rudern lassen
 - src: 540336-floating-village--leben-auf-dem-mekong-0.jpg
   title: Floating Village - Leben auf dem Mekong
-  params:
-    description: Floating Village - Leben auf dem Mekong
 - src: 540338-independence-day-in-vietnam-0.jpg
   title: Independence Day in Vietnam
-  params:
-    description: Independence Day in Vietnam
 - src: 540340-drei-vietnamesen-versuchen-ihr-boot-flott-zu-machen-0.jpg
   title: drei Vietnamesen versuchen ihr Boot flott zu machen
 - src: 540343-die-kambodschanische-grenze--sehr-unspektakulaer-0.jpg
   title: die kambodschanische Grenze - sehr unspektakulaer
-  params:
-    description: die kambodschanische Grenze - sehr unspektakulaer
 - src: 540344-wasserbueffel-am-ufer-0.jpg
   title: Wasserbueffel am Ufer
 - src: 540346-die-erste-kambodschanische-siedlung-0.jpg
   title: die erste kambodschanische Siedlung
-  params:
-    description: die erste kambodschanische Siedlung
 - src: 540347-tempel-mitten-im-nirgendwo-0.jpg
   title: Tempel mitten im Nirgendwo
 - src: 540349-cambodia-i-m-coming-0.jpg

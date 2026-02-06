@@ -16,7 +16,7 @@ resources:
 - src: 514055-der-besitzer-des-darling-guesthouse-0.jpg
   title: der Besitzer des Darling Guesthouse
   params:
-    description: der Besitzer des Darling Guesthouse ein riesen Schlitzohr, aber verdammt lustig.
+    description: ein riesen Schlitzohr, aber verdammt lustig.
 - src: 514057-little-hanoi-0.jpg
   title: Little Hanoi
   params:
@@ -32,7 +32,7 @@ resources:
 - src: 514067-army-museum-0.jpg
   title: Army Museum
   params:
-    description: Army Museum Den ungluecklichen Besitzern halfen diese Helme wohl nichts.
+    description: Den ungluecklichen Besitzern halfen diese Helme wohl nichts.
 - src: 514069-iroquoise-helikopter-0.jpg
   title: Iroquoise-Helikopter
   params:
@@ -40,11 +40,9 @@ resources:
 - src: 514070-die-reste-eines-amerikanischen-bombers-0.jpg
   title: die Reste eines amerikanischen Bombers
   params:
-    description: die Reste eines amerikanischen Bombers Der wurde mit Handfeuerwaffen abgeschossen.
+    description: Der wurde mit Handfeuerwaffen abgeschossen.
 - src: 514071-von-den-russen-gesponsorter-tank-0.jpg
   title: von den Russen gesponsorter Tank
-  params:
-    description: von den Russen gesponsorter Tank
 - src: 514075-presedential-palace-0.jpg
   title: Presedential Palace
   params:
@@ -52,15 +50,15 @@ resources:
 - src: 514078-rent-a-riksha-0.jpg
   title: rent a riksha
   params:
-    description: rent a riksha er wollte leider mich nicht fahren lassen :)
+    description: er wollte leider mich nicht fahren lassen :)
 - src: 514079-kulinarischer-hoehepunkt-in-hanoi-0.jpg
   title: kulinarischer Hoehepunkt in Hanoi
   params:
-    description: kulinarischer Hoehepunkt in Hanoi Fabians Essen im KOTO
+    description: Fabians Essen im KOTO
 - src: 514083-zwei-philosophen-im-temple-of-literature-0.jpg
   title: zwei Philosophen im Temple of Literature
   params:
-    description: zwei Philosophen im Temple of Literature der ersten grossen Bildungsstaette in Vietnam
+    description: der ersten grossen Bildungsstaette in Vietnam
 type: post
 ---
 

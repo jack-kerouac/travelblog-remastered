@@ -12,7 +12,7 @@ resources:
 - src: 498014-chillen-bei-friends-und-laobeer-0.jpg
   title: chillen bei Friends und Laobeer
   params:
-    description: chillen bei Friends und Laobeer Das Friends-Phaenomen hier in Vang Vieng ist echt grausam...
+    description: Das Friends-Phaenomen hier in Vang Vieng ist echt grausam...
 - src: 498017-bescherung-0.jpg
   title: Bescherung...
   params:
@@ -24,7 +24,7 @@ resources:
 - src: 498024-christoph-beim-bambusstoecke-saegen-0.jpg
   title: Christoph beim Bambusstoecke saegen
   params:
-    description: Christoph beim Bambusstoecke saegen Man beachte die Hose. Und das war vor dem Aufstieg!
+    description: Man beachte die Hose. Und das war vor dem Aufstieg!
 - src: 498027-on-the-way-to-the-top-0.jpg
   title: on the way to the top...
   params:
@@ -46,7 +46,7 @@ resources:
 - src: 498050-essen-im-restaurant--happy-0.jpg
   title: Essen im Restaurant "Happy"
   params:
-    description: Essen im Restaurant "Happy" mit anschliessendem Angebot eines Free Joint, den wir natuerlich - aufgrund guter Erziehung - nicht angenommen haben, Waltraud, Emmi!
+    description: mit anschliessendem Angebot eines Free Joint, den wir natuerlich - aufgrund guter Erziehung - nicht angenommen haben, Waltraud, Emmi!
 type: post
 ---
 

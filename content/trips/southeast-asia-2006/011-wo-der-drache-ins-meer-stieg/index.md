@@ -12,16 +12,12 @@ original_url: https://www.travelblog.org/asia/vietnam/northeast/quang-ninh/halon
 resources:
 - src: 512951-eines-der-vielen-verwinkelten-gaesschen-in-hanoi-0.jpg
   title: eines der vielen verwinkelten Gaesschen in Hanoi
-  params:
-    description: eines der vielen verwinkelten Gaesschen in Hanoi
 - src: 512961-ha-long-bay--a-paradise-0.jpg
   title: Ha Long Bay - a paradise
   params:
     description: Kann es noch schoener sein? Vielleicht bei Sonnenschein. (by Fabian)
 - src: 512962-rikscha-fahrer-im-old-quarter-hanoi-0.jpg
   title: Rikscha-Fahrer im Old Quarter, Hanoi
-  params:
-    description: Rikscha-Fahrer im Old Quarter, Hanoi
 - src: 512963-auf-dem-dong-xuan-market-0.jpg
   title: auf dem Dong Xuan Market
 - src: 512997-essen-aller-art-0.jpg
@@ -39,29 +35,23 @@ resources:
 - src: 513000-ausser-atem-0.jpg
   title: ausser Atem
   params:
-    description: 'ausser Atem und wie immer: sweeeeezing'
+    description: 'und wie immer: sweeeeezing'
 - src: 512976-kartenspielen-3.jpg
   title: Kartenspielen
   params:
     description: und Fabian ruled wie immer :) Im Hintergrund rechts zwei der drei Poebel-Englaenderinnen
 - src: 512978-einige-impressionen-aus-der-ha-long-bay-0.jpg
   title: einige Impressionen aus der Ha Long Bay
-  params:
-    description: einige Impressionen aus der Ha Long Bay
 - src: 512980--0.jpg
   title: '...'
 - src: 512982-badewanne-mit-panorama-0.jpg
   title: Badewanne mit Panorama
 - src: 512983-leider-schon-wieder-auf-dem-rueckweg-0.jpg
   title: leider schon wieder auf dem Rueckweg
-  params:
-    description: leider schon wieder auf dem Rueckweg
 - src: 512985--0.jpg
   title: '...'
 - src: 512988-gemeinsamer-rad-und-kuhweg-0.jpg
   title: gemeinsamer Rad- und Kuhweg
-  params:
-    description: gemeinsamer Rad- und Kuhweg
 - src: 512990-moped-carrier-0.jpg
   title: Moped-Carrier
   params:

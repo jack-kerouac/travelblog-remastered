@@ -15,8 +15,6 @@ resources:
     description: Kuestenstrasse von Hoi An nach Quy Nhon
 - src: 531295-reisfelder-und-palmen-soweit-das-auge-sieht-0.jpg
   title: Reisfelder und Palmen, soweit das Auge sieht
-  params:
-    description: Reisfelder und Palmen, soweit das Auge sieht
 - src: 531312-mr-vinh-und-sam-0.jpg
   title: Mr Vinh und Sam
   params:
@@ -24,15 +22,15 @@ resources:
 - src: 531300-ein-rong-haus-0.jpg
   title: ein Rong Haus
   params:
-    description: ein Rong Haus Dorfzentrum und Versammlungshalle. Nur mit Hilfe von Bambus und Rattanschnueren gebaut.
+    description: Dorfzentrum und Versammlungshalle. Nur mit Hilfe von Bambus und Rattanschnueren gebaut.
 - src: 531296-sam-und-vier-lustige-entwicklungshelfer-0.jpg
   title: Sam und vier lustige Entwicklungshelfer
   params:
-    description: Sam und vier lustige Entwicklungshelfer die uns am Abend in Kon Tum zum Essen eingeladen haben
+    description: die uns am Abend in Kon Tum zum Essen eingeladen haben
 - src: 531301-ein-typisches-haus-der-gehobenen-klasse-0.jpg
   title: ein typisches Haus der gehobenen Klasse
   params:
-    description: ein typisches Haus der gehobenen Klasse immerhin ist es gemauert! :) Auf Stelzen wegen der Feuchtigkeit, Ungeziefer und groesseren Tieren
+    description: immerhin ist es gemauert! :) Auf Stelzen wegen der Feuchtigkeit, Ungeziefer und groesseren Tieren
 - src: 531303-das-hinterland-von-kon-tum-0.jpg
   title: Das Hinterland von Kon Tum
   params:
@@ -44,7 +42,7 @@ resources:
 - src: 531305-ein-paar-stifte-und-ballons-fuer-die-kids-0.jpg
   title: Ein paar Stifte und Ballons fuer die Kids
   params:
-    description: Ein paar Stifte und Ballons fuer die Kids Damit waren wir endgueltig die groesste Attraktion seit Wochen in diesem Dorf :).
+    description: Damit waren wir endgueltig die groesste Attraktion seit Wochen in diesem Dorf :).
 - src: 531307-geschwisterliebe-0.jpg
   title: Geschwisterliebe
   params:

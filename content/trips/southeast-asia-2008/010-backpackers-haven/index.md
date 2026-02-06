@@ -11,8 +11,6 @@ original_url: https://www.travelblog.org/asia/laos/north/muang-ngoi-neua/blog-29
 resources:
 - src: 2557381-die-landschaft-auf-dem-weg-zu-einer-hoehle-1.jpg
   title: die Landschaft auf dem Weg zu einer Hoehle
-  params:
-    description: die Landschaft auf dem Weg zu einer Hoehle
 - src: 2557383-erst-einmal-eine-dusche-nach-ankunft-am-wasserfall-0.jpg
   title: erst einmal eine Dusche, nach Ankunft am Wasserfall
 - src: 2557384-alltaegliches-bild-1.jpg
@@ -26,11 +24,9 @@ resources:
 - src: 2557393-unser-guide-vor-der-ersten-stufe-des-wasserfalls-0.jpg
   title: unser Guide vor der ersten Stufe des Wasserfalls
   params:
-    description: unser Guide vor der ersten Stufe des Wasserfalls ohne den Jungen haetten wir den Weg nie gefunden
+    description: ohne den Jungen haetten wir den Weg nie gefunden
 - src: 2557396-nochmal-ein-wenig-wasserfallstimmung-0.jpg
   title: nochmal ein wenig Wasserfallstimmung :)
-  params:
-    description: nochmal ein wenig Wasserfallstimmung :)
 - src: 2557398-mit-blauem-himmel-0.jpg
   title: mit blauem Himmel...
   params:
@@ -38,11 +34,9 @@ resources:
 - src: 2557400-vollkommen-ueberfuelltes-boot-0.jpg
   title: vollkommen ueberfuelltes Boot
   params:
-    description: vollkommen ueberfuelltes Boot zurueck nach Nong Khiaw. Ich kann mir nicht vorstellen, dass das erlaubt war. Wobei es bei nur 50 geschriebenen Gesetzen wohl auch nicht verboten war :)
+    description: zurueck nach Nong Khiaw. Ich kann mir nicht vorstellen, dass das erlaubt war. Wobei es bei nur 50 geschriebenen Gesetzen wohl auch nicht verboten war :)
 - src: 2557402-mein-fruehstuec-in-luang-prabang-0.jpg
   title: mein Fruehstuec in Luang Prabang
-  params:
-    description: mein Fruehstuec in Luang Prabang
 type: post
 ---
 

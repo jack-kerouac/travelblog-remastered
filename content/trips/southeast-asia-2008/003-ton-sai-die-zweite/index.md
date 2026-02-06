@@ -12,7 +12,7 @@ resources:
 - src: 2379430-die-felskette-rund-um-railey-beach-und-ton-sai-0.jpg
   title: Die Felskette rund um Railey Beach und Ton Sai
   params:
-    description: Die Felskette rund um Railey Beach und Ton Sai vom Flugzeug aus
+    description: vom Flugzeug aus
 - src: 2379431-party-am-ersten-abend-0.jpg
   title: Party am ersten Abend
   params:
@@ -20,11 +20,11 @@ resources:
 - src: 2379432-blick-von-ton-sai-nach-railey-west-0.jpg
   title: Blick von Ton Sai nach Railey West
   params:
-    description: Blick von Ton Sai nach Railey West im Vordergrund Ton Sai, im Hintergrund Railey West Beach und die Felsenkette, die die Bucht abschliesst, sodass sie nur per Boot zu erreichen ist.
+    description: im Vordergrund Ton Sai, im Hintergrund Railey West Beach und die Felsenkette, die die Bucht abschliesst, sodass sie nur per Boot zu erreichen ist.
 - src: 2379435-das-fruehstuck-der-champions-0.jpg
   title: Das Fruehstuck der Champions :)
   params:
-    description: Das Fruehstuck der Champions :) Muesli mit Ananas, Mango, Melone und Joghurt. 1,30 Euro
+    description: Muesli mit Ananas, Mango, Melone und Joghurt. 1,30 Euro
 - src: 2379437-loid-auf-der-slackline-0.jpg
   title: Loid auf der Slackline
   params:
@@ -35,32 +35,26 @@ resources:
     description: am Strand von Ton Sai
 - src: 2379441-blick-auf-die-rechte-seite-der-ton-sai-bay-0.jpg
   title: Blick auf die rechte Seite der Ton Sai Bay
-  params:
-    description: Blick auf die rechte Seite der Ton Sai Bay
 - src: 2379445-olivier-und-joe-beim-jonglieren-0.jpg
   title: Olivier und Joe beim Jonglieren
   params:
-    description: Olivier und Joe beim Jonglieren Frankreich und Kanada sind vertreten.
+    description: Frankreich und Kanada sind vertreten.
 - src: 2379447-auf-dem-weg-zum-deep-water-soloing-0.jpg
   title: Auf dem Weg zum Deep Water Soloing
-  params:
-    description: Auf dem Weg zum Deep Water Soloing
 - src: 2379451-joe-delf-und-michael-am-fels-0.jpg
   title: Joe, Delf und Michael am Fels
   params:
-    description: Joe, Delf und Michael am Fels USA, Deutschland und Tschechien
+    description: USA, Deutschland und Tschechien
 - src: 2379455-route-vom-grad-7-durch-ein-dach-0.jpg
   title: Route vom Grad 7 durch ein Dach
   params:
-    description: Route vom Grad 7 durch ein Dach 4 Meter ueberm Wasser. Soweit wie Robert (Schweiz) hier haengt kam ich auch. Weiter nicht... :)
+    description: 4 Meter ueberm Wasser. Soweit wie Robert (Schweiz) hier haengt kam ich auch. Weiter nicht... :)
 - src: 2379461-zurueck-zum-boot-0.jpg
   title: Zurueck zum Boot.
   params:
     description: Dabei waren 18 Mann, zwei Longboats und ein Kajak. Nach dem ersten Fall ins Wasser klettert man mit nassen Schuhen
 - src: 2379462-danach-grillen-auf-dem-strand-einer-kleinen-insel-0.jpg
   title: Danach Grillen auf dem Strand einer kleinen Insel
-  params:
-    description: Danach Grillen auf dem Strand einer kleinen Insel
 - src: 2379465-und-das-war-die-insel-0.jpg
   title: und das war die Insel :)
   params:
@@ -72,23 +66,21 @@ resources:
 - src: 2379472-sam-und-olivier-nach-dem-fischen-0.jpg
   title: Sam und Olivier nach dem Fischen
   params:
-    description: Sam und Olivier nach dem Fischen immerhin, ein essbarer Fisch hing dran...
+    description: immerhin, ein essbarer Fisch hing dran...
 - src: 2379476-die-tour-heisst--missing-snow-0.jpg
   title: die Tour heisst "Missing Snow"
   params:
-    description: die Tour heisst "Missing Snow" franzoesischer Grad 6b+. Noch hab ichs nicht geschafft. Mein Projekt :)
+    description: franzoesischer Grad 6b+. Noch hab ichs nicht geschafft. Mein Projekt :)
 - src: 2379478-dreimal-gefallen-0.jpg
   title: dreimal gefallen
   params:
     description: morgen das naechste Mal :)
 - src: 2379480-immerhin-jetzt-schon-etwas-weiter-oben-0.jpg
   title: immerhin, jetzt schon etwas weiter oben
-  params:
-    description: immerhin, jetzt schon etwas weiter oben
 - src: 2379481-mit-den-nerven-total-am-ende-0.jpg
   title: mit den Nerven total am Ende
   params:
-    description: mit den Nerven total am Ende nach der 32m Tour bei "The Keep"
+    description: nach der 32m Tour bei "The Keep"
 - src: 2379486-blick-aufs-meer-0.jpg
   title: Blick aufs Meer
   params:

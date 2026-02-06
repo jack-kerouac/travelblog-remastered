@@ -11,8 +11,6 @@ original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/
 resources:
 - src: 489651-thai-boxen-im-lumphini-stadion-0.jpg
   title: Thai-Boxen im Lumphini-Stadion
-  params:
-    description: Thai-Boxen im Lumphini-Stadion
 - src: 489653-kieferchirurg-nummer-1-0.jpg
   title: Kieferchirurg Nummer 1
   params:
@@ -22,7 +20,7 @@ resources:
 - src: 489655-zwei-englischlehrerinnen-aus-england-0.jpg
   title: Zwei Englischlehrerinnen aus England
   params:
-    description: Zwei Englischlehrerinnen aus England Fucking awesome, you know?
+    description: Fucking awesome, you know?
 - src: 489656-bonsai-streicheln-0.jpg
   title: Bonsai streicheln
   params:
@@ -34,7 +32,7 @@ resources:
 - src: 489658-essen-in-einem-innenhof-in-der-khao-sarn-road-0.jpg
   title: Essen in einem Innenhof in der Khao Sarn Road
   params:
-    description: Essen in einem Innenhof in der Khao Sarn Road Fabians Tofu-Scheiss. Schaut aber nicht so schlecht aus.
+    description: Fabians Tofu-Scheiss. Schaut aber nicht so schlecht aus.
 type: post
 ---
 

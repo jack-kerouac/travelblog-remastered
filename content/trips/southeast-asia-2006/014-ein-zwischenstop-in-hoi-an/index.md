@@ -12,16 +12,12 @@ original_url: https://www.travelblog.org/asia/vietnam/south-central-coast/quang-
 resources:
 - src: 522807-mit-raedern-durch-die-altstadt-0.jpg
   title: Mit Raedern durch die Altstadt
-  params:
-    description: Mit Raedern durch die Altstadt
 - src: 522808-unser-pool-0.jpg
   title: unser Pool
   params:
     description: eine willkommene Erfrischung unter dem blauen Himmel von Hoi An
 - src: 522810-diese-haeuser-mussten-der-neuen-strasse-weichen-0.jpg
   title: diese Haeuser mussten der neuen Strasse weichen
-  params:
-    description: diese Haeuser mussten der neuen Strasse weichen
 - src: 522812-good-morning-vietnam-0.jpg
   title: Good Morning, Vietnam!
 - src: 522814-uferpromenade-von-hoi-an-0.jpg

@@ -24,31 +24,27 @@ resources:
 - src: 2634827-so-begruessen-mich-die-philippinen-0.jpg
   title: So begruessen mich die Philippinen
   params:
-    description: So begruessen mich die Philippinen auf der Bruecke zwischen dem Flughafen auf der Insel Mactan und Cebu City
+    description: auf der Bruecke zwischen dem Flughafen auf der Insel Mactan und Cebu City
 - src: 2634828-immigration-office-0.jpg
   title: Immigration Office
   params:
     description: eine buerokratische Tortur
 - src: 2634830-kanone-im-fort-de-san-pedro-0.jpg
   title: Kanone im Fort de San Pedro
-  params:
-    description: Kanone im Fort de San Pedro
 - src: 2634831-auf-dem-weg-zum-carbon-market-0.jpg
   title: auf dem Weg zum Carbon Market
   params:
-    description: auf dem Weg zum Carbon Market ein sehr aermliches Viertel
+    description: ein sehr aermliches Viertel
 - src: 2634832-alles-moegliche-was-unter-den-begriff-lebend-faellt-0.jpg
   title: alles moegliche was unter den Begriff lebend faellt...
   params:
     description: '... kann hier gekauft werden'
 - src: 2634833-dieses-foto-wuerde-ich-gerne-piet-widmen-0.jpg
   title: dieses Foto wuerde ich gerne Piet widmen :)
-  params:
-    description: dieses Foto wuerde ich gerne Piet widmen :)
 - src: 2634834-sauberkeit-ist-hier-nur-theoretisch-wichtig-0.jpg
   title: Sauberkeit ist hier nur theoretisch wichtig
   params:
-    description: Sauberkeit ist hier nur theoretisch wichtig okey?!
+    description: okey?!
 - src: 2634836-basilica-de-san-nino-0.jpg
   title: Basilica de San Nino
 - src: 2634837-und-eine-hochzeit-0.jpg
@@ -59,20 +55,16 @@ resources:
     description: eine sehr lebendige Hauptstrasse in Cebu
 - src: 2634839-die-faehre-faehrt-direkt-in-ein-gewitter-0.jpg
   title: Die Faehre faehrt direkt in ein Gewitter
-  params:
-    description: Die Faehre faehrt direkt in ein Gewitter
 - src: 2634840-zwei-schwestern-schlafen-neben-meinem-bett-0.jpg
   title: Zwei Schwestern schlafen neben meinem Bett
-  params:
-    description: Zwei Schwestern schlafen neben meinem Bett
 - src: 2634842-die-legion-der-hafenarbeiter-0.jpg
   title: Die Legion der Hafenarbeiter
   params:
-    description: Die Legion der Hafenarbeiter wartet auf die Faehre
+    description: wartet auf die Faehre
 - src: 2634843-und-die-kids-schwimmen-rund-um-die-faehre-0.jpg
   title: und die Kids schwimmen rund um die Faehre
   params:
-    description: und die Kids schwimmen rund um die Faehre in Deutschland undenkbar, wie gefaehrlich! :)
+    description: in Deutschland undenkbar, wie gefaehrlich! :)
 type: post
 ---
 

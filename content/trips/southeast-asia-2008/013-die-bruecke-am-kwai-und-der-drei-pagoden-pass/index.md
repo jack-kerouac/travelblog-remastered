@@ -24,15 +24,13 @@ resources:
 - src: 2615255-john-der-schottische-dachdecker-0.jpg
   title: John, der schottische Dachdecker
   params:
-    description: John, der schottische Dachdecker Und ein Polizist im Nighttrain
+    description: Und ein Polizist im Nighttrain
 - src: 2615256-schwimmende-haeuser-auf-dem-kwai-1.jpg
   title: schwimmende Haeuser auf dem Kwai
   params:
-    description: schwimmende Haeuser auf dem Kwai manche Restaurants haben einen eigenen Antrieb und schippern, sobald genuegend Gaeste da sind den Fluss entlang
+    description: manche Restaurants haben einen eigenen Antrieb und schippern, sobald genuegend Gaeste da sind den Fluss entlang
 - src: 2615257-ich-hoffe-die-thais-meinen-das-nicht-ernst-0.jpg
   title: Ich hoffe, die Thais meinen das nicht ernst... :)
-  params:
-    description: Ich hoffe, die Thais meinen das nicht ernst... :)
 - src: 2615259-war-cemetery-0.jpg
   title: War Cemetery
   params:
@@ -43,8 +41,6 @@ resources:
     description: die Japaner sehen Kriegsgefangene als unwuerdig an, da sie nicht bis zum Tode gekaempft haben, was in Japan im Zweiten Weltkrieg das Kriegerethos war. Dementsprechend wurden die Gefangenen behandelt.
 - src: 2615261-die-bruecke-am-kwai-die-zweite-0.jpg
   title: Die Bruecke am Kwai, die zweite
-  params:
-    description: Die Bruecke am Kwai, die zweite
 - src: 2615263-das-bedeutet-wohl-0.jpg
   title: das bedeutet wohl...
   params:
@@ -60,7 +56,7 @@ resources:
 - src: 2615268-das-ist-die-grenze-zu-burma-0.jpg
   title: Das ist die Grenze zu Burma :)
   params:
-    description: Das ist die Grenze zu Burma :) kein Spass!
+    description: kein Spass!
 - src: 2615269-deal-0.jpg
   title: Deal?
   params:
@@ -70,27 +66,19 @@ resources:
 - src: 2615274-schwimmende-haeuser-bei-sangkhlaburi-1.jpg
   title: schwimmende Haeuser bei Sangkhlaburi
   params:
-    description: schwimmende Haeuser bei Sangkhlaburi im Hintergrund die Holzbruecke
+    description: im Hintergrund die Holzbruecke
 - src: 2615276-begruendeterweise-0.jpg
   title: begruendeterweise...
   params:
     description: '...duerfen keine Motorcycles oder anderes schweres Gefaehrt auf die Bruecke'
 - src: 2615278-tempel-indischer-abstammung-0.jpg
   title: Tempel, indischer Abstammung
-  params:
-    description: Tempel, indischer Abstammung
 - src: 2615280-blick-vom-trommelturm-bei-monsunregen-0.jpg
   title: Blick vom Trommelturm bei Monsunregen
-  params:
-    description: Blick vom Trommelturm bei Monsunregen
 - src: 2615281-und-gleiche-richtung-ohne-regen-0.jpg
   title: und gleiche Richtung, ohne Regen
-  params:
-    description: und gleiche Richtung, ohne Regen
 - src: 2615282-litschi-fuer-80-cent-der-beutel-0.jpg
   title: Litschi, fuer 80 Cent der Beutel
-  params:
-    description: Litschi, fuer 80 Cent der Beutel
 type: post
 ---
 

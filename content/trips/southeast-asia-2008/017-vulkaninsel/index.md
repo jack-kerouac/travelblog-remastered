@@ -14,19 +14,17 @@ resources:
 - src: 2736119-bei-sonnenuntergang-auf-mantique-island-0.jpg
   title: Bei Sonnenuntergang auf Mantique Island
   params:
-    description: 'Bei Sonnenuntergang auf Mantique Island vlnr.: unknown :), moi, Nick, Rosalie'
+    description: 'vlnr.: unknown :), moi, Nick, Rosalie'
 - src: 2736120-tuwasan-waterfall-1.jpg
   title: Tuwasan Waterfall
   params:
     description: nur durch einen halbstuendigen Trek ueber einen Dschungelpfad zu erreichen. Komplett untouristisch.
 - src: 2736121-enigmata-guesthouse--eagles-nest-0.jpg
   title: Enigmata Guesthouse - Eagles Nest
-  params:
-    description: Enigmata Guesthouse - Eagles Nest
 - src: 2736122-mit-der-faehre-nach-camiguin-0.jpg
   title: Mit der Faehre nach Camiguin
   params:
-    description: Mit der Faehre nach Camiguin die Insel existiert wegen sieben Vulkanen
+    description: die Insel existiert wegen sieben Vulkanen
 - src: 2736123-katibawasan-waterfall-1.jpg
   title: Katibawasan Waterfall
   params:
@@ -36,7 +34,7 @@ resources:
 - src: 2736125-gerade-zeige-ich-dem-menschen-0.jpg
   title: gerade zeige ich dem Menschen...
   params:
-    description: gerade zeige ich dem Menschen... ...wie man meine Kamera bedient :)
+    description: '...wie man meine Kamera bedient :)'
 - src: 2736127-ardent-hotspring-0.jpg
   title: Ardent Hotspring
   params:
@@ -48,27 +46,21 @@ resources:
 - src: 2736129-die-ruinen-einer-kirche-der-spanier-0.jpg
   title: Die Ruinen einer Kirche der Spanier
   params:
-    description: Die Ruinen einer Kirche der Spanier von einem Ausbruch eines Vulkans im 18. Jahrhundert zerstoert.
+    description: von einem Ausbruch eines Vulkans im 18. Jahrhundert zerstoert.
 - src: 2736131-blick-vom--old-volcano-0.jpg
   title: Blick vom "Old Volcano"
   params:
-    description: Blick vom "Old Volcano" ueber die Kuestenebene.
+    description: ueber die Kuestenebene.
 - src: 2736132-meine-unterkunft-in-enigmata-0.jpg
   title: Meine Unterkunft in Enigmata
-  params:
-    description: Meine Unterkunft in Enigmata
 - src: 2736134-die-rezeption-im-enigmata-0.jpg
   title: Die Rezeption im Enigmata
   params:
     description: Bei all den Traumfaengern kommt kein boeser Traum zur Rezeptionistin durch :)
 - src: 2736136-hier-hat-sich-jemand-viel-zeit-genommen-0.jpg
   title: Hier hat sich jemand viel Zeit genommen
-  params:
-    description: Hier hat sich jemand viel Zeit genommen
 - src: 2736137-von-blumen-verhangenes-logo-des-enigmata-0.jpg
   title: Von Blumen verhangenes Logo des Enigmata
-  params:
-    description: Von Blumen verhangenes Logo des Enigmata
 - src: 2736140-das-treehouse-0.jpg
   title: Das Treehouse...
   params:
@@ -77,20 +69,16 @@ resources:
   title: spirituelles Labyrinth :)
 - src: 2736142-ich-im-ausguck-des-eagles--nest-0.jpg
   title: Ich im Ausguck des Eagles' Nest
-  params:
-    description: Ich im Ausguck des Eagles' Nest
 - src: 2736146-reisfelder-palmen-und-mantique-island-0.jpg
   title: Reisfelder, Palmen und Mantique Island
-  params:
-    description: Reisfelder, Palmen und Mantique Island
 - src: 2736164-und-nochmal-mantique-island-0.jpg
   title: Und nochmal Mantique Island...
   params:
-    description: Und nochmal Mantique Island... ... diesmal mit Bananenstauden im Vordergrund :)
+    description: '... diesmal mit Bananenstauden im Vordergrund :)'
 - src: 2736167-meine-neugier-fuehrt-mich-manchmal-auf-so-ziemliche-abwege-0.jpg
   title: Meine Neugier fuehrt mich manchmal auf so ziemliche Abwege :)
   params:
-    description: Meine Neugier fuehrt mich manchmal auf so ziemliche Abwege :) man sieht hier die gespuerten 45 Grad Neigung des "Weges" leider nicht.
+    description: man sieht hier die gespuerten 45 Grad Neigung des "Weges" leider nicht.
 - src: 2736171-wie-man-sich-hier-auf-zwei-quadratmetern-widerspricht-0.jpg
   title: '...wie man sich hier auf zwei Quadratmetern widerspricht :)'
 - src: 2736174-ohne-kommentar-0.jpg
@@ -111,28 +99,22 @@ resources:
     description: gerade fischt er meinen Hummer aus dem Wasser und dann ab damit auf den Grill.
 - src: 2736190-und-inmitten-der-fischbecken-isst-man-0.jpg
   title: Und inmitten der Fischbecken isst man
-  params:
-    description: Und inmitten der Fischbecken isst man
 - src: 2736193-und-nun-endlich-0.jpg
   title: und nun endlich...
   params:
     description: Richtung Mantique Island. Am letzten Tag auf Camiguin.
 - src: 2736194-und-das-ist-unser-happy-boatman-0.jpg
   title: und das ist unser happy boatman :)
-  params:
-    description: und das ist unser happy boatman :)
 - src: 2736195-rosalie-am-strand-von-mantique-0.jpg
   title: Rosalie am Strand von Mantique
-  params:
-    description: Rosalie am Strand von Mantique
 - src: 2736198-das-wasser-ist-kristallklar-0.jpg
   title: Das Wasser ist kristallklar...
   params:
-    description: Das Wasser ist kristallklar... ...und hier etwa drei Meter tief.
+    description: '...und hier etwa drei Meter tief.'
 - src: 2736199-ein-wunderbarer-sonnenuntergang-ueber-camiguin-1.jpg
   title: Ein wunderbarer Sonnenuntergang ueber Camiguin
   params:
-    description: Ein wunderbarer Sonnenuntergang ueber Camiguin Das letzte Bild meiner Reise, zumindest hier im Blog. Alles weitere dann in der Heimat bei einer netten Diashow. Bis dann!
+    description: Das letzte Bild meiner Reise, zumindest hier im Blog. Alles weitere dann in der Heimat bei einer netten Diashow. Bis dann!
 type: post
 ---
 

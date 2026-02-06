@@ -15,16 +15,12 @@ resources:
     description: that's life
 - src: 522719-hoa-und-ich-0.jpg
   title: Hoa und ich
-  params:
-    description: Hoa und ich
 - src: 522720-ueber-den-wolken-0.jpg
   title: ueber den Wolken
 - src: 522721-ueberall-reisfelder-0.jpg
   title: ueberall Reisfelder
 - src: 522722-joe-und-ich-0.jpg
   title: Joe und ich
-  params:
-    description: Joe und ich
 - src: 522724-sam-und-bastian-0.jpg
   title: Sam und Bastian
 - src: 522725-kids-am-strand-0.jpg
@@ -42,7 +38,7 @@ resources:
 - src: 522732-happy-days-at-hoa-s-place-0.jpg
   title: Happy Days at Hoa's Place
   params:
-    description: Happy Days at Hoa's Place ein Gedicht von zwei Australiern aus dem Jahr 2000
+    description: ein Gedicht von zwei Australiern aus dem Jahr 2000
 - src: 522734-die-zweite-seite-0.jpg
   title: '...die zweite Seite'
 - src: 522736-drei-kids-an-der-strasse-0.jpg
@@ -51,16 +47,12 @@ resources:
     description: sehr begeistert davon, dass wir ein Foto von ihnen wollten
 - src: 522738-climbing-up-the-marble-mountains-0.jpg
   title: climbing up the marble mountains
-  params:
-    description: climbing up the marble mountains
 - src: 522740-in-weis-s-heit-erstarrt-0.jpg
   title: in Weis(s)heit erstarrt
   params:
     description: Buddha - allgegenwaertig
 - src: 522742-andere-der-sieben-marble-mountains-0.jpg
   title: andere der sieben Marble Mountains
-  params:
-    description: andere der sieben Marble Mountains
 - src: 522744-mal-wieder-klettern-0.jpg
   title: mal wieder klettern
   params:
@@ -73,8 +65,6 @@ resources:
   title: die Cham-Pagode und ich
 - src: 522754-ein-atemberaubender-ausblick-0.jpg
   title: ein atemberaubender Ausblick
-  params:
-    description: ein atemberaubender Ausblick
 - src: 522755-charlie-und-sam-0.jpg
   title: Charlie und Sam
   params:
@@ -85,12 +75,8 @@ resources:
     description: ohne Worte
 - src: 522759-edeltraud-oh-edeltraud-du-hast-a-sauguads-kraut-anbaut-0.jpg
   title: Edeltraud, oh Edeltraud, du hast a sauguads Kraut anbaut
-  params:
-    description: Edeltraud, oh Edeltraud, du hast a sauguads Kraut anbaut
 - src: 522761-the-beach-0.jpg
   title: the Beach
-  params:
-    description: the Beach
 type: post
 ---
 

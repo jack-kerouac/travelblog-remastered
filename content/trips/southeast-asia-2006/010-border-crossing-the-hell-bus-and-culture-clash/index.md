@@ -46,7 +46,7 @@ resources:
 - src: 509052-zwei-total-verrueckte-maedels-0.jpg
   title: zwei total verrueckte Maedels
   params:
-    description: zwei total verrueckte Maedels an der Busstation in Vinh. Wir ziemlich am Ende, mit unseren schoenen Ponchos im stroemenden Monsun.
+    description: an der Busstation in Vinh. Wir ziemlich am Ende, mit unseren schoenen Ponchos im stroemenden Monsun.
 - src: 509053-chillen-im-nobelcafe-0.jpg
   title: chillen im Nobelcafe
   params:

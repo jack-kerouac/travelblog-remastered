@@ -20,15 +20,13 @@ resources:
 - src: 552722-hey-hey-we-re-the-monkeys-0.jpg
   title: hey hey, we're the monkeys
   params:
-    description: hey hey, we're the monkeys ueberall Affen. Wie im Dschungelbuch.
+    description: ueberall Affen. Wie im Dschungelbuch.
 - src: 552726-flo-kristof-sam-0.jpg
   title: Flo, Kristof, Sam
   params:
     description: Deutschland, Oesterreich, England
 - src: 552728-angkor-wat-im-sonnenaufgang-0.jpg
   title: Angkor Wat im Sonnenaufgang
-  params:
-    description: Angkor Wat im Sonnenaufgang
 - src: 552729-der-blick-zurueck-0.jpg
   title: der Blick zurueck...
   params:
@@ -39,12 +37,8 @@ resources:
     description: und die Pumpe geht auf 180
 - src: 552741-ein-toller-ausblick-von-der-spitze-0.jpg
   title: ein toller Ausblick von der Spitze
-  params:
-    description: ein toller Ausblick von der Spitze
 - src: 552744-reliefs-zeigen-gewaltige-armeen-0.jpg
   title: Reliefs zeigen gewaltige Armeen
-  params:
-    description: Reliefs zeigen gewaltige Armeen
 - src: 552747-frederica-lucia-und-ich-0.jpg
   title: Frederica, Lucia und ich
   params:
@@ -61,8 +55,6 @@ resources:
   title: '"Buy a flute?"'
 - src: 552757-indiana-jones-laesst-gruessen-0.jpg
   title: Indiana Jones laesst gruessen
-  params:
-    description: Indiana Jones laesst gruessen
 - src: 552761-zehn-jahre-alt-0.jpg
   title: Zehn Jahre alt
   params:
@@ -70,21 +62,21 @@ resources:
 - src: 552764-kristof-und-ich-morgens-um-sechs-0.jpg
   title: Kristof und ich, morgens um sechs
   params:
-    description: Kristof und ich, morgens um sechs im Halbschlaf
+    description: im Halbschlaf
 - src: 552766-der-hauptturm-im-morgenlicht-0.jpg
   title: der Hauptturm im Morgenlicht
   params:
-    description: der Hauptturm im Morgenlicht 55 m ueber dem Grund
+    description: 55 m ueber dem Grund
 - src: 552771-ein-sanftmuetiger-dickhaeuter-0.jpg
   title: ein sanftmuetiger Dickhaeuter
   params:
-    description: ein sanftmuetiger Dickhaeuter der zu einem Wucherpreis koreanische Touristen rumtraegt
+    description: der zu einem Wucherpreis koreanische Touristen rumtraegt
 - src: 552773-was-will-er-mir-sagen-0.jpg
   title: was will er mir sagen?
 - src: 552774-lisa-and-me-0.jpg
   title: Lisa and me
   params:
-    description: Lisa and me (Neuseeland)
+    description: (Neuseeland)
 - src: 552776-der-schoene-und-das-biest-0.jpg
   title: Der Schoene und das Biest
   params:

@@ -15,36 +15,26 @@ resources:
     description: und ich der einzige Mensch weit und breit.
 - src: 2482984-einer-der-vielen-strassemaerkte-0.jpg
   title: einer der vielen Strassemaerkte
-  params:
-    description: einer der vielen Strassemaerkte
 - src: 2482985-keep-und-rolling-0.jpg
   title: keep und rolling...
 - src: 2482986-der-zug-faehrt-immer-mit-offenen-tueren-0.jpg
   title: der Zug faehrt immer mit offenen Tueren
-  params:
-    description: der Zug faehrt immer mit offenen Tueren
 - src: 2483020-fahrrad-viel-zu-klein-0.jpg
   title: Fahrrad viel zu klein
 - src: 2483021-ein-teil-der-wassergraeben-rund-um-die-altstadt-0.jpg
   title: Ein Teil der Wassergraeben rund um die Altstadt
-  params:
-    description: Ein Teil der Wassergraeben rund um die Altstadt
 - src: 2483023-elefanten-sind-hier-allgegenwaertig-0.jpg
   title: Elefanten sind hier allgegenwaertig
   params:
-    description: Elefanten sind hier allgegenwaertig auch in den Tempeln
+    description: auch in den Tempeln
 - src: 2483024-sonnenaufgang-ueber-chiang-mai-0.jpg
   title: Sonnenaufgang ueber Chiang Mai
-  params:
-    description: Sonnenaufgang ueber Chiang Mai
 - src: 2483025-blick-vom-doi-suthep-tempel-0.jpg
   title: Blick vom Doi Suthep Tempel
-  params:
-    description: Blick vom Doi Suthep Tempel
 - src: 2483026-danach-ab--into-the-wild-0.jpg
   title: danach ab "into the wild"
   params:
-    description: danach ab "into the wild" die Huegellandschaft um Chiang Mai ist schon beeindruckend
+    description: die Huegellandschaft um Chiang Mai ist schon beeindruckend
 - src: 2483030-betanken-meines-gefaehrts-0.jpg
   title: Betanken meines Gefaehrts
   params:
@@ -62,7 +52,7 @@ resources:
 - src: 2483034-der-hoechste-berg-thailands-doi-inthamon-0.jpg
   title: Der hoechste Berg Thailands, Doi Inthamon...
   params:
-    description: Der hoechste Berg Thailands, Doi Inthamon... ... huellt sich in Wolken
+    description: '... huellt sich in Wolken'
 type: post
 ---
 

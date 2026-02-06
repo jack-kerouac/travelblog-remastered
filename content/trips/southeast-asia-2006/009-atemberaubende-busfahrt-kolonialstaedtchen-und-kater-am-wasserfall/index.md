@@ -24,7 +24,7 @@ resources:
 - src: 502538-restaurant-an-der-mekong-uferpromenade-0.jpg
   title: Restaurant an der Mekong-Uferpromenade
   params:
-    description: Restaurant an der Mekong-Uferpromenade und wir warten aufs Essen und wissen noch nicht, was uns bevor steht.
+    description: und wir warten aufs Essen und wissen noch nicht, was uns bevor steht.
 - src: 502539-sonnenuntergang-am-mekong-0.jpg
   title: Sonnenuntergang am Mekong
 - src: 502541-christoph-ist-happy-0.jpg
@@ -34,31 +34,27 @@ resources:
 - src: 502543-seitengasse-in-luang-prabang-0.jpg
   title: Seitengasse in Luang Prabang
   params:
-    description: Seitengasse in Luang Prabang eine der vielen malerischen
+    description: eine der vielen malerischen
 - src: 502544-kids-am-anderen-mekongufer-0.jpg
   title: Kids am anderen Mekongufer...
   params:
-    description: Kids am anderen Mekongufer... ...wagen erste Gehversuche mit Fabians Digitalkamera
+    description: '...wagen erste Gehversuche mit Fabians Digitalkamera'
 - src: 502545-eine-landschaft-fuer-goetter-0.jpg
   title: Eine Landschaft fuer Goetter
   params:
-    description: Eine Landschaft fuer Goetter Luang Prabang, in einem Hochtal in Nordlaos, von oben.
+    description: Luang Prabang, in einem Hochtal in Nordlaos, von oben.
 - src: 502546-sonnenuntergang-auf-dem-phu-si-tempel-0.jpg
   title: Sonnenuntergang auf dem Phu Si Tempel
   params:
-    description: Sonnenuntergang auf dem Phu Si Tempel goldig
+    description: goldig
 - src: 502549-auf-dem-weg-in-die-irrenanstalt-0.jpg
   title: auf dem Weg in die Irrenanstalt
   params:
-    description: auf dem Weg in die Irrenanstalt alles wird wieder gut, Christoph
+    description: alles wird wieder gut, Christoph
 - src: 502550-und-jetzt-hats-mich-auch-noch-erwischt-0.jpg
   title: '...und jetzt hats mich auch noch erwischt.'
-  params:
-    description: '...und jetzt hats mich auch noch erwischt.'
 - src: 502552-katerstimmung-am-naechsten-tag-0.jpg
   title: Katerstimmung am naechsten Tag
-  params:
-    description: Katerstimmung am naechsten Tag
 - src: 502554-und-wieder-aufm-damm-0.jpg
   title: und wieder aufm Damm
   params:
@@ -66,7 +62,7 @@ resources:
 - src: 502555-die-wohl-verdienten-fruehlingsrollen-0.jpg
   title: die wohl verdienten Fruehlingsrollen
   params:
-    description: die wohl verdienten Fruehlingsrollen eines der besten Essen meines Lebens
+    description: eines der besten Essen meines Lebens
 type: post
 ---
 

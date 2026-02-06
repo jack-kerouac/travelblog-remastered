@@ -15,12 +15,8 @@ resources:
   title: Wat Si Saket in Vientiane
 - src: 496013-wer-sein-tuktuk-liebt-der-schiebt-0.jpg
   title: Wer sein Tuktuk liebt, der schiebt
-  params:
-    description: Wer sein Tuktuk liebt, der schiebt
 - src: 496014-messerschleifer-im-morning-market-0.jpg
   title: Messerschleifer im Morning Market
-  params:
-    description: Messerschleifer im Morning Market
 - src: 496016-pha-that-luang-0.jpg
   title: Pha That Luang
   params:
@@ -31,16 +27,12 @@ resources:
     description: Flo und Christoph vor dem vollvergoldeten Buddha-Denkmal
 - src: 496019-spielende-kinder-neben-den-tempeln-0.jpg
   title: spielende Kinder neben den Tempeln
-  params:
-    description: spielende Kinder neben den Tempeln
 - src: 496022-schlagloecher-in-der-strasse-von-vientiane-nach-vang-vieng-0.jpg
   title: Schlagloecher in der Strasse von Vientiane nach Vang Vieng
   params:
     description: '... die bestausgebauteste Strasse von Laos.'
 - src: 496023-limestone--im-hochland-von-laos-0.jpg
   title: '"Limestone" im Hochland von Laos'
-  params:
-    description: '"Limestone" im Hochland von Laos'
 - src: 496025-wir-vor-dem-nam-song-0.jpg
   title: wir vor dem Nam Song
   params:

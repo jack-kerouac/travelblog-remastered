@@ -11,38 +11,28 @@ original_url: https://www.travelblog.org/asia/cambodia/south/phnom-penh/blog-866
 resources:
 - src: 542308-von-der-roten-khmer-massakrierte-kambodschaner-0.jpg
   title: Von der Roten Khmer massakrierte Kambodschaner
-  params:
-    description: Von der Roten Khmer massakrierte Kambodschaner
 - src: 542312-einzelhaft-0.jpg
   title: Einzelhaft
 - src: 542315-typische-pagode-nach-khmer-scher-bauart-0.jpg
   title: typische Pagode, nach khmer'scher Bauart
-  params:
-    description: typische Pagode, nach khmer'scher Bauart
 - src: 542319-wir-chillen-0.jpg
   title: wir chillen...
   params:
     description: 'v.l.n.r.: Deutsche, deren Name mir schon wieder entfallen ist, Sam, Tony, Paul, meine Wenigkeit, Via und Nina (beide aus Muenchen)'
 - src: 542321-anschlagtafel-im-tuol-sleng-museum-0.jpg
   title: Anschlagtafel im Tuol Sleng Museum
-  params:
-    description: Anschlagtafel im Tuol Sleng Museum
 - src: 542324-portraits-der-inhaftierten-0.jpg
   title: Portraits der Inhaftierten
   params:
     description: Wie auch im dritten Reich wurde hier penibel ueber alle Inhaftierten Buch gefuehrt
 - src: 542328-eine-schule-wird-zum-foltergefaegnis-0.jpg
   title: eine Schule wird zum Foltergefaegnis
-  params:
-    description: eine Schule wird zum Foltergefaegnis
 - src: 542331-dabei-schaut-es-eigentlich-sehr-friedlich-aus-0.jpg
   title: dabei schaut es eigentlich sehr friedlich aus
-  params:
-    description: dabei schaut es eigentlich sehr friedlich aus
 - src: 542333-das-voelkermord-mahnmal-auf-den-killing-fields-2.jpg
   title: das Voelkermord-Mahnmal auf den Killing Fields
   params:
-    description: das Voelkermord-Mahnmal auf den Killing Fields man beachte die Abertausende aufgeschichtete Schaedel hinter dem Glas
+    description: man beachte die Abertausende aufgeschichtete Schaedel hinter dem Glas
 - src: 542336-mass-grave-of-450-victims-0.jpg
   title: mass grave of 450 victims
 - src: 542339-killing-tree-0.jpg
@@ -53,16 +43,12 @@ resources:
     description: vom Unabhaengigkeitsdenkmal himmelwaerts
 - src: 542351-eine-der-schoenen-seiten-phnom-penhs-0.jpg
   title: eine der schoenen Seiten Phnom Penhs
-  params:
-    description: eine der schoenen Seiten Phnom Penhs
 - src: 542354-die-riverside-0.jpg
   title: die Riverside
   params:
-    description: die Riverside Nachts voller Leben und Muell :)
+    description: Nachts voller Leben und Muell :)
 - src: 542355-lisa-in-billard-optimal-haltung-0.jpg
   title: Lisa in Billard-Optimal-Haltung
-  params:
-    description: Lisa in Billard-Optimal-Haltung
 - src: 542359-plattenbauten-0.jpg
   title: Plattenbauten
   params:

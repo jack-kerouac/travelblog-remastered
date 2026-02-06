@@ -17,7 +17,7 @@ resources:
 - src: 2677016-san-miguel-das-bier-der-wahl-hier-0.jpg
   title: San Miguel, das Bier der Wahl hier...
   params:
-    description: San Miguel, das Bier der Wahl hier... ...und auch meist das einzige
+    description: '...und auch meist das einzige'
 - src: 2677018-eman-1.jpg
   title: Eman
 - src: 2736209-pater-castro-und-ich-0.jpg

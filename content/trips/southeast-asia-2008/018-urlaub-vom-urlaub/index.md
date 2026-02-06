@@ -26,16 +26,10 @@ resources:
   title: Castagneto Carducci
 - src: 2815076-beachvolleyball-mit-meinem-bruder-0.jpg
   title: Beachvolleyball mit meinem Bruder
-  params:
-    description: Beachvolleyball mit meinem Bruder
 - src: 2815077-das-haus-unseres-vermieters-0.jpg
   title: Das Haus unseres Vermieters
-  params:
-    description: Das Haus unseres Vermieters
 - src: 2815078-vollkommen-zufriedener-flo-0.jpg
   title: Vollkommen zufriedener Flo :-)
-  params:
-    description: Vollkommen zufriedener Flo :-)
 type: post
 ---
 

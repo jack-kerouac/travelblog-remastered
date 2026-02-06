@@ -15,12 +15,8 @@ resources:
     description: '...die Massage-Abteilung des Akha-Dorfes'
 - src: 2527360-gemeinsams-fruehstuck-im-khmu-dorf-0.jpg
   title: Gemeinsams Fruehstuck im Khmu-Dorf
-  params:
-    description: Gemeinsams Fruehstuck im Khmu-Dorf
 - src: 2527385-zuerst-sah-der-pfad-noch-so-aus-0.jpg
   title: zuerst sah der Pfad noch so aus...
-  params:
-    description: zuerst sah der Pfad noch so aus...
 - src: 2527405-dann-eher-so-0.jpg
   title: '...dann eher so'
 - src: 2527406-der-jeep-der-gtz-0.jpg
@@ -29,38 +25,28 @@ resources:
   title: Blick von unserer Gastgeberhuette ueber das Khmu-Dorf
 - src: 2527409-kamuan-unser-sehr-cooler-uebersetzer-0.jpg
   title: Kamuan, unser sehr cooler Uebersetzer
-  params:
-    description: Kamuan, unser sehr cooler Uebersetzer
 - src: 2527410-auch-die-schweine-hier-sind-sehr-gechillt-0.jpg
   title: auch die Schweine hier sind sehr gechillt
-  params:
-    description: auch die Schweine hier sind sehr gechillt
 - src: 2527412-kinder-beim-rattanball-spielen-0.jpg
   title: Kinder beim Rattanball-Spielen
-  params:
-    description: Kinder beim Rattanball-Spielen
 - src: 2527414-unsere-ankunft-im-akha-dorf-0.jpg
   title: Unsere Ankunft im Akha-Dorf
   params:
-    description: Unsere Ankunft im Akha-Dorf vor uns waren da nur ca. 100 Touris
+    description: vor uns waren da nur ca. 100 Touris
 - src: 2527415-ein--little-house-0.jpg
   title: ein "Little House"
-  params:
-    description: ein "Little House"
 - src: 2527416-abendessen-im-haus-des-nai-ban-0.jpg
   title: Abendessen im Haus des Nai Ban
-  params:
-    description: Abendessen im Haus des Nai Ban
 - src: 2527417-blick-ueber-das-akha-dorf-0.jpg
   title: Blick ueber das Akha-Dorf
 - src: 2527419-etwas-verschuechtertes-maedchen-0.jpg
   title: etwas verschuechtertes Maedchen
   params:
-    description: etwas verschuechtertes Maedchen beim Holztragen
+    description: beim Holztragen
 - src: 2527423-unser-trupp-beim-verlassen-des-dorfs-0.jpg
   title: Unser Trupp beim Verlassen des Dorfs
   params:
-    description: Unser Trupp beim Verlassen des Dorfs Dani, Marianne, Dou und ich, einige Guides und zwei Maedels aus Kanada, die separat mit ihrem Guide ins Dorf kamen
+    description: Dani, Marianne, Dou und ich, einige Guides und zwei Maedels aus Kanada, die separat mit ihrem Guide ins Dorf kamen
 type: post
 ---
 

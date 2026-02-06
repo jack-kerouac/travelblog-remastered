@@ -11,16 +11,12 @@ original_url: https://www.travelblog.org/asia/laos/north/muang-sing/blog-295259
 resources:
 - src: 2527168-basi--um-die-hausgeister-gutmuetig-zu-stimmen-0.jpg
   title: Basi - um die Hausgeister gutmuetig zu stimmen
-  params:
-    description: Basi - um die Hausgeister gutmuetig zu stimmen
 - src: 2527170-laap-0.jpg
   title: Laap
   params:
     description: traditionelles Lao-Essen
 - src: 2527171-die-reisfelder-rund-um-muang-sing-0.jpg
   title: Die Reisfelder rund um Muang Sing
-  params:
-    description: Die Reisfelder rund um Muang Sing
 - src: 2527172-ziegen-auf-der-strasse-zwischen-luang-nam-tha-und-muang-sing-0.jpg
   title: Ziegen auf der Strasse zwischen Luang Nam Tha und Muang Sing
   params:
@@ -28,21 +24,15 @@ resources:
 - src: 2527174-der-blick-aus-meinem-fenster-0.jpg
   title: der Blick aus meinem Fenster...
   params:
-    description: der Blick aus meinem Fenster... ...im Adima Guesthouse
+    description: '...im Adima Guesthouse'
 - src: 2527175-und-hier-der-blick-nach-links-0.jpg
   title: und hier der Blick nach links :)
-  params:
-    description: und hier der Blick nach links :)
 - src: 2527179-so-sieht-ein-traditionelles-lao-haus-in-einem-dorf-aus-0.jpg
   title: so sieht ein traditionelles Lao-Haus in einem Dorf aus
 - src: 2527182-und-so-geht-man-hier-mit-dem-muellproblem-um-0.jpg
   title: und so geht man hier mit dem Muellproblem um
-  params:
-    description: und so geht man hier mit dem Muellproblem um
 - src: 2527185-spielende-kids-auf-dem-markt-0.jpg
   title: spielende Kids auf dem Markt
-  params:
-    description: spielende Kids auf dem Markt
 - src: 2527188-marianne-dani-und-dou-0.jpg
   title: Marianne, Dani und Dou
   params:

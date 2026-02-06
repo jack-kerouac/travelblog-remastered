@@ -32,13 +32,13 @@ resources:
 - src: 492713-fuenf-penner-im-buddha-park-0.jpg
   title: Fuenf Penner im Buddha-Park
   params:
-    description: Fuenf Penner im Buddha-Park - no comment -
+    description: '- no comment -'
 - src: 492716-i-love-the-deads-0.jpg
   title: I love the deads
 - src: 492718-ich-buddha-0.jpg
   title: Ich, Buddha
   params:
-    description: Ich, Buddha ...wieso muss der Buddha auch so fett sein.
+    description: '...wieso muss der Buddha auch so fett sein.'
 - src: 492720-wir-vor-laos-0.jpg
   title: Wir, vor Laos.
   params:

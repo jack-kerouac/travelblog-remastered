@@ -12,7 +12,7 @@ resources:
 - src: 2527033-mein-bus-von-chiang-rai-an-die-grenze-0.jpg
   title: mein Bus von Chiang Rai an die Grenze
   params:
-    description: mein Bus von Chiang Rai an die Grenze Ich lebe noch :)
+    description: Ich lebe noch :)
 - src: 2527034-ueber-den-mekong-nach-laos-0.jpg
   title: Ueber den Mekong nach Laos
   params:
@@ -26,7 +26,7 @@ resources:
 - src: 2527039-was-man-hier-ueberall-am-strassenrand-trifft-0.jpg
   title: was man hier ueberall am Strassenrand trifft
   params:
-    description: was man hier ueberall am Strassenrand trifft Hier ein Bueffel. Sie haben leider keine Hemmungen einem vor das Motorrad zu laufen. Ich glaube, sie wuerden gewinnen,
+    description: Hier ein Bueffel. Sie haben leider keine Hemmungen einem vor das Motorrad zu laufen. Ich glaube, sie wuerden gewinnen,
 - src: 2527043-ueberwaeltigender-blick-0.jpg
   title: ueberwaeltigender Blick
   params:

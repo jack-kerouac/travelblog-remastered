@@ -22,37 +22,27 @@ resources:
 - src: 2678032-diese-fische-wuerde-man-daheim-im-aquarium-finden-0.jpg
   title: diese Fische wuerde man daheim im Aquarium finden
   params:
-    description: diese Fische wuerde man daheim im Aquarium finden hier landen sie auf dem Teller
+    description: hier landen sie auf dem Teller
 - src: 2678033-unser-faehre-von-surigao-nach-siargao-island-0.jpg
   title: unser Faehre von Surigao nach Siargao Island
   params:
-    description: unser Faehre von Surigao nach Siargao Island eine halbe Stunde spaeter hoffnungslos Ueberladen
+    description: eine halbe Stunde spaeter hoffnungslos Ueberladen
 - src: 2678034-idyllische-fahrt-durch-eine-vielzahl-von-inseln-0.jpg
   title: idyllische Fahrt durch eine Vielzahl von Inseln
-  params:
-    description: idyllische Fahrt durch eine Vielzahl von Inseln
 - src: 2678035-jonathan-mein-begleiter-0.jpg
   title: Jonathan, mein Begleiter
   params:
     description: und Koch :)
 - src: 2678036-das-fischerboot-von-rodrego-0.jpg
   title: das Fischerboot von Rodrego
-  params:
-    description: das Fischerboot von Rodrego
 - src: 2678037-der-knatternde-zweitakter-uebertoent-alles-0.jpg
   title: der knatternde Zweitakter uebertoent alles
-  params:
-    description: der knatternde Zweitakter uebertoent alles
 - src: 2678038-welcome-to-daku-island-0.jpg
   title: Welcome to Daku Island
 - src: 2678039-mit-wunderbaren-huetten-am-weissen-strand-0.jpg
   title: mit wunderbaren Huetten am weissen Strand
-  params:
-    description: mit wunderbaren Huetten am weissen Strand
 - src: 2678041-geburtstagsanruf-von-zuhause-0.jpg
   title: Geburtstagsanruf von Zuhause
-  params:
-    description: Geburtstagsanruf von Zuhause
 - src: 2678042-und-das-geburtstagsessen-1.jpg
   title: und das Geburtstagsessen
   params:
@@ -66,55 +56,45 @@ resources:
 - src: 2678045-abends-einige-runden-billard-0.jpg
   title: Abends, einige Runden Billard
   params:
-    description: Abends, einige Runden Billard Jojo und Boy spielen eindeutig besser Billard...
+    description: Jojo und Boy spielen eindeutig besser Billard...
 - src: 2678046-zu-besuch-in-der-high-school-in-gl-0.jpg
   title: zu Besuch in der High School in GL
   params:
-    description: zu Besuch in der High School in GL am Abschlusstag des Nutrition Month. Die Kinder haben von daheim mitgebrachte Fruechte auf einem Stand aufgebaut und verkauft.
+    description: am Abschlusstag des Nutrition Month. Die Kinder haben von daheim mitgebrachte Fruechte auf einem Stand aufgebaut und verkauft.
 - src: 2678048-ein-mobile-classroom-fuer-den-pc-unterricht-0.jpg
   title: ein mobile classroom fuer den PC-Unterricht
   params:
-    description: ein mobile classroom fuer den PC-Unterricht ausgestattet mit Laptops auf der hoehe der Zeit und Beamer
+    description: ausgestattet mit Laptops auf der hoehe der Zeit und Beamer
 - src: 2678049-ein-weiteres-nahrungsmittel-hier-0.jpg
   title: ein weiteres Nahrungsmittel hier
   params:
-    description: 'ein weiteres Nahrungsmittel hier chicken, bzw. hier zu sehen: einer der vielen angebundenen Haehne. Sie sind sehr aggressiv und wuerden aufeinander losgehen'
+    description: 'chicken, bzw. hier zu sehen: einer der vielen angebundenen Haehne. Sie sind sehr aggressiv und wuerden aufeinander losgehen'
 - src: 2678050-und-allgegenwaertig-horden-von-kindern-0.jpg
   title: 'und allgegenwaertig: Horden von Kindern'
-  params:
-    description: 'und allgegenwaertig: Horden von Kindern'
 - src: 2678051--0.jpg
   title: :)
 - src: 2678071-ein-lebender-krake-0.jpg
   title: ein lebender Krake
 - src: 2678073-ein-typischer-fang-vom-outer-reef-0.jpg
   title: ein typischer Fang vom Outer Reef
-  params:
-    description: ein typischer Fang vom Outer Reef
 - src: 2678074-wird-hier-auf-dem-fischmarkt-in-gl-verkauft-0.jpg
   title: wird hier auf dem Fischmarkt in GL verkauft
-  params:
-    description: wird hier auf dem Fischmarkt in GL verkauft
 - src: 2678090-ein-ueberbleibsel-der-piraten-0.jpg
   title: ein Ueberbleibsel der Piraten
   params:
-    description: ein Ueberbleibsel der Piraten auf einer kleinen Insel bei Janosa Island
+    description: auf einer kleinen Insel bei Janosa Island
 - src: 2678091-jojo-und-ich-am-pebble-beach-0.jpg
   title: Jojo und ich am Pebble Beach
-  params:
-    description: Jojo und ich am Pebble Beach
 - src: 2678092-volksport-nummer-eins-basketball-0.jpg
   title: 'Volksport Nummer eins: Basketball'
   params:
-    description: 'Volksport Nummer eins: Basketball Ich war der erste Foreigner, der ein Spiel mit ihnen in Daku gespielt hat. Ich habe mich etwas blamiert. Mein letztes Basketballspiel ist 6 Jahre her.'
+    description: Ich war der erste Foreigner, der ein Spiel mit ihnen in Daku gespielt hat. Ich habe mich etwas blamiert. Mein letztes Basketballspiel ist 6 Jahre her.
 - src: 2678093-ich-vor-guyam-0.jpg
   title: Ich vor Guyam
-  params:
-    description: Ich vor Guyam
 - src: 2678094-und-nochmal-in-grossaufnahme-0.jpg
   title: und nochmal in Grossaufnahme
   params:
-    description: und nochmal in Grossaufnahme in vier Minuten laeuft man einmal aussenrum
+    description: in vier Minuten laeuft man einmal aussenrum
 - src: 2678095-ueber-nacht-auf-guyam-0.jpg
   title: ueber Nacht auf Guyam
   params:
@@ -122,59 +102,47 @@ resources:
 - src: 2678096-und-hier-ein-frischer-octopus-0.jpg
   title: und hier ein frischer Octopus
   params:
-    description: und hier ein frischer Octopus am Spiess auf dem Lagerfeuer.
+    description: am Spiess auf dem Lagerfeuer.
 - src: 2678097-die-straende-hier-werde-ich-nie-vergessen-0.jpg
   title: die Straende hier werde ich nie vergessen...
-  params:
-    description: die Straende hier werde ich nie vergessen...
 - src: 2678098-anker-ueber-bord-0.jpg
   title: Anker ueber Bord!
 - src: 2678099-die-kids-schwimmen-rund-um-unser-boot-0.jpg
   title: die Kids schwimmen rund um unser Boot
   params:
-    description: die Kids schwimmen rund um unser Boot und warten auf ein "Hello" von mir :)
+    description: und warten auf ein "Hello" von mir :)
 - src: 2678100-ein-fischer-mit-seinem-fang-auf-dem-kopf-0.jpg
   title: Ein Fischer mit seinem Fang auf dem Kopf
-  params:
-    description: Ein Fischer mit seinem Fang auf dem Kopf
 - src: 2678102-wir-am-strand-0.jpg
   title: wir am Strand
   params:
-    description: 'wir am Strand vrnl.: ich, Jojo, Jelia und Boy. Die anderen kannte ich nicht'
+    description: 'vrnl.: ich, Jojo, Jelia und Boy. Die anderen kannte ich nicht'
 - src: 2678103-der-strand-von-janosa-island-0.jpg
   title: der Strand von Janosa Island
-  params:
-    description: der Strand von Janosa Island
 - src: 2678104-das-wunderbare-blau-des-meeres-0.jpg
   title: das wunderbare Blau des Meeres
-  params:
-    description: das wunderbare Blau des Meeres
 - src: 2678105-auf-dem-weg-von-gl-zu-cloud-9-0.jpg
   title: auf dem Weg von GL zu Cloud 9,
-  params:
-    description: auf dem Weg von GL zu Cloud 9,
 - src: 2678106-einer-der-besten-orte-der-welt-zum-surfen-0.jpg
   title: einer der besten Orte der Welt zum Surfen
   params:
-    description: einer der besten Orte der Welt zum Surfen Saison ist im Oktober, November und Dezember
+    description: Saison ist im Oktober, November und Dezember
 - src: 2678108-boy-kann-surfen-0.jpg
   title: Boy kann surfen
 - src: 2678119-jojo-mit-einem-seestern-0.jpg
   title: Jojo mit einem Seestern
 - src: 2678147-mein-erster-selbstgefangener-fisch-0.jpg
   title: mein erster selbstgefangener Fisch
-  params:
-    description: mein erster selbstgefangener Fisch
 - src: 2678148-ein-fish-cage-auf-dem-boot-0.jpg
   title: ein fish cage auf dem Boot
 - src: 2678160-mango-nudeln-fisch-hummer-0.jpg
   title: Mango, Nudeln, Fisch, Hummer...
   params:
-    description: Mango, Nudeln, Fisch, Hummer... ...und der allgegenwaertige Reis
+    description: '...und der allgegenwaertige Reis'
 - src: 2678162-suesser-reis-fisch-eine-spezielle-krabbenart-0.jpg
   title: suesser Reis, Fisch, eine spezielle Krabbenart
   params:
-    description: suesser Reis, Fisch, eine spezielle Krabbenart Reis, und deutscher Leberkaes von Pater Castro :)
+    description: Reis, und deutscher Leberkaes von Pater Castro :)
 - src: 2678165-suessen-reis-0.jpg
   title: suessen Reis
   params:
@@ -183,12 +151,10 @@ resources:
   title: Hahnenkampf
 - src: 2678168-die-kids-hier-sind-ziemlich-fit-0.jpg
   title: die Kids hier sind ziemlich fit
-  params:
-    description: die Kids hier sind ziemlich fit
 - src: 2678169-doch-auch-die-muessen-arbeiten-0.jpg
   title: doch auch die muessen arbeiten
   params:
-    description: doch auch die muessen arbeiten hier zerschlaegt ein Junge Krabenhaeuser um das Fleisch als Koeder zu benutzen
+    description: hier zerschlaegt ein Junge Krabenhaeuser um das Fleisch als Koeder zu benutzen
 - src: 2678170-magpopongko-beach-0.jpg
   title: Magpopongko Beach
   params:
@@ -200,25 +166,23 @@ resources:
 - src: 2678172-die-frischen-kokosnuesse-0.jpg
   title: die frischen Kokosnuesse...
   params:
-    description: die frischen Kokosnuesse... ...werden dann mit einer Machete aufgehackt und das Fruchtwasser getrunken. Danach wird sie gespalten und das Fruchtfleisch kann mit einem Stueck zum Loeffel geformten Schalte herausgeschabt und gegessen werden.
+    description: '...werden dann mit einer Machete aufgehackt und das Fruchtwasser getrunken. Danach wird sie gespalten und das Fruchtfleisch kann mit einem Stueck zum Loeffel geformten Schalte herausgeschabt und gegessen werden.'
 - src: 2678173-jelia-und-ich-0.jpg
   title: Jelia und ich
-  params:
-    description: Jelia und ich
 - src: 2678174-jojo-ich-und-boy-0.jpg
   title: Jojo, ich und Boy
 - src: 2678175-unser-waschzimmer-badezimmer-und-teil-der-kueche-0.jpg
   title: unser Waschzimmer, Badezimmer und Teil der Kueche
   params:
-    description: unser Waschzimmer, Badezimmer und Teil der Kueche im Elternhaus von Tirso auf GL
+    description: im Elternhaus von Tirso auf GL
 - src: 2678177-pfannkuchenkochen-am-letzten-abend-0.jpg
   title: Pfannkuchenkochen am letzten Abend
   params:
-    description: Pfannkuchenkochen am letzten Abend es hat sich schnell herausgestellt, dass die Jungs das mit den hiessigen Kochinstrumenten besser koennen und sie haben mein Pfannkuchenkochen vor dem Scheitern bewahrt :)
+    description: es hat sich schnell herausgestellt, dass die Jungs das mit den hiessigen Kochinstrumenten besser koennen und sie haben mein Pfannkuchenkochen vor dem Scheitern bewahrt :)
 - src: 2678178-doch-alles-geht-einmal-zu-ende-0.jpg
   title: doch alles geht einmal zu Ende...
   params:
-    description: doch alles geht einmal zu Ende... ...und somit auch meine Zeit auf Daku.
+    description: '...und somit auch meine Zeit auf Daku.'
 type: post
 ---
 

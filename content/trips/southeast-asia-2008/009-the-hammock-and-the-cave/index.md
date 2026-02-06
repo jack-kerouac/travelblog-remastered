@@ -15,28 +15,20 @@ resources:
     description: ein Unterschlupf der "Pathet Lao"
 - src: 2557335-so-sieht-die-strasse-zwischen-luang-nam-tha-und-nong-khiaw-aus-0.jpg
   title: so sieht die Strasse zwischen Luang Nam Tha und Nong Khiaw aus
-  params:
-    description: so sieht die Strasse zwischen Luang Nam Tha und Nong Khiaw aus
 - src: 2557336-die-bruecke-ueber-den-nam-ou-0.jpg
   title: die Bruecke ueber den Nam Ou
   params:
-    description: die Bruecke ueber den Nam Ou auf der anderen Uferseite Nong Khiaw
+    description: auf der anderen Uferseite Nong Khiaw
 - src: 2557340-das-war-mein-blick-aus-der-haengematte-0.jpg
   title: das war mein Blick aus der Haengematte :)
-  params:
-    description: das war mein Blick aus der Haengematte :)
 - src: 2557341-und-das-sieht-man-von-der-bruecke-aus-0.jpg
   title: und das sieht man von der Bruecke aus
-  params:
-    description: und das sieht man von der Bruecke aus
 - src: 2557343-die-laos-und-das-englisch-0.jpg
   title: die Laos und das Englisch...
   params:
-    description: die Laos und das Englisch... Furchtbar. Es gibt kein Strassenschild und keine Speisekarte auf der kein Schreibfehler waere.
+    description: Furchtbar. Es gibt kein Strassenschild und keine Speisekarte auf der kein Schreibfehler waere.
 - src: 2557344-schreibtisch-des-lokalen-oberhaupts-0.jpg
   title: Schreibtisch des lokalen Oberhaupts
-  params:
-    description: Schreibtisch des lokalen Oberhaupts
 type: post
 ---
 

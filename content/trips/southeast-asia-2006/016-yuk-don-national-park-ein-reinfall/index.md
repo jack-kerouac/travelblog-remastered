@@ -13,11 +13,11 @@ resources:
 - src: 531354-elvis-lebt-0.jpg
   title: Elvis lebt!
   params:
-    description: Elvis lebt! hehe
+    description: hehe
 - src: 531341-wir-mit-phon-0.jpg
   title: wir, mit Phon
   params:
-    description: wir, mit Phon einer Englischstudentin aus Saigon
+    description: einer Englischstudentin aus Saigon
 - src: 531342-der-yuk-don-nationalpark-0.jpg
   title: Der Yuk Don Nationalpark
   params:
@@ -28,34 +28,26 @@ resources:
     description: Die spinnen, die Vietnamesen
 - src: 531344-und-nochmal-ziegen-diesmal-lebending-0.jpg
   title: und nochmal Ziegen, diesmal lebending
-  params:
-    description: und nochmal Ziegen, diesmal lebending
 - src: 531345-versammlungshalle-im-ort-buon-don-0.jpg
   title: Versammlungshalle im Ort Buon Don
-  params:
-    description: Versammlungshalle im Ort Buon Don
 - src: 531346-ueber-den-fluss-auf-die-picknickinsel-0.jpg
   title: ueber den Fluss auf die Picknickinsel
-  params:
-    description: ueber den Fluss auf die Picknickinsel
 - src: 531347-betrunkene-vietnamesen-beim-lunch-0.jpg
   title: betrunkene Vietnamesen beim Lunch
-  params:
-    description: betrunkene Vietnamesen beim Lunch
 - src: 531348-born-to-be-wild-2.jpg
   title: born to be wild
 - src: 531350-man-fuehlt-sich-ein-bisschen-wie-tarzan-0.jpg
   title: man fuehlt sich ein bisschen wie Tarzan
   params:
-    description: man fuehlt sich ein bisschen wie Tarzan nur, wo ist Jane?
+    description: nur, wo ist Jane?
 - src: 531351-2-cm-ameise-0.jpg
   title: 2 cm Ameise
   params:
-    description: 2 cm Ameise Die beissen sich in der Haut fest und es ist nicht einfach die wieder loszuwerden
+    description: Die beissen sich in der Haut fest und es ist nicht einfach die wieder loszuwerden
 - src: 531353-colonel-hathi-und-winnifred-0.jpg
   title: Colonel Hathi und Winnifred :)
   params:
-    description: Colonel Hathi und Winnifred :) Leider nix Elephantenreiten. Aber das ist doch eh langweilig. *Schoenred*. Hehe
+    description: Leider nix Elephantenreiten. Aber das ist doch eh langweilig. *Schoenred*. Hehe
 type: post
 ---
 
