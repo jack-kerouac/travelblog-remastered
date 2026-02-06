@@ -273,12 +273,14 @@ a:hover {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 2rem;
     margin-top: 2rem;
+    align-items: stretch;
 }
 
 figure {
     display: flex;
     flex-direction: column;
-    background-color: #fff;
+    height: 100%;
+    background-color: #fafafa;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
@@ -293,13 +295,14 @@ figure img {
     width: 100%;
     height: auto;
     display: block;
+    background-color: #fff;
 }
 
 figcaption {
+    margin-top: auto;
     padding: 1rem;
     font-size: 0.9rem;
     color: #666;
-    background-color: #fafafa;
 }
 
 figcaption strong {
