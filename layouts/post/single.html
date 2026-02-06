@@ -1,8 +1,6 @@
 {{ define "main" }}
 <div class="container">
-    {{ with .Parent }}
-    <p class="back-link"><a href="{{ .RelPermalink }}">← Back to {{ .Title }}</a></p>
-    {{ end }}
+    {{ partial "breadcrumbs.html" . }}
 
     <article class="post">
         <h1>{{ .Title }}</h1>

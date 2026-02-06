@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="container">
-    <p class="back-link"><a href="{{ (.Site.GetPage "/trips").RelPermalink }}">← Back to all trips</a></p>
+    {{ partial "breadcrumbs.html" . }}
 
     <h1>{{ .Title }}</h1>
     {{ with .Params.description }}
