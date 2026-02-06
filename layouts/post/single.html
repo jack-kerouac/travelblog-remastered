@@ -34,5 +34,20 @@
         </div>
         {{ end }}
     </article>
+
+    <nav class="post-navigation">
+        {{ with .PrevInSection }}
+        <a href="{{ .RelPermalink }}" class="prev-entry" rel="prev">
+            <span class="nav-label">← Previous</span>
+            <span class="nav-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+        {{ with .NextInSection }}
+        <a href="{{ .RelPermalink }}" class="next-entry" rel="next">
+            <span class="nav-label">Next →</span>
+            <span class="nav-title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+    </nav>
 </div>
 {{ end }}
