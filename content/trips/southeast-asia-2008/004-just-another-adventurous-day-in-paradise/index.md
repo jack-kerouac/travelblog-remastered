@@ -7,6 +7,8 @@ location:
 - Thailand
 - South-West Thailand
 - Railay
+lat: 8.0107
+lng: 98.8397
 original_url: https://www.travelblog.org/asia/thailand/south-west-thailand/railay/blog-289162
 resources:
 - src: 2460950-long-boats-am-strand-von-ton-sai-0.jpg

@@ -8,6 +8,8 @@ location:
 - California
 - Yosemite National Park
 - Yosemite Valley
+lat: 37.7433
+lng: -119.5984
 original_url: https://www.travelblog.org/north-america/united-states/california/yosemite-national-park/yosemite-valley/blog-787323
 resources:
 - src: 7555972-yosemite-valley-0.jpg

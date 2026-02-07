@@ -7,6 +7,8 @@ location:
 - Thailand
 - Central Thailand
 - Bangkok
+lat: 13.7525
+lng: 100.4935
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-411038
 resources:
 - src: 3956020-der-bus-von-hsipaw-nach-mandalay-0.jpg

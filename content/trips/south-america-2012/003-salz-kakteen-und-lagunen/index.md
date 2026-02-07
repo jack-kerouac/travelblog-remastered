@@ -7,6 +7,8 @@ location:
 - Bolivia
 - Potosí Department
 - Salar de Uyuni
+lat: -20.2043
+lng: -67.515
 original_url: https://www.travelblog.org/south-america/bolivia/potosi-department/salar-de-uyuni/blog-750037
 resources:
 - src: 7215223-allein-in-den-auslaeufern-der-atacama-wueste-0.jpg

@@ -7,6 +7,8 @@ location:
 - Thailand
 - Western Thailand
 - Sangkhlaburi
+lat: 14.0397
+lng: 99.5173
 original_url: https://www.travelblog.org/asia/thailand/western-thailand/sangkhlaburi/blog-303533
 resources:
 - src: 2615250-die-bruecke-am-kwai-0.jpg

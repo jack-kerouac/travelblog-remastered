@@ -5,6 +5,8 @@ draft: false
 location:
 - Asia
 - Thailand
+lat: 14.8972
+lng: 100.8327
 original_url: https://www.travelblog.org/asia/thailand/blog-79883
 type: post
 ---

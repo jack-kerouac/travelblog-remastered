@@ -6,6 +6,8 @@ location:
 - North America
 - United States
 - Utah
+lat: 39.4225
+lng: -111.7144
 original_url: https://www.travelblog.org/north-america/united-states/utah/blog-607109
 resources:
 - src: 6062296-fruehstueck_mit_ausblick-0.jpg

@@ -8,6 +8,8 @@ location:
 - Utah
 - Canyonlands National Park
 - Island in the Sky
+lat: 38.4598
+lng: -109.821
 original_url: https://www.travelblog.org/north-america/united-states/utah/canyonlands-national-park/island-in-the-sky/blog-778622
 resources:
 - src: 7452851-circus-tricks--big-bend-area-moab-0.jpg

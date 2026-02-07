@@ -7,6 +7,8 @@ location:
 - Germany
 - Bavaria
 - Günzburg
+lat: 48.4555
+lng: 10.2766
 original_url: https://www.travelblog.org/europe/germany/bavaria/g-nzburg/blog-277964
 resources:
 - src: 2335740-s-dostasien-2008-0.jpg

@@ -7,6 +7,8 @@ location:
 - Cambodia
 - North
 - Angkor
+lat: 13.4124
+lng: 103.8669
 original_url: https://www.travelblog.org/asia/cambodia/north/angkor/blog-87984
 resources:
 - src: 552713-bayon-0.jpg

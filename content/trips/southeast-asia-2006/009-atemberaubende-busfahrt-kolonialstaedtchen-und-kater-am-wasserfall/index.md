@@ -7,6 +7,8 @@ location:
 - Laos
 - West
 - Luang Prabang
+lat: 19.8887
+lng: 102.1359
 original_url: https://www.travelblog.org/asia/laos/west/luang-prabang/blog-81646
 resources:
 - src: 502534-atemberaubende-landschaft-0.jpg

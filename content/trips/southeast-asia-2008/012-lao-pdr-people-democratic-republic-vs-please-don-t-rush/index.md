@@ -7,6 +7,8 @@ location:
 - Laos
 - West
 - Vientiane
+lat: 17.9641
+lng: 102.6134
 original_url: https://www.travelblog.org/asia/laos/west/vientiane/blog-301328
 resources:
 - src: 2591315-vientiane--nichts-fuer-traeumer-1.jpg

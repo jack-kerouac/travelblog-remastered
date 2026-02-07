@@ -7,6 +7,8 @@ location:
 - United States
 - California
 - Bishop
+lat: 37.3637
+lng: -118.3952
 original_url: https://www.travelblog.org/north-america/united-states/california/bishop/blog-610074
 resources:
 - src: 6094572-unser_wunderbarer_campingplatz_-the_pit-0.jpg

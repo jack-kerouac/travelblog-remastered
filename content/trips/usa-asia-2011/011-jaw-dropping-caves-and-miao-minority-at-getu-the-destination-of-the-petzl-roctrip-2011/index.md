@@ -7,6 +7,8 @@ location:
 - China
 - Guizhou
 - Anshun
+lat: 26.2549
+lng: 105.9438
 original_url: https://www.travelblog.org/asia/china/guizhou/anshun/blog-620458
 resources:
 - src: 6218098-chuanshang_dong_-_-cave_over_the_bed-0.jpg

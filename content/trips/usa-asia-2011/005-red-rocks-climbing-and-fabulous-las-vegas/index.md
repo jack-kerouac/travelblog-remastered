@@ -7,6 +7,8 @@ location:
 - United States
 - Nevada
 - Las Vegas
+lat: 36.1674
+lng: -115.1484
 original_url: https://www.travelblog.org/north-america/united-states/nevada/las-vegas/blog-607142
 resources:
 - src: 6062913-die_red_rocks-_einige_meilen_vor_las_vegas-0.jpg

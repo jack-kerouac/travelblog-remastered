@@ -7,6 +7,8 @@ location:
 - United States
 - Utah
 - Price
+lat: 39.5994
+lng: -110.8107
 original_url: https://www.travelblog.org/north-america/united-states/utah/price/blog-780207
 resources:
 - src: 7477716-frieder-im-bereich--new-joes-0.jpg

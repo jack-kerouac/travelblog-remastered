@@ -7,6 +7,8 @@ location:
 - United States
 - Colorado
 - Aspen
+lat: 39.1911
+lng: -106.8236
 original_url: https://www.travelblog.org/north-america/united-states/colorado/aspen/blog-803235
 resources:
 - src: 7677714-oben-am-independence-pass-0.jpg

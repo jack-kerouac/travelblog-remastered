@@ -7,6 +7,8 @@ location:
 - United States
 - California
 - San Francisco
+lat: 37.7879
+lng: -122.4075
 original_url: https://www.travelblog.org/north-america/united-states/california/san-francisco/blog-610072
 resources:
 - src: 6097989-transamerica_pyramid-0.jpg

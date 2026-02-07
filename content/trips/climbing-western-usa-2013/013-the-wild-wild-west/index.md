@@ -7,6 +7,8 @@ location:
 - United States
 - Wyoming
 - Yellowstone National Park
+lat: 44.6201
+lng: -110.5607
 original_url: https://www.travelblog.org/north-america/united-states/wyoming/yellowstone-national-park/blog-809009
 resources:
 - src: 7728586-grand-prismatic-spring-0.jpg

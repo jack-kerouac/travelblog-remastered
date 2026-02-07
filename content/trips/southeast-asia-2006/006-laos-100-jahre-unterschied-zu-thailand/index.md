@@ -7,6 +7,8 @@ location:
 - Laos
 - West
 - Vientiane
+lat: 17.9641
+lng: 102.6134
 original_url: https://www.travelblog.org/asia/laos/west/vientiane/blog-80319
 resources:
 - src: 492703-fabian-im-nachtzug-0.jpg

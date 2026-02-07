@@ -7,6 +7,8 @@ location:
 - Philippines
 - Surigao
 - Siargao
+lat: 9.9038
+lng: 126.0507
 original_url: https://www.travelblog.org/asia/philippines/surigao/siargao/blog-309275
 resources:
 - src: 2678029-starfishes-on-naked-island-0.jpg

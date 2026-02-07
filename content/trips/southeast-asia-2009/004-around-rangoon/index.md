@@ -7,6 +7,8 @@ location:
 - Burma
 - Yangon Region
 - Yangon
+lat: 16.7967
+lng: 96.161
 original_url: https://www.travelblog.org/asia/burma/yangon-region/yangon/blog-405103
 resources:
 - src: 3889380-neugierige-kids-im-dorf-0.jpg

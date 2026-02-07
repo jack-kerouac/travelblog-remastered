@@ -7,6 +7,8 @@ location:
 - Peru
 - Arequipa
 - Arequipa
+lat: -16.3989
+lng: -71.537
 original_url: https://www.travelblog.org/south-america/peru/arequipa/arequipa/blog-747202
 resources:
 - src: 7191178-el-misti--the-old-man-0.jpg

@@ -7,6 +7,8 @@ location:
 - Laos
 - North
 - Muang Ngoi Neua
+lat: 20.7089
+lng: 102.6753
 original_url: https://www.travelblog.org/asia/laos/north/muang-ngoi-neua/blog-298255
 resources:
 - src: 2557381-die-landschaft-auf-dem-weg-zu-einer-hoehle-1.jpg

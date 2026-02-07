@@ -7,6 +7,8 @@ location:
 - Laos
 - West
 - Luang Prabang
+lat: 19.8887
+lng: 102.1359
 original_url: https://www.travelblog.org/asia/laos/west/luang-prabang/blog-299934
 resources:
 - src: 2575263-moenche-stehen-zum-almosensammeln-an-0.jpg

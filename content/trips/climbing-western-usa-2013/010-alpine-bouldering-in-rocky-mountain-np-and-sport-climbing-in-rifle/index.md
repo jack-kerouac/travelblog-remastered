@@ -7,6 +7,8 @@ location:
 - United States
 - Colorado
 - Rocky Mountains
+lat: 39.7418
+lng: -104.9732
 original_url: https://www.travelblog.org/north-america/united-states/colorado/rocky-mountains/blog-801070
 resources:
 - src: 7650734-moraine-park-rocky-mountain-national-park-0.jpg

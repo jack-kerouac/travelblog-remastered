@@ -7,6 +7,8 @@ location:
 - Burma
 - Mandalay Region
 - Bagan
+lat: 21.1317
+lng: 94.8624
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/bagan/blog-405131
 resources:
 - src: 3889604-pagodas-of-bagan-0.jpg

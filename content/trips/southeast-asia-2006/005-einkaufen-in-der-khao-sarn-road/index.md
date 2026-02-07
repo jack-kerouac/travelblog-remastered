@@ -7,6 +7,8 @@ location:
 - Thailand
 - Central Thailand
 - Bangkok
+lat: 13.7525
+lng: 100.4935
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-79884
 resources:
 - src: 489651-thai-boxen-im-lumphini-stadion-0.jpg

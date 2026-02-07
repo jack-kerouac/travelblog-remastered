@@ -7,6 +7,8 @@ location:
 - United States
 - Colorado
 - Rocky Mountains
+lat: 39.7418
+lng: -104.9732
 original_url: https://www.travelblog.org/north-america/united-states/colorado/rocky-mountains/blog-804993
 resources:
 - src: 7701197-upper-chaos-canyon-0.jpg

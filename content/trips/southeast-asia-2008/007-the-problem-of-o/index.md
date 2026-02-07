@@ -7,6 +7,8 @@ location:
 - Laos
 - North
 - Muang Sing
+lat: 21.2707
+lng: 101.0578
 original_url: https://www.travelblog.org/asia/laos/north/muang-sing/blog-295259
 resources:
 - src: 2527168-basi--um-die-hausgeister-gutmuetig-zu-stimmen-0.jpg

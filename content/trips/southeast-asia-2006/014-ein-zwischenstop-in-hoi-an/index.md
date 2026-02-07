@@ -8,6 +8,8 @@ location:
 - South Central Coast
 - Quảng Nam
 - Hoi An
+lat: 15.8796
+lng: 108.3319
 original_url: https://www.travelblog.org/asia/vietnam/south-central-coast/quang-nam/hoi-an/blog-84294
 resources:
 - src: 522807-mit-raedern-durch-die-altstadt-0.jpg

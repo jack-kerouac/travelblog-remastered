@@ -7,6 +7,8 @@ location:
 - Vietnam
 - South Central Coast
 - Da Nang
+lat: 16.068
+lng: 108.212
 original_url: https://www.travelblog.org/asia/vietnam/south-central-coast/da-nang/blog-84291
 resources:
 - src: 522717-chill-out-am-strand-0.jpg

@@ -7,6 +7,8 @@ location:
 - Burma
 - Mandalay Region
 - Hsipaw
+lat: 21.9767
+lng: 96.0825
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-410042
 resources:
 - src: 3948798-the-road-to-namhsan-0.jpg

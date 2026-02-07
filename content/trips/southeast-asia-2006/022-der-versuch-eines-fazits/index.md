@@ -7,6 +7,8 @@ location:
 - Thailand
 - Central Thailand
 - Bangkok
+lat: 13.7525
+lng: 100.4935
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-88102
 resources:
 - src: 556474-home-sweet-home-0.jpg

@@ -7,6 +7,8 @@ location:
 - Thailand
 - South-West Thailand
 - Railay
+lat: 8.0107
+lng: 98.8397
 original_url: https://www.travelblog.org/asia/thailand/south-west-thailand/railay/blog-395334
 resources:
 - src: 3766903-where-it-s-so-white-as-snow-0.jpg

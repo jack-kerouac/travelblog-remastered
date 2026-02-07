@@ -7,6 +7,8 @@ location:
 - Thailand
 - South-West Thailand
 - Krabi
+lat: 8.1112
+lng: 99.1097
 original_url: https://www.travelblog.org/asia/thailand/south-west-thailand/krabi/blog-280660
 resources:
 - src: 2367058-the-way-to-ton-sai-0.jpg

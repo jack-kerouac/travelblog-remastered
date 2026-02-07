@@ -7,6 +7,8 @@ location:
 - United States
 - California
 - Sequoia National Park
+lat: 36.4958
+lng: -118.5599
 original_url: https://www.travelblog.org/north-america/united-states/california/sequoia-national-park/blog-784240
 resources:
 - src: 7498077-die-murmeln-des-buttermilk-counties-0.jpg

@@ -7,6 +7,8 @@ location:
 - Laos
 - West
 - Vang Vieng
+lat: 18.9539
+lng: 102.4564
 original_url: https://www.travelblog.org/asia/laos/west/vang-vieng/blog-81007
 resources:
 - src: 498014-chillen-bei-friends-und-laobeer-0.jpg

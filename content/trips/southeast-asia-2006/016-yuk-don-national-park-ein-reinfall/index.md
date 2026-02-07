@@ -8,6 +8,8 @@ location:
 - Central Highlands
 - Dak Lak
 - Buon Ma Thuot
+lat: 12.6613
+lng: 108.031
 original_url: https://www.travelblog.org/asia/vietnam/central-highlands/dak-lak/buon-ma-thuot/blog-85288
 resources:
 - src: 531354-elvis-lebt-0.jpg

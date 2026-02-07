@@ -7,6 +7,8 @@ location:
 - Cambodia
 - South
 - Phnom Penh
+lat: 11.5725
+lng: 104.916
 original_url: https://www.travelblog.org/asia/cambodia/south/phnom-penh/blog-86661
 resources:
 - src: 542308-von-der-roten-khmer-massakrierte-kambodschaner-0.jpg

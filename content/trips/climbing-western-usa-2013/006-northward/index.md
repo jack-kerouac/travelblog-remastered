@@ -7,6 +7,8 @@ location:
 - Canada
 - British Columbia
 - Vancouver
+lat: 49.2609
+lng: -123.114
 original_url: https://www.travelblog.org/north-america/canada/british-columbia/vancouver/blog-790806
 resources:
 - src: 7561083-tuolomne-meadows-0.jpg

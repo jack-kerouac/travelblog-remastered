@@ -7,6 +7,8 @@ location:
 - Thailand
 - South-West Thailand
 - Krabi
+lat: 8.1112
+lng: 99.1097
 original_url: https://www.travelblog.org/asia/thailand/south-west-thailand/krabi/blog-281744
 resources:
 - src: 2379430-die-felskette-rund-um-railey-beach-und-ton-sai-0.jpg

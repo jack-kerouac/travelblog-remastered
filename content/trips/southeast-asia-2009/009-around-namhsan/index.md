@@ -7,6 +7,8 @@ location:
 - Burma
 - Mandalay Region
 - Hsipaw
+lat: 21.9767
+lng: 96.0825
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-411027
 resources:
 - src: 3955943-begeisterte-kids-in-namhsan-0.jpg

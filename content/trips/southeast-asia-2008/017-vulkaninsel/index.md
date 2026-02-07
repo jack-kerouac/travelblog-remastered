@@ -7,6 +7,8 @@ location:
 - Philippines
 - Mindanao
 - Camiguin
+lat: 9.1682
+lng: 124.7137
 original_url: https://www.travelblog.org/asia/philippines/mindanao/camiguin/blog-314163
 resources:
 - src: 2736118-ein-hoch-auf-camiguin-0.jpg

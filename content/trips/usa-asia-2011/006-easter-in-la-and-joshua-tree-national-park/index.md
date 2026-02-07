@@ -7,6 +7,8 @@ location:
 - United States
 - California
 - Joshua Tree National Park
+lat: 33.8971
+lng: -115.9511
 original_url: https://www.travelblog.org/north-america/united-states/california/joshua-tree-national-park/blog-610070
 resources:
 - src: 6094536-joshua_tree_national_park-0.jpg

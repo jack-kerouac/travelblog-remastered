@@ -7,6 +7,8 @@ location:
 - United States
 - Utah
 - Zion National Park
+lat: 37.3222
+lng: -113.0048
 original_url: https://www.travelblog.org/north-america/united-states/utah/zion-national-park/blog-783041
 resources:
 - src: 7486490-grand-staircase--escalante-national-monument-0.jpg

@@ -7,6 +7,8 @@ location:
 - Thailand
 - Central Thailand
 - Bangkok
+lat: 13.7525
+lng: 100.4935
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-393546
 resources:
 - src: 3739000-der-eingangsbereich-des-thonglor-dental-centers-0.jpg

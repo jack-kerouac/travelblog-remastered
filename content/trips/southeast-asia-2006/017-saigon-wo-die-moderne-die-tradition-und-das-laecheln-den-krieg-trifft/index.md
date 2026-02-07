@@ -7,6 +7,8 @@ location:
 - Vietnam
 - Southeast
 - Ho Chi Minh City
+lat: 10.7755
+lng: 106.7021
 original_url: https://www.travelblog.org/asia/vietnam/southeast/ho-chi-minh-city/blog-85588
 resources:
 - src: 533449-reunification-square-0.jpg

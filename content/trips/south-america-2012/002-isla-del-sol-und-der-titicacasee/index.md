@@ -7,6 +7,8 @@ location:
 - Bolivia
 - La Paz Department
 - Isla del Sol
+lat: -16.018
+lng: -69.177
 original_url: https://www.travelblog.org/south-america/bolivia/la-paz-department/isla-del-sol/blog-750031
 resources:
 - src: 7215190-titicacasee-0.jpg

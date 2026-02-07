@@ -6,6 +6,8 @@ location:
 - Asia
 - Vietnam
 - Mekong River Delta
+lat: 10.0549
+lng: 105.7964
 original_url: https://www.travelblog.org/asia/vietnam/mekong-river-delta/blog-86372
 resources:
 - src: 540288-eine-stadt-am-im-fluss-0.jpg

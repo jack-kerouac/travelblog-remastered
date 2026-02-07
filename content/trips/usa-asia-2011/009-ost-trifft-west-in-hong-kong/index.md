@@ -5,6 +5,8 @@ draft: false
 location:
 - Asia
 - Hong Kong
+lat: 22.2793
+lng: 114.1629
 original_url: https://www.travelblog.org/asia/hong-kong/blog-611917
 resources:
 - src: 6117750-mit_der_star_ferry_ueber_den_victoria_harbor_nach_hong_kong_island-0.jpg

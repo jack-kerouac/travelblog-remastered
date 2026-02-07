@@ -1,3 +1,8 @@
+{{ define "head" }}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+{{ end }}
+
 {{ define "main" }}
 <div class="container">
     {{ partial "breadcrumbs.html" . }}
@@ -10,6 +15,43 @@
         {{ (time .Params.start_date).Format "January 2006" }} - {{ (time .Params.end_date).Format "January 2006" }}
     </p>
     <p class="trip-countries">{{ delimit .Params.countries ", " }}</p>
+
+    <div id="trip-map" style="height: 400px; margin-bottom: 2rem;"></div>
+    <script>
+    (function() {
+        var entries = [
+            {{ range .Pages.Reverse }}
+            {{ if and .Params.lat .Params.lng }}
+            {
+                title: {{ .Title }},
+                date: {{ .Date.Format "January 2, 2006" }},
+                url: {{ .RelPermalink }},
+                lat: {{ .Params.lat }},
+                lng: {{ .Params.lng }},
+                location: {{ delimit .Params.location " > " }}
+            },
+            {{ end }}
+            {{ end }}
+        ];
+        if (entries.length === 0) return;
+
+        var map = L.map('trip-map');
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            maxZoom: 19
+        }).addTo(map);
+
+        var coords = [];
+        entries.forEach(function(e) {
+            var marker = L.marker([e.lat, e.lng]).addTo(map);
+            marker.bindPopup('<strong><a href="' + e.url + '">' + e.title + '</a></strong><br>' + e.date + '<br>' + e.location);
+            coords.push([e.lat, e.lng]);
+        });
+
+        L.polyline(coords, {color: '#3388ff', weight: 2, opacity: 0.6}).addTo(map);
+        map.fitBounds(coords, {padding: [30, 30]});
+    })();
+    </script>
 
     <div class="posts-list">
         {{ range .Pages.Reverse }}

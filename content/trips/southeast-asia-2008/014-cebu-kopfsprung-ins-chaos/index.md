@@ -7,6 +7,8 @@ location:
 - Philippines
 - Cebu
 - Cebu City
+lat: 10.3286
+lng: 123.9009
 original_url: https://www.travelblog.org/asia/philippines/cebu/cebu-city/blog-305351
 resources:
 - src: 2634820-der-jeepney--oeffentliches-verkehrsmittel-nummer-1-0.jpg

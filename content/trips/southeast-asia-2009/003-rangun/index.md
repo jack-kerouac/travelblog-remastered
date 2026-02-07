@@ -7,6 +7,8 @@ location:
 - Burma
 - Yangon Region
 - Yangon
+lat: 16.7967
+lng: 96.161
 original_url: https://www.travelblog.org/asia/burma/yangon-region/yangon/blog-402497
 resources:
 - src: 3857324-shwedagon-pagoda-0.jpg

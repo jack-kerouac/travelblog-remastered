@@ -7,6 +7,8 @@ location:
 - Thailand
 - Central Thailand
 - Bangkok
+lat: 13.7525
+lng: 100.4935
 original_url: https://www.travelblog.org/asia/thailand/central-thailand/bangkok/blog-279600
 resources:
 - src: 2354727-vekehr-in-bangkok-0.jpg

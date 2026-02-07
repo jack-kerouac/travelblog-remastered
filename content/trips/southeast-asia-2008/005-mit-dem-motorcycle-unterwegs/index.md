@@ -7,6 +7,8 @@ location:
 - Thailand
 - North-West Thailand
 - Chiang Mai
+lat: 18.7883
+lng: 98.9859
 original_url: https://www.travelblog.org/asia/thailand/north-west-thailand/chiang-mai/blog-291113
 resources:
 - src: 2482983-mae-ya-waterfall-0.jpg

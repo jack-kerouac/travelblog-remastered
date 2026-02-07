@@ -6,6 +6,8 @@ location:
 - Europe
 - Italy
 - Tuscany
+lat: 43.4587
+lng: 11.1389
 original_url: https://www.travelblog.org/europe/italy/tuscany/blog-321222
 resources:
 - src: 2815070-allee-nach-bolgheri-0.jpg

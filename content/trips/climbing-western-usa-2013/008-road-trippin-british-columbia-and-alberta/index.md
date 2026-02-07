@@ -7,6 +7,8 @@ location:
 - Canada
 - Alberta
 - Banff National Park
+lat: 51.4881
+lng: -115.938
 original_url: https://www.travelblog.org/north-america/canada/alberta/banff-national-park/blog-796366
 resources:
 - src: 7618184-morraine-lake-banff-national-park-0.jpg

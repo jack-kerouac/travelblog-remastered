@@ -7,6 +7,8 @@ location:
 - Burma
 - Mandalay Region
 - Mandalay
+lat: 21.9597
+lng: 96.0949
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/mandalay/blog-409381
 resources:
 - src: 3943686-fuenf-junge-novizen-0.jpg

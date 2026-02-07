@@ -8,6 +8,8 @@ location:
 - Northeast
 - Quang Ninh
 - Halong Bay
+lat: 20.9084
+lng: 107.0683
 original_url: https://www.travelblog.org/asia/vietnam/northeast/quang-ninh/halong-bay/blog-82980
 resources:
 - src: 512951-eines-der-vielen-verwinkelten-gaesschen-in-hanoi-0.jpg

@@ -7,6 +7,8 @@ location:
 - Laos
 - North
 - Luang Namtha
+lat: 20.933
+lng: 101.0587
 original_url: https://www.travelblog.org/asia/laos/north/luang-namtha/blog-295244
 resources:
 - src: 2527033-mein-bus-von-chiang-rai-an-die-grenze-0.jpg

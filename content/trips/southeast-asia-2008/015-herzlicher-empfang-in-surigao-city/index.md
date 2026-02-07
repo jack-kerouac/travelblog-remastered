@@ -6,6 +6,8 @@ location:
 - Asia
 - Philippines
 - Surigao City
+lat: 9.7905
+lng: 125.4936
 original_url: https://www.travelblog.org/asia/philippines/surigao-city/blog-309204
 resources:
 - src: 2677010-der-strand-von-ipil-0.jpg

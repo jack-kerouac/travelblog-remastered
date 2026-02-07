@@ -7,6 +7,8 @@ location:
 - Vietnam
 - Red River Delta
 - Hanoi
+lat: 21.0283
+lng: 105.854
 original_url: https://www.travelblog.org/asia/vietnam/red-river-delta/hanoi/blog-83168
 resources:
 - src: 514053-die-schlachtstrasse-0.jpg

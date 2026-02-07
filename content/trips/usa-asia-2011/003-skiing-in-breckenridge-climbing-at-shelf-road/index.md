@@ -7,6 +7,8 @@ location:
 - United States
 - Colorado
 - Boulder
+lat: 40.015
+lng: -105.2705
 original_url: https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-593961
 resources:
 - src: 6032533-skifahren_in_breckenridge-0.jpg

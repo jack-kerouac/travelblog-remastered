@@ -7,6 +7,8 @@ location:
 - Canada
 - British Columbia
 - Squamish
+lat: 49.7589
+lng: -123.1343
 original_url: https://www.travelblog.org/north-america/canada/british-columbia/squamish/blog-793834
 resources:
 - src: 7596978-minor-thread--v6-vor-dem-schl-sselzug-0.jpg

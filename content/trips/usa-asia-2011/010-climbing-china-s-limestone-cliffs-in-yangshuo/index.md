@@ -7,6 +7,8 @@ location:
 - China
 - Guangxi
 - Yangshuo
+lat: 24.7815
+lng: 110.492
 original_url: https://www.travelblog.org/asia/china/guangxi/yangshuo/blog-617259
 resources:
 - src: 6184074-50m_freihaengende_abseilerei-0.jpg

@@ -7,6 +7,8 @@ location:
 - Vietnam
 - Red River Delta
 - Hanoi
+lat: 21.0283
+lng: 105.854
 original_url: https://www.travelblog.org/asia/vietnam/red-river-delta/hanoi/blog-82492
 resources:
 - src: 509043-mister-liberty-0.jpg

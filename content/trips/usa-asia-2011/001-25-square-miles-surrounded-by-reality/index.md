@@ -7,6 +7,8 @@ location:
 - United States
 - Colorado
 - Boulder
+lat: 40.015
+lng: -105.2705
 original_url: https://www.travelblog.org/north-america/united-states/colorado/boulder/blog-591549
 resources:
 - src: 6011887-der_blick_vom_boulder_canyon_auf_boulder_in_die_great_plains_im_osten-0.jpg

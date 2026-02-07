@@ -7,6 +7,8 @@ location:
 - Peru
 - Cusco
 - Machu Picchu
+lat: -13.1643
+lng: -72.545
 original_url: https://www.travelblog.org/south-america/peru/cusco/machu-picchu/blog-747193
 resources:
 - src: 7191094-wenn-ich-hier-koenig-gewesen-waere-0.jpg

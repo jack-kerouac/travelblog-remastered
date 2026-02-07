@@ -7,6 +7,8 @@ location:
 - Laos
 - West
 - Nong Khiaw
+lat: 20.5698
+lng: 102.6097
 original_url: https://www.travelblog.org/asia/laos/west/nong-khiaw/blog-298248
 resources:
 - src: 2557321-the-war-cave-0.jpg
