@@ -14,9 +14,12 @@
             {{ .Content }}
         </div>
 
-        {{ with .Resources.ByType "image" }}
+        {{/* Iterate .Params.resources (raw frontmatter) to preserve the authored order.
+             .Resources.ByType "image" would sort alphabetically by filename. */}}
+        {{ with .Params.resources }}
         <div class="photo-grid">
             {{ range . }}
+            {{ with $.Resources.GetMatch .src }}
             {{ $longerEdge := .Width }}
             {{ if gt .Height .Width }}
                 {{ $longerEdge = .Height }}
@@ -30,6 +33,7 @@
                     {{ end }}
                 </figcaption>
             </figure>
+            {{ end }}
             {{ end }}
         </div>
         {{ end }}
