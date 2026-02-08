@@ -5,8 +5,10 @@ draft: false
 location:
 - Asia
 - Thailand
-lat: 14.8972
-lng: 100.8327
+- Central Thailand
+- Bangkok
+lat: 13.7525
+lng: 100.4935
 original_url: https://www.travelblog.org/asia/thailand/blog-79883
 type: post
 ---
