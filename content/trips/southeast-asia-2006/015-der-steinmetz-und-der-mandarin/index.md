@@ -7,8 +7,8 @@ location:
 - Vietnam
 - Central Highlands
 - Kon Tum
-lat: 14.6995
-lng: 107.9324
+lat: 14.344516
+lng: 108.003455
 original_url: https://www.travelblog.org/asia/vietnam/central-highlands/kontum/blog-84721
 resources:
 - src: 531293-on-the-road-to-the-south-0.jpg
