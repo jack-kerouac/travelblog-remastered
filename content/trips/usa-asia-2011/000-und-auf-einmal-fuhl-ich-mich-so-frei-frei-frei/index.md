@@ -7,8 +7,6 @@ location:
 - Germany
 - Bavaria
 - Munich
-lat: 48.1371
-lng: 11.5754
 original_url: https://www.travelblog.org/europe/germany/bavaria/munich/blog-585073
 type: post
 ---
