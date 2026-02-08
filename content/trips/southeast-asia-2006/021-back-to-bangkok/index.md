@@ -1,6 +1,6 @@
 ---
 title: Back to Bangkok
-date: '2006-09-11'
+date: '2006-09-10'
 draft: false
 location:
 - Asia
