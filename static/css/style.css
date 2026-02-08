@@ -242,6 +242,20 @@ a:hover {
     margin-bottom: 1rem;
 }
 
+.content blockquote {
+    margin: 1.5rem 0;
+    padding: 1rem 1.25rem;
+    border-left: 3px solid #0066cc;
+    background-color: #f5f7fa;
+    border-radius: 0 6px 6px 0;
+    color: #555;
+    font-style: italic;
+}
+
+.content blockquote p:last-child {
+    margin-bottom: 0;
+}
+
 /* Welcome section on homepage */
 .welcome {
     margin: 2rem 0;
