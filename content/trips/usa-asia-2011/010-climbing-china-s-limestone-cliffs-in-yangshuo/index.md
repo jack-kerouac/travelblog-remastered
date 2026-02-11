@@ -137,4 +137,4 @@ Hier sind noch einige Videos, die das Leben hier ganz gut veranschaulichen.
 [Yangshuo - Scenic](https://www.vimeo.com/22824354)   
 [Yangshuo - The Climbs](https://www.vimeo.com/23241220)   
   
-Ausserdem noch erwaehnenswert ist [dieses Video](https://www.vimeo.com/18004249), das der Grund fuer meinen Besuch hier ist:
+Ausserdem noch erwaehnenswert ist [dieses Video](https://www.youtube.com/watch?v=eeM9SKFlqXY), das der Grund fuer meinen Besuch hier ist:
