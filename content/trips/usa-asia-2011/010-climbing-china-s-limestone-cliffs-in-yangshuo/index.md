@@ -133,8 +133,8 @@ Klettertechnisch ging es weiter aufwaerts, ich kletterte "ingularity" (7a+, Klet
 In ein paar Stunden werde ich zusammen mit Coco den Nachtbus nach Guiyang, Guizhou Province nehmen und uns dort ins Getu Valley durchschlagen. Dort soll im Oktober der [Petzl Roc Trip](http://www.petzl.com/en/outdoor/news/events-0/2011/05/03/petzl-roc-trip-china-26-30-october-2011-getu-valley) stattfinden und wir wollen uns das mal anschauen.   
   
 Hier sind noch einige Videos, die das Leben hier ganz gut veranschaulichen.   
-[Yangshuo - Urban](https://www&/#46;vimeo&%!;\(MISSING\)com/22509621)   
-[Yangshuo - Scenic](https://www&/#46;vimeo&%!;\(MISSING\)com/22824354)   
-[Yangshuo - The Climbs](https://www&/#46;vimeo&%!;\(MISSING\)com/23241220)   
+[Yangshuo - Urban](https://www.vimeo.com/22509621)   
+[Yangshuo - Scenic](https://www.vimeo.com/22824354)   
+[Yangshuo - The Climbs](https://www.vimeo.com/23241220)   
   
-Ausserdem noch erwaehnenswert ist [dieses Video](https://www&/#46;vimeo&%!;\(MISSING\)com/18004249), das der Grund fuer meinen Besuch hier ist:
+Ausserdem noch erwaehnenswert ist [dieses Video](https://www.vimeo.com/18004249), das der Grund fuer meinen Besuch hier ist:
