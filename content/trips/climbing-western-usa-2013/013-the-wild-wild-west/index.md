@@ -110,7 +110,7 @@ type: post
   
 Willkommen im repulikanischen Wilden Westen! Doch uns interessieren weniger die Waffenlaeden, Buffalo-Bill-Museen, Rinderfarmen oder grossen Pick-Ups.   
   
-Erster Stopp war der Devils Tower, den wir wie [vor zwei Jahren](https://www.travelblog.org/North-America/United-States/blog-591562.html) ueber die Route "Durance" bestiegen. Sechs Seillaengen Trad- und Rissklettern. Aber uns fiel es deutlich leichter als vor zwei Jahren. Uebernachten konnten wir auf Frank Sanders idyllischer Devils Tower Lodge.   
+Erster Stopp war der Devils Tower, den wir wie [vor zwei Jahren](/trips/usa-asia-2011/002-road-and-climbing-trip-through-the-wild-west/) ueber die Route "Durance" bestiegen. Sechs Seillaengen Trad- und Rissklettern. Aber uns fiel es deutlich leichter als vor zwei Jahren. Uebernachten konnten wir auf Frank Sanders idyllischer Devils Tower Lodge.   
   
 Die naechste Woche war Sportklettern im Ten Sleep Canyon angesagt. Nach zwei Regentagen konnte es dann auch schon richtig los gehen. Entlang von fuenf Meilen Gebirgsstrasse tuermen sich links und rechts die Felswaende. Die Routen sind lang und meist senkrecht oder leicht ueberhaengend. Da wird jeden Tag an einem anderen Sektor waren um so viel wie moeglich zu sehen war keine Zeit fuer schwere Kletterprojekte. Trotzdem ging eine 5.12a onsight und eine 5.12b auf den zweiten Versuch. Dank Regentage, klettern zu dritt und allgemeinem Behindertsein meinerseits blieb ich etwas hinter meinen eigenen Erwartungen fuer diese Woche zurueck.   
   

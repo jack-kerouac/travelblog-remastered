@@ -6,3 +6,8 @@ disableKinds:
   - term
   - RSS
   - sitemap
+markup:
+  goldmark:
+    renderHooks:
+      link:
+        useEmbedded: always
