@@ -1,6 +1,6 @@
 ---
 title: The problem of O
-date: '2008-07-04'
+date: '2008-07-05'
 draft: false
 location:
 - Asia
