@@ -7,8 +7,8 @@ location:
 - Burma
 - Mandalay Region
 - Hsipaw
-lat: 21.9767
-lng: 96.0825
+lat: 22.621108
+lng: 97.300581
 original_url: https://www.travelblog.org/asia/burma/mandalay-region/hsipaw/blog-409758
 resources:
 - src: 3946226-free-falling-0.jpg
