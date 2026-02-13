@@ -57,17 +57,31 @@
     <div class="posts-list">
         {{ range .Pages.Reverse }}
             <article class="post-card">
-                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-                <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
-                {{ $locLen := len .Params.location }}
-                {{ if ge $locLen 2 }}
-                <p class="post-location">
-                    {{ index .Params.location (sub $locLen 1) }}, {{ index .Params.location (sub $locLen 2) }}
-                </p>
-                {{ end }}
-                {{ with .Resources.ByType "image" }}
-                <p class="post-photos">{{ len . }} photos</p>
-                {{ end }}
+                <div class="post-card-content">
+                    <div class="post-card-info">
+                        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                        <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
+                        {{ $locLen := len .Params.location }}
+                        {{ if ge $locLen 2 }}
+                        <p class="post-location">
+                            {{ index .Params.location (sub $locLen 1) }}, {{ index .Params.location (sub $locLen 2) }}
+                        </p>
+                        {{ end }}
+                        {{ with .Resources.ByType "image" }}
+                        <p class="post-photos">{{ len . }} photos</p>
+                        {{ end }}
+                    </div>
+                    {{ $images := .Resources.ByType "image" }}
+                    {{ if $images }}
+                    <div class="post-card-thumbs">
+                        {{ range first 3 $images }}
+                        <div class="post-card-thumb">
+                            <img src="{{ .RelPermalink }}" alt="">
+                        </div>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                </div>
             </article>
         {{ end }}
     </div>
