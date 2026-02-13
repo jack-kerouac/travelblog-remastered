@@ -1,6 +1,6 @@
 ---
 title: 25 square miles surrounded by reality
-date: '2011-04-03'
+date: '2011-03-20'
 draft: false
 location:
 - North America
