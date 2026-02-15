@@ -12,14 +12,13 @@ The scraping and photo-matching scripts are in a separate repository: `travelblo
 
 ### Directory Organization
 
-- `content/posts/` - Blog entries organized by trip slug (e.g., `south-america-2012/`, `southeast-asia-2006/`)
-  - Each trip directory contains numbered markdown files: `000-post-slug.md`, `001-another-post.md`, etc.
-  - Posts are numbered sequentially, starting from `000`
-- `content/trips/` - Trip overview pages
-  - `_index.md` - Master index listing all trips with stats
-  - Individual trip pages: `south-america-2012.md`, `southeast-asia-2006.md`, etc.
-- `static/images/` - Photos organized by trip slug (matches post directory names)
-  - Images are low-res from backup, replaceable with high-res originals
+Uses Hugo [page bundles](https://gohugo.io/content-management/page-bundles/) — images are co-located with their posts, not in `static/images/`.
+
+- `content/trips/` - All content lives here
+  - `{trip_slug}/_index.md` - Trip overview page (branch bundle)
+  - `{trip_slug}/{entry_slug}/index.md` - Blog entry (leaf bundle), with images alongside
+  - `{trip_slug}/{entry_slug}/*.jpg` - Photos for that entry (page bundle resources)
+- `content/_index.md` - Homepage content
 
 ### Post Front Matter Structure
 
@@ -28,7 +27,7 @@ Blog posts use YAML front matter with the following fields:
 ```yaml
 ---
 title: "Post Title"
-date: 2012-10-03T00:00:00
+date: '2012-10-03'
 draft: false
 location:
   - "Continent"
@@ -38,7 +37,7 @@ location:
 lat: 13.7525
 lng: 100.4935
 original_url: "https://www.travelblog.org/..."
-resources:
+resources:                              # Only present on posts with photos
   - src: "image-name.jpg"
     title: "Image Title"
     params:
@@ -49,27 +48,25 @@ type: post
 
 ### Trip Front Matter Structure
 
-Trip overview pages use:
+Trip overview pages (`_index.md`) use:
 
 ```yaml
 ---
 title: "Country1, Country2 YYYY"
-type: trips
-start_date: 2012-09-28T00:00:00
-end_date: 2012-10-07T00:00:00
+description: "Trip summary"             # Optional
+start_date: '2012-09-28'
+end_date: '2012-10-07'
 countries:
   - Country1
   - Country2
 continents:
   - Continent Name
-trip_slug: "slug-name"  # Must match directory name
 stats:
   entries: 4
   words: 1886
   photos: 89
-posts:
-  - /posts/trip-slug/000-post-slug
-  - /posts/trip-slug/001-another-post
+weight: 1                               # Controls display order on trips listing
+layout: single
 ---
 ```
 
@@ -82,21 +79,21 @@ This project uses Hugo to generate a static site deployed to GitHub Pages at:
 
 #### Hugo Configuration
 
-- **Config file**: `hugo.yaml` - minimal YAML configuration with baseURL and disabled features (taxonomy, RSS, sitemap)
+- **Config file**: `hugo.yaml` - minimal YAML configuration with baseURL and disabled features (taxonomy, RSS)
 - **Layouts**: `layouts/` directory contains:
   - `_default/baseof.html` - Base HTML template with `{{ block "head" }}` extension point for page-specific CSS/JS
   - `index.html` - Homepage showing all trips
-  - `trips/list.html` - Trips list page (same as homepage)
+  - `trips/list.html` - Trips listing page
   - `trips/single.html` - Individual trip detail page with interactive Leaflet map and blog entry listings
-  - `posts/single.html` - Blog entry page with content and photo grid
-  - `posts/list.html` - Posts list page
+  - `post/single.html` - Blog entry page with content and photo grid
+  - `partials/breadcrumbs.html` - Breadcrumb navigation partial
 - **CSS**: `static/css/style.css` - Minimal styling with responsive photo grid
 
 #### Site Structure
 
 - **Homepage (/)**: Lists all trips with title, date range, countries, and stats
 - **Trip pages (/trips/{trip_slug})**: Shows trip info, interactive Leaflet map with markers and route polyline, and lists blog entries
-- **Blog entries (/posts/{trip_slug}/{entry_slug})**: Displays post content, location, link to original entry, and photo grid
+- **Blog entries (/trips/{trip_slug}/{entry_slug})**: Displays post content, location, link to original entry, and photo grid
 
 #### Deployment
 
@@ -105,11 +102,12 @@ Automated via GitHub Actions (`.github/workflows/deploy.yml`):
 - Builds site with Hugo
 - Deploys to GitHub Pages
 
-#### Image Paths
+#### Image Handling
 
-Images are organized as: `static/images/{trip_slug}/{entry_slug}/{filename}`
-- The `entry_slug` parameter in post frontmatter is used to construct image paths
-- Hugo templates use `relURL` filter for proper baseURL handling
+Images are Hugo page bundle resources, co-located with each post's `index.md`:
+- Path: `content/trips/{trip_slug}/{entry_slug}/{filename}`
+- Referenced in frontmatter via `resources:` with `src`, `title`, and optional `params.description`
+- Templates access them via `.Resources.GetMatch` to preserve frontmatter ordering
 
 #### Trip Map
 
@@ -123,8 +121,7 @@ The map reads `lat` and `lng` from child page frontmatter. Coordinates are gener
 
 ### Content Consistency
 
-- **Trip slugs must be consistent**: The `trip_slug` field in front matter must exactly match the directory name in `content/posts/` and the parent directory in `static/images/`
-- **Entry slugs must match image directories**: The `entry_slug` field must match the subdirectory name in `static/images/{trip_slug}/{entry_slug}/`
-- **Post numbering**: Posts within each trip are numbered sequentially starting from `000`
-- **Image paths**: Images referenced in post front matter should exist in `static/images/{trip_slug}/{entry_slug}/`
+- **Trip slugs must be consistent**: The directory name under `content/trips/` is the trip slug
+- **Post numbering**: Posts within each trip are numbered sequentially starting from `000` (part of directory name)
+- **Page bundle images**: Images referenced in `resources:` frontmatter must exist alongside `index.md` in the post directory
 - **Languages**: Content is mixed German and English

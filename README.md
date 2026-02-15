@@ -15,9 +15,8 @@ The scraping and photo-matching scripts are in the repo: `travelblog-resampling`
 
 ## Structure
 
-- `content/posts/` - Blog entries organized by trip slug (e.g., `southeast-asia-2006/`)
-- `content/trips/` - Trip overview pages with stats and entry listings
-- `static/images/` - Photos organized by `{trip_slug}/{entry_slug}/` (low-res from backup, replaceable with high-res)
+- `content/trips/{trip_slug}/_index.md` - Trip overview pages with stats and entry listings
+- `content/trips/{trip_slug}/{entry_slug}/index.md` - Blog entries as Hugo page bundles (images alongside)
 - `layouts/` - Hugo templates for homepage, trip pages, and blog entries
 - `static/css/` - Minimal styling with responsive photo grid
 
