@@ -5,8 +5,8 @@ draft: false
 location:
 - North America
 - United States
-lat: 39.7837
-lng: -100.4459
+lat: 44.518964
+lng: -109.062664
 original_url: https://www.travelblog.org/north-america/united-states/blog-591562
 resources:
 - src: 6012638-castleton_tower-_utah-0.jpg
