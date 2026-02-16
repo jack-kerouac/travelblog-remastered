@@ -78,11 +78,7 @@ resources:
 type: post
 ---
 
-Der Südwesten Boliviens ist von einer riesigen Wüste auf 4000m Höhe bedeckt, Ausläufer der Atacama-Wüste. Vom Ort Uyuni aus buchten wir einen Drei-Tages-Trip mit einem Jeep durch diese Wüste. Was wir alles gesehen haben erzählen die Bilder. Die Gruppe war eigentlich perfekt. Holger, ein deutscher Expat in Paraguay, Blancha, eine 71-jährige Musikprofessorien aus Argentinien, Sio, eine Werbefilmerin aus Macao (Referenz: 
-
-  
-
-  
+Der Südwesten Boliviens ist von einer riesigen Wüste auf 4000m Höhe bedeckt, Ausläufer der Atacama-Wüste. Vom Ort Uyuni aus buchten wir einen Drei-Tages-Trip mit einem Jeep durch diese Wüste. Was wir alles gesehen haben erzählen die Bilder. Die Gruppe war eigentlich perfekt. Holger, ein deutscher Expat in Paraguay, Blancha, eine 71-jährige Musikprofessorien aus Argentinien, Sio, eine Werbefilmerin aus Macao (Referenz:   
 davor und danach noch ein paar Videos von uns), Mario, unser Fahrer und Oscar, ein Stimmungsmacher aus Amsterdam. Schnell wurde Blancha zur "Mamma", Sio zur "Little Sister" und wir alle zur "Familia". Drei Tage Spaß und beeindruckende Landschaften. Und bei jeder Bewegung außer Atem 😊.   
   
 Mehr Fotos von unserem lustigen Trip gibts auch noch hier: http://www.flickr.com/photos/iamsio/8071683559/in/set-72157631679828107 (Flickr-Account von Sio, von diesem Bild an durch den Photostream klicken).

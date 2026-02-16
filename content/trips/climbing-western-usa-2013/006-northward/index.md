@@ -96,12 +96,10 @@ resources:
 type: post
 ---
 
-Nach vier erfüllenden Wochen im Yosemite Valley packten wir unsere sieben Sachen vom Camp 4, machten das Mutterschiff startklar und mit Quentin und Dave unterm Arm ging es nach Tuolomne Meadows, dem nördlichen Teil des Yosemite National Parks. Nachmittags war Bouldern angesagt und Quentin, Piet und ich erfanden eine neue Sportart: Caving. Das ganze endete beinahe katastrophal, denn Quentin musste sich unbedingt eine C4 Cave suchen, in der er fast stecken geblieben ist :-). Am Tag darauf legten wir einen mittelmäßig frühen Start hin und erklommen nach zwei Stunden Zustieg den Cathedral Peak. Das ist eine wirklich prominente Bergspitze. Oben drauf hat man so ca. drei Quadratmeter Platz für Heldenbilder. Die Kletterei war meist einfach (5.7) aber die ganze Unternehmung war dann doch recht tagesfüllend und cool. 
+Nach vier erfüllenden Wochen im Yosemite Valley packten wir unsere sieben Sachen vom Camp 4, machten das Mutterschiff startklar und mit Quentin und Dave unterm Arm ging es nach Tuolomne Meadows, dem nördlichen Teil des Yosemite National Parks. Nachmittags war Bouldern angesagt und Quentin, Piet und ich erfanden eine neue Sportart: Caving. Das ganze endete beinahe katastrophal, denn Quentin musste sich unbedingt eine C4 Cave suchen, in der er fast stecken geblieben ist :-). Am Tag darauf legten wir einen mittelmäßig frühen Start hin und erklommen nach zwei Stunden Zustieg den Cathedral Peak. Das ist eine wirklich prominente Bergspitze. Oben drauf hat man so ca. drei Quadratmeter Platz für Heldenbilder. Die Kletterei war meist einfach (5.7) aber die ganze Unternehmung war dann doch recht tagesfüllend und cool.
 
-  
+{{< video src="DSC_0345.mp4" >}}
 
-  
-  
 Wir verabschiedeten uns von Quentin. Wir hätten ihn gerne behalten, denn wir kamen alle drei super mit ihm aus und er wäre für unsere weitere Reise eine echte Bereicherung. Die von ihm vorgeschlagene Route über den Highway 101 nach Norden, vorbei den Redwood Forests nahmen wir nicht, da Piet und Frieder recht schnell nach Squamish wollten.   
   
 Unendlich viele Stunden und Kilometer (und einige leere Eiscreme-Regale in Tankstellen unterwegs) später kamen wir spät nachts im Smith Rock State Park in Oregon an, wo wir zwei Tage Sportklettern einlegten. Der Campingplatz dort ist nett organisiert, mit Schlafplätzen die nur zu Fuß erreichbar sind und dem Kochbereich für alle Camper gemeinsam inmitten des Parkplatzes.   
