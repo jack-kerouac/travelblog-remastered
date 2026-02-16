@@ -348,15 +348,21 @@ figure:hover {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
 
+figure a {
+    display: block;
+    aspect-ratio: 1;
+    overflow: hidden;
+}
+
 figure img {
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
     display: block;
     background-color: #fff;
 }
 
 figcaption {
-    margin-top: auto;
     padding: 1rem;
     font-size: 0.9rem;
     color: #666;
