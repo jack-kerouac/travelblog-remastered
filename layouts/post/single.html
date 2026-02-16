@@ -1,3 +1,8 @@
+{{ define "head" }}
+<link rel="stylesheet" href="https://unpkg.com/glightbox@3.3.0/dist/css/glightbox.min.css">
+<script src="https://unpkg.com/glightbox@3.3.0/dist/js/glightbox.min.js"></script>
+{{ end }}
+
 {{ define "main" }}
 <div class="container">
     {{ partial "breadcrumbs.html" . }}
@@ -25,7 +30,9 @@
                 {{ $longerEdge = .Height }}
             {{ end }}
             <figure{{ if le $longerEdge 800 }} data-low-res="true"{{ end }}>
-                <img src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+                <a href="{{ .RelPermalink }}" class="glightbox" data-gallery="entry-photos" data-title="{{ .Title }}"{{ with .Params.description }} data-description="{{ . }}"{{ end }}>
+                    <img src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+                </a>
                 <figcaption>
                     <strong>{{ .Title }}</strong>
                     {{ with .Params.description }}
@@ -54,4 +61,10 @@
         {{ end }}
     </nav>
 </div>
+<script>
+var lightbox = GLightbox({
+    selector: '.glightbox',
+    loop: false
+});
+</script>
 {{ end }}
