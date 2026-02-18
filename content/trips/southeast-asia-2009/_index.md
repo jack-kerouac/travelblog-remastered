@@ -16,9 +16,3 @@ weight: 3
 layout: single
 ---
 
-## About This Trip
-
-This trip covered Burma, Thailand.
-
-I documented this journey in 11 blog entries with 214 photos.
-

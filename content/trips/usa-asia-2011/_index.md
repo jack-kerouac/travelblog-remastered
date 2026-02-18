@@ -20,9 +20,3 @@ weight: 4
 layout: single
 ---
 
-## About This Trip
-
-This trip covered China, Germany, Hong Kong, United States.
-
-I documented this journey in 12 blog entries with 410 photos.
-

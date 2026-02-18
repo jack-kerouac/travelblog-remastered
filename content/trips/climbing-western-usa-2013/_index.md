@@ -16,9 +16,3 @@ weight: 6
 layout: single
 ---
 
-## About This Trip
-
-This trip covered Canada, United States.
-
-I documented this journey in 15 blog entries with 399 photos.
-

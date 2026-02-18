@@ -20,9 +20,3 @@ weight: 2
 layout: single
 ---
 
-## About This Trip
-
-This trip covered Germany, Italy, Laos, Philippines, Thailand.
-
-I documented this journey in 19 blog entries with 316 photos.
-

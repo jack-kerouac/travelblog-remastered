@@ -16,9 +16,3 @@ weight: 5
 layout: single
 ---
 
-## About This Trip
-
-This trip covered Bolivia, Peru.
-
-I documented this journey in 4 blog entries with 89 photos.
-
