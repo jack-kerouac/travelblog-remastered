@@ -1,5 +1,5 @@
 ---
-title: "Travelblog"
+title: "Start"
 ---
 
 > Wo warst du heut' Nacht Jack Kerouac, ich habe dich gesucht.
