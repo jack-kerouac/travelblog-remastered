@@ -30,7 +30,7 @@
                 {{ $longerEdge = .Height }}
             {{ end }}
             <figure{{ if le $longerEdge 800 }} data-low-res="true"{{ end }}>
-                <a href="{{ .RelPermalink }}" class="glightbox" data-gallery="entry-photos" data-title="{{ .Title }}"{{ with .Params.description }} data-description="{{ . }}"{{ end }}>
+                <a href="{{ .RelPermalink }}" class="glightbox" data-gallery="entry-photos" data-title="{{ .Title }}" data-hash="{{ strings.TrimSuffix (path.Ext .Name) .Name }}"{{ with .Params.description }} data-description="{{ . }}"{{ end }}>
                     <img src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
                 </a>
                 <figcaption>
@@ -62,9 +62,38 @@
     </nav>
 </div>
 <script>
+var lightboxLinks = Array.from(document.querySelectorAll('a.glightbox'));
+
 var lightbox = GLightbox({
     selector: '.glightbox',
     loop: false
 });
+
+function setHash(hash) {
+    history.replaceState(null, '', '#' + hash);
+}
+
+function removeHash() {
+    history.replaceState(null, '', window.location.pathname + window.location.search);
+}
+
+lightbox.on('slide_changed', function(data) {
+    setHash(lightboxLinks[data.current.slideIndex].dataset.hash);
+});
+
+lightbox.on('close', function() {
+    removeHash();
+});
+
+// On page load: open lightbox at the photo matching the URL hash
+var initialHash = window.location.hash.slice(1);
+if (initialHash) {
+    var matchIndex = lightboxLinks.findIndex(function(el) {
+        return el.dataset.hash === initialHash;
+    });
+    if (matchIndex !== -1) {
+        lightbox.openAt(matchIndex);
+    }
+}
 </script>
 {{ end }}
