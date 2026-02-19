@@ -70,11 +70,11 @@ var lightbox = GLightbox({
 });
 
 function setHash(hash) {
-    if (hash) {
-        history.replaceState(null, '', '#' + hash);
-    } else {
-        history.replaceState(null, '', window.location.pathname + window.location.search);
-    }
+    history.replaceState(null, '', '#' + hash);
+}
+
+function removeHash() {
+    history.replaceState(null, '', window.location.pathname + window.location.search);
 }
 
 lightbox.on('slide_changed', function(data) {
@@ -82,7 +82,7 @@ lightbox.on('slide_changed', function(data) {
 });
 
 lightbox.on('close', function() {
-    setHash(null);
+    removeHash();
 });
 
 // On page load: open lightbox at the photo matching the URL hash
