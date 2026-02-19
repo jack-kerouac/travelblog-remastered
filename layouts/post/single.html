@@ -30,7 +30,7 @@
                 {{ $longerEdge = .Height }}
             {{ end }}
             <figure{{ if le $longerEdge 800 }} data-low-res="true"{{ end }}>
-                <a href="{{ .RelPermalink }}" class="glightbox" data-gallery="entry-photos" data-title="{{ .Title }}"{{ with .Params.description }} data-description="{{ . }}"{{ end }}>
+                <a href="{{ .RelPermalink }}" class="glightbox" data-gallery="entry-photos" data-title="{{ .Title }}" data-hash="{{ strings.TrimSuffix (path.Ext .Name) .Name }}"{{ with .Params.description }} data-description="{{ . }}"{{ end }}>
                     <img src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
                 </a>
                 <figcaption>
@@ -62,9 +62,48 @@
     </nav>
 </div>
 <script>
+var lightboxLinks = Array.from(document.querySelectorAll('a.glightbox'));
+
 var lightbox = GLightbox({
     selector: '.glightbox',
     loop: false
 });
+
+function setHash(hash) {
+    if (hash) {
+        history.replaceState(null, '', '#' + hash);
+    } else {
+        history.replaceState(null, '', window.location.pathname + window.location.search);
+    }
+}
+
+// Update hash when navigating between slides
+lightbox.on('slide_changed', function(data) {
+    var el = lightboxLinks[data.current.slideIndex];
+    if (el) setHash(el.dataset.hash);
+});
+
+// Clear hash when lightbox closes
+lightbox.on('close', function() {
+    setHash(null);
+});
+
+// Set hash immediately on click (covers the initial open before slide_changed fires)
+lightboxLinks.forEach(function(el) {
+    el.addEventListener('click', function() {
+        setHash(el.dataset.hash);
+    });
+});
+
+// On page load: open lightbox at the photo matching the URL hash
+var initialHash = window.location.hash.slice(1);
+if (initialHash) {
+    var matchIndex = lightboxLinks.findIndex(function(el) {
+        return el.dataset.hash === initialHash;
+    });
+    if (matchIndex !== -1) {
+        lightbox.openAt(matchIndex);
+    }
+}
 </script>
 {{ end }}
