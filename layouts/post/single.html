@@ -77,22 +77,12 @@ function setHash(hash) {
     }
 }
 
-// Update hash when navigating between slides
 lightbox.on('slide_changed', function(data) {
-    var el = lightboxLinks[data.current.slideIndex];
-    if (el) setHash(el.dataset.hash);
+    setHash(lightboxLinks[data.current.slideIndex].dataset.hash);
 });
 
-// Clear hash when lightbox closes
 lightbox.on('close', function() {
     setHash(null);
-});
-
-// Set hash immediately on click (covers the initial open before slide_changed fires)
-lightboxLinks.forEach(function(el) {
-    el.addEventListener('click', function() {
-        setHash(el.dataset.hash);
-    });
 });
 
 // On page load: open lightbox at the photo matching the URL hash
