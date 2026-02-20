@@ -37,4 +37,4 @@ type: post
 
 Von so einem Urlaub brauchte ich erst mal Urlaub. Deswegen ging es nach einer Woche Akklimatisierungszeit in der Heimat nochmal eine Woche in die Toskana mit meiner Family. Gutes Essen, Strand, Sonne, Vino Bianco, relaxing.   
   
-Außerdem habe ich es endlich geschafft, ein Bild von Charlee (von The Artists Place) und mir hochzuladen. Zu finden hier: <http://www.travelblog.org/Photos/2815053.html>
+Außerdem habe ich es endlich geschafft, ein Bild von Charlee (von The Artists Place) und mir hochzuladen. Zu finden hier: [http://www.travelblog.org/Photos/2815053.html](/trips/southeast-asia-2008/001-bangkok-auf-die-andere-art/#2815053-charlee-and-me-0)
